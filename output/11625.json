@@ -1,0 +1,270 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["vik\u0101la"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>11625</number> <b>vik\u0101la</b> m. \u02bb twilight, evening \u02bc \u0100p\u015ar., <i>\u02daaka</i> -- m. lex. [\u2192 Par. <i>wiy\u0101r</i> \u02bb night \u02bc with <i>r</i> &lt; <i>\u1e37</i> IIFL i 298, Yghn. <i>wiora</i> \u02bb night \u02bc, Yazgh. <i>biy\u0113r</i> \u02bb yesterday \u02bc, Shgh. <i>biy\u00e2r</i> (NTS i 49 &lt; *<i>upa -- aya\u0304\u0306ra</i> -- ). -- <smallcaps>k\u0101l\u00e1</smallcaps> -- <superscript>2</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "vik\u0101la",
+      "\u02dal\u0113"
+    ],
+    "ref": "Pa. <i>vik\u0101la</i> -- m. \u02bb evening \u02bc, <i>\u02dal\u0113</i> \u02bb very late \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "vi\u0101la"
+    ],
+    "ref": "Pk. <i>vi\u0101la</i> -- m. \u02bb evening \u02bc; "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "vy\u0101l"
+    ],
+    "ref": "lau\u1e5b. <i>vy\u0101l</i> f. \u02bb night \u02bc, "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "vy\u0101l"
+    ],
+    "ref": "lau\u1e5b. <i>vy\u0101l</i> f. \u02bb night \u02bc, "
+  },
+  {
+    "lang": "Areti dialect of Pashai",
+    "words": [
+      "viy\u014dl"
+    ],
+    "ref": "ar. <i>viy\u014dl</i>, "
+  },
+  {
+    "lang": "Ku\u1e5ba\u1e45gali dialect of Pashai",
+    "words": [
+      "vel"
+    ],
+    "ref": "ku\u1e5b. <i>vel</i> (\u2192 "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "wyel"
+    ],
+    "ref": "Shum. <i>wyel</i> m. NTS xiii 243), "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "yel",
+      "hel"
+    ],
+    "ref": "Gaw. <i>yel</i>, <i>hel</i>; "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "\u017e\u0101l"
+    ],
+    "ref": "Bshk. <i>\u017e\u0101l</i> \u02bb yesterday \u02bc, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "by\u00e4l di"
+    ],
+    "ref": "Tor. <i>by\u00e4l di</i>, "
+  },
+  {
+    "lang": "Chil\u012bs (Dard.)",
+    "words": [
+      "biy\u0101li"
+    ],
+    "ref": "Chil. <i>biy\u0101li</i>, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "b\u0103l\u0101"
+    ],
+    "ref": "gil. <i>b\u0103l\u0101</i>, "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "b\u0103l\u0101"
+    ],
+    "ref": "gil. <i>b\u0103l\u0101</i>, "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "by\u0101le\u0306"
+    ],
+    "ref": "gur. <i>by\u0101le\u0306</i> (\u2192 "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "by\u0101le\u0306"
+    ],
+    "ref": "gur. <i>by\u0101le\u0306</i> (\u2192 "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "bi\u0101\u0301li"
+    ],
+    "ref": "\u1e0c. <i>bi\u0101\u0301li</i>), "
+  },
+  {
+    "lang": "Pales\u012b dialect of Shina",
+    "words": [
+      "by\u0113l\u00e4"
+    ],
+    "ref": "pales. <i>by\u0113l\u00e4</i>; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bi\u0101l"
+    ],
+    "ref": "kha\u015b. <i>bi\u0101l</i> \u02bb early night \u02bc; "
+  },
+  {
+    "lang": "Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bi\u0101l"
+    ],
+    "ref": "kha\u015b. <i>bi\u0101l</i> \u02bb early night \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "by\u0101l",
+      "by\u0101le",
+      "beliy\u0101"
+    ],
+    "ref": "Ku. <i>by\u0101l</i> \u02bb evening \u02bc, <i>by\u0101le</i>, <i>beliy\u0101</i> \u02bb yesterday \u02bc, "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "beii"
+    ],
+    "ref": "gng. <i>bei<superscript>i</superscript></i>; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "by\u0101lo"
+    ],
+    "ref": "N. <i>by\u0101lo</i> \u02bb delay \u02bc, adj. \u02bb slow \u02bc; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "biyali"
+    ],
+    "ref": "A. <i>biyali</i> \u02bb afternoon \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "be\u0101l\u016b"
+    ],
+    "ref": "Bi. <i>be\u0101l\u016b</i> \u02bb evening meal \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "b\u012ba\u1e5b",
+      "\u1e5b",
+      "by\u0101l\u016b"
+    ],
+    "ref": "H. <i>b\u012ba\u1e5b</i> f. \u02bb evening \u02bc (<i>\u1e5b</i>?), <i>by\u0101l\u016b</i> m. \u02bb evening meal \u02bc, O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "vy\u0101l\u016b"
+    ],
+    "ref": "G. <i>vy\u0101l\u016b</i> n.; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "v\u012b\u1e37"
+    ],
+    "ref": "M. <i>v\u012b\u1e37</i> m. \u02bb afternoon, forenoon, day \u02bc. &lt;-&gt; X <smallcaps>ady\u00e1</smallcaps>: "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bi\u0101lj\u0308"
+    ],
+    "ref": "kha\u015b. <i>bi\u0101lj\u0308</i> \u02bb tonight \u02bc, "
+  },
+  {
+    "lang": "Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bi\u0101lj\u0308"
+    ],
+    "ref": "kha\u015b. <i>bi\u0101lj\u0308</i> \u02bb tonight \u02bc, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u1e0d\u1e37",
+      "oj\u0308",
+      "\u1e0d\u1e37"
+    ],
+    "ref": "bhad. <i>\u1e0d\u1e37</i><at>*l</at><i>oj\u0308</i> (<i>\u1e0d\u1e37</i>&lt;-&gt; like "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "\u017e",
+      "by",
+      "bry",
+      "r"
+    ],
+    "ref": "Bshk. <i>\u017e</i> -- above &lt; <i>by</i> -- or <i>bry</i> -- with \u02bb intrusive \u02bc <i>r</i>). &lt;-&gt; Deriv.: "
+  },
+  {
+    "lang": "Apabhra\u1e41\u015ba",
+    "words": [
+      "vi\u0101liu"
+    ],
+    "ref": "Ap. <i>vi\u0101liu</i> n. \u02bb evening meal \u02bc, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bi\u0101r\u012b"
+    ],
+    "ref": "cam. <i>bi\u0101r\u012b</i> (or &lt; *<smallcaps>vik\u0101l\u0101h\u0101ra</smallcaps> -- ?), "
+  },
+  {
+    "lang": "Came\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bi\u0101r\u012b"
+    ],
+    "ref": "cam. <i>bi\u0101r\u012b</i> (or &lt; *<smallcaps>vik\u0101l\u0101h\u0101ra</smallcaps> -- ?), "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bi\u0101\u012b"
+    ],
+    "ref": "bhal. <i>bi\u0101\u012b</i> f., "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "by\u0101r\u012b"
+    ],
+    "ref": "H. <i>by\u0101r\u012b</i> f."
+  }
+]

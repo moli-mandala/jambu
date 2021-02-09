@@ -1,0 +1,59 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["\u0101bhr\u0325ta"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>1234</number> <b>\u0101bhr\u0325ta</b> \u02bb brought near \u02bc BhP. [<smallcaps>\u0101\u02cabharati</smallcaps> RV.: \u221a<smallcaps>bhr\u0325</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "\u0101bhata",
+      "\u02daaka",
+      "abbhatika"
+    ],
+    "ref": "Pa. <i>\u0101bhata</i> -- , <i>\u02daaka</i> -- \u02bb brought \u02bc, <i>abbhatika</i> -- \u02bb procured \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "abbha\u1e0da"
+    ],
+    "ref": "Pk. <i>abbha\u1e0da</i> -- \u02bb following \u02bc (&lt; \u02bb *brought near \u02bc?); "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "\u0101w\u0259\u1e5b\u0259"
+    ],
+    "ref": "Ash. <i>\u0101w\u0259\u1e5b\u0259</i> \u02bb brought \u02bc, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "aw >"
+    ],
+    "ref": "Kt. <i>aw<? ></i>; "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "\u0101w\u0259r\u014dm"
+    ],
+    "ref": "Wg. <i>\u0101w\u0259r\u014dm</i> \u02bb I was brought \u02bc Morgenstierne NTS ii 246; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "\u0101bha\u1e5bvu\u0303"
+    ],
+    "ref": "G. <i>\u0101bha\u1e5bvu\u0303</i> \u02bb to become polluted, become unfit for eating (through being touched?) \u02bc; -- deriv. "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "abh\u1e5b\u0101vu\u0303",
+      "abh\u1e5b\u0101vvu\u0303"
+    ],
+    "ref": "G. <i>abh\u1e5b\u0101vu\u0303</i> \u02bb to be polluted, to have menstrual flow \u02bc, <i>abh\u1e5b\u0101vvu\u0303</i> \u02bb to pollute \u02bc."
+  }
+]

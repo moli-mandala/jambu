@@ -1,0 +1,29 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["\u0113kak\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>2463</number> <b>\u0113kak\u00e1</b> \u02bb solitary \u02bc RV. [<smallcaps>\u1e17ka</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "\u0113kaka"
+    ],
+    "ref": "Pa. <i>\u0113kaka</i> -- \u02bb single \u02bc; "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "ekakena"
+    ],
+    "ref": "A\u015b. <i>ekakena</i> \u02bb by a single one \u02bc; "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "i",
+      "o"
+    ],
+    "ref": "Kho. (Lor.) <i>i</i><at>g</at><i>o</i> \u02bb one individual \u02bc."
+  }
+]

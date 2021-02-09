@@ -1,0 +1,81 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["ap\u00fatra"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>490</number> <b>ap\u00fatra</b> \u02bb sonless \u02bc \u015aBr., <i>\u02daaka</i> -- Kath\u0101s. [<smallcaps>putr\u00e1</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "aputta",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>aputta</i> -- , <i>\u02daaka</i> -- , "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "\u00f4tar",
+      "\u00f4tir",
+      "\u00f4tr\u0101",
+      "\u02dar\u012b"
+    ],
+    "ref": "L. <i>\u00f4tar</i>, f. <i>\u00f4tir</i>, <i>\u00f4tr\u0101</i>, f. <i>\u02dar\u012b</i>, "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "autr\u0101"
+    ],
+    "ref": "aw\u0101\u1e47. <i>autr\u0101</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "aut",
+      "autr\u0101",
+      "au\u0303\u02da"
+    ],
+    "ref": "P. <i>aut</i>, <i>autr\u0101</i>, <i>au\u0303\u02da</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "au\u1e6dl\u032c",
+      "\u02da\u1e6dl\u032cn"
+    ],
+    "ref": "WPah. <i>au\u1e6dl\u032c</i>, f. <i>\u02da\u1e6dl\u032cn</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "auto"
+    ],
+    "ref": "Ku. <i>auto</i>; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "a\u016bt",
+      "\u016bt"
+    ],
+    "ref": "H. <i>a\u016bt</i>, <i>\u016bt</i> m. \u02bb a man who dies childless \u02bc; -- "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "aputta",
+      "\u02datiya"
+    ],
+    "ref": "Pk. <i>aputta</i> -- , <i>\u02datiya</i> -- , "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "aputo",
+      "putta",
+      "put."
+    ],
+    "ref": "N. <i>aputo</i> reformed after <i>putta</i> -- and <i>put.</i>"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["ardhapa\u00f1cama"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>656</number> *<b>ardhapa\u00f1cama</b> \u02bb four and a half \u02bc. [<smallcaps>ardh\u00e1 -- <superscript>2</superscript>, pa\u00f1- cam\u00e1</smallcaps> -- ]"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "addhapa\u1e41cama"
+    ],
+    "ref": "Pk. <i>addhapa\u1e41cama</i> -- ; "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "\u1e0dha\u0303guc\u0101"
+    ],
+    "ref": "Bhoj. <i>\u1e0dha\u0303guc\u0101</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "\u1e0dhau\u0303c\u0101",
+      "\u1e0dh\u00f5c\u0101"
+    ],
+    "ref": "H. <i>\u1e0dhau\u0303c\u0101</i>, <i>\u1e0dh\u00f5c\u0101</i> (rarrow; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "\u1e0dhau\u0303c\u0101"
+    ],
+    "ref": "P. <i>\u1e0dhau\u0303c\u0101</i>).</div>"
+  }
+]

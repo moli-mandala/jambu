@@ -1,0 +1,36 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["thu\u1e0da"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>6098</number> *<b>thu\u1e0da</b> \u02bb trunk, branch \u02bc. 2. *<b>thu\u1e0d\u1e0da -- .</b> 3. *<b>th\u014d\u1e0da -- <superscript>2</superscript>.</b>"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "thu\u1e0da"
+    ],
+    "ref": "Pk. <i>thu\u1e0da</i> -- n. \u02bb tree trunk \u02bc, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "thu\u1e5bu"
+    ],
+    "ref": "S. <i>thu\u1e5bu</i> m.; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "thur"
+    ],
+    "ref": "N. <i>thur</i> \u02bb dry branch of a tree \u02bc; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "tha\u1e5b",
+      "tha\u1e5bu\u0303"
+    ],
+    "ref": "G. <i>tha\u1e5b</i> n. \u02bb tree trunk \u02bc, <i>tha\u1e5bu\u0303</i> n. \u02bb trunk near root, roots of a tree \u02bc."
+  }
+]

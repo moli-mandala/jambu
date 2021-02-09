@@ -1,0 +1,144 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "y\u00e1di",
+    "ref": "<html><body><number>10410</number> <b>y\u00e1di</b> \u02bb if \u02bc RV. [<smallcaps>y\u00e1</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "yadi"
+    ],
+    "ref": "NiDoc. <i>yadi</i> \u02bb if \u02bc, "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "yadi"
+    ],
+    "ref": "NiDoc. <i>yadi</i> \u02bb if \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ja\u00ef"
+    ],
+    "ref": "Pk. <i>ja\u00ef</i>; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "ai",
+      "ay",
+      "nay"
+    ],
+    "ref": "K. <i>ai</i>, <i>ay</i> \u02bb if \u02bc, <i>nay</i> \u02bb if not \u02bc, "
+  },
+  {
+    "lang": "R\u0101mban\u012b dialect of Kashmiri in Jammu",
+    "words": [
+      "z\u0113kar"
+    ],
+    "ref": "r\u0101m. <i>z\u0113kar</i> \u02bb if \u02bc, "
+  },
+  {
+    "lang": "or ki\u015b. Kash\u1e6daw\u0101\u1e5b\u012b dialect of Kashmiri",
+    "words": [
+      "ha\u0129"
+    ],
+    "ref": "kash. <i>ha\u0129</i>, "
+  },
+  {
+    "lang": "\u1e0co\u1e0d\u012b (Sir\u0101j\u012b of \u1e0co\u1e0d\u0101), a dialect of Kashmiri in Jammu",
+    "words": [
+      "z\u0113"
+    ],
+    "ref": "\u1e0do\u1e0d. <i>z\u0113</i>; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "je"
+    ],
+    "ref": "S. <i>je</i> \u02bb if, although \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "je"
+    ],
+    "ref": "P. <i>je</i> \u02bb if \u02bc, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "je"
+    ],
+    "ref": "P. <i>je</i> \u02bb if \u02bc, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0308e"
+    ],
+    "ref": "\u015beu. <i>j\u0308e</i>, "
+  },
+  {
+    "lang": "Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0308e"
+    ],
+    "ref": "\u015beu. <i>j\u0308e</i>, "
+  },
+  {
+    "lang": "\u015aeu\u1e6d\u012b sub-dialect of Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0308e"
+    ],
+    "ref": "\u015beu. <i>j\u0308e</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "jai"
+    ],
+    "ref": "Ku. <i>jai</i>; O"
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "ja\u00ef"
+    ],
+    "ref": "B. <i>ja\u00ef</i> \u02bb when \u02bc ODBL 737; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "je"
+    ],
+    "ref": "Mth. <i>je</i> \u02bb if \u02bc, O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "ja\u00ef",
+      "je"
+    ],
+    "ref": "Marw. <i>ja\u00ef</i>, <i>je</i>, O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "ja\u00ef"
+    ],
+    "ref": "G. <i>ja\u00ef</i>; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "j\u0308ai",
+      "j\u0308a\u0129"
+    ],
+    "ref": "M. <i>j\u0308ai</i>, <i>j\u0308a\u0129</i>, \u02bb if, when \u02bc."
+  }
+]

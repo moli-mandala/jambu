@@ -1,0 +1,477 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["h\u0155\u030adaya"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>14152</number> <b>h\u0155\u030adaya</b> n. \u02bb heart \u02bc RV. [<smallcaps>hr\u0325d</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "hadaya"
+    ],
+    "ref": "Pa. <i>hadaya</i> -- n. \u02bb heart \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "hiaa",
+      "ha\u1e0dak",
+      "k",
+      "a"
+    ],
+    "ref": "Pk. <i>hiaa</i> -- , <i>ha\u1e0dak</i>(<i>k</i>)<i>a</i> -- , "
+  },
+  {
+    "lang": "M\u0101gadh\u012b Prakrit",
+    "words": [
+      "halaa"
+    ],
+    "ref": "mg. <i>halaa</i> -- , "
+  },
+  {
+    "lang": "Pai\u015b\u0101c\u012b Prakrit",
+    "words": [
+      "hitaa",
+      "hitapa"
+    ],
+    "ref": "pai\u015b. <i>hitaa</i> -- , <i>hitapa</i> -- n., "
+  },
+  {
+    "lang": "Apabhra\u1e41\u015ba",
+    "words": [
+      "hia\u1e0da",
+      "hia\u1e0dulla",
+      "hia\u00fclla"
+    ],
+    "ref": "Ap. <i>hia\u1e0da</i> -- , <i>hia\u1e0dulla</i> -- , <i>hia\u00fclla</i> -- n.; "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "yilo"
+    ],
+    "ref": "eur. <i>yilo</i> m. \u02bb heart, spirit \u02bc, "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "yilo"
+    ],
+    "ref": "eur. <i>yilo</i> m. \u02bb heart, spirit \u02bc, "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "h\u032eri"
+    ],
+    "ref": "pal. <i>h\u032eri</i> \u02bb heart, breast \u02bc; "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "ya"
+    ],
+    "ref": "\u1e0c. <i>ya</i> f. \u02bb heart, kidney \u02bc; "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "j\u0308\u00ebr\u00eb",
+      "zir\u0259"
+    ],
+    "ref": "Kt. &amp;schwamacr \u02bb heart \u02bc Rep<superscript>1</superscript> 52, <i>j\u0308\u00ebr\u00eb</i> Rep<superscript>2</superscript> 60, <i>zir\u0259</i> NTS ii 288, "
+  },
+  {
+    "lang": "Bashgal\u012b (Kaf.)",
+    "words": [
+      "zira"
+    ],
+    "ref": "Bashg. <i>zira</i>, "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "j\u0308\u014d",
+      "j\u0308\u014dr -- du\u1e45ga"
+    ],
+    "ref": "Wg. <i>j\u0308\u014d</i>, &amp;omacrtodtod <i>j\u0308\u014dr -- du\u1e45ga</i> (&lt; *<smallcaps>dh\u014d\u1e45ga</smallcaps> -- <superscript>2</superscript>), "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "zir",
+      "z\u0259r"
+    ],
+    "ref": "Pr. <i>zir</i>, <i>z\u0259r</i>, "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "w\u00fa\u1e5b\u0259"
+    ],
+    "ref": "Tir. <i>w\u00fa\u1e5b\u0259</i>, "
+  },
+  {
+    "lang": "Gamb\u012br\u012b (Kaf.)",
+    "words": [
+      "j\u0308\u014d"
+    ],
+    "ref": "Gmb. <i>j\u0308\u014d</i>, "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "hi\u1e5ba"
+    ],
+    "ref": "Gaw. <i>hi\u1e5ba</i>, "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "h\u012b\u0155"
+    ],
+    "ref": "urt. <i>h\u012b\u0155</i><at>*l</at>, "
+  },
+  {
+    "lang": "Urtsun dialect of Kalasha",
+    "words": [
+      "h\u012b\u0155"
+    ],
+    "ref": "urt. <i>h\u012b\u0155</i><at>*l</at>, "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "h\u0155\u00edy"
+    ],
+    "ref": "rumb. <i>h\u0155\u00edy</i><at>*l</at>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "hu\u012b"
+    ],
+    "ref": "Tor. <i>hu\u012b</i>, "
+  },
+  {
+    "lang": "Kandia (Dard.)",
+    "words": [
+      "h\u012bu"
+    ],
+    "ref": "Kand. <i>h\u012bu</i>, "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "h\u012b"
+    ],
+    "ref": "ky. <i>h\u012b</i> m.f., "
+  },
+  {
+    "lang": "Kanyaw\u0101l\u012b dialect of Maiy\u00e3\u0304",
+    "words": [
+      "h\u012b"
+    ],
+    "ref": "ky. <i>h\u012b</i> m.f., "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "hi\u1e5b\u1e53"
+    ],
+    "ref": "Phal. <i>hi\u1e5b\u1e53</i>, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "h\u012b\u0301\u016d"
+    ],
+    "ref": "pales. kol. <i>h\u012b\u0301\u016d</i> m., "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "h\u012b\u0301\u016d"
+    ],
+    "ref": "pales. kol. <i>h\u012b\u0301\u016d</i> m., "
+  },
+  {
+    "lang": "Pales\u012b dialect of Shina",
+    "words": [
+      "h\u012b\u0301\u016d"
+    ],
+    "ref": "pales. kol. <i>h\u012b\u0301\u016d</i> m., "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "hi\u00f3"
+    ],
+    "ref": "koh. <i>hi\u00f3</i>, "
+  },
+  {
+    "lang": "Jijelut dialect of Shina",
+    "words": [
+      "hi\u1e5bu"
+    ],
+    "ref": "jij. <i>hi\u1e5bu</i>, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "hio"
+    ],
+    "ref": "S. <i>hio</i> m.; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "h\u00e3\u0304",
+      "h\u0101\u1ebd"
+    ],
+    "ref": "L. <i>h\u00e3\u0304</i> m. \u02bb heart, mind \u02bc, (Salt Range) <i>h\u0101\u1ebd</i>, "
+  },
+  {
+    "lang": "Khetr\u0101n\u012b dialect of Lahnd\u0101",
+    "words": [
+      "\u0113h\u00e3\u0304"
+    ],
+    "ref": "khet. <i>\u0113h\u00e3\u0304</i>; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "h\u012b\u00e3\u0304"
+    ],
+    "ref": "P. <i>h\u012b\u00e3\u0304</i> m. \u02bb heart \u02bc, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "hiyo"
+    ],
+    "ref": "Ku. <i>hiyo</i>, "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "h\u012b"
+    ],
+    "ref": "gng. <i>h\u012b</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "hiyo"
+    ],
+    "ref": "N. <i>hiyo</i>; O"
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "hiu"
+    ],
+    "ref": "A. <i>hiu</i> \u02bb courage \u02bc, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "hiy\u0101"
+    ],
+    "ref": "A. <i>hiy\u0101</i> \u02bb heart, breast \u02bc; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "hiy\u0101"
+    ],
+    "ref": "B. poet. <i>hiy\u0101</i> \u02bb heart \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "hi\u0101"
+    ],
+    "ref": "Or. <i>hi\u0101</i> \u02bb heart, mind, breast \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "hiy\u0101"
+    ],
+    "ref": "Bi. <i>hiy\u0101</i> \u02bb heart \u02bc, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "hia",
+      "hi\u0101"
+    ],
+    "ref": "Mth. <i>hia</i>, <i>hi\u0101</i>, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "hiy\u0101"
+    ],
+    "ref": "H. <i>hiy\u0101</i> m., O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "hiy\u0101"
+    ],
+    "ref": "H. <i>hiy\u0101</i> m., O"
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "hiy\u0101"
+    ],
+    "ref": "H. <i>hiy\u0101</i> m., O"
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "hiy\u0101"
+    ],
+    "ref": "H. <i>hiy\u0101</i> m., O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "hiya\u00fc",
+      "h\u012bya\u1e0da\u00fc",
+      "\u1e0d"
+    ],
+    "ref": "Marw. <i>hiya\u00fc</i> (<i>h\u012bya\u1e0da\u00fc</i> with ext. -- <i>\u1e0d</i> -- ), "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "h\u012byo",
+      "h\u012b\u1e5b"
+    ],
+    "ref": "Marw. <i>h\u012byo</i>, <i>h\u012b\u1e5b</i> m., O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "h\u012bu\u1e41"
+    ],
+    "ref": "G. <i>h\u012bu\u1e41</i> n., "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "haiyu\u0303",
+      "hai\u1e5bu\u0303",
+      "\u1e0d"
+    ],
+    "ref": "G. <i>haiyu\u0303</i> (<i>hai\u1e5bu\u0303</i> with ext. -- <i>\u1e0d</i> -- ) n., "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "hiy\u1ebd"
+    ],
+    "ref": "M. <i>hiy\u1ebd</i> n.; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "\u1e37a -- ya",
+      "la -- ya",
+      "d"
+    ],
+    "ref": "Si. <i>\u1e37a -- ya</i>, <i>la -- ya</i> \u02bb heart, courage, breast \u02bc; -- with unexpl. -- <i>d</i> -- : "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "\u017eid\u012b\u0301"
+    ],
+    "ref": "Ash. <i>\u017eid\u012b\u0301</i> \u02bb heart \u02bc, "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "id -- \u0259m"
+    ],
+    "ref": "Shum. <i>id -- \u0259m</i> \u02bb my heart \u02bc, "
+  },
+  {
+    "lang": "Ni\u1e45gal\u0101m\u012b (Dard.)",
+    "words": [
+      "id\u0259\u0301"
+    ],
+    "ref": "Ni\u1e45g. <i>id\u0259\u0301</i>, "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "hida",
+      "hid\u0101lu\u1e45ga"
+    ],
+    "ref": "Gaw. <i>hida</i> \u02bb breast \u02bc, <i>hid\u0101lu\u1e45ga</i> \u02bb part near the heart \u02bc (for ending cf. "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "j\u0308\u014dr -- du\u1e45ga"
+    ],
+    "ref": "Wg. <i>j\u0308\u014dr -- du\u1e45ga</i> above and <smallcaps>mastulu\u1e45ga</smallcaps> -- ). -- +?: "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "hi\u0101o",
+      "h\u00e3\u0304u"
+    ],
+    "ref": "S. <i>hi\u0101o</i> m. \u02bb courage \u02bc, <i>h\u00e3\u0304u</i> m. \u02bb heart, mind \u02bc (cf. "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "h\u00e3\u0304"
+    ],
+    "ref": "L. <i>h\u00e3\u0304</i> above); "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "hi\u0101u\u0303",
+      "hay\u0101u\u0303"
+    ],
+    "ref": "P. <i>hi\u0101u\u0303</i>, <i>hay\u0101u\u0303</i> n. \u02bb heart \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "hiy\u0101u"
+    ],
+    "ref": "N. <i>hiy\u0101u</i> \u02bb daring, spirit \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "hiy\u0101u",
+      "hiw\u0101u"
+    ],
+    "ref": "H. <i>hiy\u0101u</i>, <i>hiw\u0101u</i> m. \u02bb courage \u02bc, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "hiyy\u0101"
+    ],
+    "ref": "M. <i>hiyy\u0101</i> m. (or \u2190 "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "hiy\u0101"
+    ],
+    "ref": "H. <i>hiy\u0101</i> above)."
+  }
+]

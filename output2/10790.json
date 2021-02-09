@@ -1,0 +1,36 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "r\u00fa\u015bant",
+    "ref": "<html><body><number>10790</number> <b>r\u00fa\u015bant</b> \u02bb shining \u02bc RV. [\u221a<smallcaps>ru\u015b</smallcaps>]"
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "lu\u0161"
+    ],
+    "ref": "nir. <i>lu\u0161</i> \u02bb bright \u02bc, "
+  },
+  {
+    "lang": "Nirl\u0101m\u012b dialect of Pashai",
+    "words": [
+      "lu\u0161"
+    ],
+    "ref": "nir. <i>lu\u0161</i> \u02bb bright \u02bc, "
+  },
+  {
+    "lang": "Ku\u1e5ba\u1e45gali dialect of Pashai",
+    "words": [
+      "le\u0161"
+    ],
+    "ref": "ku\u1e5b. <i>le\u0161</i> \u02bb brightness, light \u02bc in view of "
+  },
+  {
+    "lang": "Areti dialect of Pashai",
+    "words": [
+      "l",
+      "\u010d"
+    ],
+    "ref": "ar. <i>l</i><at>e</at><i>\u010d</i> rather &lt; *<smallcaps>l\u014dcya</smallcaps> -- ."
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "sthakk",
+    "ref": "<html><body><number>13737</number> *<b>sthakk</b> \u02bb stop, halt \u02bc. [Cf. <i>sthagita -- gir</i> -- \u02bb with speech impeded \u02bc BhP., <i>sthagayati</i> \u02bb hides \u02bc Dh\u0101tup., *<smallcaps>sthagha -- ,</smallcaps> but relationship with \u221a<smallcaps>sth\u0101,</smallcaps> though probable, is not clear]"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "thakka",
+      "thakka\u00ef"
+    ],
+    "ref": "Pk. <i>thakka</i> -- \u02bb stopped, remaining, tired \u02bc, <i>thakka\u00ef</i> \u02bb comes to a stop, becomes tired \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "thakh",
+      "\u02dakas",
+      "thoku",
+      "thakun"
+    ],
+    "ref": "K. <i>thakh</i>, dat. <i>\u02dakas</i> m. \u02bb fatigue, resting \u02bc, <i>thok<superscript>u</superscript></i> \u02bb tired \u02bc; <i>thakun</i> \u02bb to become tired \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "thaku",
+      "thaka\u1e47u"
+    ],
+    "ref": "S. <i>thaku</i> m. \u02bb weariness \u02bc, <i>thaka\u1e47u</i> \u02bb to be weary \u02bc, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "thakka\u1e47"
+    ],
+    "ref": "L. <i>thakka\u1e47</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "thakk\u1e47\u0101",
+      "th\u0101k\u1e47\u0101",
+      "\u1e6dh\u0101k\u1e47\u0101"
+    ],
+    "ref": "P. <i>thakk\u1e47\u0101</i> (whence tr. <i>th\u0101k\u1e47\u0101</i>, <i>\u1e6dh\u0101k\u1e47\u0101</i> \u02bb to stop, interrupt \u02bc), "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "th\u0101k\u1e47o",
+      "thak\u02da"
+    ],
+    "ref": "Ku. <i>th\u0101k\u1e47o</i>, <i>thak\u02da</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "th\u0101knu"
+    ],
+    "ref": "N. <i>th\u0101knu</i>; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "th\u0101kiba"
+    ],
+    "ref": "A. <i>th\u0101kiba</i> \u02bb to stay \u02bc; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "th\u0101k\u0101",
+      "thak\u0101"
+    ],
+    "ref": "B. <i>th\u0101k\u0101</i>, <i>thak\u0101</i> \u02bb to be at a standstill, exist, be \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "th\u0101kib\u0101",
+      "\u1e6dh\u0101kib\u0101",
+      "thakib\u0101"
+    ],
+    "ref": "Or. <i>th\u0101kib\u0101</i> \u02bb to stay \u02bc, <i>\u1e6dh\u0101kib\u0101</i> \u02bb to have a firm footing \u02bc, <i>thakib\u0101</i> \u02bb to become tired \u02bc (\u2190 "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "th\u0101kab"
+    ],
+    "ref": "Mth. <i>th\u0101kab</i> \u02bb to remain, continue, be weary \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "th\u0101kab"
+    ],
+    "ref": "Mth. <i>th\u0101kab</i> \u02bb to remain, continue, be weary \u02bc; "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "th\u0101kal"
+    ],
+    "ref": "Bhoj. <i>th\u0101kal</i> \u02bb to become weary \u02bc, O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "th\u0101ka\u00ef"
+    ],
+    "ref": "Aw. <i>th\u0101ka\u00ef</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "thakn\u0101"
+    ],
+    "ref": "H. <i>thakn\u0101</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "th\u0101kvu\u0303"
+    ],
+    "ref": "G. <i>th\u0101kvu\u0303</i>; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "th\u0101k\u1e47\u1ebd",
+      "thak\u02da",
+      "\u1e6dh\u0101k\u1e47\u1ebd"
+    ],
+    "ref": "M. <i>th\u0101k\u1e47\u1ebd</i>, <i>thak\u02da</i> \u02bb to become tired \u02bc, <i>\u1e6dh\u0101k\u1e47\u1ebd</i> \u02bb to stop still, stand, remain \u02bc."
+  }
+]

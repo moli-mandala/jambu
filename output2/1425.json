@@ -1,0 +1,29 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "\u0101\u02cavasati",
+    "ref": "<html><body><number>1425</number> <b>\u0101\u02cavasati</b> \u02bb dwells \u02bc RV., \u02bb sleeps with \u02bc Mn. [\u221a<smallcaps>vas</smallcaps><superscript>2</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "\u0101vasati"
+    ],
+    "ref": "Pa. <i>\u0101vasati</i> \u02bb resides \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "\u0101vasa\u00ef",
+      "\u0101usa\u1e41ta"
+    ],
+    "ref": "Pk. <i>\u0101vasa\u00ef</i>, pres. part. <i>\u0101usa\u1e41ta</i>&lt;-&gt; \u02bb stays \u02bc; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "\u0101ohiba"
+    ],
+    "ref": "A. <i>\u0101ohiba</i> \u02bb to recline \u02bc."
+  }
+]

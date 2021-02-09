@@ -1,0 +1,390 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["sthit\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>13768</number> <b>sthit\u00e1</b> \u02bb standing, settled \u02bc \u015aBr. [\u221a<smallcaps>sth\u0101</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "\u1e6dhita",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>\u1e6dhita</i> -- \u02bb standing, lasting, steadfast \u02bc, <i>\u02daaka</i> -- \u02bb standing, erect \u02bc; "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "s\u1e6dit\u0101"
+    ],
+    "ref": "gir. <i>s\u1e6dit\u0101</i> nom. pl. m. \u02bb standing, being in \u02bc; "
+  },
+  {
+    "lang": "Girn\u0101r Rock Inscription of A\u015boka",
+    "words": [
+      "s\u1e6dit\u0101"
+    ],
+    "ref": "gir. <i>s\u1e6dit\u0101</i> nom. pl. m. \u02bb standing, being in \u02bc; "
+  },
+  {
+    "lang": "G\u0101ndh\u0101r\u012b or Northwest Prakrit (as recorded in the Dharmapada ed. J. Brough, Oxford 1962)",
+    "words": [
+      "stita",
+      "thida"
+    ],
+    "ref": "NiDoc. <i>stita</i>, &amp;gacute &amp;gacute <i>thida</i>, &amp;gacute "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "stita",
+      "thida"
+    ],
+    "ref": "NiDoc. <i>stita</i>, &amp;gacute &amp;gacute <i>thida</i>, &amp;gacute "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "thia",
+      "\u1e6dhiya",
+      "\u1e6dhiaa"
+    ],
+    "ref": "Pk. <i>thia</i> -- , <i>\u1e6dhiya</i> -- \u02bb standing, upright \u02bc, <i>\u1e6dhiaa</i> -- \u02bb upright, high \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "thiye\u0306"
+    ],
+    "ref": "K. <i>thiye\u0306</i> adv. \u02bb in front of, in the presence of \u02bc; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "thiya"
+    ],
+    "ref": "A. <i>thiya</i> \u02bb perpendicular \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "\u1e6dhi\u0101"
+    ],
+    "ref": "Or. <i>\u1e6dhi\u0101</i> \u02bb standing up \u02bc, sb. \u02bb upright position, height, stature \u02bc. -- As past tense of verb \u02bb to be \u02bc: "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "stita",
+      "stita\u1e41ti"
+    ],
+    "ref": "NiDoc. <i>stita</i>, <i>stita\u1e41ti</i>; "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "th\u016b"
+    ],
+    "ref": "Tir. <i>th\u016b</i> \u02bb he was \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "thi\u0101"
+    ],
+    "ref": "aw\u0101\u1e47. <i>thi\u0101</i> \u02bb became \u02bc; "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "thi\u0101"
+    ],
+    "ref": "aw\u0101\u1e47. <i>thi\u0101</i> \u02bb became \u02bc; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "th\u0101",
+      "th\u012b"
+    ],
+    "ref": "P. <i>th\u0101</i>, f. <i>th\u012b</i> \u02bb was \u02bc, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "thio",
+      "th\u012b",
+      "thiu\u0303"
+    ],
+    "ref": "bhal. <i>thio</i>, f. <i>th\u012b</i>, n. <i>thiu\u0303</i>, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "thio",
+      "th\u012b",
+      "thiu\u0303"
+    ],
+    "ref": "bhal. <i>thio</i>, f. <i>th\u012b</i>, n. <i>thiu\u0303</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "thio",
+      "th\u012b",
+      "thiu\u0303"
+    ],
+    "ref": "bhal. <i>thio</i>, f. <i>th\u012b</i>, n. <i>thiu\u0303</i>, "
+  },
+  {
+    "lang": "P\u0101\u1e0dar\u012b sub-dialect of Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "th\u0113a",
+      "th\u012b"
+    ],
+    "ref": "p\u0101\u1e0d. <i>th\u0113<superscript>a</superscript></i>, f. <i>th\u012b</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "the\u0306\u0101",
+      "th\u012b"
+    ],
+    "ref": "cur. <i>the\u0306\u0101</i>, f. <i>th\u012b</i>, "
+  },
+  {
+    "lang": "Pa\u1e45gw\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "thiy\u0101",
+      "th\u012b"
+    ],
+    "ref": "pa\u1e45. <i>thiy\u0101</i>, f. <i>th\u012b</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "thiyo"
+    ],
+    "ref": "N. <i>thiyo</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "th\u0101",
+      "th\u012b"
+    ],
+    "ref": "H. <i>th\u0101</i>, f. <i>th\u012b</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "thay\u0254."
+    ],
+    "ref": "G. <i>thay\u0254.</i> -- As pres. st.: "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "th\u0259l"
+    ],
+    "ref": "arm. <i>th\u0259l</i> -- \u02bb to be present, be \u02bc; "
+  },
+  {
+    "lang": "Armenian dialect of Gypsy",
+    "words": [
+      "th\u0259l"
+    ],
+    "ref": "arm. <i>th\u0259l</i> -- \u02bb to be present, be \u02bc; "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "tha",
+      "thiu",
+      "thop",
+      "sthit\u014d tvam"
+    ],
+    "ref": "Dm. <i>tha</i>, f. <i>thiu</i> \u02bb is \u02bc (2 sg. <i>thop</i> &lt; <i>sthit\u014d tvam</i>), "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "th\u012b",
+      "th\u0113"
+    ],
+    "ref": "Tir. <i>th\u012b</i>, f. <i>th\u0113</i>; "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "th"
+    ],
+    "ref": "lau\u1e5b. <i>th</i> -- , "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "th"
+    ],
+    "ref": "lau\u1e5b. <i>th</i> -- , "
+  },
+  {
+    "lang": "Darrai-i N\u016br dialect of Pashai",
+    "words": [
+      "t"
+    ],
+    "ref": "weg. <i>t</i> -- \u02bb to become, be \u02bc; "
+  },
+  {
+    "lang": "Wegali dialect of Pashai",
+    "words": [
+      "t"
+    ],
+    "ref": "weg. <i>t</i> -- \u02bb to become, be \u02bc; "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "th\u016b",
+      "th\u012b"
+    ],
+    "ref": "Bshk. <i>th\u016b</i>, f. <i>th\u012b</i> \u02bb is \u02bc, "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "th\u016b",
+      "th\u012b"
+    ],
+    "ref": "Bshk. <i>th\u016b</i>, f. <i>th\u012b</i> \u02bb is \u02bc, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "th\u016b",
+      "\u010d\u012b",
+      "tu",
+      "du",
+      "u"
+    ],
+    "ref": "Tor. <i>th\u016b</i>, f. <i>\u010d\u012b</i> (as auxiliary -- <i>tu</i> after consonant, -- <i>du</i>, -- <at>d</at><i>u</i> after vowel AO viii 309), "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "th\u012b"
+    ],
+    "ref": "Phal. <i>th\u012b</i> m.f., "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "thu"
+    ],
+    "ref": "kash. <i>thu</i>; &lt;-&gt; altern. &lt; <smallcaps>sth\u012by\u00e1t\u0113</smallcaps>): "
+  },
+  {
+    "lang": "or ki\u015b. Kash\u1e6daw\u0101\u1e5b\u012b dialect of Kashmiri",
+    "words": [
+      "thu"
+    ],
+    "ref": "kash. <i>thu</i>; &lt;-&gt; altern. &lt; <smallcaps>sth\u012by\u00e1t\u0113</smallcaps>): "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "thia\u1e47u"
+    ],
+    "ref": "S. <i>thia\u1e47u</i>, "
+  },
+  {
+    "lang": "L\u0101\u1e5b\u012b dialect of Sindh\u012b",
+    "words": [
+      "tha\u00ef\u1e47u"
+    ],
+    "ref": "la. <i>tha\u00ef\u1e47u</i> \u02bb to be, become, grow \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "th\u012b",
+      "v",
+      "a\u1e47",
+      "th\u012b\u0101"
+    ],
+    "ref": "L. <i>th\u012b</i>(<i>v</i>)<i>a\u1e47</i>, pp. <i>th\u012b\u0101</i> \u02bb to be, become, exist, be done \u02bc, "
+  },
+  {
+    "lang": "Khetr\u0101n\u012b dialect of Lahnd\u0101",
+    "words": [
+      "th\u012bvan"
+    ],
+    "ref": "khet. <i>th\u012bvan</i> \u02bb to be \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "th\u0129dai"
+    ],
+    "ref": "N. <i>th\u0129dai</i> pres. part. \u02bb being \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "thib\u0101",
+      "kk"
+    ],
+    "ref": "Or. <i>thib\u0101</i> \u02bb to be \u02bc. -- Ext. -- <i>kk</i> -- : "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "th\u012bk"
+    ],
+    "ref": "lau\u1e5b. <i>th\u012bk</i> 3 sg. m. \u02bb became \u02bc; "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "th\u012bk"
+    ],
+    "ref": "lau\u1e5b. <i>th\u012bk</i> 3 sg. m. \u02bb became \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "\u1e6dh\u012bkun"
+    ],
+    "ref": "K. <i>\u1e6dh\u012bkun</i> \u02bb to stand firm \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "\u1e6dhikib\u0101"
+    ],
+    "ref": "Or. <i>\u1e6dhikib\u0101</i> \u02bb to be fixed \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "th\u012d\u0304kab",
+      "sthinna"
+    ],
+    "ref": "Mth. <i>th\u012d\u0304kab</i> \u02bb to be \u02bc: see also *<smallcaps>\u1e6dh\u012bkka -- ;</smallcaps> -- *<i>sthinna</i> -- (after <smallcaps>sann\u00e1 -- </smallcaps><superscript>1</superscript>): "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "tinoi"
+    ],
+    "ref": "Wg. <i>tinoi</i> \u02bb he stayed \u02bc NTS xvii 304; "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "thana",
+      "thini"
+    ],
+    "ref": "Gaw. <i>thana</i>, f. <i>thini</i> \u02bb is \u02bc."
+  }
+]

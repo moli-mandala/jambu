@@ -1,0 +1,58 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["mandir\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>9852</number> <b>mandir\u00e1</b> n. \u02bb any waiting place, dwelling, camp, town, temple \u02bc MBh. [\u221a<smallcaps>mand</smallcaps><superscript>2</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "mandira"
+    ],
+    "ref": "Pa. <i>mandira</i> -- n. \u02bb house, palace \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ma\u1e41dira"
+    ],
+    "ref": "Pk. <i>ma\u1e41dira</i> -- n. \u02bb house, fort \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "mandaru"
+    ],
+    "ref": "S. <i>mandaru</i> m. \u02bb palace, idol -- temple \u02bc (\u2190 "
+  },
+  {
+    "lang": "Sanskrit",
+    "words": [
+      "man\u012br"
+    ],
+    "ref": "gng. <i>man\u012br</i> \u02bb temple \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "man\u012br"
+    ],
+    "ref": "gng. <i>man\u012br</i> \u02bb temple \u02bc; "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "man\u012br"
+    ],
+    "ref": "gng. <i>man\u012br</i> \u02bb temple \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "m\u00e4dira",
+      "m\u00e4dura",
+      "m\u00e4diriya"
+    ],
+    "ref": "Si. <i>m\u00e4dira</i>, <i>m\u00e4dura</i> \u02bb house, temple \u02bc, <i>m\u00e4diriya</i> \u02bb house \u02bc."
+  }
+]

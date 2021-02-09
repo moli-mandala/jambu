@@ -1,0 +1,456 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["yantr\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>10412</number> <b>yantr\u00e1</b> n. \u02bb controlling device \u02bc RV., \u02bb any implement or contrivance \u02bc MBh., <i>yantraka</i> -- n. \u02bb handmill \u02bc Hcat. [\u221a<smallcaps>yam</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "yanta",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>yanta</i> -- n. \u02bb any mechanism or machine \u02bc, <i>\u02daaka</i> -- n. \u02bb bolt \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ja\u1e41ta"
+    ],
+    "ref": "Pk. <i>ja\u1e41ta</i> -- n. \u02bb machine, oil mill, water machine \u02bc; "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "\u01f0\u00e1ndir",
+      "\u01f0\u00e1ndri"
+    ],
+    "ref": "pal. <i>\u01f0\u00e1ndir</i>, <i>\u01f0\u00e1ndri</i> \u02bb mill \u02bc, "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "\u01f0\u00e1ndir",
+      "\u01f0\u00e1ndri"
+    ],
+    "ref": "pal. <i>\u01f0\u00e1ndir</i>, <i>\u01f0\u00e1ndri</i> \u02bb mill \u02bc, "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "\u017eandra",
+      "\u017ean"
+    ],
+    "ref": "Dm. <i>\u017eandra</i>, <i>\u017ean</i>; "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "\u017eantr"
+    ],
+    "ref": "lau\u1e5b. <i>\u017eantr</i> \u02bb watermill \u02bc, "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "\u017eantr"
+    ],
+    "ref": "lau\u1e5b. <i>\u017eantr</i> \u02bb watermill \u02bc, "
+  },
+  {
+    "lang": "Areti dialect of Pashai",
+    "words": [
+      "\u017ea\u0303r",
+      "yo\u0304\u0303r"
+    ],
+    "ref": "ar. <i>\u017ea\u0303r</i>, <i>yo\u0304\u0303r</i>, "
+  },
+  {
+    "lang": "Darrai-i N\u016br dialect of Pashai",
+    "words": [
+      "yan"
+    ],
+    "ref": "dar. <i>yan</i>, "
+  },
+  {
+    "lang": "Ku\u1e5ba\u1e45gali dialect of Pashai",
+    "words": [
+      "y\u00e3\u0304l"
+    ],
+    "ref": "ku\u1e5b. <i>y\u00e3\u0304l</i>, "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "\u017eo\u0304\u0303"
+    ],
+    "ref": "Shum. <i>\u017eo\u0304\u0303</i>; "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "ya\u1e47"
+    ],
+    "ref": "Wo\u1e6d. <i>ya\u1e47</i> f. \u02bb mill \u02bc (\u2190 "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "\u017e\u00e3\u0304",
+      "\u01f0\u00f5",
+      "\u017e\u00e3\u0304l -- w\u0101\u0301\u1e6d"
+    ],
+    "ref": "Gaw. <i>\u017e\u00e3\u0304</i><at>l</at>, <i>\u01f0\u00f5</i><at>l</at> \u02bb mill \u02bc, <i>\u017e\u00e3\u0304l -- w\u0101\u0301\u1e6d</i> \u02bb millstone \u02bc; "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "\u017e\u00e3\u0304",
+      "\u01f0\u00f5",
+      "\u017e\u00e3\u0304l -- w\u0101\u0301\u1e6d"
+    ],
+    "ref": "Gaw. <i>\u017e\u00e3\u0304</i><at>l</at>, <i>\u01f0\u00f5</i><at>l</at> \u02bb mill \u02bc, <i>\u017e\u00e3\u0304l -- w\u0101\u0301\u1e6d</i> \u02bb millstone \u02bc; "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "\u017e\u00f5tr"
+    ],
+    "ref": "rumb. <i>\u017e\u00f5tr</i>, "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "\u017e\u00f5tr"
+    ],
+    "ref": "rumb. <i>\u017e\u00f5tr</i>, "
+  },
+  {
+    "lang": "Urtsun dialect of Kalasha",
+    "words": [
+      "\u017e\u00e3\u0304tr"
+    ],
+    "ref": "urt. <i>\u017e\u00e3\u0304tr</i> \u02bb mill \u02bc, "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "ya\u0303l"
+    ],
+    "ref": "Bshk. <i>ya\u0303l</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "\u017e\u0101n",
+      "yranta"
+    ],
+    "ref": "Tor. <i>\u017e\u0101n</i> (&lt; *<i>yranta</i> -- AO viii 310), "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "y\u00e3\u0304"
+    ],
+    "ref": "Sv. <i>y\u00e3\u0304</i><at>l</at>; "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "y\u0101ndr",
+      "yan -- b\u0101\u0301\u1e6d"
+    ],
+    "ref": "Phal. <i>y\u0101ndr</i> m. \u02bb mill \u02bc, <i>yan -- b\u0101\u0301\u1e6d</i> \u02bb millstone \u02bc; "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "y\u00f5\u032fr"
+    ],
+    "ref": "gil. <i>y\u00f5\u032fr</i> f. \u02bb large watermill \u02bc, "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "y\u00f5\u032fr"
+    ],
+    "ref": "gil. <i>y\u00f5\u032fr</i> f. \u02bb large watermill \u02bc, "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "y\u00f5\u1e63"
+    ],
+    "ref": "gur. <i>y\u00f5\u1e63</i> f., "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "y\u00f5\u1e63"
+    ],
+    "ref": "gur. <i>y\u00f5\u1e63</i> f., "
+  },
+  {
+    "lang": "Pales\u012b dialect of Shina",
+    "words": [
+      "yo\u1e63"
+    ],
+    "ref": "pales. <i>yo\u1e63</i> ("
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "\u01f0\u0103ndro"
+    ],
+    "ref": "koh. <i>\u01f0\u0103ndro</i> m. \u02bb lock \u02bc \u2190 "
+  },
+  {
+    "lang": "Indo-aryan of India proper excluding Kafiri and Dardic",
+    "words": [
+      "ye\u0306ndar",
+      "ye\u0306\u0323n\u02da",
+      "yin\u02da",
+      "\u02dadras"
+    ],
+    "ref": "K. <i>ye\u0306nd<superscript>a</superscript>r</i>, <i>ye\u0306\u0323n\u02da</i>, <i>yin\u02da</i>, dat. <i>\u02dadras</i> m. \u02bb spinning wheel \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "ye\u0306ndar",
+      "ye\u0306\u0323n\u02da",
+      "yin\u02da",
+      "\u02dadras"
+    ],
+    "ref": "K. <i>ye\u0306nd<superscript>a</superscript>r</i>, <i>ye\u0306\u0323n\u02da</i>, <i>yin\u02da</i>, dat. <i>\u02dadras</i> m. \u02bb spinning wheel \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "ja\u1e47\u1e0dru",
+      "ja\u1e47\u1e0dro",
+      "ja\u1e47\u1e0dr\u012b"
+    ],
+    "ref": "S. <i>ja\u1e47\u1e0dru</i> m. \u02bb handmill \u02bc, <i>ja\u1e47\u1e0dro</i> m. \u02bb lock \u02bc, <i>ja\u1e47\u1e0dr\u012b</i> f. \u02bb lathe \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "jandar",
+      "jandr\u0101",
+      "jandr\u012b"
+    ],
+    "ref": "L. <i>jandar</i> m. \u02bb watermill, lever for pounding rice \u02bc, <i>jandr\u0101</i> m. \u02bb large wooden rake, padlock \u02bc, <i>jandr\u012b</i> f. \u02bb small mill, mule pannier \u02bc, "
+  },
+  {
+    "lang": "Khetr\u0101n\u012b dialect of Lahnd\u0101",
+    "words": [
+      "jandr\u0101"
+    ],
+    "ref": "khet. <i>jandr\u0101</i> \u02bb mill \u02bc; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "jandar",
+      "jand",
+      "jand",
+      "r",
+      "\u0101",
+      "jand",
+      "r",
+      "\u012b"
+    ],
+    "ref": "P. <i>jandar</i>, <i>jand</i> m. \u02bb watermill, wooden rake \u02bc, <i>jand</i>(<i>r</i>)<i>\u0101</i> m. \u02bb padlock, rake \u02bc, <i>jand</i>(<i>r</i>)<i>\u012b</i> f. \u02bb small lock \u02bc; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0308a\u1e47\u1e6d\u1e37 -- ukkhal"
+    ],
+    "ref": "bhad. <i>j\u0308a\u1e47\u1e6d\u1e37 -- ukkhal</i> \u02bb rice -- crushing machine \u02bc, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0308a\u1e47\u1e6d\u1e37 -- ukkhal"
+    ],
+    "ref": "bhad. <i>j\u0308a\u1e47\u1e6d\u1e37 -- ukkhal</i> \u02bb rice -- crushing machine \u02bc, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0308a\u1e47\u1e6d\u1e37",
+      "j\u0308andri"
+    ],
+    "ref": "bhal. <i>j\u0308a\u1e47\u1e6d\u1e37</i> n. \u02bb spinning wheel \u02bc (<i>j\u0308andri</i> f. \u02bb bear -- trap \u02bc \u2190 another dialect), "
+  },
+  {
+    "lang": "Jauns\u0101r\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u00e3\u0304dr\u014d"
+    ],
+    "ref": "jaun. <i>j\u00e3\u0304dr\u014d</i> \u02bb handmill \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "j\u00e3\u0304tro",
+      "j\u0101nro",
+      "yantara"
+    ],
+    "ref": "Ku. <i>j\u00e3\u0304tro</i>, <i>j\u0101nro</i> \u02bb handmill, millstone \u02bc (&lt; *<i>yant<superscript>a</superscript>ra</i> -- ?), "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "j\u0308\u00e3\u0304t",
+      "j\u0308\u00e3\u0304ti"
+    ],
+    "ref": "gng. <i>j\u0308\u00e3\u0304t</i> \u02bb mill \u02bc, <i>j\u0308\u00e3\u0304t<superscript>i</superscript></i> \u02bb contrivance for keeping cooking vessels on the fire \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "j\u00e3\u0304to"
+    ],
+    "ref": "N. <i>j\u00e3\u0304to</i> \u02bb grindstone \u02bc; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "z\u00e3\u0304t",
+      "z\u00e3\u0304ti"
+    ],
+    "ref": "A. <i>z\u00e3\u0304t</i> \u02bb handmill \u02bc, <i>z\u00e3\u0304ti</i> \u02bb tripod to support vessel over fire \u02bc; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "j\u00e3\u0304t",
+      "j\u00e3\u0304t\u0101"
+    ],
+    "ref": "B. <i>j\u00e3\u0304t</i> \u02bb press, vice \u02bc, <i>j\u00e3\u0304t\u0101</i> \u02bb millstone, bellows \u02bc; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "j\u00e3\u0304t\u012b"
+    ],
+    "ref": "Or. <i>j\u00e3\u0304t\u012b</i> \u02bb betel -- nut -- crackers \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "j\u00e3\u0304t\u012b"
+    ],
+    "ref": "Or. <i>j\u00e3\u0304t\u012b</i> \u02bb betel -- nut -- crackers \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "j\u00e3\u0304t",
+      "j\u00e3\u0304t\u0101"
+    ],
+    "ref": "Bi. <i>j\u00e3\u0304t</i>, <i>j\u00e3\u0304t\u0101</i> \u02bb handmill \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "j\u00e3\u0304t"
+    ],
+    "ref": "Mth. <i>j\u00e3\u0304t</i> \u02bb millstone, water -- raising lever \u02bc; "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "j\u00e3\u0304t",
+      "j\u00e3\u0304t\u012b"
+    ],
+    "ref": "Bhoj. <i>j\u00e3\u0304t</i> \u02bb handmill \u02bc, <i>j\u00e3\u0304t\u012b</i> \u02bb rat -- trap \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "j\u00e3\u0304t",
+      "j\u00e3\u0304t\u0101"
+    ],
+    "ref": "H. <i>j\u00e3\u0304t</i> f., <i>j\u00e3\u0304t\u0101</i> m. \u02bb handmill \u02bc; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "ja\u0303tar\u1e5bu\u0303",
+      "jatar\u1e5b\u0254"
+    ],
+    "ref": "G. <i>ja\u0303tar\u1e5bu\u0303</i> n., <i>jatar\u1e5b\u0254</i> m. \u02bb machine for making wire \u02bc; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "j\u0308\u00e3\u0304t",
+      "j\u0308\u00e3\u0304t\u1ebd",
+      "j\u0308\u0101t\u1ebd"
+    ],
+    "ref": "M. <i>j\u0308\u00e3\u0304t</i> n. \u02bb post with a swivelling crosspiece (used in breaking in animals) \u02bc, <i>j\u0308\u00e3\u0304t\u1ebd</i>, <i>j\u0308\u0101t\u1ebd</i> n. \u02bb handmill \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "yat",
+      "yatta",
+      "yatu",
+      "yaturu"
+    ],
+    "ref": "Si. <i>yat</i> \u02bb mill \u02bc, <i>yatta</i> (st. <i>yatu</i> -- ) \u02bb joiner's plane \u02bc (<i>yaturu</i> \u02bb machine, lock \u02bc \u2190 "
+  },
+  {
+    "lang": "Sanskrit",
+    "words": [
+      "ja\u1e41ta\u00ef"
+    ],
+    "ref": "Pk. <i>ja\u1e41ta\u00ef</i> \u02bb compels, imprisons \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ja\u1e41ta\u00ef"
+    ],
+    "ref": "Pk. <i>ja\u1e41ta\u00ef</i> \u02bb compels, imprisons \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "jantib\u0101"
+    ],
+    "ref": "Or. <i>jantib\u0101</i> \u02bb to compress, knead (flour and water) \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "ja\u0303tab"
+    ],
+    "ref": "Mth. <i>ja\u0303tab</i> \u02bb to press \u02bc, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "j\u00e3\u0304tal"
+    ],
+    "ref": "Bhoj. <i>j\u00e3\u0304tal</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "ja\u0303t\u0101n\u0101"
+    ],
+    "ref": "H. <i>ja\u0303t\u0101n\u0101</i>; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "j\u0308\u00e3\u0304ta\u1e47"
+    ],
+    "ref": "M. <i>j\u0308\u00e3\u0304ta\u1e47</i> n. \u02bb handmill \u02bc."
+  }
+]

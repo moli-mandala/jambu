@@ -1,0 +1,439 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["vats\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>11239</number> <b>vats\u00e1</b><superscript>1</superscript> m. \u02bb calf, child \u02bc RV., voc. as term of endear- ment MBh., <i>vats\u0101</i> -- f., \u015a\u0101\u1e45kh\u015ar., <i>vatsaka</i> -- m. \u02bb little calf \u02bc Mn., <i>vatsik\u0101</i> -- f. \u02bb heifer \u02bc Y\u0101j\u00f1. [Orig. \u02bb yearling \u02bc and same as <smallcaps>vatsa</smallcaps> -- <superscript>2</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "vaccha",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>vaccha</i> -- m. \u02bb calf \u02bc, <i>\u02daaka</i> -- m. \u02bb little calf \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "vaccha"
+    ],
+    "ref": "Pk. <i>vaccha</i> -- m. \u02bb calf \u02bc, "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "ba\u010ba"
+    ],
+    "ref": "Tir. <i>ba\u010ba</i>, "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "w\u0101\u010b\u0259k"
+    ],
+    "ref": "ar. <i>w\u0101\u010b\u0259k</i>, "
+  },
+  {
+    "lang": "Ku\u1e5ba\u1e45gali dialect of Pashai",
+    "words": [
+      "w\u0101\u010b\u0259k"
+    ],
+    "ref": "ar. <i>w\u0101\u010b\u0259k</i>, "
+  },
+  {
+    "lang": "Areti dialect of Pashai",
+    "words": [
+      "w\u0101\u010b\u0259k"
+    ],
+    "ref": "ar. <i>w\u0101\u010b\u0259k</i>, "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "was\u0101k"
+    ],
+    "ref": "lau\u1e5b. <i>was\u0101k</i>; "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "\u0113\u010b\u012b\u0301",
+      "vatsik\u0101"
+    ],
+    "ref": "Gaw. <i>\u0113\u010b\u012b\u0301</i> f. \u02bb cow \u02bc (&lt; <i>vatsik\u0101</i> -- NOGaw 27); "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "ba\u010bh\u00e1"
+    ],
+    "ref": "Kal. <i>ba\u010bh\u00e1</i> m. \u02bb yearling calf \u02bc; "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "b\u0101s",
+      "bi\u0101s"
+    ],
+    "ref": "Tor. <i>b\u0101s</i> m., <i>bi\u0101s</i> f. \u02bb calf \u02bc, "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "b\u0101\u010bo"
+    ],
+    "ref": "Sv. <i>b\u0101\u010bo</i>, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "wo\u010bhu"
+    ],
+    "ref": "K. <i>wo\u010bh<superscript>u</superscript></i> m., "
+  },
+  {
+    "lang": "P\u01d2gul\u012b dialect of Kashmiri",
+    "words": [
+      "wo\u0306\u010b"
+    ],
+    "ref": "pog. <i>wo\u0306\u010b</i>; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "vacha"
+    ],
+    "ref": "S. <i>vacha</i> f. \u02bb buffalo calf \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "vacch",
+      "vacch\u0101",
+      "\u02dach\u012b"
+    ],
+    "ref": "L. <i>vacch</i> f. \u02bb suckling buffalo calf \u02bc, <i>vacch\u0101</i> m., <i>\u02dach\u012b</i> f. \u02bb calf, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "vacch\u0101",
+      "ba\u02da",
+      "vacch\u012b"
+    ],
+    "ref": "P. <i>vacch\u0101</i>, <i>ba\u02da</i> m., <i>vacch\u012b</i> f.; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "ba\u010bh\u012b"
+    ],
+    "ref": "bhad. <i>ba\u010bh\u012b</i> \u02bb cow \u02bc; "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "ba\u010bh\u012b"
+    ],
+    "ref": "bhad. <i>ba\u010bh\u012b</i> \u02bb cow \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "b\u0101cho"
+    ],
+    "ref": "Ku. <i>b\u0101cho</i> m. \u02bb calf \u02bc, "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "b\u0101ch"
+    ],
+    "ref": "gng. <i>b\u0101ch</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "b\u0101cho",
+      "\u02dachi"
+    ],
+    "ref": "N. <i>b\u0101cho</i> m., <i>\u02dachi</i> f.; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "b\u0101s\u0101"
+    ],
+    "ref": "A. <i>b\u0101s\u0101</i> \u02bb affectionate address to a child \u02bc; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "b\u0101ch\u0101"
+    ],
+    "ref": "B. <i>b\u0101ch\u0101</i> \u02bb calf, young of animal, dear child \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "b\u0101ch\u0101",
+      "bach\u0101",
+      "b\u0101ch\u012b"
+    ],
+    "ref": "Or. <i>b\u0101ch\u0101</i>, (Sambhalpur) <i>bach\u0101</i> \u02bb young bullock \u02bc, <i>b\u0101ch\u012b</i> \u02bb heifer calf \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "b\u0101ch\u0101",
+      "bachw\u0101",
+      "b\u0101ch\u012b",
+      "bachiy\u0101"
+    ],
+    "ref": "Bi. <i>b\u0101ch\u0101</i>, <i>bachw\u0101</i> m. \u02bb calf \u02bc, <i>b\u0101ch\u012b</i>, <i>bachiy\u0101</i> f.; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "b\u0101cch\u0101"
+    ],
+    "ref": "Mth. <i>b\u0101cch\u0101</i> \u02bb young of animal, e"
+  },
+  {
+    "lang": "Spanish dialect of European Gypsy",
+    "words": [
+      "b\u0101ch\u012b"
+    ],
+    "ref": "Bhoj. <i>b\u0101ch\u012b</i> f. \u02bb calf \u02bc, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "b\u0101ch\u012b"
+    ],
+    "ref": "Bhoj. <i>b\u0101ch\u012b</i> f. \u02bb calf \u02bc, "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "bachaw\u0101",
+      "bachiy\u0101"
+    ],
+    "ref": "lakh. <i>bachaw\u0101</i> m., <i>bachiy\u0101</i> f., "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "bachaw\u0101",
+      "bachiy\u0101"
+    ],
+    "ref": "lakh. <i>bachaw\u0101</i> m., <i>bachiy\u0101</i> f., "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "b\u0101ch\u0101",
+      "bachiy\u0101"
+    ],
+    "ref": "H. <i>b\u0101ch\u0101</i> m., <i>bachiy\u0101</i> f., "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "vass\u0101",
+      "vasu",
+      "vahu",
+      "v\u00e4ssi",
+      "u\u1e0da"
+    ],
+    "ref": "Si. <i>vass\u0101</i> (st. <i>vasu</i> -- , <i>vahu</i> -- ) m., <i>v\u00e4ssi</i> f. -- Ext. -- <i>u\u1e0da</i> -- (&lt; *<smallcaps>ku\u1e0da</smallcaps> -- <superscript>1</superscript>? -- with meaning \u02bb young of animal \u02bc e"
+  },
+  {
+    "lang": "Spanish dialect of European Gypsy",
+    "words": [
+      "wu\u010b\u00fa\u0155",
+      "wa\u010b\u00ed\u1e5b"
+    ],
+    "ref": "Kt. <i>wu\u010b\u00fa\u0155</i>, <i>wa\u010b\u00ed\u1e5b</i> \u02bb calf \u02bc, "
+  },
+  {
+    "lang": "Kafiri",
+    "words": [
+      "wu\u010b\u00fa\u0155",
+      "wa\u010b\u00ed\u1e5b"
+    ],
+    "ref": "Kt. <i>wu\u010b\u00fa\u0155</i>, <i>wa\u010b\u00ed\u1e5b</i> \u02bb calf \u02bc, "
+  },
+  {
+    "lang": "Dardic",
+    "words": [
+      "wu\u010b\u00fa\u0155",
+      "wa\u010b\u00ed\u1e5b"
+    ],
+    "ref": "Kt. <i>wu\u010b\u00fa\u0155</i>, <i>wa\u010b\u00ed\u1e5b</i> \u02bb calf \u02bc, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "wu\u010b\u00fa\u0155",
+      "wa\u010b\u00ed\u1e5b"
+    ],
+    "ref": "Kt. <i>wu\u010b\u00fa\u0155</i>, <i>wa\u010b\u00ed\u1e5b</i> \u02bb calf \u02bc, "
+  },
+  {
+    "lang": "Ni\u1e45gal\u0101m\u012b (Dard.)",
+    "words": [
+      "bu\u010b\u0259\u0303\u1e5b\u0259\u0301"
+    ],
+    "ref": "Ni\u1e45g. <i>bu\u010b\u0259\u0303\u1e5b\u0259\u0301</i>, "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "ba\u010bho\u0155\u00e4"
+    ],
+    "ref": "urt. <i>ba\u010bho\u0155\u00e4</i>, "
+  },
+  {
+    "lang": "Urtsun dialect of Kalasha",
+    "words": [
+      "ba\u010bho\u0155\u00e4"
+    ],
+    "ref": "urt. <i>ba\u010bho\u0155\u00e4</i>, "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "bi\u010dho\u0155\u0259"
+    ],
+    "ref": "rumb. <i>bi\u010dho\u0155\u0259</i> \u02bb new -- born calf \u02bc; "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "b\u0103\u010bh\u1e53",
+      "b",
+      "\u010b\u014d\u012b"
+    ],
+    "ref": "koh. <i>b\u0103\u010bh\u1e53</i> m., (Lor.) <i>b</i><at>*l</at><i>\u010b\u014d\u012b</i> f., "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "b\u0103\u010bh\u1e53",
+      "b",
+      "\u010b\u014d\u012b"
+    ],
+    "ref": "koh. <i>b\u0103\u010bh\u1e53</i> m., (Lor.) <i>b</i><at>*l</at><i>\u010b\u014d\u012b</i> f., "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "b\u0103\u010bh\u1e53",
+      "b",
+      "\u010b\u014d\u012b"
+    ],
+    "ref": "koh. <i>b\u0103\u010bh\u1e53</i> m., (Lor.) <i>b</i><at>*l</at><i>\u010b\u014d\u012b</i> f., "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "b\u0103\u010bh\u00f3u"
+    ],
+    "ref": "gur. <i>b\u0103\u010bh\u00f3u</i> m., "
+  },
+  {
+    "lang": "Pales\u012b dialect of Shina",
+    "words": [
+      "ba\u010bo\u1e5bo"
+    ],
+    "ref": "pales. <i>ba\u010bo\u1e5bo</i>, "
+  },
+  {
+    "lang": "Jijelut dialect of Shina",
+    "words": [
+      "b",
+      "\u010b\u0254\u0301\u1e5b\u0254"
+    ],
+    "ref": "jij. <i>b</i><at>*l</at><i>\u010b\u0254\u0301\u1e5b\u0254</i>, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "wa\u010bhoru",
+      "wa\u010bhar",
+      "wa\u010bh\u00fcr\u00fc"
+    ],
+    "ref": "K. <i>wa\u010bhor<superscript>u</superscript></i> m., <i>wa\u010bh<superscript>a</superscript>r</i>, <i>wa\u010bh\u00fcr<superscript>\u00fc</superscript></i> f., "
+  },
+  {
+    "lang": "\u1e0co\u1e0d\u012b (Sir\u0101j\u012b of \u1e0co\u1e0d\u0101), a dialect of Kashmiri in Jammu",
+    "words": [
+      "ba\u010bu\u1e5b\u014d"
+    ],
+    "ref": "\u1e0do\u1e0d. <i>ba\u010bu\u1e5b\u014d</i> m., "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "b\u00e1\u010bhu\u1e5b"
+    ],
+    "ref": "bhal. <i>b\u00e1\u010bhu\u1e5b</i> n. -- "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "b\u00e1\u010bhu\u1e5b"
+    ],
+    "ref": "bhal. <i>b\u00e1\u010bhu\u1e5b</i> n. -- "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "b",
+      "\u010d\u014d\u1e6do"
+    ],
+    "ref": "\u1e0c. <i>b</i><at>*l</at><i>\u010d\u014d\u1e6do</i> m. -- "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "ba\u010d\u1e17\u1e47",
+      "vatsan\u012b"
+    ],
+    "ref": "Wo\u1e6d. <i>ba\u010d\u1e17\u1e47</i> f. \u02bb calf \u02bc &lt; *<i>vatsan\u012b</i> -- (cf. "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "b\u0101chni",
+      "b\u0101ch\u0101",
+      "ba\u010d\u1e53\u1e47",
+      "\u010bh",
+      "c\u0323h"
+    ],
+    "ref": "B. <i>b\u0101chni</i> f. of <i>b\u0101ch\u0101</i> above) whence <i>ba\u010d\u1e53\u1e47</i> m. -- <i>\u010bh</i> assim. to <i>c\u0323h</i> in "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "bac\u0323ho\u0155\u012b",
+      "bac\u0323ho"
+    ],
+    "ref": "Dm. <i>bac\u0323ho\u0155\u012b</i> f. \u02bb newborn calf \u02bc (after which <i>bac\u0323ho</i> m.); "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "bac\u0323h\u00f3\u1e37"
+    ],
+    "ref": "Kho. <i>bac\u0323h\u00f3\u1e37</i> \u02bb calf \u02bc BelvalkarVol 87, "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "bac\u0323h\u016b\u1e5bu"
+    ],
+    "ref": "Phal. <i>bac\u0323h\u016b\u1e5bu</i> m.f. -- X <smallcaps>uk\u1e63\u00e1n</smallcaps> -- <superscript>1</superscript> q.v."
+  }
+]

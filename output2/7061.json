@@ -1,0 +1,38 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "n\u0101\u02capi",
+    "ref": "<html><body><number>7061</number> <b>n\u0101\u02capi</b> \u02bb not \u02bc. [<smallcaps>n\u00e1, \u00e1pi</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "na",
+      "n\u0101pi"
+    ],
+    "ref": "Pa. <i>na</i> . . . <i>n\u0101pi</i> \u02bb neither . . . nor \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "\u1e47avi",
+      "\u1e47a\u00ef",
+      "\u1e47\u0101i\u1e41"
+    ],
+    "ref": "Pk. <i>\u1e47avi</i>, <i>\u1e47a\u00ef</i>, <i>\u1e47\u0101i\u1e41</i>, O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "navi"
+    ],
+    "ref": "G. <i>navi</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "nav."
+    ],
+    "ref": "G. (poet.) <i>nav.</i>"
+  }
+]

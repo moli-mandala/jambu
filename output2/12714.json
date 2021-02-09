@@ -1,0 +1,52 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "\u015brut\u00e1",
+    "ref": "<html><body><number>12714</number> <b>\u015brut\u00e1</b> \u02bb heard \u02bc RV. [\u221a<smallcaps>\u015bru</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "suta"
+    ],
+    "ref": "Pa. <i>suta</i> -- \u02bb heard \u02bc, "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "\u015bruda",
+      "\u015brudemi",
+      "\u015bruta\u1e41ti"
+    ],
+    "ref": "NiDoc. <i>\u015bruda</i>, 1 sg. pret. <i>\u015brudemi</i>, 3 pl. <i>\u015bruta\u1e41ti</i>, "
+  },
+  {
+    "lang": "MIA. forms occurring in Corpus Inscriptionum Indicarum Vol. II Pt. 1",
+    "words": [
+      "\u1e63uta"
+    ],
+    "ref": "KharI. <i>\u1e63uta</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "sua"
+    ],
+    "ref": "Pk. <i>sua</i> -- , "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "str\u016b"
+    ],
+    "ref": "Tir. <i>str\u016b</i> -- \u02bb to hear \u02bc AO xii 187, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "suo",
+      "su\u1e47a\u1e47u"
+    ],
+    "ref": "S. <i>suo</i> pp. of <i>su\u1e47a\u1e47u</i> &lt; <smallcaps>\u015br\u0325\u1e47\u1e53ti.</smallcaps><div>\u00a0\u00a0\t\t\t</div></body></html>"
+  }
+]

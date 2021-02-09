@@ -1,0 +1,113 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["\u00e1lpa"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>722</number> <b>\u00e1lpa</b> \u02bb small \u02bc AV., <i>alpak\u00e1m</i> \u02bb a little \u02bc \u015aBr."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "appa",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>appa</i> -- , <i>\u02daaka</i> -- , "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "apa"
+    ],
+    "ref": "A\u015b. <i>apa</i> -- , "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "alpa"
+    ],
+    "ref": "NiDoc. <i>alpa</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "appa",
+      "\u02daaga"
+    ],
+    "ref": "Pk. <i>appa</i> -- , <i>\u02daaga</i> -- ; "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "\u0101p\u016d"
+    ],
+    "ref": "Sh. <i>\u0101p\u016d</i> \u02bb little, few \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "opu"
+    ],
+    "ref": "K. <i>op<superscript>u</superscript></i> \u02bb mean, of low degree \u02bc; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "\u0101p\u0101",
+      "\u0101pi"
+    ],
+    "ref": "A. <i>\u0101p\u0101</i> \u02bb boy \u02bc, <i>\u0101pi</i> \u02bb girl \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "\u00e4p",
+      "la"
+    ],
+    "ref": "Si. <i>\u00e4p</i> \u02bb small \u02bc. -- Ext. with -- <i>la</i> -- : "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "ap\u0259l\u1e17k",
+      "\u00e1pal\u00e4",
+      "\u02dal\u012b"
+    ],
+    "ref": "Ash. <i>ap\u0259l\u1e17k</i> \u02bb little, few \u02bc, <i>\u00e1pal\u00e4</i>, f. <i>\u02dal\u012b</i> \u02bb bad \u02bc, "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "apil\u00fak"
+    ],
+    "ref": "Wg. <i>apil\u00fak</i> \u02bb little, few \u02bc; "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "apil",
+      "ra"
+    ],
+    "ref": "Gaw. <i>apil</i><at>*l</at> \u02bb few \u02bc; -- with -- <i>ra</i> -- : "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "apr\u0101",
+      "\u1e0da"
+    ],
+    "ref": "M. <i>apr\u0101</i> \u02bb short, short -- nosed \u02bc; -- perh. with -- <i>\u1e0da</i> -- : "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "eipa\u1e5bo"
+    ],
+    "ref": "bhal. <i>eipa\u1e5bo</i> m. \u02bb stunted bullock \u02bc."
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "eipa\u1e5bo"
+    ],
+    "ref": "bhal. <i>eipa\u1e5bo</i> m. \u02bb stunted bullock \u02bc."
+  }
+]

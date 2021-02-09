@@ -1,0 +1,70 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["d\u0101\u1e41\u1e63\u1e6dra"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>6250</number> *<b>d\u0101\u1e41\u1e63\u1e6dra</b> \u02bb fang, tusk, beard \u02bc. [<i>d\u00e1\u1e41\u1e63\u1e6dra</i> -- n. \u02bb tusk, fang \u02bc RV., <i>da\u1e41\u1e63\u1e6dr\u0101</i> -- f. P\u0101\u1e47. MBh.; <i>da\u1e41\u1e63\u1e6drik\u0101</i> -- f. \u02bb tusk, beard \u02bc lex.; <i>d\u0101\u1e0dh\u0101</i> -- f. \u02bb tusk \u02bc lex., <i>d\u0101\u1e0dhik\u0101</i> -- f. \u02bb beard \u02bc Mn., <i>d\u0101\u1e0daka</i> -- m. \u02bb tooth \u02bc lex. Semant. development \u02bb fang -- tusk -- beard \u02bc is possible (Rivet BSL 83, 143). But MIA. <i>d\u0101\u1e6dh\u0101</i> -- &lt; <i>da\u1e41\u1e63\u1e6dr\u0101</i> -- is phonet. difficult. On the other hand *<i>d\u0101\u1e41\u1e63\u1e6dra</i> -- (with vr\u0325ddhi -- formation meaning \u02bb pertaining to or collection of fangs \u02bc (cf. A. <i>d\u0101r</i> below) &gt; \u02bb fang \u02bc, cf. Wackernagel AiGr ii 2, 130 and 132) would in MIA. become NWPk. *<i>d\u0101\u1e6d\u1e6dha</i> -- (in S. P. WPah. below), central <i>da\u1e41\u1e6dha</i> -- , <i>da\u1e6d\u1e6dha</i> -- , amg. <i>d\u0101\u1e6dha</i> -- , <i>d\u0101\u1e0dha</i> -- (with simplification of consonant -- group after orig. IA. long vowel), spread of which at the cost of <i>da\u1e6d\u1e6dha</i> -- was favoured by clash of the latter with <i>da\u1e6d\u1e6dha</i> -- &lt; <smallcaps>da\u1e63\u1e6da</smallcaps>&lt;-&gt; and <smallcaps>dr\u0325\u1e63\u1e6d\u00e1</smallcaps> -- . Possibility of further Drav. (J. Bloch BSOS v 741) or Mu. (PMWS 63) influence cannot be excluded. -- \u221a<smallcaps>da\u1e41\u015b</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "da\u1e6d\u1e6dh\u0101"
+    ],
+    "ref": "Pa. <i>da\u1e6d\u1e6dh\u0101</i> -- f. \u02bb large tooth, fang, tusk \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "da\u1e41\u1e6dh\u0101"
+    ],
+    "ref": "Pk. <i>da\u1e41\u1e6dh\u0101</i> -- f. \u02bb fang \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "\u1e0d\u0320\u0101\u1e6dha"
+    ],
+    "ref": "S. <i>\u1e0d\u0320\u0101\u1e6dha</i> f. \u02bb molar \u02bc, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "d\u0101\u1e6dh\u0101"
+    ],
+    "ref": "pow. <i>d\u0101\u1e6dh\u0101</i> m.; "
+  },
+  {
+    "lang": "Po\u0304w\u0101dh\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "d\u0101\u1e6dh\u0101"
+    ],
+    "ref": "pow. <i>d\u0101\u1e6dh\u0101</i> m.; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u1e0d\u0101\u1e6dho"
+    ],
+    "ref": "jaun. <i>\u1e0d\u0101\u1e6dho</i> \u02bb jaw \u02bc; -- "
+  },
+  {
+    "lang": "Jauns\u0101r\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u1e0d\u0101\u1e6dho"
+    ],
+    "ref": "jaun. <i>\u1e0d\u0101\u1e6dho</i> \u02bb jaw \u02bc; -- "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "da\u1e41\u1e6dhi"
+    ],
+    "ref": "Pk. <i>da\u1e41\u1e6dhi</i> -- \u02bb having big fangs \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "\u1e0d\u0320\u0101\u1e6dhiru"
+    ],
+    "ref": "S. <i>\u1e0d\u0320\u0101\u1e6dhiru</i> \u02bb tusked \u02bc."
+  }
+]

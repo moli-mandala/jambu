@@ -1,0 +1,155 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "da\u015bam\u00e1",
+    "ref": "<html><body><number>6233</number> <b>da\u015bam\u00e1</b> \u02bb tenth \u02bc RV."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "dasama"
+    ],
+    "ref": "Pk. <i>dasama</i> -- , "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "dasama"
+    ],
+    "ref": "Pk. <i>dasama</i> -- , "
+  },
+  {
+    "lang": "MIA. forms occurring in Corpus Inscriptionum Indicarum Vol. II Pt. 1",
+    "words": [
+      "da\u015bama"
+    ],
+    "ref": "KharI. <i>da\u015bama</i> -- , "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "da\u0161\u0259\u0301m;"
+    ],
+    "ref": "Wo\u1e6d. <i>da\u0161\u0259\u0301m;</i> "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "da\u0161ama"
+    ],
+    "ref": "Gaw. <i>da\u0161ama</i> \u02bb on the tenth day \u02bc; "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "da\u0161o\u0304\u0303"
+    ],
+    "ref": "ky. <i>da\u0161o\u0304\u0303</i> \u02bb tenth \u02bc, "
+  },
+  {
+    "lang": "Kanyaw\u0101l\u012b dialect of Maiy\u00e3\u0304",
+    "words": [
+      "da\u0161o\u0304\u0303"
+    ],
+    "ref": "ky. <i>da\u0161o\u0304\u0303</i> \u02bb tenth \u02bc, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "dahyumu"
+    ],
+    "ref": "K. <i>dahyum<superscript>u</superscript></i>, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "\u1e0d\u0320ah\u00f5"
+    ],
+    "ref": "S. <i>\u1e0d\u0320ah\u00f5</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "d\u0101hv\u00e3\u0304"
+    ],
+    "ref": "L. <i>d\u0101hv\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "d\u0101\u02cbv\u00e3\u0304"
+    ],
+    "ref": "aw\u0101\u1e47. <i>d\u0101\u02cbv\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "dasv\u00e3\u0304",
+      "dasm\u00e3\u0304"
+    ],
+    "ref": "P. <i>dasv\u00e3\u0304</i>, <i>dasm\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "da\u015bau\u0303"
+    ],
+    "ref": "bhad. <i>da\u015bau\u0303</i>, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "da\u015bau\u0303"
+    ],
+    "ref": "bhad. <i>da\u015bau\u0303</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "da\u015b\u015bau\u0303"
+    ],
+    "ref": "bhal. <i>da\u015b\u015bau\u0303</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "dasau\u0303"
+    ],
+    "ref": "N. <i>dasau\u0303</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "dasu\u0101\u1e37a"
+    ],
+    "ref": "Or. <i>dasu\u0101\u1e37a</i>, O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "dasau\u1e41"
+    ],
+    "ref": "Aw. <i>dasau\u1e41</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "dasw\u00e3\u0304"
+    ],
+    "ref": "H. <i>dasw\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "dasmu\u0303"
+    ],
+    "ref": "G. <i>dasmu\u0303</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "dah\u0101v\u0101."
+    ],
+    "ref": "M. <i>dah\u0101v\u0101.</i>"
+  }
+]

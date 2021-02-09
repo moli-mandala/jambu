@@ -1,0 +1,241 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "saty\u00e1 -- :",
+    "ref": "<html><body><number>13112</number> <b>saty\u00e1 -- :</b> <i>sacco</i> \u02bb true \u02bc. <p></p></body></html>"
+  },
+  {
+    "lang": "Indo-Aryan",
+    "words": "saty\u00e1",
+    "ref": "<html><body><number>13112</number> <b>saty\u00e1</b> \u02bb true \u02bc, n. \u02bb truth \u02bc RV., \u02bb promise \u02bc AV., <i>satyaka</i>&lt;-&gt; W. [<smallcaps>s\u00e1nt -- </smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "sacca"
+    ],
+    "ref": "Pa. <i>sacca</i> -- \u02bb true \u02bc, n. \u02bb truth \u02bc, "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "saca"
+    ],
+    "ref": "A\u015b. <i>saca</i> -- n.; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "sacca",
+      "tacca"
+    ],
+    "ref": "Pk. <i>sacca</i>&lt;-&gt; n. \u02bb truth, oath \u02bc, <i>tacca</i> -- \u02bb true \u02bc (X <smallcaps>tathya -- </smallcaps>); "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "\u010da\u010do"
+    ],
+    "ref": "eur. <i>\u010da\u010do</i> \u02bb true \u02bc, "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "\u010da\u010do"
+    ],
+    "ref": "eur. <i>\u010da\u010do</i> \u02bb true \u02bc, "
+  },
+  {
+    "lang": "English dialect of European Gypsy",
+    "words": [
+      "ta\u010do",
+      "\u010da\u010do",
+      "tathya"
+    ],
+    "ref": "wel. <i>ta\u010do</i> dissim. &lt; <i>\u010da\u010do</i> rather than with Rep<superscript>1</superscript> 64 &lt; <i>tathya</i> -- ); "
+  },
+  {
+    "lang": "Welsh dialect of European Gypsy",
+    "words": [
+      "ta\u010do",
+      "\u010da\u010do",
+      "tathya"
+    ],
+    "ref": "wel. <i>ta\u010do</i> dissim. &lt; <i>\u010da\u010do</i> rather than with Rep<superscript>1</superscript> 64 &lt; <i>tathya</i> -- ); "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "s",
+      "\u010d\u0259"
+    ],
+    "ref": "Bshk. <i>s</i><at>*l</at><i>\u010d\u0259</i> \u02bb truth \u02bc, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "sa\u01f0"
+    ],
+    "ref": "Tor. <i>sa\u01f0</i>, "
+  },
+  {
+    "lang": "Gauro (Dard.)",
+    "words": [
+      "s\u0101\u010be"
+    ],
+    "ref": "Gau. <i>s\u0101\u010be</i>; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "sacu",
+      "\u02daco"
+    ],
+    "ref": "S. <i>sacu</i> \u02bb true \u02bc, m. \u02bb truth \u02bc, <i>\u02daco</i> \u02bb true \u02bc, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "sacc",
+      "sacc\u0101"
+    ],
+    "ref": "L. <i>sacc</i> f., <i>sacc\u0101</i> adj., "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "sacc",
+      "sacc\u0101"
+    ],
+    "ref": "P. <i>sacc</i> m., <i>sacc\u0101</i>; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sa\u010b"
+    ],
+    "ref": "bhad. <i>sa\u010b</i> n., "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sa\u010b"
+    ],
+    "ref": "bhad. <i>sa\u010b</i> n., "
+  },
+  {
+    "lang": "Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sa\u010b\u010b"
+    ],
+    "ref": "kha\u015b. <i>sa\u010b\u010b</i>; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "s\u00e3\u0304c",
+      "s\u00e3\u0304co"
+    ],
+    "ref": "Ku. <i>s\u00e3\u0304c</i> \u02bb true \u02bc, <i>s\u00e3\u0304co</i> \u02bb truthful \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "s\u00e3\u0304co"
+    ],
+    "ref": "N. <i>s\u00e3\u0304co</i> \u02bb true \u02bc, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "xa\u0303s\u0101"
+    ],
+    "ref": "A. <i>xa\u0303s\u0101</i>; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "s\u00e3\u0304c",
+      "s\u00e3\u0304c\u0101"
+    ],
+    "ref": "B. <i>s\u00e3\u0304c</i> \u02bb truth \u02bc, <i>s\u00e3\u0304c\u0101</i> \u02bb true \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "s\u0101c\u0101",
+      "s\u00e3\u0304c\u0101",
+      "ch\u0101c\u0101",
+      "chac\u0101"
+    ],
+    "ref": "Or. <i>s\u0101c\u0101</i>, <i>s\u00e3\u0304c\u0101</i>, <i>ch\u0101c\u0101</i>, <i>chac\u0101</i> \u02bb truthful \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "s\u00e3\u0304c"
+    ],
+    "ref": "Mth. <i>s\u00e3\u0304c</i> \u02bb true \u02bc; "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "s\u0101c"
+    ],
+    "ref": "Bhoj. <i>s\u0101c</i> \u02bb true, truth \u02bc; "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "s\u00e3\u0304cu"
+    ],
+    "ref": "lakh. <i>s\u00e3\u0304c<superscript>u</superscript></i> \u02bb true \u02bc; "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "s\u00e3\u0304cu"
+    ],
+    "ref": "lakh. <i>s\u00e3\u0304c<superscript>u</superscript></i> \u02bb true \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "s\u0101c",
+      "s\u00e3\u0304c\u0101",
+      "sacc\u0101"
+    ],
+    "ref": "H. <i>s\u0101c</i> \u02bb true \u02bc, m. \u02bb truth \u02bc, <i>s\u00e3\u0304c\u0101</i>, <i>sacc\u0101</i> \u02bb true \u02bc, "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "s\u0101co"
+    ],
+    "ref": "Marw. <i>s\u0101co</i>; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "s\u0101c",
+      "s\u0101cu\u0303"
+    ],
+    "ref": "G. <i>s\u0101c</i> n., <i>s\u0101cu\u0303</i> \u02bb true \u02bc, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "s\u0101\u010b",
+      "s\u00e3\u0304\u010b\u0101"
+    ],
+    "ref": "M. <i>s\u0101\u010b</i>, <i>s\u00e3\u0304\u010b\u0101</i>; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "sasa",
+      "sas"
+    ],
+    "ref": "Si. <i>sasa</i> \u02bb truth \u02bc, (SigGr) <i>sas</i> \u02bb oath \u02bc."
+  }
+]

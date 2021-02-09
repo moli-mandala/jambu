@@ -1,0 +1,56 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["pa\u1e6da"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>7692</number> <b>pa\u1e6da</b> m. \u02bb woven cloth \u02bc MBh., <i>\u02daaka</i> -- m., <i>pa\u1e6dik\u0101</i> -- f. lex., <i>pa\u1e6d\u012b\u02ca</i> -- f. P\u0101\u1e47.ga\u1e47a. [Cf. <smallcaps>pa\u1e6d\u1e6da -- <superscript>2</superscript>, pa\u1e6d\u1e6da -- <superscript>3</superscript>, *palla -- <superscript>3</superscript>, pallava</smallcaps> -- <superscript>2</superscript>. -- Prob. with <smallcaps>karpa\u1e6da</smallcaps> -- and <smallcaps>karp\u0101sa</smallcaps> -- \u2190 Austro -- as. J. Przyluski BSL xxv 70; less likely with A. Master BSOAS xi 302 \u2190 Drav.]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "pa\u1e6da",
+      "\u02da\u1e6di",
+      "\u02da\u1e6dik\u0101"
+    ],
+    "ref": "Pa. <i>pa\u1e6da</i> -- m., <i>\u02da\u1e6di</i> -- , <i>\u02da\u1e6dik\u0101</i> -- f. \u02bb cloth, garment \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "pa\u1e0da",
+      "\u02da\u1e0d\u012b",
+      "\u02da\u1e0diy\u0101"
+    ],
+    "ref": "Pk. <i>pa\u1e0da</i>&lt;-&gt; m. \u02bb cloth \u02bc, <i>\u02da\u1e0d\u012b</i> -- , <i>\u02da\u1e0diy\u0101</i> -- f. \u02bb a kind of garment \u02bc; "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "pa\u1e5b\u012bk"
+    ],
+    "ref": "Wg. <i>pa\u1e5b\u012bk</i> \u02bb shawl \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "pa\u1e5bu",
+      "pa\u1e5bo"
+    ],
+    "ref": "S. <i>pa\u1e5bu</i> m. \u02bb covering of cloth for a saint's grave \u02bc, <i>pa\u1e5bo</i> m. \u02bb petticoat \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "pa\u1e37a",
+      "pala",
+      "pi\u1e37iya"
+    ],
+    "ref": "Si. <i>pa\u1e37a</i>, <i>pala</i> \u02bb cloth, garment \u02bc, <i>pi\u1e37iya</i> \u02bb cloth, clothes \u02bc; "
+  },
+  {
+    "lang": "or mald. Maldivian dialect of Sinhalese",
+    "words": [
+      "feli"
+    ],
+    "ref": "Md. <i>feli</i> \u02bb cotton cloth \u02bc."
+  }
+]

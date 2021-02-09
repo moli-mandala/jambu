@@ -1,0 +1,56 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["svaka"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>13894</number> <b>svaka</b> \u02bb one's own \u02bc, m. \u02bb kinsman, friend \u02bc Mn. [<smallcaps>sv\u00e1</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "saka"
+    ],
+    "ref": "Pa. <i>saka</i> -- \u02bb one's own \u02bc, "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "spa",
+      "kaspi"
+    ],
+    "ref": "shah. <i>spa</i>(<i>kaspi</i>)?, "
+  },
+  {
+    "lang": "Sh\u0101hb\u0101zga\u1e5bh\u012b Rock Inscription of A\u015boka",
+    "words": [
+      "spa",
+      "kaspi"
+    ],
+    "ref": "shah. <i>spa</i>(<i>kaspi</i>)?, "
+  },
+  {
+    "lang": "G\u0101ndh\u0101r\u012b or Northwest Prakrit (as recorded in the Dharmapada ed. J. Brough, Oxford 1962)",
+    "words": [
+      "svaka",
+      "svakatha",
+      "svaka -- artha"
+    ],
+    "ref": "Dhp. <i>svaka</i> -- in <i>svakatha</i> (<i>svaka -- artha</i> -- ), "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "saga",
+      "saya",
+      "saa"
+    ],
+    "ref": "Pk. <i>saga</i> -- , <i>saya</i> -- , <i>saa</i> -- ; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "siya",
+      "siy\u0101"
+    ],
+    "ref": "Si. <i>siya</i> \u02bb one's own \u02bc, <i>siy\u0101</i> \u02bb kinsman \u02bc (or &lt; <smallcaps>saj\u0101ta</smallcaps> -- )."
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["tapt\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>5679</number> <b>tapt\u00e1</b> \u02bb heated, hot \u02bc RV. [\u221a<smallcaps>tap</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "tatta",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>tatta</i> -- , <i>\u02daaka</i> -- \u02bb hot, burning \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "tatta"
+    ],
+    "ref": "Pk. <i>tatta</i> -- , "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "t\u00e1t\u0103"
+    ],
+    "ref": "pal. <i>t\u00e1t\u0103</i>, "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "t\u00e1t\u0103"
+    ],
+    "ref": "pal. <i>t\u00e1t\u0103</i>, "
+  },
+  {
+    "lang": "Armenian dialect of Gypsy",
+    "words": [
+      "tatav"
+    ],
+    "ref": "arm. <i>tatav</i>, "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "tato"
+    ],
+    "ref": "eur. <i>tato</i>, "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "t",
+      "ta",
+      "\u02dati"
+    ],
+    "ref": "\u1e0c. <i>t</i><at>*l/</at><i>ta</i>, f. <i>\u02dati</i>, "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "t\u00e1ta"
+    ],
+    "ref": "Tir. <i>t\u00e1ta</i>, "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "tat",
+      "tyet"
+    ],
+    "ref": "Wo\u1e6d. <i>tat</i>, f. <i>tyet</i>, "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "t",
+      "tt",
+      "t",
+      "tt"
+    ],
+    "ref": "Bshk. <i>t</i><at>*l</at><i>tt</i>, f. <i>t</i><at>e</at><i>tt</i>, "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "t\u0101to",
+      "\u02dati"
+    ],
+    "ref": "Phal. <i>t\u0101to</i>, f. <i>\u02dati</i>, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "t\u0101t\u1e77"
+    ],
+    "ref": "gil. <i>t\u0101t\u1e77</i>, "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "t\u0101t\u1e77"
+    ],
+    "ref": "gil. <i>t\u0101t\u1e77</i>, "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "t\u0103to"
+    ],
+    "ref": "koh. <i>t\u0103to</i>, "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "t\u0101tt\u016d"
+    ],
+    "ref": "gur. <i>t\u0101tt\u016d</i>, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "totu"
+    ],
+    "ref": "K. <i>tot<superscript>u</superscript></i>, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "tato",
+      "tapa\u1e47u"
+    ],
+    "ref": "S. <i>tato</i> (pp. of <i>tapa\u1e47u</i>), "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "tatt\u0101",
+      "tappa\u1e47"
+    ],
+    "ref": "L. <i>tatt\u0101</i> (pp. of <i>tappa\u1e47</i>), "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "tatt\u0101"
+    ],
+    "ref": "P. <i>tatt\u0101</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "tatt\u016b"
+    ],
+    "ref": "bhad. <i>tatt\u016b</i>, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "tatt\u016b"
+    ],
+    "ref": "bhad. <i>tatt\u016b</i>, "
+  },
+  {
+    "lang": "P\u0101\u1e0dar\u012b sub-dialect of Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "t\u0101tt\u0101"
+    ],
+    "ref": "p\u0101\u1e0d. <i>t\u0101tt\u0101</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "tatt\u0101"
+    ],
+    "ref": "cur. <i>tatt\u0101</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "t\u0101to"
+    ],
+    "ref": "Ku. <i>t\u0101to</i>, "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "t\u0101t"
+    ],
+    "ref": "gng. <i>t\u0101t</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "t\u0101to"
+    ],
+    "ref": "N. <i>t\u0101to</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "t\u0101t"
+    ],
+    "ref": "B. <i>t\u0101t</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "tat\u0101"
+    ],
+    "ref": "Or. <i>tat\u0101</i>, O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "t\u0101t\u0101"
+    ],
+    "ref": "Aw. <i>t\u0101t\u0101</i>, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "t\u0101t"
+    ],
+    "ref": "lakh. <i>t\u0101t</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "t\u0101t",
+      "t\u0101t\u0101",
+      "tatt\u0101"
+    ],
+    "ref": "H. <i>t\u0101t</i>, <i>t\u0101t\u0101</i>, <i>tatt\u0101</i>, "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "t\u0101to"
+    ],
+    "ref": "Marw. <i>t\u0101to</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "t\u0101tu\u0303."
+    ],
+    "ref": "G. <i>t\u0101tu\u0303.</i> -- Verbal pres. stems formed from past participle: "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "tatun"
+    ],
+    "ref": "K. <i>tatun</i> \u02bb to become hot \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "tato\u1e47o"
+    ],
+    "ref": "Ku. <i>tato\u1e47o</i> \u02bb to warm \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "t\u0101tnu",
+      "t\u0101tinu",
+      "tat\u0101unu"
+    ],
+    "ref": "N. <i>t\u0101tnu</i>, <i>t\u0101tinu</i> \u02bb to be hot, be energetic \u02bc, <i>tat\u0101unu</i> \u02bb to warm \u02bc; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "t\u0101t\u0101",
+      "t\u0101t\u0101na"
+    ],
+    "ref": "B. <i>t\u0101t\u0101</i> \u02bb to be heated \u02bc, <i>t\u0101t\u0101na</i> \u02bb to heat \u02bc, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "t\u0101tib\u0101",
+      "t\u0101teib\u0101"
+    ],
+    "ref": "Or. <i>t\u0101tib\u0101</i>, <i>t\u0101teib\u0101</i>; "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "t\u0101tal"
+    ],
+    "ref": "Bhoj. <i>t\u0101tal</i> \u02bb to be hot \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "tat\u0101n\u0101"
+    ],
+    "ref": "H. <i>tat\u0101n\u0101</i> \u02bb to heat \u02bc; -- "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "t\u0101ta\u0304\u0306v\u1e47\u1ebd",
+      "ll"
+    ],
+    "ref": "M. <i>t\u0101ta\u0304\u0306v\u1e47\u1ebd</i> \u02bb to be worried \u02bc (LM 346) rather &lt; <smallcaps>t\u0101nta</smallcaps> -- . -- Ext. -- <i>ll</i> -- : "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "t\u0101tal"
+    ],
+    "ref": "B. <i>t\u0101tal</i> \u02bb hot, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "t\u0101tal\u0101",
+      "\u02datil\u0101"
+    ],
+    "ref": "Or. <i>t\u0101tal\u0101</i>, <i>\u02datil\u0101</i>, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "t\u0101t"
+    ],
+    "ref": "H. <i>t\u0101t"
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "t\u0101t"
+    ],
+    "ref": "H. <i>t\u0101t"
+  }
+]

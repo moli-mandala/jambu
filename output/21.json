@@ -1,0 +1,76 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["\u00e1k\u1e63a"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>21</number> <b>\u00e1k\u1e63a</b><superscript>1</superscript> m. \u02bb axle \u02bc RV., \u02bb collar -- bone \u02bc \u015aBr., \u02bb temporal bone \u02bc Y\u0101j\u00f1., <i>ak\u1e63aka</i> -- m.n. \u02bb collar -- bone \u02bc Su\u015br. [Perh. conn. <smallcaps>\u00e1k\u1e63u</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "akkha",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>akkha</i> -- m. \u02bb axle \u02bc, <i>\u02daaka</i> -- m. \u02bb collar-bone \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "akkha"
+    ],
+    "ref": "Pk. <i>akkha</i>&lt;-&gt; m. \u02bb collar-bone \u02bc, "
+  },
+  {
+    "lang": "MIA. forms occurring in Corpus Inscriptionum Indicarum Vol. II Pt. 1",
+    "words": [
+      "akha"
+    ],
+    "ref": "KharI. <i>akha</i> -- ; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "akha"
+    ],
+    "ref": "Or. <i>akha</i> \u02bb axle-tree \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "akhaut",
+      "akhaut\u0101"
+    ],
+    "ref": "Bi. <i>akhaut</i> \u02bb axle of grain -- husker \u02bc, <i>akhaut\u0101</i> \u02bb do. of brick -- crusher \u02bc (+ ?); "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "\u00e3\u0304k"
+    ],
+    "ref": "G. <i>\u00e3\u0304k</i> m. \u02bb axle \u02bc, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "\u0101s",
+      "\u00e3\u0304s"
+    ],
+    "ref": "M. <i>\u0101s</i>, <i>\u00e3\u0304s</i> m. \u02bb axle, temple of head \u02bc (\u2192 "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "\u00e3\u0304s",
+      "\u00e3\u0304kh"
+    ],
+    "ref": "G. <i>\u00e3\u0304s</i> m. \u02bb axis \u02bc), <i>\u00e3\u0304kh</i> m. \u02bb axle \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "aka",
+      "akuva",
+      "ak\u1e63aka"
+    ],
+    "ref": "Si. <i>aka</i> \u02bb axle \u02bc, <i>akuva</i> \u02bb collar -- bone \u02bc (&lt; <i>ak\u1e63aka</i> -- Geiger GS 30)."
+  }
+]

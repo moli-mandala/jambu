@@ -1,0 +1,31 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["path\u00ed"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>7744</number> <b>path\u00ed</b> \u02bb path \u02bc RV. [<smallcaps>p\u00e1nth\u0101</smallcaps> -- ]"
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "paih\u1e5b\u0101"
+    ],
+    "ref": "P. <i>paih\u1e5b\u0101</i> m. \u02bb path \u02bc, "
+  },
+  {
+    "lang": "\u1e0cogr\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "p"
+    ],
+    "ref": "\u1e0dog. <i>p</i><at>e_</at> m. -- Altern. &lt; *<smallcaps>padav\u012bthi</smallcaps> -- or *<smallcaps>padapatha</smallcaps> -- : "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "pahi\u0101",
+      "paih\u0101",
+      "pah\u0113\u0101",
+      "p\u0113h\u0101"
+    ],
+    "ref": "P. <i>pahi\u0101</i>, <i>paih\u0101</i>, <i>pah\u0113\u0101</i>, <i>p\u0113h\u0101</i> m."
+  }
+]

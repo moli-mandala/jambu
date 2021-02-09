@@ -1,0 +1,210 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "supt\u00e1",
+    "ref": "<html><body><number>13479</number> <b>supt\u00e1</b> \u02bb asleep \u02bc VS., \u02bb lain down to sleep \u02bc R. [\u221a<smallcaps>svap</smallcaps><superscript>1</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "sutta"
+    ],
+    "ref": "Pa. <i>sutta</i> -- \u02bb asleep \u02bc, n. \u02bb sleep \u02bc; "
+  },
+  {
+    "lang": "G\u0101ndh\u0101r\u012b or Northwest Prakrit (as recorded in the Dharmapada ed. J. Brough, Oxford 1962)",
+    "words": [
+      "sutu"
+    ],
+    "ref": "Dhp. <i>sutu</i> \u02bb asleep \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "sutta"
+    ],
+    "ref": "Pk. <i>sutta</i> -- \u02bb asleep, lying down \u02bc; "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "suto"
+    ],
+    "ref": "eur. <i>suto</i> \u02bb asleep \u02bc, "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "suto"
+    ],
+    "ref": "eur. <i>suto</i> \u02bb asleep \u02bc, "
+  },
+  {
+    "lang": "Armenian dialect of Gypsy",
+    "words": [
+      "sutav"
+    ],
+    "ref": "arm. <i>sutav</i> \u02bb sleep \u02bc, "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "sit\u0103"
+    ],
+    "ref": "pal. <i>sit\u0103</i> pret. \u02bb slept \u02bc, "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "sotis"
+    ],
+    "ref": "\u1e0c. <i>sotis</i> 1 sg. pret.; "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "sot",
+      "s\u00f6t"
+    ],
+    "ref": "Tor. (Biddulph) <i>sot</i>, f. <i>s\u00f6t</i> \u02bb slow \u02bc; "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "suttu"
+    ],
+    "ref": "Phal. <i>suttu</i> pret.; "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "s\u016dt\u016d"
+    ],
+    "ref": "Sh. <i>s\u016dt\u016d</i> \u02bb slept, lay down \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "so\u0306\u0323tu"
+    ],
+    "ref": "K. <i>so\u0306\u0323t<superscript>u</superscript></i> \u02bb calmed, extinguished \u02bc, "
+  },
+  {
+    "lang": "\u1e0co\u1e0d\u012b (Sir\u0101j\u012b of \u1e0co\u1e0d\u0101), a dialect of Kashmiri in Jammu",
+    "words": [
+      "sutt\u014dr\u014d"
+    ],
+    "ref": "\u1e0do\u1e0d. <i>sutt\u014dr\u014d</i> \u02bb asleep \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "suto"
+    ],
+    "ref": "S. <i>suto</i> \u02bb asleep, numb (of a limb), dead \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "sutt\u0101"
+    ],
+    "ref": "L. <i>sutt\u0101</i> pret.; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "s\u016bt\u1e47o\u0304\u0303",
+      "sut\u1e47u"
+    ],
+    "ref": "jaun. <i>s\u016bt\u1e47o\u0304\u0303</i> \u02bb to sleep \u02bc, (Joshi) <i>sut\u1e47u</i>; "
+  },
+  {
+    "lang": "Jauns\u0101r\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "s\u016bt\u1e47o\u0304\u0303",
+      "sut\u1e47u"
+    ],
+    "ref": "jaun. <i>s\u016bt\u1e47o\u0304\u0303</i> \u02bb to sleep \u02bc, (Joshi) <i>sut\u1e47u</i>; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "sut\u1e47o",
+      "sit\u1e47o",
+      "swi\u1e47\u1e47o"
+    ],
+    "ref": "Ku. <i>sut\u1e47o</i> \u02bb to lie down \u02bc (<i>sit\u1e47o</i> \u02bb to sleep \u02bc X <i>swi\u1e47\u1e47o</i> \u02bb to dream \u02bc &lt; *<smallcaps>supna -- ?</smallcaps>); "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "sutnu"
+    ],
+    "ref": "N. <i>sutnu</i> \u02bb to sleep \u02bc, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "sut\u0101"
+    ],
+    "ref": "B. <i>sut\u0101</i> ODBL 502; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "sutib\u0101"
+    ],
+    "ref": "Or. <i>sutib\u0101</i> \u02bb to sleep, lie flat on the ground \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "s\u016btab"
+    ],
+    "ref": "Mth. <i>s\u016btab</i> \u02bb to sleep \u02bc, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "s\u016btab"
+    ],
+    "ref": "Mth. <i>s\u016btab</i> \u02bb to sleep \u02bc, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "s\u016btal"
+    ],
+    "ref": "Bhoj. <i>s\u016btal</i>; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "s\u016btn\u0101",
+      "sut\u02da"
+    ],
+    "ref": "H. <i>s\u016btn\u0101</i>, <i>sut\u02da</i> \u02bb to sleep, lie down \u02bc; O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "s\u016bto"
+    ],
+    "ref": "Marw. <i>s\u016bto</i> \u02bb asleep \u02bc, O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "s\u016bta\u00fc"
+    ],
+    "ref": "G. <i>s\u016bta\u00fc</i>; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "hot",
+      "ot"
+    ],
+    "ref": "Si. <i>hot</i>, <i>ot</i> \u02bb reclining \u02bc."
+  }
+]

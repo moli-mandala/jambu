@@ -1,0 +1,183 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["pa\u00f1cam\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>7669</number> <b>pa\u00f1cam\u00e1</b> \u02bb fifth \u02bc AV., <i>\u02daaka</i> -- lex. 2. <b>pa\u00f1cam\u012b -- </b> f. \u02bb fifth day of lunar fortnight \u02bc \u015arGr\u0325. [<smallcaps>p\u00e1\u00f1ca</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "pa\u00f1cama",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>pa\u00f1cama</i> -- , <i>\u02daaka</i> -- fifth \u02bc, "
+  },
+  {
+    "lang": "MIA. forms occurring in Corpus Inscriptionum Indicarum Vol. II Pt. 1",
+    "words": [
+      "pa\u1e41came"
+    ],
+    "ref": "KharI. <i>pa\u1e41came</i> loc. sg., "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "pa\u1e41cama"
+    ],
+    "ref": "Pk. <i>pa\u1e41cama</i> -- , "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "panj\u0308\u0259\u0301m"
+    ],
+    "ref": "Wo\u1e6d. <i>panj\u0308\u0259\u0301m</i>; "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "pan\u010bam"
+    ],
+    "ref": "Gaw. <i>pan\u010bam</i><at>*l/</at> \u02bb four days hence \u02bc; "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "pan\u01f0am"
+    ],
+    "ref": "Tor. <i>pan\u01f0am</i> \u02bb fifth \u02bc, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "pa\u00f1j\u00f5"
+    ],
+    "ref": "S. <i>pa\u00f1j\u00f5</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "pa\u00f1jav\u00e3\u0304"
+    ],
+    "ref": "L. <i>pa\u00f1jav\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "pa\u00f1jv\u00e3\u0304"
+    ],
+    "ref": "P. <i>pa\u00f1jv\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Ludhi\u0101n\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "p\u00e1\u00f1jam\u00e3\u0304"
+    ],
+    "ref": "ludh. <i>p\u00e1\u00f1jam\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Bha\u1e6de\u030c\u0101l\u012b sub-dialect of \u1e0cogr\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "pa\u00f1j\u016b\u00e3\u0304"
+    ],
+    "ref": "bha\u1e6d. <i>pa\u00f1j\u016b\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "pan\u010bau\u0303"
+    ],
+    "ref": "bhal. <i>pan\u010bau\u0303</i>, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "pan\u010bau\u0303"
+    ],
+    "ref": "bhal. <i>pan\u010bau\u0303</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "pan\u010bau\u0303"
+    ],
+    "ref": "bhal. <i>pan\u010bau\u0303</i>, "
+  },
+  {
+    "lang": "Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "pan\u010bu\u0303\u0101"
+    ],
+    "ref": "kha\u015b. <i>pan\u010bu\u0303\u0101</i>, "
+  },
+  {
+    "lang": "\u015aeu\u1e6d\u012b sub-dialect of Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "pa\u0303su\u00e3\u0304"
+    ],
+    "ref": "\u015beu. <i>pa\u0303su\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "pe\u00f1ju\u00e3\u0304"
+    ],
+    "ref": "cur. <i>pe\u00f1ju\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "p\u00e3\u0304cau\u0303"
+    ],
+    "ref": "N. <i>p\u00e3\u0304cau\u0303</i>, O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "p\u0101\u1e41cava\u1e41"
+    ],
+    "ref": "Aw. <i>p\u0101\u1e41cava\u1e41</i>, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "pa\u0303caw\u00e3\u0304"
+    ],
+    "ref": "lakh. <i>pa\u0303caw\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "p\u00e3\u0304cw\u00e3\u0304"
+    ],
+    "ref": "H. <i>p\u00e3\u0304cw\u00e3\u0304</i>, O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "p\u0101cavu"
+    ],
+    "ref": "Marw. <i>p\u0101cavu</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "p\u00e3\u0304cm\u0254"
+    ],
+    "ref": "G. <i>p\u00e3\u0304cm\u0254</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "p\u00e3\u0304\u010bv\u0101"
+    ],
+    "ref": "M. <i>p\u00e3\u0304\u010bv\u0101</i>, "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "p\u00e3\u0304cvo."
+    ],
+    "ref": "Ko. <i>p\u00e3\u0304cvo.</i>"
+  }
+]

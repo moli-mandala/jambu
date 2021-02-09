@@ -1,0 +1,60 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "\u015b\u00e1pati",
+    "ref": "<html><body><number>12289</number> <b>\u015b\u00e1pati</b> \u02bb curses, swears \u02bc RV., \u02bb reviles \u02bc Y\u0101j\u00f1. [\u221a<smallcaps>\u015bap</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "sapati"
+    ],
+    "ref": "Pa. <i>sapati</i> \u02bb curses \u02bc; "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "\u015bav\u0101vitavya"
+    ],
+    "ref": "NiDoc. caus. <i>\u015bav\u0101vitavya</i>; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "sava\u00ef",
+      "\u02daa\u1e47a"
+    ],
+    "ref": "Pk. <i>sava\u00ef</i>, <i>\u02daa\u1e47a</i> -- n., "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "havanav\u0101",
+      "av\u02da",
+      "\u010dh"
+    ],
+    "ref": "Si. <i>havanav\u0101</i>, <i>av\u02da</i>; -- with unexpl. <i>\u010dh</i> -- : "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "\u010dh\u00e1wem"
+    ],
+    "ref": "rumb. <i>\u010dh\u00e1wem</i> \u02bb I swear \u02bc, "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "\u010dh\u00e1wem"
+    ],
+    "ref": "rumb. <i>\u010dh\u00e1wem</i> \u02bb I swear \u02bc, "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "\u010dhoik",
+      "\u010dha\u00fcm"
+    ],
+    "ref": "Kho. <i>\u010dhoik</i>, 1 sg. <i>\u010dha\u00fcm</i> BelvalkarVol 89.<div>\u00a0\u00a0\t\t\t</div></body></html>"
+  }
+]

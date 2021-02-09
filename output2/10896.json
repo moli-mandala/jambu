@@ -1,0 +1,554 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "lagh\u00fa",
+    "ref": "<html><body><number>10896</number> <b>lagh\u00fa</b> \u02bb light \u02bc AV., \u02bb slight, quick \u02bc Mn. [<i>ragh\u00fa</i> -- RV. -- \u221a<smallcaps>ra\u1e41h</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "lahu",
+      "\u02dauka"
+    ],
+    "ref": "Pa. <i>lahu</i> -- \u02bb light, quick \u02bc, <i>\u02dauka</i> -- \u02bb trifling \u02bc; "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "lahu"
+    ],
+    "ref": "top. <i>lahu</i> \u02bb trifling \u02bc, "
+  },
+  {
+    "lang": "Delhi-To\u0304pr\u0101 Pillar Edict of A\u015boka",
+    "words": [
+      "lahu"
+    ],
+    "ref": "top. <i>lahu</i> \u02bb trifling \u02bc, "
+  },
+  {
+    "lang": "Sh\u0101hb\u0101zga\u1e5bh\u012b Rock Inscription of A\u015boka",
+    "words": [
+      "lahuka"
+    ],
+    "ref": "gir. <i>lahuka</i> -- , "
+  },
+  {
+    "lang": "Girn\u0101r Rock Inscription of A\u015boka",
+    "words": [
+      "lahuka"
+    ],
+    "ref": "gir. <i>lahuka</i> -- , "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "lahu"
+    ],
+    "ref": "NiDoc. <i>lahu</i>, &amp;gacute "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "lahu",
+      "\u02daua"
+    ],
+    "ref": "Pk. <i>lahu</i> -- , <i>\u02daua</i> -- \u02bb light, small \u02bc; "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "lah\u016b lah\u016b"
+    ],
+    "ref": "lau\u1e5b. <i>lah\u016b lah\u016b</i> \u02bb slowly, gently \u02bc; "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "lah\u016b lah\u016b"
+    ],
+    "ref": "lau\u1e5b. <i>lah\u016b lah\u016b</i> \u02bb slowly, gently \u02bc; "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "lau"
+    ],
+    "ref": "Sv. <i>lau</i> \u02bb small \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "lah"
+    ],
+    "ref": "K. <i>lah</i> \u02bb lightly, gently \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "lav\u0101"
+    ],
+    "ref": "L. (Ju.) <i>lav\u0101</i> \u02bb young \u02bc, O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "lahu"
+    ],
+    "ref": "G. <i>lahu</i>; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "lahu -- lah\u0101n"
+    ],
+    "ref": "M. <i>lahu -- lah\u0101n</i> (&lt; <smallcaps>\u015blak\u1e63\u1e47\u00e1</smallcaps> -- ) \u02bb small and gentle \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "luhu"
+    ],
+    "ref": "Si. <i>luhu</i> \u02bb light, small, quick \u02bc; "
+  },
+  {
+    "lang": "or mald. Maldivian dialect of Sinhalese",
+    "words": [
+      "lui",
+      "l\u016b",
+      "\u1e0d"
+    ],
+    "ref": "Md. <i>lui</i>, <i>l\u016b</i> \u02bb light \u02bc; -- ext. -- <i>\u1e0d</i> -- : "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "lay\u00e9\u1e5bo"
+    ],
+    "ref": "Sv. <i>lay\u00e9\u1e5bo</i> \u02bb younger \u02bc; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "lauh\u1e5b\u0101"
+    ],
+    "ref": "bha\u1e6d. <i>lauh\u1e5b\u0101</i> \u02bb small, young \u02bc; "
+  },
+  {
+    "lang": "Bha\u1e6de\u030c\u0101l\u012b sub-dialect of \u1e0cogr\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "lauh\u1e5b\u0101"
+    ],
+    "ref": "bha\u1e6d. <i>lauh\u1e5b\u0101</i> \u02bb small, young \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "lah\u016br\u012b"
+    ],
+    "ref": "Bi. <i>lah\u016br\u012b</i> \u02bb younger wife \u02bc; "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "lahur\u0101"
+    ],
+    "ref": "lakh. <i>lahur\u0101</i> \u02bb younger \u02bc, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "lahur\u0101"
+    ],
+    "ref": "lakh. <i>lahur\u0101</i> \u02bb younger \u02bc, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "lauh\u1e5b\u0101",
+      "lauhr\u0101"
+    ],
+    "ref": "H. <i>lauh\u1e5b\u0101</i>, <i>lauhr\u0101</i>; O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "lahu\u1e0da\u00fc",
+      "\u1e0d\u1e0d"
+    ],
+    "ref": "G. <i>lahu\u1e0da\u00fc</i> \u02bb small, young \u02bc; -- -- <i>\u1e0d\u1e0d</i> -- : "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "lauh\u1e0d\u0101",
+      "ll"
+    ],
+    "ref": "P. <i>lauh\u1e0d\u0101</i> \u02bb small, young \u02bc; &lt;-&gt; -- <i>ll</i> -- : "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "nahl\u0101",
+      "kk"
+    ],
+    "ref": "Bi. <i>nahl\u0101</i> \u02bb smallest trowel used by masons \u02bc; -- -- <i>kk</i> -- : "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "loko"
+    ],
+    "ref": "eur. <i>loko</i>, "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "loko"
+    ],
+    "ref": "eur. <i>loko</i>, "
+  },
+  {
+    "lang": "Welsh dialect of European Gypsy",
+    "words": [
+      "l\u032cok\u014d"
+    ],
+    "ref": "wel. <i>l\u032cok\u014d</i> \u02bb light, small \u02bc; "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "lauka",
+      "l\u014dka"
+    ],
+    "ref": "\u1e0c. <i>lauka</i>, <i>l\u014dka</i> \u02bb light, quick \u02bc; "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "luk"
+    ],
+    "ref": "Kt. <i>luk</i>, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "luk"
+    ],
+    "ref": "Kt. <i>luk</i>, "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "lah\u016b\u0301k"
+    ],
+    "ref": "lau\u1e5b. <i>lah\u016b\u0301k</i>, "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "lah\u016b\u0301k"
+    ],
+    "ref": "lau\u1e5b. <i>lah\u016b\u0301k</i>, "
+  },
+  {
+    "lang": "Areti dialect of Pashai",
+    "words": [
+      "lamuk",
+      "m"
+    ],
+    "ref": "ar. <i>lamuk</i> ( -- <i>m</i> -- unexpl.), "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "lamuk"
+    ],
+    "ref": "Shum. <i>lamuk</i>; "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "l\u014dk"
+    ],
+    "ref": "Bshk. <i>l\u014dk</i> \u02bb light, younger \u02bc; "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "loh\u1e53ko",
+      "lhok\u1e17ro"
+    ],
+    "ref": "Phal. <i>loh\u1e53ko</i> \u02bb small, young \u02bc, <i>lhok\u1e17ro</i> \u02bb younger \u02bc; "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "l\u014dk\u1e77"
+    ],
+    "ref": "Sh. <i>l\u014dk\u1e77</i> \u02bb light, quick, active \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "l\u016bku"
+    ],
+    "ref": "K. <i>l\u016bk<superscript>u</superscript></i> \u02bb small, trifling \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "l\u00f4hk\u0101"
+    ],
+    "ref": "L. <i>l\u00f4hk\u0101</i> \u02bb light \u02bc, "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "la\u00f9k\u0101"
+    ],
+    "ref": "aw\u0101\u1e47. <i>la\u00f9k\u0101</i>; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "lauhk\u0101"
+    ],
+    "ref": "P. <i>lauhk\u0101</i> \u02bb small, young \u02bc, "
+  },
+  {
+    "lang": "or kng. K\u0101\u1e45gr\u0101 sub-dialect of \u1e0cogr\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "lahuk\u0101"
+    ],
+    "ref": "kgr. <i>lahuk\u0101</i> \u02bb small \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "lahak\u0101",
+      "na",
+      "h",
+      "ak\u0101"
+    ],
+    "ref": "Or. <i>lahak\u0101</i>, <i>na</i>(<i>h</i>)<i>ak\u0101</i> \u02bb slender, weak \u02bc; -- metath.: "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "hari\u1e5bo"
+    ],
+    "ref": "S. <i>hari\u1e5bo</i> \u02bb light \u02bc, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "h\u00f4la",
+      "haul\u0101"
+    ],
+    "ref": "L. <i>h\u00f4la</i>, (Shahpur) <i>haul\u0101</i>; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "haul\u0101"
+    ],
+    "ref": "P. <i>haul\u0101</i> \u02bb light, gentle \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "ha\u00fc"
+    ],
+    "ref": "gng. <i>ha\u00fc</i> \u02bb light \u02bc, "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "ha\u00fc"
+    ],
+    "ref": "gng. <i>ha\u00fc</i> \u02bb light \u02bc, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "halu\u0303",
+      "\u02dalau\u0303",
+      "\u02dalu\u1e45o"
+    ],
+    "ref": "N. <i>halu\u0303</i>, <i>\u02dalau\u0303</i>, <i>\u02dalu\u1e45o</i>; O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "haru\u0101"
+    ],
+    "ref": "Aw. <i>haru\u0101</i> \u02bb light, worthless \u02bc, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "har\u016b",
+      "haru\u0101"
+    ],
+    "ref": "H. <i>har\u016b</i>, <i>haru\u0101</i>; O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "hal\u016bu"
+    ],
+    "ref": "G. <i>hal\u016bu</i> \u02bb small \u02bc, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "ha\u1e37u",
+      "ha\u1e37vu\u0303"
+    ],
+    "ref": "G. <i>ha\u1e37u</i> \u02bb softly, gently \u02bc, <i>ha\u1e37vu\u0303</i> \u02bb light, slow, soft \u02bc; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "ha\u1e37\u016b",
+      "ha\u1e37v\u0101"
+    ],
+    "ref": "M. <i>ha\u1e37\u016b</i> \u02bb light \u02bc, <i>ha\u1e37v\u0101</i> \u02bb ripening quickly \u02bc; "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "ha\u1e37u",
+      "kk"
+    ],
+    "ref": "Ko. <i>ha\u1e37u</i> \u02bb slow \u02bc; -- ext. -- <i>kk</i> -- with metath.: "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "halko"
+    ],
+    "ref": "S. <i>halko</i> \u02bb light \u02bc (\u2190 "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "halk\u0101"
+    ],
+    "ref": "cam. <i>halk\u0101</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "halk\u0101"
+    ],
+    "ref": "cam. <i>halk\u0101</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "halk\u0101"
+    ],
+    "ref": "cam. <i>halk\u0101</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "halk\u0101"
+    ],
+    "ref": "cam. <i>halk\u0101</i>, "
+  },
+  {
+    "lang": "Came\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "halk\u0101"
+    ],
+    "ref": "cam. <i>halk\u0101</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "halko"
+    ],
+    "ref": "Ku. <i>halko</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "haluko"
+    ],
+    "ref": "N. <i>haluko</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "ha\u0304\u0306lk\u0101"
+    ],
+    "ref": "B. <i>ha\u0304\u0306lk\u0101</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "h\u0101\u1e37uk\u0101"
+    ],
+    "ref": "Or. <i>h\u0101\u1e37uk\u0101</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "haluk"
+    ],
+    "ref": "Bhoj. <i>haluk</i>, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "haluk"
+    ],
+    "ref": "Bhoj. <i>haluk</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "haluk\u0101",
+      "halk\u0101"
+    ],
+    "ref": "H. <i>haluk\u0101</i>, <i>halk\u0101</i> (\u2192 "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "halku\u0303"
+    ],
+    "ref": "G. <i>halku\u0303</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "halk\u0101"
+    ],
+    "ref": "M. <i>halk\u0101</i>), "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "ha\u1e37k\u0101."
+    ],
+    "ref": "M. <i>ha\u1e37k\u0101.</i> -- "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "liho\u010b"
+    ],
+    "ref": "Kal. <i>liho\u010b</i> \u02bb light \u02bc, "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "lho\u010b"
+    ],
+    "ref": "Kho. <i>l<superscript>h</superscript>o\u010b</i> (+?). -- See Add."
+  }
+]

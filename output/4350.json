@@ -1,0 +1,44 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["grantha"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>4350</number> <b>grantha</b> m. \u02bb knot \u02bc TS. 2. \u02bb book \u02bc MBh. [\u221a<smallcaps>granth</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "gantha"
+    ],
+    "ref": "Pa. <i>gantha</i> -- m. \u02bb bond \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "gan\u1e0d"
+    ],
+    "ref": "K. <i>gan\u1e0d</i> m. \u02bb knot (in string or wood), joint of finger \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "g\u0320a\u1e47\u1e0dhu",
+      "\u02da\u1e0dho"
+    ],
+    "ref": "S. <i>g\u0320a\u1e47\u1e0dhu</i> m. \u02bb joint, tie of friendship \u02bc, <i>\u02da\u1e0dho</i> m. \u02bb dike, lump, tumour \u02bc; O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "ga\u1e6dhajo\u1e5bo",
+      "ga\u1e41\u1e6dha"
+    ],
+    "ref": "Marw. <i>ga\u1e6dhajo\u1e5bo</i> m. \u02bb tying the marriage knot \u02bc for <i>ga\u1e41\u1e6dha</i> -- &gt; "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "ga\u00f1jho\u1e5bo"
+    ],
+    "ref": "Marw. <i>ga\u00f1jho\u1e5bo</i> m."
+  }
+]

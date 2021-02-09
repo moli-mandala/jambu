@@ -1,0 +1,29 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["m\u0113hya"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>10339</number> *<b>m\u0113hya</b> \u02bb rain \u02bc. [\u221a*<smallcaps>mih</smallcaps><superscript>2</superscript>]"
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "men\u01f0"
+    ],
+    "ref": "urt. <i>men\u01f0</i> \u02bb cloud \u02bc, "
+  },
+  {
+    "lang": "Urtsun dialect of Kalasha",
+    "words": [
+      "men\u01f0"
+    ],
+    "ref": "urt. <i>men\u01f0</i> \u02bb cloud \u02bc, "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "men",
+      "men\u01f0\u016bna."
+    ],
+    "ref": "rumb. <i>men</i>, obl. <i>men\u01f0\u016bna.</i></div>"
+  }
+]

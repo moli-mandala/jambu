@@ -1,0 +1,37 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["hi\u1e47\u1e0d\u0101la"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>14090</number> *<b>hi\u1e47\u1e0d\u0101la</b> \u02bb wandering \u02bc. [\u221a<smallcaps>hi\u1e47\u1e0d</smallcaps>]"
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "i\u1e47\u1e0d\u1e53l"
+    ],
+    "ref": "Dm. <i>i\u1e47\u1e0d\u1e53l</i> \u02bb bachelor \u02bc; "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "hi\u1e47\u1e0d\u0101\u0301u",
+      "\u02da\u1e0d\u0101l",
+      "hi\u1e47\u1e0dau"
+    ],
+    "ref": "Kal. <i>hi\u1e47\u1e0d\u0101\u0301u</i> (st. <i>\u02da\u1e0d\u0101l</i> -- ) \u02bb bachelor \u02bc, <i>hi\u1e47\u1e0dau</i> \u02bb barren woman \u02bc; "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "hi\u1e47\u1e0d\u0101l"
+    ],
+    "ref": "Kho. <i>hi\u1e47\u1e0d\u0101l</i> \u02bb bachelor, spinster, widow \u02bc, adj. \u02bb childless, barren (of women and animals) \u02bc; -- "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "h\u0129\u1e5b\u0101lnu"
+    ],
+    "ref": "N. <i>h\u0129\u1e5b\u0101lnu</i> \u02bb to make move \u02bc."
+  }
+]

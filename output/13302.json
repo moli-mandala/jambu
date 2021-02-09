@@ -1,0 +1,30 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["sahaj\u0101\u02ca"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>13302</number> <b>sahaj\u0101\u02ca</b> \u02bb born together \u02bc RV., <i>\u02daj\u00e1</i> -- TS., m. \u02bb full brother \u02bc lex., <i>sahaj\u0101ta</i> -- \u02bb born together \u02bc Kath\u0101s. [<smallcaps>sah\u00e1<superscript>1</superscript>, j\u0101\u02ca -- </smallcaps> and <smallcaps>j\u0101t\u00e1 -- </smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "sahaja",
+      "\u02daj\u0101ta"
+    ],
+    "ref": "Pa. <i>sahaja</i> -- , <i>\u02daj\u0101ta</i> -- \u02bb born at the same time \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "sahaya",
+      "sahaj\u0101ya"
+    ],
+    "ref": "Pk. <i>sahaya</i> -- \u02bb natural \u02bc, <i>sahaj\u0101ya</i> -- \u02bb born at the same time \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "sahada"
+    ],
+    "ref": "Si. <i>sahada</i> \u02bb full brother \u02bc."
+  }
+]

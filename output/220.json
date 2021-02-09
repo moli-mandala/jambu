@@ -1,0 +1,38 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["at\u012bta"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>220</number> <b>at\u012bta</b> \u02bb gone by, past \u02bc MBh. Mn. [\u221a<smallcaps>i</smallcaps><superscript>2</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "at\u012bta"
+    ],
+    "ref": "NiDoc. <i>at\u012bta</i> -- ; "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "at\u012bta"
+    ],
+    "ref": "NiDoc. <i>at\u012bta</i> -- ; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "a\u012ba"
+    ],
+    "ref": "Pk. <i>a\u012ba</i> -- ; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "ayu",
+      "ay\u016b",
+      "ayuu",
+      "ay\u012bu"
+    ],
+    "ref": "Si. <i>ayu</i> adj. \u02bb past \u02bc (&lt; *<i>ay\u016b</i> &lt; *<i>ayuu</i> &lt; *<i>ay\u012bu</i> "
+  }
+]

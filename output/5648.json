@@ -1,0 +1,55 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["tathya"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>5648</number> <b>tathya</b> \u02bb true \u02bc MBh., n. \u02bb truth \u02bc Mn. [<smallcaps>t\u00e1th\u0101</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "taccha",
+      "tathiya"
+    ],
+    "ref": "Pa. <i>taccha</i> -- \u02bb true, real \u02bc, <i>tathiya</i> -- ; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "tahia",
+      "tacca",
+      "sacca"
+    ],
+    "ref": "Pk. <i>tahia</i> -- n. \u02bb truth \u02bc, <i>tacca</i> -- n. (X <i>sacca</i> -- &lt; <smallcaps>saty\u00e1</smallcaps> -- ); "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "ti\u010d"
+    ],
+    "ref": "Kt. <i>ti\u010d</i> \u02bb true \u02bc; -- "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "\u010da\u010do"
+    ],
+    "ref": "eur. <i>\u010da\u010do</i> \u02bb true, right (of hand), "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "\u010da\u010do"
+    ],
+    "ref": "eur. <i>\u010da\u010do</i> \u02bb true, right (of hand), "
+  },
+  {
+    "lang": "English dialect of European Gypsy",
+    "words": [
+      "ta\u010do",
+      "t",
+      "sa\u010d",
+      "\u010da\u010d"
+    ],
+    "ref": "eng. <i>ta\u010do</i> (<i>t</i> -- scarcely original) or poss. &lt; <smallcaps>saty\u00e1</smallcaps> -- with assimilation of <i>sa\u010d</i> -- to <i>\u010da\u010d</i> -- .</div>"
+  }
+]

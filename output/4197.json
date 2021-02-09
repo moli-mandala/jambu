@@ -1,0 +1,39 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["gudda"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>4197</number> *<b>gudda</b> \u02bb pith, core \u02bc. 2. *<b>gidda -- <superscript>2</superscript>.</b> [Cf. <smallcaps>g\u014drda</smallcaps> -- ]"
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "gudd",
+      "gudd\u0101"
+    ],
+    "ref": "P. <i>gudd</i> f., <i>gudd\u0101</i> m. \u02bb pulp, kernel, marrow \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "gudo",
+      "\u02dad\u012b"
+    ],
+    "ref": "Ku. <i>gudo</i> \u02bb kernel, seed, grain, pith \u02bc, <i>\u02dad\u012b</i> \u02bb marrow \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "gudo",
+      "\u02dadi"
+    ],
+    "ref": "N. <i>gudo</i> \u02bb pith, marrow, brain \u02bc, <i>\u02dadi</i> \u02bb kernel \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "g\u016bd\u0101",
+      "\u02dad\u012b"
+    ],
+    "ref": "H. <i>g\u016bd\u0101</i> m., <i>\u02dad\u012b</i> f. \u02bb pith, brain \u02bc. -- X <smallcaps>g\u00e1rbha</smallcaps> -- q.v."
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "hast\u00edn",
+    "ref": "<html><body><number>14039</number> <b>hast\u00edn</b> \u02bb having hands, clever with the hands \u02bc RV., (with <i>mr\u0325g\u00e1</i> -- ) \u02bb elephant \u02bc RV., m. \u02bb elephant \u02bc AV., <i>hast\u00edn\u012b</i> -- f. AV. [Aryanization of <smallcaps>karin</smallcaps> -- which was perh. non -- Aryan in origin (see <smallcaps>karabh\u00e1</smallcaps> -- ), but associated by pop. etym. with <smallcaps>kar\u00e1</smallcaps> -- <superscript>1</superscript> \u02bb hand \u02bc? -- <smallcaps>h\u00e1sta</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "hatthin",
+      "\u02dan\u012b"
+    ],
+    "ref": "Pa. <i>hatthin</i> -- m. \u02bb elephant \u02bc, <i>\u02dan\u012b</i> -- f., "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "hasti"
+    ],
+    "ref": "gir. <i>hasti</i> -- , nom. pl. "
+  },
+  {
+    "lang": "Girn\u0101r Rock Inscription of A\u015boka",
+    "words": [
+      "hasti"
+    ],
+    "ref": "gir. <i>hasti</i> -- , nom. pl. "
+  },
+  {
+    "lang": "Sh\u0101hb\u0101zga\u1e5bh\u012b Rock Inscription of A\u015boka",
+    "words": [
+      "hastino"
+    ],
+    "ref": "shah. <i>hastino</i>, "
+  },
+  {
+    "lang": "M\u0101nsehr\u0101 Rock Inscription of A\u015boka",
+    "words": [
+      "hastine"
+    ],
+    "ref": "man. <i>hastine</i>, "
+  },
+  {
+    "lang": "Dhauli Rock Inscription of A\u015boka",
+    "words": [
+      "hath\u012bni"
+    ],
+    "ref": "dh. <i>hath\u012bni</i>, "
+  },
+  {
+    "lang": "K\u0101ls\u012b Rock Inscription of A\u015boka",
+    "words": [
+      "hathini"
+    ],
+    "ref": "k\u0101l. <i>hathini</i>, "
+  },
+  {
+    "lang": "G\u0101ndh\u0101r\u012b or Northwest Prakrit (as recorded in the Dharmapada ed. J. Brough, Oxford 1962)",
+    "words": [
+      "hasti"
+    ],
+    "ref": "Dhp. <i>hasti</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "hatthi",
+      "\u02dai\u1e47\u012b"
+    ],
+    "ref": "Pk. <i>hatthi</i> -- m., <i>\u02dai\u1e47\u012b</i> -- f., "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "hati"
+    ],
+    "ref": "Gaw. <i>hati</i> and "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "h",
+      "t"
+    ],
+    "ref": "Bshk. <i>h</i><at>e</at><i>t</i> (both \u2190 "
+  },
+  {
+    "lang": "Indo-aryan of India proper excluding Kafiri and Dardic",
+    "words": [
+      "h\u0103t\u012b"
+    ],
+    "ref": "koh. <i>h\u0103t\u012b</i> m. (\u2190 "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "h\u0103t\u012b"
+    ],
+    "ref": "koh. <i>h\u0103t\u012b</i> m. (\u2190 "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "h\u0103t\u012b"
+    ],
+    "ref": "koh. <i>h\u0103t\u012b</i> m. (\u2190 "
+  },
+  {
+    "lang": "Indo-aryan of India proper excluding Kafiri and Dardic",
+    "words": [
+      "h\u0101ti"
+    ],
+    "ref": "A. <i>h\u0101ti</i>, O"
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "h\u0101ti"
+    ],
+    "ref": "A. <i>h\u0101ti</i>, O"
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "h\u0101ti"
+    ],
+    "ref": "A. <i>h\u0101ti</i>, O"
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "h\u0101ti"
+    ],
+    "ref": "A. <i>h\u0101ti</i>, O"
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "h\u0101th\u012b"
+    ],
+    "ref": "B. <i>h\u0101th\u012b</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "h\u0101ti"
+    ],
+    "ref": "Or. <i>h\u0101ti</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "h\u0101ti"
+    ],
+    "ref": "Or. <i>h\u0101ti</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "h\u0101tu\u1e47i"
+    ],
+    "ref": "Or. <i>h\u0101tu\u1e47i</i> f., "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "h\u0101th\u012b",
+      "h\u0101th\u0101",
+      "hathn\u012b"
+    ],
+    "ref": "Bi. <i>h\u0101th\u012b</i> \u02bb elephant in general \u02bc (<i>h\u0101th\u0101</i> \u02bb elephant bull \u02bc with specific masculine ending), <i>hathn\u012b</i> f., "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "h\u0101th\u012b"
+    ],
+    "ref": "Mth. <i>h\u0101th\u012b</i>, "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "h\u00e3\u0304th\u012b",
+      "hathini"
+    ],
+    "ref": "lakh. <i>h\u00e3\u0304th\u012b</i> m., <i>hathin<superscript>i</superscript></i> f., "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "h\u00e3\u0304th\u012b",
+      "hathini"
+    ],
+    "ref": "lakh. <i>h\u00e3\u0304th\u012b</i> m., <i>hathin<superscript>i</superscript></i> f., "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "h\u0101th\u012b"
+    ],
+    "ref": "H. <i>h\u0101th\u012b</i> m. (\u2192 "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "h\u0101th\u012b",
+      "hathin\u012b",
+      "hathn\u012b"
+    ],
+    "ref": "WPah. dialects <i>h\u0101th\u012b</i> m.), <i>hathin\u012b</i>, <i>hathn\u012b</i> f., "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "h\u0101th\u012b",
+      "hathin\u012b",
+      "hathn\u012b"
+    ],
+    "ref": "WPah. dialects <i>h\u0101th\u012b</i> m.), <i>hathin\u012b</i>, <i>hathn\u012b</i> f., "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "h\u0101th\u012b",
+      "hathin\u012b",
+      "hathn\u012b"
+    ],
+    "ref": "WPah. dialects <i>h\u0101th\u012b</i> m.), <i>hathin\u012b</i>, <i>hathn\u012b</i> f., "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "h\u0101th\u012b",
+      "h\u0101t\u012b"
+    ],
+    "ref": "Marw. <i>h\u0101th\u012b</i>, <i>h\u0101t\u012b</i> m., O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "h\u0101th\u012bu"
+    ],
+    "ref": "G. <i>h\u0101th\u012bu</i> m., "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "h\u0101th\u012b",
+      "h\u0101th\u1e47\u012b"
+    ],
+    "ref": "G. <i>h\u0101th\u012b</i> m., <i>h\u0101th\u1e47\u012b</i> f., "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "hatt\u012b",
+      "ha\u0304\u0306t\u1e47\u012b"
+    ],
+    "ref": "M. <i>hatt\u012b</i> m., <i>ha\u0304\u0306t\u1e47\u012b</i> f., "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "\u00e4t -- \u0101",
+      "\u00e4tinna",
+      "\u00e4tin\u012b",
+      "\u00e4tinn\u012b"
+    ],
+    "ref": "Si. <i>\u00e4t -- \u0101</i> m., <i>\u00e4tinna</i>, <i>\u00e4tin\u012b</i>, <i>\u00e4tinn\u012b</i> f., "
+  },
+  {
+    "lang": "or mald. Maldivian dialect of Sinhalese",
+    "words": [
+      "et",
+      "e"
+    ],
+    "ref": "Md. <i>et</i>, <i>e</i>'. -- "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "h\u0103sto"
+    ],
+    "ref": "gil. <i>h\u0103sto</i>, "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "h\u0103sto"
+    ],
+    "ref": "gil. <i>h\u0103sto</i>, "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "h\u0101st\u016d"
+    ],
+    "ref": "gur. <i>h\u0101st\u016d</i> m., "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "hostu"
+    ],
+    "ref": "K. <i>host<superscript>u</superscript></i> m. (\u2192 "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "hastaka"
+    ],
+    "ref": "Sh.?) in form apparently represent <i>hastaka</i> -- , but poss. (like "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "h\u0101th\u0101",
+      "hast\u00edn"
+    ],
+    "ref": "Bi. <i>h\u0101th\u0101</i> above) have replaced an early loan from <i>hast\u00edn</i> -- with a specifically masculine endi"
+  },
+  {
+    "lang": "N\u0101g\u0101rjun\u012b Cave Inscription of A\u015boka",
+    "words": [
+      "st",
+      "t",
+      "th"
+    ],
+    "ref": "ng. In any case -- <i>st</i> -- normally &gt; -- (<i>t</i>)<i>th</i> -- in both languages."
+  }
+]

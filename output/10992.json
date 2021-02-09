@@ -1,0 +1,63 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["lasa"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>10992</number> *<b>lasa</b> \u02bb stickiness, slipperiness \u02bc. 2. *<b>lasya -- .</b> [<i>la\u015ba</i> -- m. \u02bb gum \u02bc lex., <i>las\u012bk\u0101</i> -- f. \u02bb serum, sugar -- cane juice \u02bc Car., <i>lasik\u0101</i> -- f. \u02bb spittle \u02bc lex., <smallcaps>rasik\u0101 -- . -- \u221a*las</smallcaps><superscript>2</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "lasa -- gata",
+      "las\u012b",
+      "lasik\u0101"
+    ],
+    "ref": "Pa. <i>lasa -- gata</i> -- \u02bb sticky \u02bc, <i>las\u012b</i> -- f. \u02bb brains \u02bc, <i>lasik\u0101</i> -- f. \u02bb fluid in joints \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "lasaka",
+      "lasira",
+      "lasua"
+    ],
+    "ref": "Pk. <i>lasaka</i> -- n. \u02bb milk of a tree \u02bc, <i>lasira</i>-&lt;-&gt; \u02bb sticky \u02bc, <i>lasua</i> -- n. \u02bb oil \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "lasyailo"
+    ],
+    "ref": "N. <i>lasyailo</i> \u02bb sticky, slippery \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "las\u0101",
+      "nas\u0101",
+      "lasi"
+    ],
+    "ref": "Or. <i>las\u0101</i>, <i>nas\u0101</i> \u02bb pus, juice of tree or fruit \u02bc, <i>lasi</i> \u02bb sticky juice \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "las"
+    ],
+    "ref": "H. <i>las</i> m. \u02bb viscosity \u02bc; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "las"
+    ],
+    "ref": "M. <i>las</i> f. \u02bb serum, pus \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "laha\u1e6du",
+      "l\u0101\u1e6du"
+    ],
+    "ref": "Si. <i>laha\u1e6du</i>, <i>l\u0101\u1e6du</i> \u02bb gum, resin \u02bc."
+  }
+]

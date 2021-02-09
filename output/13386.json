@@ -1,0 +1,68 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["s\u00edkat\u0101"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>13386</number> <b>s\u00edkat\u0101</b> f. \u02bb grain of sand \u02bc, (usu. pl.) \u02bb sand, gravel \u02bc VS., <i>sigat\u0101</i> -- f. Kap. [Collective formation from <i>sika</i> -- in <i>\u015bv\u0113ta -- sika -- druka</i> -- \u02bb scattering white sand \u02bc T\u0100r. 1. 12. 3 A. Sharma in Bh\u0101rata -- kaumud\u012b 873. Kaf. and some Dard. forms attest IA. <i>\u015b</i> -- corresponding to Ir. <at>q</at> -- and <i>s</i> -- (OPers. <at>q</at><i>ik\u0101</i> -- , Bal. <i>six</i>, Psht. <i>\u0161\u0259ga</i>, &amp;c. EVP 73) and support E. Benveniste BSL xxx 60 in assumption that <i>s</i> -- forms of Sk. and other Dard. languages and WPah. (which distinguish <i>\u015b</i> and <i>s</i>) are loans from or influenced by Iranian. Variations in Kaf. and Dard. of -- <i>g</i> -- ~ -- <i>k</i>&lt;-&gt; and -- <i>l</i> -- ~ -- <i>t</i> -- may be due to borrowings within that group or to later Ir. influences or they may, in part at least, be due to suffix. variation like that of <i>s\u00edkat\u0101</i> -- ~ *<i>sikat\u012b</i> -- (in <i>sikaty\u00e0</i> -- VS.) ~ <i>sikt\u0101</i> -- lex. ~ *<i>siky\u0101</i> -- ]"
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "\u010b\u00fc",
+      "\u010b\u00fcy\u00fc"
+    ],
+    "ref": "Kt. <i>\u010b\u00fc</i>, <i>\u010b\u00fcy\u00fc</i> \u02bb sand \u02bc, "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "\u0161\u014d"
+    ],
+    "ref": "Wg. <i>\u0161\u014d</i>, "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "\u0161o\u0304\u0303\u1e5b\u0259"
+    ],
+    "ref": "Ash. <i>\u0161o\u0304\u0303\u1e5b\u0259</i>, "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "\u010b\u012b\u02dca"
+    ],
+    "ref": "Dm. <i>\u010b\u012b\u02dca</i>, "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "\u0161u",
+      "\u00far",
+      "\u0161igu"
+    ],
+    "ref": "Kho. <i>\u0161u</i><at>g</at><i>\u00far</i> (&lt; earlier *<i>\u0161igu</i><at>d</at> \u2192 "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "\u0161\u012bgou",
+      "\u0161\u012bgol"
+    ],
+    "ref": "rumb. <i>\u0161\u012bgou</i>, st. <i>\u0161\u012bgol</i> -- , "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "\u0161\u012bgou",
+      "\u0161\u012bgol"
+    ],
+    "ref": "rumb. <i>\u0161\u012bgou</i>, st. <i>\u0161\u012bgol</i> -- , "
+  },
+  {
+    "lang": "Urtsun dialect of Kalasha",
+    "words": [
+      "\u0161ig\u0259r"
+    ],
+    "ref": "urt. <i>\u0161ig\u0259r</i>)."
+  }
+]

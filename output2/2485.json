@@ -1,0 +1,352 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "\u1e17k\u0101da\u015ba",
+    "ref": "<html><body><number>2485</number> <b>\u1e17k\u0101da\u015ba</b><superscript>1</superscript> \u02bb eleven \u02bc VS. [<smallcaps>\u1e17ka -- , d\u00e1\u015ba</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "\u0113kadasa"
+    ],
+    "ref": "Pa. <i>\u0113kadasa</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "\u0113g\u0101dasa",
+      "\u0113g\u0101rasa"
+    ],
+    "ref": "Pk. <i>\u0113g\u0101dasa</i>, <i>\u0113g\u0101rasa</i>, "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "\u010dan\u012bs",
+      "\u010din\u00eds"
+    ],
+    "ref": "Ash. <i>\u010dan\u012bs</i>, <i>\u010din\u00eds</i>, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "yan\u012b\u010b",
+      "\u0113ka\u1e41da\u015ba"
+    ],
+    "ref": "Kt. <i>yan\u012b\u010b</i> (Rep<superscript>1</superscript> 65 &lt; *<i>\u0113ka\u1e41da\u015ba</i> cf. "
+  },
+  {
+    "lang": "Avestan (Iranian)",
+    "words": [
+      "a\u0113vandasa"
+    ],
+    "ref": "Av. <i>a\u0113vandasa</i>), "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "y\u0101\u0161",
+      "\u017e\u0101\u017e",
+      "zas"
+    ],
+    "ref": "Wg. <i>y\u0101\u0161</i>, <i>\u017e\u0101\u017e</i>, <i>zas</i>, "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "z\u00fcz",
+      "\u01f0\u016bzu"
+    ],
+    "ref": "Pr. <i>z\u00fcz</i>, <i>\u01f0\u016bzu</i>, "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "y\u00e2\u0161"
+    ],
+    "ref": "Dm. <i>y\u00e2\u0161</i>, "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "iko\u0323\u0304\u0301"
+    ],
+    "ref": "Tir. <i>iko\u0323\u0304\u0301</i>, "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "\u017e\u0101i",
+      "y\u0101i",
+      "\u0113\u0101y"
+    ],
+    "ref": "Pa\u0161. <i>\u017e\u0101i</i>, <i>y\u0101i</i> (IIFL iii 3, 205 &lt; *<i>\u0113\u0101y</i>), "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "z\u0101s"
+    ],
+    "ref": "Shum. <i>z\u0101s</i>, "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "\u01f0\u0101\u0161"
+    ],
+    "ref": "Gaw. <i>\u01f0\u0101\u0161</i>, "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "\u00edkyah"
+    ],
+    "ref": "Bshk. <i>\u00edkyah</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "ag\u0101\u0161"
+    ],
+    "ref": "Tor. <i>ag\u0101\u0161</i>, "
+  },
+  {
+    "lang": "Kandia (Dard.)",
+    "words": [
+      "ag\u0101la\u0161"
+    ],
+    "ref": "Kand. <i>ag\u0101la\u0161</i>, "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "ag\u0101\u0301le\u0161"
+    ],
+    "ref": "ky. <i>ag\u0101\u0301le\u0161</i>, "
+  },
+  {
+    "lang": "Kanyaw\u0101l\u012b dialect of Maiy\u00e3\u0304",
+    "words": [
+      "ag\u0101\u0301le\u0161"
+    ],
+    "ref": "ky. <i>ag\u0101\u0301le\u0161</i>, "
+  },
+  {
+    "lang": "Chil\u012bs (Dard.)",
+    "words": [
+      "aiy\u0101\u0161"
+    ],
+    "ref": "Gau. <i>aiy\u0101\u0161</i>, "
+  },
+  {
+    "lang": "Gauro (Dard.)",
+    "words": [
+      "aiy\u0101\u0161"
+    ],
+    "ref": "Gau. <i>aiy\u0101\u0161</i>, "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "yak\u0101\u0301\u0161"
+    ],
+    "ref": "Sv. <i>yak\u0101\u0301\u0161</i>, "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "ak\u0101\u0301\u0161",
+      "\u02da\u014d\u0161"
+    ],
+    "ref": "Phal. <i>ak\u0101\u0301\u0161</i>, <i>\u02da\u014d\u0161</i>, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "\u0103k\u0101\u012d",
+      "k\u0101i"
+    ],
+    "ref": "Sh. <i>\u0103k\u0101\u012d</i> (\u2190 \u1e0c <at>e</at><i>k\u0101i</i>), "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "k\u0101h"
+    ],
+    "ref": "K. <i>k\u0101h</i>, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "y\u0101ra\u0303ha\u0303",
+      "k\u0101rha\u0303"
+    ],
+    "ref": "S. <i>y\u0101ra\u0303ha\u0303</i>, <i>k\u0101rha\u0303</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "y\u0101hr\u00e3\u0304"
+    ],
+    "ref": "L. <i>y\u0101hr\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Khetr\u0101n\u012b dialect of Lahnd\u0101",
+    "words": [
+      "\u017e\u0101rh\u0101"
+    ],
+    "ref": "khet. <i>\u017e\u0101rh\u0101</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "y\u0101r\u00e3\u0304",
+      "gi\u0101r\u00e3\u0304"
+    ],
+    "ref": "P. <i>y\u0101r\u00e3\u0304</i>, <i>gi\u0101r\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Bha\u1e6de\u030c\u0101l\u012b sub-dialect of \u1e0cogr\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "ny\u0101r\u0101"
+    ],
+    "ref": "bha\u1e6d. <i>ny\u0101r\u0101</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "y\u0101hr\u0113"
+    ],
+    "ref": "bhad. <i>y\u0101hr\u0113</i>, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "y\u0101hr\u0113"
+    ],
+    "ref": "bhad. <i>y\u0101hr\u0113</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "y\u0101re"
+    ],
+    "ref": "bhal. <i>y\u0101re</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "y\u0101hr\u0101"
+    ],
+    "ref": "cur. <i>y\u0101hr\u0101</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "ikl\u0101"
+    ],
+    "ref": "Ku. (grain merchants' secret language) <i>ikl\u0101</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "egh\u0101ra"
+    ],
+    "ref": "N. <i>egh\u0101ra</i>, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "egh\u0101ra",
+      "\u0101gh\u02da"
+    ],
+    "ref": "A. <i>egh\u0101ra</i>, <i>\u0101gh\u02da</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "eg\u0101ra"
+    ],
+    "ref": "Or. <i>eg\u0101ra</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "eg\u0101ra"
+    ],
+    "ref": "Or. <i>eg\u0101ra</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "eg\u0101rah"
+    ],
+    "ref": "Bhoj. <i>eg\u0101rah</i>, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "eg\u0101rah"
+    ],
+    "ref": "Bhoj. <i>eg\u0101rah</i>, "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "g\u0113r\u0101"
+    ],
+    "ref": "lakh. <i>g\u0113r\u0101</i>, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "g\u0113r\u0101"
+    ],
+    "ref": "lakh. <i>g\u0113r\u0101</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "ig\u0101rah"
+    ],
+    "ref": "H. <i>ig\u0101rah</i>, O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "igy\u0101ra"
+    ],
+    "ref": "G. <i>igy\u0101ra</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "agy\u0101r"
+    ],
+    "ref": "G. <i>agy\u0101r</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "akr\u0101"
+    ],
+    "ref": "M. <i>akr\u0101</i>, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "eka\u1e37os",
+      "\u02da\u1e37aha",
+      "ekolasa"
+    ],
+    "ref": "Si. <i>eka\u1e37os</i>, <i>\u02da\u1e37aha</i>, <i>ekolasa</i>, O"
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "era",
+      "\u00e4ra"
+    ],
+    "ref": "Si. <i>era</i>, <i>\u00e4ra</i> GS 120."
+  }
+]

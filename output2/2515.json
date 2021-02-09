@@ -1,0 +1,72 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "\u1e17ti",
+    "ref": "<html><body><number>2515</number> <b>\u1e17ti</b> \u02bb goes \u02bc RV. [\u221a<i>i</i><superscript>2</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "\u0113ti"
+    ],
+    "ref": "Pa. <i>\u0113ti</i> \u02bb goes \u02bc, "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "eti"
+    ],
+    "ref": "rp. <i>eti</i>, "
+  },
+  {
+    "lang": "Jauga\u1e0da Rock Inscription of A\u015boka",
+    "words": [
+      "eti"
+    ],
+    "ref": "rp. <i>eti</i>, "
+  },
+  {
+    "lang": "Radhia (Lau\u1e5biy\u0101 Arar\u0101j) Pillar Edict of A\u015boka",
+    "words": [
+      "eti"
+    ],
+    "ref": "rp. <i>eti</i>, "
+  },
+  {
+    "lang": "Mathi\u0101 (Lau\u1e5biy\u0101-Nandanga\u1e5bh) Inscription of A\u015boka",
+    "words": [
+      "eti"
+    ],
+    "ref": "rp. <i>eti</i>, "
+  },
+  {
+    "lang": "R\u0101mpurv\u0101 Rock Edict of A\u015boka",
+    "words": [
+      "eti"
+    ],
+    "ref": "rp. <i>eti</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "\u0113i;"
+    ],
+    "ref": "Pk. <i>\u0113i;</i> "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "i"
+    ],
+    "ref": "Kt. <i>i</i>&lt;-&gt; \u02bb to go \u02bc NTS ii 253, "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "y",
+      "yim",
+      "g\u00e2"
+    ],
+    "ref": "Dm. <i>y</i> -- , 1st sg. fut. <i>yim</i> (pret. 3rd sg. <i>g\u00e2</i> &lt; <smallcaps>gat\u00e1</smallcaps> -- ) NTS xii 194."
+  }
+]

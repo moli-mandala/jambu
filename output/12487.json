@@ -1,0 +1,287 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["\u015b\u012btal\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>12487</number> <b>\u015b\u012btal\u00e1</b> \u02bb cold \u02bc MBh. [<smallcaps>\u015b\u012bt\u00e1 -- </smallcaps><superscript>1</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "s\u012btala"
+    ],
+    "ref": "Pa. <i>s\u012btala</i> -- \u02bb cold \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "s\u012bala",
+      "silh\u0101",
+      "sialli"
+    ],
+    "ref": "Pk. <i>s\u012bala</i> -- , <i>silh\u0101</i> -- f. (<i>sialli</i> -- m.f. \u02bb stormy day in winter \u02bc), "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "\u0161\u00e9le"
+    ],
+    "ref": "Wg. <i>\u0161\u00e9le</i>, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "\u0161il\u0259"
+    ],
+    "ref": "Kt. <i>\u0161il\u0259</i>, "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "\u0161\u00fclyu"
+    ],
+    "ref": "Pr. <i>\u0161\u00fcl<superscript>y</superscript>u</i>, "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "\u0161ala"
+    ],
+    "ref": "Dm. <i>\u0161ala</i>, "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "\u0161al\u0259"
+    ],
+    "ref": "Tir. <i>\u0161al\u0259</i>, "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "\u0161\u0113l"
+    ],
+    "ref": "Wo\u1e6d. <i>\u0161\u0113l</i>; "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "\u0161al",
+      "\u0161al\u00e1",
+      "\u0161ol\u0254\u0301"
+    ],
+    "ref": "Gaw. <i>\u0161al</i> \u02bb fever \u02bc, <i>\u0161al\u00e1</i>, <i>\u0161ol\u0254\u0301</i> \u02bb cold \u02bc; "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "\u0161al",
+      "\u0161alo"
+    ],
+    "ref": "Sv. <i>\u0161al</i> \u02bb fever \u02bc, <i>\u0161alo</i> \u02bb cold \u02bc; "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "\u0161al"
+    ],
+    "ref": "Sh. <i>\u0161al</i> m. \u02bb fever \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "\u015be\u0306holu",
+      "\u015be\u0306hulu",
+      "\u015biholu"
+    ],
+    "ref": "K. <i>\u015be\u0306hol<superscript>u</superscript></i>, <i>\u015be\u0306hul<superscript>u</superscript></i>, <i>\u015bihol<superscript>u</superscript></i> \u02bb cool \u02bc, m. \u02bb cool place \u02bc (or &lt; or X <smallcaps>\u015b\u00ed\u015bira -- ?</smallcaps>); "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "s\u012bl",
+      "s\u012bl\u0101",
+      "s\u012bllh\u0101",
+      "sillh\u0101",
+      "sillh",
+      "sill"
+    ],
+    "ref": "P. <i>s\u012bl</i> \u02bb cool \u02bc, m. \u02bb cold, coolness \u02bc, <i>s\u012bl\u0101</i> m. \u02bb cold, dampness \u02bc, <i>s\u012bllh\u0101</i>, <i>sillh\u0101</i> \u02bb damp \u02bc, <i>sillh</i> f. \u02bb dampness \u02bc, <i>sill</i> f. \u02bb hectic fever \u02bc; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u015bilu"
+    ],
+    "ref": "bhad. <i>\u015bilu</i> n. \u02bb coldness \u02bc, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u015bilu"
+    ],
+    "ref": "bhad. <i>\u015bilu</i> n. \u02bb coldness \u02bc, "
+  },
+  {
+    "lang": "Bhi\u1e0dl\u00e0\u012b sub-dialect of Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u015b\u00ecllu"
+    ],
+    "ref": "bhi\u1e0d. <i>\u015b\u00ecllu</i> n., "
+  },
+  {
+    "lang": "Jauns\u0101r\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u015b\u012bl",
+      "\u015b\u012bl\u014d",
+      "\u015bil\u0101",
+      "\u015ba\u1e37\u0101"
+    ],
+    "ref": "jaun. <i>\u015b\u012bl</i>, <i>\u015b\u012bl\u014d</i> \u02bb moist \u02bc, (Joshi) <i>\u015bil\u0101</i> \u02bb not sunny, a place where sun shines only a short time \u02bc, <i>\u015ba\u1e37\u0101</i> \u02bb cold, chilly \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "silo"
+    ],
+    "ref": "Ku. <i>silo</i> \u02bb damp, moist (e.g. of a cellar) \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "sia\u1e37a"
+    ],
+    "ref": "Or. <i>sia\u1e37a</i> \u02bb cold, cool (of weather) \u02bc, O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "siyara"
+    ],
+    "ref": "Aw. <i>siyara</i>, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "s\u012bl"
+    ],
+    "ref": "lakh. <i>s\u012bl</i>; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "s\u012bl\u0101",
+      "s\u012bl"
+    ],
+    "ref": "H. <i>s\u012bl\u0101</i> \u02bb cool, moist \u02bc, <i>s\u012bl</i> f.; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "\u015b\u012b\u1e37u\u0303"
+    ],
+    "ref": "G. <i>\u015b\u012b\u1e37u\u0303</i> \u02bb cold, stale \u02bc, n. \u02bb shady place \u02bc; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "\u015bi\u1e37\u0101"
+    ],
+    "ref": "M. <i>\u015bi\u1e37\u0101</i> \u02bb cold, sluggish, stale \u02bc; -- "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "h\u012bl",
+      "hiyil"
+    ],
+    "ref": "Si. <i>h\u012bl</i> \u02bb cold \u02bc, (SigGr) <i>hiyil</i> (or with GS 76 &lt; <smallcaps>\u015b\u00ed\u015bira -- </smallcaps>). -- "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "\u0161ilalo",
+      "\u0161il",
+      "d"
+    ],
+    "ref": "eur. <i>\u0161ilalo</i> is derived from <i>\u0161il</i> &lt; <smallcaps>\u015b\u012bt\u00e1 -- .</smallcaps> -- With unexpl. -- <i>d</i> -- : "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "\u0161ilalo",
+      "\u0161il",
+      "d"
+    ],
+    "ref": "eur. <i>\u0161ilalo</i> is derived from <i>\u0161il</i> &lt; <smallcaps>\u015b\u012bt\u00e1 -- .</smallcaps> -- With unexpl. -- <i>d</i> -- : "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "sild\u0103"
+    ],
+    "ref": "pal. <i>sild\u0103</i> \u02bb cold, unhappy \u02bc; "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "sild\u0103"
+    ],
+    "ref": "pal. <i>sild\u0103</i> \u02bb cold, unhappy \u02bc; "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "\u0161id\u0101\u0301l"
+    ],
+    "ref": "lau\u1e5b. <i>\u0161id\u0101\u0301l</i> \u02bb cold \u02bc, "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "\u0161id\u0101\u0301l"
+    ],
+    "ref": "lau\u1e5b. <i>\u0161id\u0101\u0301l</i> \u02bb cold \u02bc, "
+  },
+  {
+    "lang": "Areti dialect of Pashai",
+    "words": [
+      "\u0161idol"
+    ],
+    "ref": "ar. <i>\u0161idol</i>, "
+  },
+  {
+    "lang": "Nirl\u0101m\u012b dialect of Pashai",
+    "words": [
+      "sed\u0101\u0301l"
+    ],
+    "ref": "nir. <i>sed\u0101\u0301l</i>, "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "\u0161id\u0101\u0301l"
+    ],
+    "ref": "Shum. <i>\u0161id\u0101\u0301l</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "\u0161idul"
+    ],
+    "ref": "Tor. <i>\u0161idul</i>, "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "\u0161id\u0101\u0301lo"
+    ],
+    "ref": "Phal. <i>\u0161id\u0101\u0301lo</i>, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "\u0161id\u1eafl\u016d."
+    ],
+    "ref": "Sh. <i>\u0161id\u1eafl\u016d.</i>"
+  }
+]

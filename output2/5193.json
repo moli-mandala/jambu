@@ -1,0 +1,390 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "j\u0101n\u0101\u02cati",
+    "ref": "<html><body><number>5193</number> <b>j\u0101n\u0101\u02cati</b> \u02bb knows \u02bc RV. [\u221a<smallcaps>j\u00f1\u0101</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "j\u0101n\u0101ti"
+    ],
+    "ref": "Pa. <i>j\u0101n\u0101ti</i>, "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "j\u0101na\u1e41tu",
+      "j\u0101nisa\u1e41ti"
+    ],
+    "ref": "A\u015b. 3 pl. imper. <i>j\u0101na\u1e41tu</i>, fut. <i>j\u0101nisa\u1e41ti</i>, "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "janemi"
+    ],
+    "ref": "NiDoc. 1 sg. <i>janemi</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "j\u0101\u1e47a\u00ef"
+    ],
+    "ref": "Pk. <i>j\u0101\u1e47a\u00ef</i>, "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "\u01f0an"
+    ],
+    "ref": "arm. <i>\u01f0an</i> -- , "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "\u01f0an"
+    ],
+    "ref": "arm. <i>\u01f0an</i> -- , "
+  },
+  {
+    "lang": "Armenian dialect of Gypsy",
+    "words": [
+      "\u01f0an"
+    ],
+    "ref": "arm. <i>\u01f0an</i> -- , "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "\u01f0\u0103n"
+    ],
+    "ref": "pal. <i>\u01f0\u0103n</i> -- , "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "z\u00e2n"
+    ],
+    "ref": "Dm. <i>z\u00e2n</i> -- , "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "z\u00e2n"
+    ],
+    "ref": "Dm. <i>z\u00e2n</i> -- , "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "z\u00e2n"
+    ],
+    "ref": "Dm. <i>z\u00e2n</i> -- , "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "z\u0101ni"
+    ],
+    "ref": "Shum. <i>z\u0101ni</i> -- , "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "\u01f0honem"
+    ],
+    "ref": "rumb. 1 sg. <i>\u01f0honem</i>, "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "\u01f0honem"
+    ],
+    "ref": "rumb. 1 sg. <i>\u01f0honem</i>, "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "\u017eanik"
+    ],
+    "ref": "Kho. <i>\u017eanik</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "\u01f0an"
+    ],
+    "ref": "Tor. <i>\u01f0an</i> -- , "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "\u01f0han"
+    ],
+    "ref": "Phal. <i>\u01f0han</i> -- , "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "z\u0101nun"
+    ],
+    "ref": "K. <i>z\u0101nun</i>, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "j\u0304\u0101\u1e47a\u1e47u"
+    ],
+    "ref": "S. <i>j\u0304\u0101\u1e47a\u1e47u</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "j\u0101\u1e47a\u1e47",
+      "j\u0304\u0101\u02da"
+    ],
+    "ref": "L. <i>j\u0101\u1e47a\u1e47</i>, (Ju.) <i>j\u0304\u0101\u02da</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "j\u0101\u1e47an\u0101"
+    ],
+    "ref": "P. <i>j\u0101\u1e47an\u0101</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0308\u0101\u1e47\u1e47\u016b"
+    ],
+    "ref": "bhad. <i>j\u0308\u0101\u1e47\u1e47\u016b</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0308\u0101\u1e47\u1e47\u016b"
+    ],
+    "ref": "bhad. <i>j\u0308\u0101\u1e47\u1e47\u016b</i>, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0308\u0101\u1e47\u1e47\u016b"
+    ],
+    "ref": "bhad. <i>j\u0308\u0101\u1e47\u1e47\u016b</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0101\u1e47\u1e47\u0101"
+    ],
+    "ref": "cam. <i>j\u0101\u1e47\u1e47\u0101</i>, "
+  },
+  {
+    "lang": "Came\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0101\u1e47\u1e47\u0101"
+    ],
+    "ref": "cam. <i>j\u0101\u1e47\u1e47\u0101</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "j\u0101\u1e47\u1e47o"
+    ],
+    "ref": "Ku. <i>j\u0101\u1e47\u1e47o</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "j\u0101nnu"
+    ],
+    "ref": "N. <i>j\u0101nnu</i>, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "z\u0101niba"
+    ],
+    "ref": "A. <i>z\u0101niba</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "j\u0101n\u0101"
+    ],
+    "ref": "B. <i>j\u0101n\u0101</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "j\u0101\u1e47ib\u0101"
+    ],
+    "ref": "Or. <i>j\u0101\u1e47ib\u0101</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "j\u0101nab"
+    ],
+    "ref": "lakh. <i>j\u0101nab</i>, "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "j\u0101nab"
+    ],
+    "ref": "lakh. <i>j\u0101nab</i>, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "j\u0101nab"
+    ],
+    "ref": "lakh. <i>j\u0101nab</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "j\u0101nn\u0101"
+    ],
+    "ref": "H. <i>j\u0101nn\u0101</i>, "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "j\u0101\u1e47\u1e47o"
+    ],
+    "ref": "Marw. <i>j\u0101\u1e47\u1e47o</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "j\u0101\u1e47vu\u0303"
+    ],
+    "ref": "G. <i>j\u0101\u1e47vu\u0303</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "j\u0308\u0101\u1e47\u1e47\u1ebd"
+    ],
+    "ref": "M. <i>j\u0308\u0101\u1e47\u1e47\u1ebd</i>, "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "j\u0101\u1e47t\u0101"
+    ],
+    "ref": "Ko. <i>j\u0101\u1e47t\u0101</i>, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "dannav\u0101",
+      "data",
+      "j\u00f1\u0101tv\u0101",
+      "d"
+    ],
+    "ref": "Si. <i>dannav\u0101</i> (absol. <i>data</i> &lt; <i>j\u00f1\u0101tv\u0101</i> with <i>d</i> -- from pres. st.); -- caus. "
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "j\u0101n\u0101p\u0113ti"
+    ],
+    "ref": "Pa. <i>j\u0101n\u0101p\u0113ti</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "j\u0101n\u0101v\u0113i"
+    ],
+    "ref": "Pk. <i>j\u0101n\u0101v\u0113i</i>, "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "\u01f0\u0103na\u00fa\u0103r"
+    ],
+    "ref": "pal. <i>\u01f0\u0103na\u00fa\u0103r</i> \u02bb informs \u02bc, "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "\u01f0\u0103na\u00fa\u0103r"
+    ],
+    "ref": "pal. <i>\u01f0\u0103na\u00fa\u0103r</i> \u02bb informs \u02bc, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "j\u0304\u0101\u1e47\u0101i\u1e47u"
+    ],
+    "ref": "S. <i>j\u0304\u0101\u1e47\u0101i\u1e47u</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "jan\u0101u\u1e47\u0101"
+    ],
+    "ref": "P. <i>jan\u0101u\u1e47\u0101</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "jan\u0101unu"
+    ],
+    "ref": "N. <i>jan\u0101unu</i>, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "zan\u0101iba"
+    ],
+    "ref": "A. <i>zan\u0101iba</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "jan\u0101na"
+    ],
+    "ref": "B. <i>jan\u0101na</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "ja\u1e47\u0101ib\u0101"
+    ],
+    "ref": "Or. <i>ja\u1e47\u0101ib\u0101</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "jan\u0101n\u0101"
+    ],
+    "ref": "H. <i>jan\u0101n\u0101</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "ja\u1e47\u0101vvu\u0303"
+    ],
+    "ref": "G. <i>ja\u1e47\u0101vvu\u0303</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "j\u0308\u0101\u1e47avi\u1e47\u1ebd"
+    ],
+    "ref": "M. <i>j\u0308\u0101\u1e47avi\u1e47\u1ebd</i>, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "danvanav\u0101."
+    ],
+    "ref": "Si. <i>danvanav\u0101.</i>"
+  }
+]

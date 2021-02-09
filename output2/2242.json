@@ -1,0 +1,84 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "upavasath\u00e1",
+    "ref": "<html><body><number>2242</number> <b>upavasath\u00e1</b> m. \u02bb fast day \u02bc AitBr. [\u221a<smallcaps>vas</smallcaps><superscript>2</superscript>]"
+  },
+  {
+    "lang": "Buddhist Hybrid Sanskrit",
+    "words": [
+      "up\u014d\u1e63adha",
+      "p\u014d\u1e63\u02da"
+    ],
+    "ref": "BHSk. <i>up\u014d\u1e63adha</i> -- , <i>p\u014d\u1e63\u02da</i> m., "
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "up\u014dsatha",
+      "p\u014ds\u02da"
+    ],
+    "ref": "Pa. <i>up\u014dsatha</i> -- , <i>p\u014ds\u02da</i> m., "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "posath\u0101ye"
+    ],
+    "ref": "sn. <i>posath\u0101ye</i> dat., "
+  },
+  {
+    "lang": "S\u0101rn\u0101th Inscription of A\u015boka",
+    "words": [
+      "posath\u0101ye"
+    ],
+    "ref": "sn. <i>posath\u0101ye</i> dat., "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "posatha"
+    ],
+    "ref": "NiDoc. <i>posatha</i> -- , "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "p\u014dsaha"
+    ],
+    "ref": "Pk. <i>p\u014dsaha</i>&lt;-&gt; m., O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "posaha"
+    ],
+    "ref": "G. <i>posaha</i>; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "pohoya",
+      "p\u014dya",
+      "pehe",
+      "posahe"
+    ],
+    "ref": "Si. <i>pohoya</i>, <i>p\u014dya</i>, <i>pehe</i> (&lt; nom. <i>posahe</i>?) \u02bb quarter of the lunar month, day on which Buddhists fast \u02bc; -- "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "os\u0101",
+      "us\u0101"
+    ],
+    "ref": "Or. <i>os\u0101</i>, <i>us\u0101</i> \u02bb religious fast \u02bc; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "\u00f5vs\u0101",
+      "vas\u0101"
+    ],
+    "ref": "M. <i>\u00f5vs\u0101</i>, <i>vas\u0101</i> m. \u02bb self -- imposed obligation to hold any religious ceremony (among women) \u02bc or &lt; <smallcaps>upav\u0101sa</smallcaps> -- ."
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "\u0101\u1e47\u1e0d\u00e1",
+    "ref": "<html><body><number>1111</number> <b>\u0101\u1e47\u1e0d\u00e1</b> n. \u02bb egg \u02bc RV., du. \u02bb testicles \u02bc AV., <i>a\u1e47\u1e0d\u00e1</i> -- Ep., <i>\u02daaka</i>- \u02bb egg, scrotum \u02bc lex. [Kaf. Pa\u0161. Kal. forms point to *<i>\u0101\u1e47\u1e0dra</i> -- : ac. to Mayrhofer EWA i 26, with Kuiper PMWS 76, of Mu\u1e47\u1e0da origin]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "a\u1e47\u1e0da",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>a\u1e47\u1e0da</i> -- n. \u02bb egg \u02bc, pl. \u02bb testicles \u02bc, <i>\u02daaka</i> -- n. \u02bb egg \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "a\u1e41\u1e0da",
+      "\u02daaya"
+    ],
+    "ref": "Pk. <i>a\u1e41\u1e0da</i> -- , <i>\u02daaya</i> -- n. \u02bb egg, scrotum \u02bc; "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "anlu"
+    ],
+    "ref": "arm. <i>anlu</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Armenian dialect of Gypsy",
+    "words": [
+      "anlu"
+    ],
+    "ref": "arm. <i>anlu</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Asiatic dialects of Gypsy",
+    "words": [
+      "ana"
+    ],
+    "ref": "as. <i>ana</i>, "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "\u00e1n\u0103"
+    ],
+    "ref": "pal. <i>\u00e1n\u0103</i>, "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "an\u1e5bo"
+    ],
+    "ref": "rum. <i>an\u1e5bo</i>, "
+  },
+  {
+    "lang": "Rumanian dialect of European Gypsy",
+    "words": [
+      "an\u1e5bo"
+    ],
+    "ref": "rum. <i>an\u1e5bo</i>, "
+  },
+  {
+    "lang": "Greek dialect of European Gypsy",
+    "words": [
+      "vanro",
+      "arno"
+    ],
+    "ref": "gr. <i>vanro</i>, <i>arno</i> \u02bb egg, testicle \u02bc; "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "\u017eau"
+    ],
+    "ref": "Ash. <i>\u017eau</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "w\u0155\u0101o",
+      "\u017e\u0101o"
+    ],
+    "ref": "Wg. <i>w\u0155\u0101o</i>, <i>\u017e\u0101o</i>, "
+  },
+  {
+    "lang": "Bashgal\u012b (Kaf.)",
+    "words": [
+      "azh\u0101"
+    ],
+    "ref": "Bashg. <i>azh\u0101</i>, "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "we\u017eeg\u00e9",
+      "a\u0303\u0155a",
+      "an",
+      "d",
+      "ra"
+    ],
+    "ref": "Pr. <i>we\u017eeg\u00e9</i> all &lt; *<i>a\u0303\u0155a</i> -- &lt; *<i>an</i>(<i>d</i>)<i>ra</i> -- Morgenstierne NTS ii 228; "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "\u0101\u1e47\u1e0d"
+    ],
+    "ref": "Ash. <i>\u0101\u1e47\u1e0d</i> \u02bb penis \u02bc, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "w\u014dn"
+    ],
+    "ref": "Kt. <i>w\u014dn</i>, "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "w\u0101\u1e47\u00e1"
+    ],
+    "ref": "Wg. <i>w\u0101\u1e47\u00e1</i> \u02bb egg \u02bc \u2190 "
+  },
+  {
+    "lang": "Indo-aryan of India proper excluding Kafiri and Dardic",
+    "words": [
+      "\u00e1nak"
+    ],
+    "ref": "Dm. <i>\u00e1nak</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "\u00e1nak"
+    ],
+    "ref": "Dm. <i>\u00e1nak</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "\u0101\u1e47\u0101\u0301"
+    ],
+    "ref": "Tir. <i>\u0101\u1e47\u0101\u0301</i>; "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "\u014dluk",
+      "\u00e3\u0304luk",
+      "\u0101ndruk",
+      "\u0101\u1e47\u1e0da",
+      "\u0101\u1e47\u1e0d\u012b"
+    ],
+    "ref": "Pa\u0161. <i>\u014dluk</i> \u02bb testicles \u02bc &lt; *<i>\u00e3\u0304luk</i> &lt; *<i>\u0101ndruk</i> Morgenstierne IIFL iii 3, 9, <i>\u0101\u1e47\u1e0da</i> \u02bb egg \u02bc, <i>\u0101\u1e47\u1e0d\u012b</i> \u02bb scrotum \u02bc \u2190 "
+  },
+  {
+    "lang": "Indo-aryan of India proper excluding Kafiri and Dardic",
+    "words": [
+      "w\u0101\u1e47\u00e1"
+    ],
+    "ref": "Ind. ib. 13; Nin\u0313g. <i>w\u0101\u1e47\u00e1</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "\u00e1\u0303\u0304\u1e5ba"
+    ],
+    "ref": "Shum. <i>\u00e1\u0303\u0304\u1e5ba</i> m. "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "a\u1e47\u1e0d\u00e1"
+    ],
+    "ref": "Gaw. <i>a\u1e47\u1e0d\u00e1</i>, "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "\u1e53\u1e47\u1e0drak"
+    ],
+    "ref": "Kal. <i>\u1e53\u1e47\u1e0drak</i>, "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "a\u0303"
+    ],
+    "ref": "Bshk. <i>a\u0303</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "\u0101\u1e47"
+    ],
+    "ref": "Tor. <i>\u0101\u1e47</i>, "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "\u0101\u1e5ba"
+    ],
+    "ref": "Mai. <i>\u0101\u1e5ba</i>, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "an\u1e0d"
+    ],
+    "ref": "K. <i>an\u1e0d</i> m., "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "\u0101no"
+    ],
+    "ref": "S. <i>\u0101no</i> m., "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "\u0101\u1e47\u1e0d\u1e5b\u0101",
+      "\u0101n\u00e3\u0304"
+    ],
+    "ref": "L. <i>\u0101\u1e47\u1e0d\u1e5b\u0101</i> m., (Jukes) <i>\u0101n\u00e3\u0304</i> m. \u02bb egg, eyeball \u02bc; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "\u0101\u1e47\u1e0d",
+      "\u0101\u1e47\u1e0d\u0101"
+    ],
+    "ref": "P. <i>\u0101\u1e47\u1e0d</i> m. \u02bb testicle \u02bc, <i>\u0101\u1e47\u1e0d\u0101</i> m. \u02bb egg \u02bc; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u0101\u1e47\u1e0d\u0101"
+    ],
+    "ref": "cam. <i>\u0101\u1e47\u1e0d\u0101</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Came\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u0101\u1e47\u1e0d\u0101"
+    ],
+    "ref": "cam. <i>\u0101\u1e47\u1e0d\u0101</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u0101\u1e47\u012b"
+    ],
+    "ref": "bhal. <i>\u0101\u1e47\u012b</i> f. \u02bb testicle \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "\u00e3\u0304\u1e0d\u016br"
+    ],
+    "ref": "Ku. <i>\u00e3\u0304\u1e0d\u016br</i> \u02bb young birds \u02bc, "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "\u0101\u1e47"
+    ],
+    "ref": "gng. <i>\u0101\u1e47</i> \u02bb egg \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "\u00e3\u0304\u1e5b"
+    ],
+    "ref": "N. <i>\u00e3\u0304\u1e5b</i> \u02bb testicle \u02bc, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "\u00e3\u0304\u1e5b",
+      "\u1ebd\u1e5b"
+    ],
+    "ref": "B. <i>\u00e3\u0304\u1e5b</i>, <i>\u1ebd\u1e5b</i>; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "a\u1e47\u1e0di"
+    ],
+    "ref": "Or. <i>a\u1e47\u1e0di</i> \u02bb penis \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "\u00e3\u0304\u1e5b"
+    ],
+    "ref": "Bhoj. <i>\u00e3\u0304\u1e5b</i> \u02bb testicle \u02bc; "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "\u00e3\u0304\u1e5b"
+    ],
+    "ref": "Bhoj. <i>\u00e3\u0304\u1e5b</i> \u02bb testicle \u02bc; "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "\u00e3\u0304\u1e5b\u012b"
+    ],
+    "ref": "lakh. <i>\u00e3\u0304\u1e5b\u012b</i> \u02bb bulb of a plant \u02bc; "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "\u00e3\u0304\u1e5b\u012b"
+    ],
+    "ref": "lakh. <i>\u00e3\u0304\u1e5b\u012b</i> \u02bb bulb of a plant \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "\u00e3\u0304\u1e5b",
+      "\u00e3\u0304\u1e0d",
+      "a\u1e47\u1e0d\u0101"
+    ],
+    "ref": "H. <i>\u00e3\u0304\u1e5b</i>, <i>\u00e3\u0304\u1e0d</i> m. \u02bb testicle \u02bc, <i>a\u1e47\u1e0d\u0101</i> m. \u02bb egg \u02bc (orig. W"
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "a\u1e47\u1e0d\u0101"
+    ],
+    "ref": "N. <i>a\u1e47\u1e0d\u0101</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "a\u1e47\u1e0d\u0101"
+    ],
+    "ref": "N. <i>a\u1e47\u1e0d\u0101</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "\u0101\u1e47\u1e0d\u0101"
+    ],
+    "ref": "B. <i>\u0101\u1e47\u1e0d\u0101</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "a\u1e47\u1e0d\u0101"
+    ],
+    "ref": "Mth. <i>a\u1e47\u1e0d\u0101</i>); "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "a\u1e47\u1e0d\u0101"
+    ],
+    "ref": "Mth. <i>a\u1e47\u1e0d\u0101</i>); "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "\u00e3\u0304\u1e0d"
+    ],
+    "ref": "G. <i>\u00e3\u0304\u1e0d</i> m. \u02bb testicle \u02bc; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "\u00e3\u0304\u1e0d",
+      "\u00e3\u0304\u1e0d\u1ebd"
+    ],
+    "ref": "M. <i>\u00e3\u0304\u1e0d</i> n. \u02bb testicle \u02bc, <i>\u00e3\u0304\u1e0d\u1ebd</i> n. \u02bb egg \u02bc; "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "\u0101\u1e47\u1e0da"
+    ],
+    "ref": "Ko. <i>\u0101\u1e47\u1e0da</i> n. \u02bb testicle \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "an\u0323\u02d8\u1e0da"
+    ],
+    "ref": "Si. <i>an\u0323\u02d8\u1e0da</i> \u02bb egg, testicle \u02bc. -- Deformations: "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "ha\u1e47\u1e53"
+    ],
+    "ref": "Phal. <i>ha\u1e47\u1e53</i> \u02bb egg \u02bc, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "h\u0103\u1e47\u1e53"
+    ],
+    "ref": "gur. <i>h\u0103\u1e47\u1e53</i> m.; -- "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "h\u0103\u1e47\u1e53"
+    ],
+    "ref": "gur. <i>h\u0103\u1e47\u1e53</i> m.; -- "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "h\u00e3\u0304\u1e6drak"
+    ],
+    "ref": "urt. <i>h\u00e3\u0304\u1e6drak</i>, "
+  },
+  {
+    "lang": "Urtsun dialect of Kalasha",
+    "words": [
+      "h\u00e3\u0304\u1e6drak"
+    ],
+    "ref": "urt. <i>h\u00e3\u0304\u1e6drak</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "\u00e3\u0304\u1e6d\u1e5b\u0101"
+    ],
+    "ref": "aw\u0101\u1e47. <i>\u00e3\u0304\u1e6d\u1e5b\u0101</i>, "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "\u00e3\u0304\u1e6d\u1e5b\u0101"
+    ],
+    "ref": "aw\u0101\u1e47. <i>\u00e3\u0304\u1e6d\u1e5b\u0101</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u1e6d\u0101"
+    ],
+    "ref": "kha\u015b. <at>e_</at><i>\u1e6d\u0101</i>; -- "
+  },
+  {
+    "lang": "Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u1e6d\u0101"
+    ],
+    "ref": "kha\u015b. <at>e_</at><i>\u1e6d\u0101</i>; -- "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "\u0129\u1e0du\u0303"
+    ],
+    "ref": "G. <i>\u0129\u1e0du\u0303</i> n. -- Deriv. "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "\u0101niru"
+    ],
+    "ref": "S. <i>\u0101niru</i> \u02bb uncastrated \u02bc, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "\u0101nur;"
+    ],
+    "ref": "L. <i>\u0101nur;</i> "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "a\u1e47\u1e0dir\u0101"
+    ],
+    "ref": "Or. <i>a\u1e47\u1e0dir\u0101</i> \u02bb male \u02bc; -- "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "\u0101\u1e47\u1e0d\u016b"
+    ],
+    "ref": "P. <i>\u0101\u1e47\u1e0d\u016b</i> \u02bb uncastrated \u02bc, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "\u00e3\u0304\u1e0du"
+    ],
+    "ref": "Ku. <i>\u00e3\u0304\u1e0du</i> "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "\u00e3\u0304\u1e5bu"
+    ],
+    "ref": "N. <i>\u00e3\u0304\u1e5bu</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "\u00e3\u0304\u1e0d\u016b"
+    ],
+    "ref": "H. <i>\u00e3\u0304\u1e0d\u016b</i>; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "\u00e3\u0304\u1e5bu\u0101"
+    ],
+    "ref": "B. <i>\u00e3\u0304\u1e5bu\u0101</i> \u02bb bull -- calf \u02bc."
+  }
+]

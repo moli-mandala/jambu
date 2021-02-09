@@ -1,0 +1,37 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "any\u0101d\u0155\u030a\u015b",
+    "ref": "<html><body><number>405</number> <b>any\u0101d\u0155\u030a\u015b</b> \u02bb like another \u02bc VS., <i>\u02da\u015ba</i> -- P\u0101\u1e47., <i>\u02dadr\u0325k\u1e63a</i> -- lex. [<smallcaps>any\u00e1 -- , dr\u0325\u015b</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "a\u00f1\u00f1\u0101disa"
+    ],
+    "ref": "Pa. <i>a\u00f1\u00f1\u0101disa</i> -- \u02bb different \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "a\u1e47\u1e47\u0101isa",
+      "a\u1e47\u1e47\u0101risa",
+      "\u02dariccha"
+    ],
+    "ref": "Pk. <i>a\u1e47\u1e47\u0101isa</i> -- , <i>a\u1e47\u1e47\u0101risa</i> -- , <i>\u02dariccha</i> -- \u02bb like another \u02bc; O"
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "an\u0101ris\u0101"
+    ],
+    "ref": "M. <i>an\u0101ris\u0101</i> \u02bb different, strange \u02bc; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "\u0101ns\u0101"
+    ],
+    "ref": "M. <i>\u0101ns\u0101</i> \u02bb another, different \u02bc."
+  }
+]

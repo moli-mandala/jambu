@@ -1,0 +1,226 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "v\u00e1r\u1e63ati:",
+    "ref": "<html><body><number>11394</number> <b>v\u00e1r\u1e63ati:</b> <i>vas\u1e47\u016b</i> \u02bb to rain \u02bc. <p></p></body></html>"
+  },
+  {
+    "lang": "Indo-Aryan",
+    "words": "v\u00e1r\u1e63ati",
+    "ref": "<html><body><number>11394</number> <b>v\u00e1r\u1e63ati</b> \u02bb it rains \u02bc RV. [\u2192 Par. <i>w\u0101\u0161</i> -- \u02bb to rain \u02bc IIFL i 298. -- \u221a<smallcaps>vr\u0325\u1e63</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "d\u0113v\u014d",
+      "vassati"
+    ],
+    "ref": "Pa. (<i>d\u0113v\u014d</i>) <i>vassati</i> \u02bb it rains \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "vassadi",
+      "v\u0101sa\u00ef",
+      "varisa\u00ef"
+    ],
+    "ref": "Pk. <i>vassadi</i>, <i>v\u0101sa\u00ef</i>, <i>varisa\u00ef</i>; "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "bri\u0161ind",
+      "\u02dado"
+    ],
+    "ref": "eur. <i>bri\u0161ind</i>, <i>\u02dado</i> \u02bb rain \u02bc (&lt; "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "bri\u0161ind",
+      "\u02dado"
+    ],
+    "ref": "eur. <i>bri\u0161ind</i>, <i>\u02dado</i> \u02bb rain \u02bc (&lt; "
+  },
+  {
+    "lang": "Middle Indo-aryan",
+    "words": [
+      "vari\u1e63anta"
+    ],
+    "ref": "MIA. *<i>vari\u1e63anta</i> -- ), "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "w\u00e1rs\u0103r",
+      "wars\u00ednda"
+    ],
+    "ref": "pal. <i>w\u00e1rs\u0103r</i> \u02bb it rains \u02bc, <i>wars\u00ednda</i> \u02bb rain, cloud, winter \u02bc (both "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "bri\u0161ind"
+    ],
+    "ref": "eur. <i>bri\u0161ind</i> and "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "wars\u00ednda"
+    ],
+    "ref": "pal. <i>wars\u00ednda</i> have been influenced by "
+  },
+  {
+    "lang": "Persian (Iranian)",
+    "words": [
+      "barsanda"
+    ],
+    "ref": "Pers. <i>barsanda</i> to which "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "s",
+      "\u0161"
+    ],
+    "ref": "pal. verb also owes its <i>s</i> in place of expected <i>\u0161</i>); "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "bo\u1e63ik"
+    ],
+    "ref": "Kho. <i>bo\u1e63ik</i> \u02bb to rain \u02bc, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "wa\u015bun"
+    ],
+    "ref": "K. <i>wa\u015bun</i>, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "vasa\u1e47u"
+    ],
+    "ref": "S. <i>vasa\u1e47u</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "vassa\u1e47",
+      "u\u1e6d\u1e6dh\u0101"
+    ],
+    "ref": "L. <i>vassa\u1e47</i> (pp. <i>u\u1e6d\u1e6dh\u0101</i> &lt; <smallcaps>vr\u0325\u1e63\u1e6d\u00e1</smallcaps> -- ), "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "vass\u1e47\u0101",
+      "vas\u1e47\u0101",
+      "varh\u1e47\u0101"
+    ],
+    "ref": "P. <i>vass\u1e47\u0101</i>, <i>vas\u1e47\u0101</i>, <i>varh\u1e47\u0101</i>, "
+  },
+  {
+    "lang": "Ludhi\u0101n\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "barhn\u0101"
+    ],
+    "ref": "ludh. <i>barhn\u0101</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "barsa\u1e47o"
+    ],
+    "ref": "Ku. <i>barsa\u1e47o</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "barsanu"
+    ],
+    "ref": "N. <i>barsanu</i>, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "barahiba"
+    ],
+    "ref": "A. <i>barahiba</i>; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "bars\u0101na"
+    ],
+    "ref": "B. caus. <i>bars\u0101na</i> tr. \u02bb to rain down \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "barasib\u0101"
+    ],
+    "ref": "Or. <i>barasib\u0101</i> \u02bb to rain \u02bc, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "barisab"
+    ],
+    "ref": "Mth. <i>barisab</i>, O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "barasa\u00ef"
+    ],
+    "ref": "Aw. <i>barasa\u00ef</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "barasn\u0101"
+    ],
+    "ref": "H. <i>barasn\u0101</i> (\u2192 "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "barsn\u0101"
+    ],
+    "ref": "P. <i>barsn\u0101</i>), "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "varasvu\u0303"
+    ],
+    "ref": "G. <i>varasvu\u0303</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "varas\u1e47\u1ebd"
+    ],
+    "ref": "M. <i>varas\u1e47\u1ebd</i>, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "vasinav\u0101",
+      "vahi\u02da"
+    ],
+    "ref": "Si. <i>vasinav\u0101</i>, <i>vahi\u02da</i>; "
+  },
+  {
+    "lang": "or mald. Maldivian dialect of Sinhalese",
+    "words": [
+      "veheni"
+    ],
+    "ref": "Md. <i>veheni</i> \u02bb it is raining \u02bc."
+  }
+]

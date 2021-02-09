@@ -1,0 +1,30 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["cikka"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>4781</number> *<b>cikka</b><superscript>3</superscript> \u02bb small \u02bc. [Cf. <i>cikva</i> -- m. \u02bb young elephant \u02bc, <i>cikkagaja</i> -- m.; <i>cik\u1e63a</i> -- \u02bb young \u02bc, *<smallcaps>ci\u1e45ga</smallcaps> -- : perh. same as <i>cikk\u00e1</i> -- <superscript>4</superscript>, <i>cikin\u00e1</i> -- \u02bb flat -- nosed \u02bc P\u0101\u1e47., <i>cikina</i> -- \u02bb flattened, stumpy \u02bc Har\u1e63ac. -- \u2190 Drav. (cf. Kan. <i>cikka</i> \u02bb small \u02bc) LM 330, T. Burrow BSOAS 12, 379]"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "cikka",
+      "\u02dak\u0101"
+    ],
+    "ref": "Pk. <i>cikka</i> -- \u02bb small \u02bc, <i>\u02dak\u0101</i> -- f. \u02bb anything small, slight rain, small drop \u02bc; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "cike",
+      "cikkar"
+    ],
+    "ref": "M. <i>cike</i> \u02bb a little \u02bc, <i>cikkar</i> small. -- "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "\u010bik"
+    ],
+    "ref": "Kho. (Lor.) <i>\u010bik</i> \u02bb younger, small (of animals and things) \u02bc?"
+  }
+]

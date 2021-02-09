@@ -1,0 +1,52 @@
+[
+  {
+    "term": "a p ʃ",
+    "etym": [
+      {
+        "term": "a ʃ ʋ a",
+        "source": "cdial"
+      }
+    ],
+    "source": "cdial"
+  },
+  {
+    "term": "aː",
+    "etym": [
+      {
+        "term": "a ʝ a",
+        "source": "cdial"
+      }
+    ],
+    "source": "cdial"
+  },
+  {
+    "term": "d a m o n",
+    "etym": [
+      {
+        "term": "d a m uː n a s",
+        "source": "cdial"
+      }
+    ],
+    "source": "cdial"
+  },
+  {
+    "term": "e i",
+    "etym": [
+      {
+        "term": "a ʋ i",
+        "source": "cdial"
+      }
+    ],
+    "source": "cdial"
+  },
+  {
+    "term": "g r iː",
+    "etym": [
+      {
+        "term": "g r iː ʋ aː",
+        "source": "cdial"
+      }
+    ],
+    "source": "cdial"
+  }
+]

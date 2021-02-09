@@ -1,0 +1,81 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "t\u012bvr\u00e1",
+    "ref": "<html><body><number>5848</number> <b>t\u012bvr\u00e1</b> \u02bb strong, hot, pungent \u02bc RV."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "tibba"
+    ],
+    "ref": "Pa. <i>tibba</i> -- \u02bb sharp, eager \u02bc; "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "tivre"
+    ],
+    "ref": "man. <i>tivre</i>, "
+  },
+  {
+    "lang": "Sh\u0101hb\u0101zga\u1e5bh\u012b Rock Inscription of A\u015boka",
+    "words": [
+      "tivre"
+    ],
+    "ref": "man. <i>tivre</i>, "
+  },
+  {
+    "lang": "M\u0101nsehr\u0101 Rock Inscription of A\u015boka",
+    "words": [
+      "tivre"
+    ],
+    "ref": "man. <i>tivre</i>, "
+  },
+  {
+    "lang": "K\u0101ls\u012b Rock Inscription of A\u015boka",
+    "words": [
+      "tive"
+    ],
+    "ref": "k\u0101l. <i>tive</i>, "
+  },
+  {
+    "lang": "Girn\u0101r Rock Inscription of A\u015boka",
+    "words": [
+      "t\u012bvo"
+    ],
+    "ref": "gir. <i>t\u012bvo</i> \u02bb zealous \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "tivva"
+    ],
+    "ref": "Pk. <i>tivva</i> -- \u02bb strong, fierce, pungent \u02bc; "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "tre"
+    ],
+    "ref": "Tir. <i>tre</i> \u02bb salt \u02bc (but EVP 83 &lt; *<smallcaps>tr\u0325pu</smallcaps> -- cf. "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "trup",
+      "\u0101la"
+    ],
+    "ref": "Kho. <i>trup</i> \u02bb salt \u02bc &lt; <smallcaps>tr\u0325pra</smallcaps> -- <superscript>2</superscript>). -- Ext. with -- <i>\u0101la</i> -- in "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "liw\u0101\u0301lo",
+      "i",
+      "l",
+      "li"
+    ],
+    "ref": "Gaw. <i>liw\u0101\u0301lo</i> \u02bb sharp \u02bc with *<at>l</at><i>i</i> -- assimilated by following -- <i>l</i>&lt;-&gt; to <i>li</i> -- ."
+  }
+]

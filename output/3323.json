@@ -1,0 +1,91 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["k\u00farara"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>3323</number> <b>k\u00farara</b> m. \u02bb osprey \u02bc Y\u0101j\u00f1., <i>\u02dar\u012b</i> f., <i>kurala</i> -- m."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "kurara",
+      "\u02daala"
+    ],
+    "ref": "Pa. <i>kurara</i> -- , <i>\u02daala</i> -- m., "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "kurara",
+      "\u02dar\u012b",
+      "kurala",
+      "\u02dal\u012b",
+      "kurura"
+    ],
+    "ref": "Pk. <i>kurara</i> -- m., <i>\u02dar\u012b</i> -- f., <i>kurala</i>&lt;-&gt; m., <i>\u02dal\u012b</i> -- f., <i>kurura</i> -- m., "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "kurla"
+    ],
+    "ref": "S. <i>kurla</i> f., "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "kural"
+    ],
+    "ref": "L. <i>kural</i> m., "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "kurl"
+    ],
+    "ref": "P. <i>kurl</i> m., "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "kuruw\u0101"
+    ],
+    "ref": "A. <i>kuruw\u0101</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "kurar",
+      "kural"
+    ],
+    "ref": "B. <i>kurar</i>, <i>kural</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "kurara",
+      "\u02dar\u012b",
+      "kura\u1e37a",
+      "kurura",
+      "\u02dar\u012b",
+      "kuru\u1e37a"
+    ],
+    "ref": "Or. <i>kurara</i>, <i>\u02dar\u012b</i>, <i>kura\u1e37a</i>, <i>kurura</i>, <i>\u02dar\u012b</i>, <i>kuru\u1e37a</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "kurar\u012b"
+    ],
+    "ref": "Mth. <i>kur<superscript>a</superscript>r\u012b</i>; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "kuraray\u0101",
+      "kuralay\u0101",
+      "kurara",
+      "kiral\u0101"
+    ],
+    "ref": "Si. <i>kuraray\u0101</i>, <i>kuralay\u0101</i> \u02bb sea -- eagle \u02bc SED (<i>kurara</i> = <i>kiral\u0101</i> \u02bb lapwing \u02bc SSS)."
+  }
+]

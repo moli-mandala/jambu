@@ -1,0 +1,88 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["rajat\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>10576</number> <b>rajat\u00e1</b> \u02bb silvery \u02bc RV., n. \u02bb silver \u02bc AV."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "rajata"
+    ],
+    "ref": "Pa. <i>rajata</i> -- n. \u02bb silver \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "rayada",
+      "rayaya"
+    ],
+    "ref": "Pk. <i>rayada</i> -- , <i>rayaya</i> -- n., "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "rid\u012b"
+    ],
+    "ref": "Si. <i>rid\u012b</i>, "
+  },
+  {
+    "lang": "or mald. Maldivian dialect of Sinhalese",
+    "words": [
+      "rihi."
+    ],
+    "ref": "Md. <i>rihi.</i> -- "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "ar\u016b\u0301",
+      "\u00far\u0259"
+    ],
+    "ref": "Ash. <i>ar\u016b\u0301</i>, <i>\u00far\u0259</i>, "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "ur\u1e17i"
+    ],
+    "ref": "Wg. <i>ur\u1e17i</i>, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "\u0155\u016b\u0324",
+      "ar\u016b\u0324"
+    ],
+    "ref": "Kt. <i>\u0155\u016b\u0324</i>, <i>ar\u016b\u0324</i>, "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "ur\u01d8"
+    ],
+    "ref": "Pr. <i>ur\u01d8</i>, "
+  },
+  {
+    "lang": "Gamb\u012br\u012b (Kaf.)",
+    "words": [
+      "wur\u1e53"
+    ],
+    "ref": "Gmb. <i>wur\u1e53</i>, "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "r\u0101wa"
+    ],
+    "ref": "Kal. (LSI) <i>r\u0101wa</i>, "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "r\u016ba",
+      "r\u016bpiya"
+    ],
+    "ref": "rumb. <i>r\u016ba</i>: more prob. &lt; *<i>r\u016bpiya</i> -- s.v. <smallcaps>r\u016b\u0301pya</smallcaps> -- ?"
+  }
+]
