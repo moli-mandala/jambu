@@ -1,0 +1,51 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "s\u00e1magra",
+    "ref": "<html><body><number>13178</number> <b>s\u00e1magra</b> (<i>samagr\u00e1</i> -- ) \u02bb all, complete \u02bc AV. [<smallcaps>\u00e1gra -- </smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "samagga"
+    ],
+    "ref": "Pa. <i>samagga</i> -- \u02bb harmonious \u02bc, pl. \u02bb all together \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "samagga",
+      "samaggala"
+    ],
+    "ref": "Pk. <i>samagga</i> -- \u02bb all, complete \u02bc, <i>samaggala</i> -- \u02bb all, additional \u02bc; "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "samage"
+    ],
+    "ref": "kb. <i>samage</i> \u02bb united (?) \u02bc; "
+  },
+  {
+    "lang": "Kau\u015b\u0101mb\u012b Pillar Edict of A\u015boka",
+    "words": [
+      "samage"
+    ],
+    "ref": "kb. <i>samage</i> \u02bb united (?) \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "sama",
+      "n\u0306",
+      "gi",
+      "sama",
+      "n\u0306",
+      "ga",
+      "samagin",
+      "samagg\u0113na",
+      "m"
+    ],
+    "ref": "Si. <i>sama</i>(<i>n\u0306</i>)<i>gi</i> \u02bb united \u02bc, <i>sama</i>(<i>n\u0306</i>)<i>ga</i> \u02bb with \u02bc, <i>samagin</i> (&lt; <i>samagg\u0113na</i>) ES 87: if so, nasalization due to preceding <i>m</i>; but poss. &lt; <smallcaps>s\u00e1ma\u1e45ga -- .</smallcaps>"
+  }
+]

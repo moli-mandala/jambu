@@ -1,0 +1,358 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "sapt\u00e1da\u015ba",
+    "ref": "<html><body><number>13146</number> <b>sapt\u00e1da\u015ba</b> \u02bb 17 \u02bc TS."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "sattadasa",
+      "sattarasa"
+    ],
+    "ref": "Pk. <i>sattadasa</i>, <i>sattarasa</i> \u02bb 17 \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "sattadasa",
+      "sattarasa"
+    ],
+    "ref": "Pk. <i>sattadasa</i>, <i>sattarasa</i> \u02bb 17 \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "sattaraha",
+      "sattara"
+    ],
+    "ref": "Pk. <i>sattaraha</i>, <i>sattara</i>, "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "satt\u00e4\u0301is"
+    ],
+    "ref": "Ash. <i>satt\u00e4\u0301is</i>, "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "satt\u0101\u0301\u0161"
+    ],
+    "ref": "Wg. <i>satt\u0101\u0301\u0161</i>, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "sati\u010b",
+      "sti\u010b"
+    ],
+    "ref": "Kt. <i>sati\u010b</i>, <i>sti\u010b</i>, "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "s",
+      "tl\u012b\u0301z"
+    ],
+    "ref": "Pr. <i>s</i><at>e</at><i>tl\u012b\u0301z</i>, "
+  },
+  {
+    "lang": "Bashgal\u012b (Kaf.)",
+    "words": [
+      "sapits"
+    ],
+    "ref": "Bashg. \"<i>sapits</i>\", "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "satt\u00e2\u0161",
+      "\u00e2",
+      "\u0113",
+      "a\u1e63\u1e6d\u00e2\u0161"
+    ],
+    "ref": "Dm. <i>satt\u00e2\u0161</i> (<i>\u00e2</i> for <i>\u0113</i> after <i>a\u1e63\u1e6d\u00e2\u0161</i> \u02bb 18 \u02bc NTS xii 131), "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "s",
+      "t\u016b\u1e5b\u0259"
+    ],
+    "ref": "Tir. <i>s</i><at>*l</at><i>t\u016b\u1e5b\u0259</i>, "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "satt\u012b"
+    ],
+    "ref": "lau\u1e5b. <i>satt\u012b</i>, "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "satt\u012b"
+    ],
+    "ref": "lau\u1e5b. <i>satt\u012b</i>, "
+  },
+  {
+    "lang": "Darrai-i N\u016br dialect of Pashai",
+    "words": [
+      "sat\u016b"
+    ],
+    "ref": "dar. <i>sat\u016b</i>, "
+  },
+  {
+    "lang": "Ni\u1e45gal\u0101m\u012b (Dard.)",
+    "words": [
+      "sat\u00e1s"
+    ],
+    "ref": "Ni\u1e45g. <i>sat\u00e1s</i>, "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "sid\u0101r\u014d\u02dc\u0301",
+      "zd\u0101r\u014d\u02dc\u0301"
+    ],
+    "ref": "Wo\u1e6d. <i>sid\u0101r\u014d\u02dc\u0301</i>, <i>zd\u0101r\u014d\u02dc\u0301</i>, "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "s\u0254t\u0101\u0301s"
+    ],
+    "ref": "Gaw. <i>s\u0254t\u0101\u0301s</i>, "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "satt\u0101\u0301h"
+    ],
+    "ref": "Bshk. <i>satt\u0101\u0301h</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "satt\u0101\u0301\u0161"
+    ],
+    "ref": "Tor. <i>satt\u0101\u0301\u0161</i>, "
+  },
+  {
+    "lang": "Kandia (Dard.)",
+    "words": [
+      "sat\u00e3\u0304e\u0161"
+    ],
+    "ref": "Kand. <i>sat\u00e3\u0304e\u0161</i>, "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "sat\u0101la\u0161"
+    ],
+    "ref": "Mai. <i>sat\u0101la\u0161</i>, "
+  },
+  {
+    "lang": "Kanyaw\u0101l\u012b dialect of Maiy\u00e3\u0304",
+    "words": [
+      "sat\u0101\u0301le\u0161"
+    ],
+    "ref": "ky. <i>sat\u0101\u0301le\u0161</i>, "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "sat\u0101\u0161"
+    ],
+    "ref": "Sv. <i>sat\u0101\u0161</i>, "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "satt\u1e53\u0161",
+      "sat\u0101\u0301\u0161"
+    ],
+    "ref": "Phal. <i>satt\u1e53\u0161</i>, <i>sat\u0101\u0301\u0161</i>, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "s\u0103t\u00e1\u0129"
+    ],
+    "ref": "gil. <i>s\u0103t\u00e1\u0129</i> (\u2192 "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "s\u0103t\u00e1\u0129"
+    ],
+    "ref": "gil. <i>s\u0103t\u00e1\u0129</i> (\u2192 "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "s",
+      "t\u00e3\u0301i"
+    ],
+    "ref": "\u1e0c. <i>s</i><at>*l</at><i>t\u00e3\u0301i</i>), "
+  },
+  {
+    "lang": "Pales\u012b dialect of Shina",
+    "words": [
+      "satt\u00e3\u0304i",
+      "sat\u0101\u0301i"
+    ],
+    "ref": "pales. <i>satt\u00e3\u0304i</i>, kol. <i>sat\u0101\u0301i</i>, "
+  },
+  {
+    "lang": "Jijelut dialect of Shina",
+    "words": [
+      "s",
+      "t\u00e4\u0301i"
+    ],
+    "ref": "jij. <i>s</i><at>*l</at><i>t\u00e4\u0301i</i>, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "sad\u0101h"
+    ],
+    "ref": "K. <i>sad\u0101h</i>, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "satraha"
+    ],
+    "ref": "S. <i>satraha</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "satt\u0101ra"
+    ],
+    "ref": "khet. <i>satt\u0101ra</i>, "
+  },
+  {
+    "lang": "Khetr\u0101n\u012b dialect of Lahnd\u0101",
+    "words": [
+      "satt\u0101ra"
+    ],
+    "ref": "khet. <i>satt\u0101ra</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "sat\u0101r\u00e3\u0304"
+    ],
+    "ref": "P. <i>sat\u0101r\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sat\u0101re"
+    ],
+    "ref": "bhal. <i>sat\u0101re</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sat\u0101re"
+    ],
+    "ref": "bhal. <i>sat\u0101re</i>, "
+  },
+  {
+    "lang": "Pa\u1e45gw\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sat\u0101r\u0101"
+    ],
+    "ref": "pa\u1e45. <i>sat\u0101r\u0101</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sat\u0101hr\u0101"
+    ],
+    "ref": "cur. <i>sat\u0101hr\u0101</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "satra"
+    ],
+    "ref": "N. <i>satra</i>, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "xatara"
+    ],
+    "ref": "A. <i>xatara</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "satera"
+    ],
+    "ref": "B. <i>satera</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "satara"
+    ],
+    "ref": "Or. <i>satara</i>, "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "sattar\u0101"
+    ],
+    "ref": "lakh. <i>sattar\u0101</i>, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "sattar\u0101"
+    ],
+    "ref": "lakh. <i>sattar\u0101</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "sattrah"
+    ],
+    "ref": "H. <i>sattrah</i>, O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "sattari"
+    ],
+    "ref": "G. <i>sattari</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "sattar"
+    ],
+    "ref": "G. <i>sattar</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "satr\u0101"
+    ],
+    "ref": "M. <i>satr\u0101</i>, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "sata\u1e37os",
+      "hata\u1e37oha."
+    ],
+    "ref": "Si. <i>sata\u1e37os</i>, <i>hata\u1e37oha.</i>"
+  }
+]

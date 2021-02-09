@@ -1,0 +1,115 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "itth\u00e1m",
+    "ref": "<html><body><number>1564</number> <b>itth\u00e1m</b> \u02bb thus \u02bc, <i>itth\u0101\u02ca</i>, <i>itth\u0101\u02cat</i> RV. [<smallcaps>i</smallcaps> -- <superscript>1</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "ittha\u1e41",
+      "ittha"
+    ],
+    "ref": "Pa. <i>ittha\u1e41</i>, <i>ittha</i> \u02bb thus \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ittha\u1e41",
+      "ittha",
+      "itthaya\u1e41"
+    ],
+    "ref": "Pk. <i>ittha\u1e41</i> \u02bb thus \u02bc, <i>ittha</i>, <i>itthaya\u1e41</i> \u02bb here \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "itth"
+    ],
+    "ref": "L. <i>itth</i> \u02bb here \u02bc, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "itthe"
+    ],
+    "ref": "P. <i>itthe</i>; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "ith",
+      "ith\u00e3\u0304"
+    ],
+    "ref": "Ku. <i>ith</i>, <i>ith\u00e3\u0304</i> \u02bb hither, in this direction \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "iti"
+    ],
+    "ref": "Si. (SigGr) <i>iti</i> \u02bb thus \u02bc. -- Deriv. "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "yuthu",
+      "yi\u010bh\u00fc",
+      "e"
+    ],
+    "ref": "K. <i>yuth<superscript>u</superscript></i>, f. <i>yi\u010bh<superscript>\u00fc</superscript></i> \u02bb like this \u02bc J. Bloch, Woolner Commemoration Volume 23. -- With <i>e</i> -- from <smallcaps>\u0113\u1e63\u00e1</smallcaps><superscript>1</superscript> &amp;c.: "
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "ettha"
+    ],
+    "ref": "Pa. <i>ettha</i> \u02bb here \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ettha",
+      "etthu"
+    ],
+    "ref": "Pk. <i>ettha</i>, <i>etthu</i>, "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "eta"
+    ],
+    "ref": "\u1e0c. <i>eta</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "eth\u1ebd",
+      "u",
+      "am\u00fa\u1e63ya"
+    ],
+    "ref": "M. <i>eth\u1ebd</i>; -- with <i>u</i>&lt;-&gt; from <smallcaps>as\u00e1u</smallcaps>, <i>am\u00fa\u1e63ya</i>, &amp;c.: "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "utth"
+    ],
+    "ref": "L. <i>utth</i> \u02bb there \u02bc, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "utthe;"
+    ],
+    "ref": "P. <i>utthe;</i> "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "uth",
+      "uth\u00e3\u0304"
+    ],
+    "ref": "Ku. <i>uth</i>, <i>uth\u00e3\u0304</i> \u02bb thither \u02bc."
+  }
+]

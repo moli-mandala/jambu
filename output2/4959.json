@@ -1,0 +1,51 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "chaga\u1e6da",
+    "ref": "<html><body><number>4959</number> *<b>chaga\u1e6da</b> \u02bb goat \u02bc. [<smallcaps>chaga</smallcaps> -- ]"
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "\u010bho\u1e5b\u016d",
+      "\u010bh\u0113\u1e5bi"
+    ],
+    "ref": "kash. <i>\u010bho\u1e5b<superscript>\u016d</superscript></i>, pl. <i>\u010bh\u0113\u1e5b<superscript>i</superscript></i> m. \u02bb he -- goat \u02bc, "
+  },
+  {
+    "lang": "or ki\u015b. Kash\u1e6daw\u0101\u1e5b\u012b dialect of Kashmiri",
+    "words": [
+      "\u010bho\u1e5b\u016d",
+      "\u010bh\u0113\u1e5bi"
+    ],
+    "ref": "kash. <i>\u010bho\u1e5b<superscript>\u016d</superscript></i>, pl. <i>\u010bh\u0113\u1e5b<superscript>i</superscript></i> m. \u02bb he -- goat \u02bc, "
+  },
+  {
+    "lang": "\u1e0co\u1e0d\u012b (Sir\u0101j\u012b of \u1e0co\u1e0d\u0101), a dialect of Kashmiri in Jammu",
+    "words": [
+      "ch\u0113\u1e5bo"
+    ],
+    "ref": "\u1e0do\u1e0d. <i>ch\u0113\u1e5bo</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u010bh\u0113\u1e5b\u014d"
+    ],
+    "ref": "bhad. <i>\u010bh\u0113\u1e5b\u014d</i>; "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u010bh\u0113\u1e5b\u014d"
+    ],
+    "ref": "bhad. <i>\u010bh\u0113\u1e5b\u014d</i>; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "che\u1e5bi"
+    ],
+    "ref": "Or. <i>che\u1e5bi</i> \u02bb goat \u02bc."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["pavana"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>7978</number> <b>pavana</b><superscript>2</superscript> m. \u02bb wind \u02bc MBh. [\u221a<smallcaps>p\u016b</smallcaps>?]"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "pava\u1e47a",
+      "paya\u1e47a"
+    ],
+    "ref": "Pk. <i>pava\u1e47a</i> -- , <i>paya\u1e47a</i> -- m. \u02bb wind \u02bc, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "pava\u1e47",
+      "pau\u1e47",
+      "pau\u1e47 -- cakk\u012b"
+    ],
+    "ref": "P. <i>pava\u1e47</i>, <i>pau\u1e47</i> f. (<i>pau\u1e47 -- cakk\u012b</i> f. \u02bb windmill \u02bc); "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "pau\u1e47"
+    ],
+    "ref": "WPah. (Joshi) <i>pau\u1e47</i> f. \u02bb wind, storm \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "pavan"
+    ],
+    "ref": "Si. <i>pavan</i> \u02bb wind \u02bc."
+  }
+]

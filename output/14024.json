@@ -1,0 +1,608 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["h\u00e1sta"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>14024</number> <b>h\u00e1sta</b> m. \u02bb hand \u02bc RV., \u02bb forearm as measure of length \u02bc VarBr\u0325S."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "hattha"
+    ],
+    "ref": "Pa. <i>hattha</i> -- m. \u02bb hand, forearm \u02bc, "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "hasta",
+      "asta\u1e41mi"
+    ],
+    "ref": "NiDoc. <i>hasta</i>, loc. sg. <i>asta\u1e41mi</i>, "
+  },
+  {
+    "lang": "G\u0101ndh\u0101r\u012b or Northwest Prakrit (as recorded in the Dharmapada ed. J. Brough, Oxford 1962)",
+    "words": [
+      "hasta"
+    ],
+    "ref": "Dhp. <i>hasta</i> -- , "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "hattha"
+    ],
+    "ref": "Pk. <i>hattha</i> -- m.; "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "vast",
+      "v",
+      "ov ast"
+    ],
+    "ref": "eur. <i>vast</i> m. \u02bb hand \u02bc (<i>v</i> -- from *<i>ov ast</i>), "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "vast",
+      "v",
+      "ov ast"
+    ],
+    "ref": "eur. <i>vast</i> m. \u02bb hand \u02bc (<i>v</i> -- from *<i>ov ast</i>), "
+  },
+  {
+    "lang": "Armenian dialect of Gypsy",
+    "words": [
+      "hath",
+      "ath"
+    ],
+    "ref": "arm. <i>hath</i>, <i>ath</i> \u02bb hand, five \u02bc, "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "h\u032e\u0103st"
+    ],
+    "ref": "pal. <i>h\u032e\u0103st</i> \u02bb hand \u02bc, "
+  },
+  {
+    "lang": "Persian dialect of Asiatic Gypsy",
+    "words": [
+      "xat"
+    ],
+    "ref": "pers. <i>xat</i> \u02bb hand, arm \u02bc; "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "h",
+      "t"
+    ],
+    "ref": "\u1e0c. <i>h</i><at>*l</at><i>t</i> \u02bb hand \u02bc, ("
+  },
+  {
+    "lang": "Kafiri",
+    "words": [
+      "dasta",
+      "j\u0308asta"
+    ],
+    "ref": "Kaf. *<i>dasta</i> -- &lt; *<i>j\u0308asta</i> -- ) "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "dost",
+      "dus"
+    ],
+    "ref": "Ash. <i>dost</i>, <i>dus</i>, "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "d\u014d\u0161t"
+    ],
+    "ref": "Wg. <i>d\u014d\u0161t</i>, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "du\u0161t"
+    ],
+    "ref": "Kt. <i>du\u0161t</i>, "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "lust"
+    ],
+    "ref": "Pr. <i>lust</i>, "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "da\u0161"
+    ],
+    "ref": "Dm. <i>da\u0161</i>, "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "\u0101st"
+    ],
+    "ref": "Tir. <i>\u0101st</i>, "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "h\u0101st"
+    ],
+    "ref": "lau\u1e5b. <i>h\u0101st</i>, "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "h\u0101st"
+    ],
+    "ref": "lau\u1e5b. <i>h\u0101st</i>, "
+  },
+  {
+    "lang": "Gulbah\u0101r\u012b dialect of Pashai",
+    "words": [
+      "h\u014dst"
+    ],
+    "ref": "nir. <i>h\u014dst</i>, "
+  },
+  {
+    "lang": "Nirl\u0101m\u012b dialect of Pashai",
+    "words": [
+      "h\u014dst"
+    ],
+    "ref": "nir. <i>h\u014dst</i>, "
+  },
+  {
+    "lang": "Chilasi dialect of Shina or of Pashai",
+    "words": [
+      "\u0101stu -- m"
+    ],
+    "ref": "chil. <i>\u0101stu -- m</i> \u02bb my hand \u02bc, "
+  },
+  {
+    "lang": "Shutuli dialect of Pashai",
+    "words": [
+      "\u014dst"
+    ],
+    "ref": "shut. <i>\u014dst</i>, "
+  },
+  {
+    "lang": "Ku\u1e5ba\u1e45gali dialect of Pashai",
+    "words": [
+      "\u014ds",
+      "aste -- m"
+    ],
+    "ref": "ku\u1e5b. <i>\u014ds</i> (<i>aste -- m</i>), "
+  },
+  {
+    "lang": "Areti dialect of Pashai",
+    "words": [
+      "\u014dast"
+    ],
+    "ref": "ar. <i>\u014d<superscript>a</superscript>st</i>; "
+  },
+  {
+    "lang": "Ni\u1e45gal\u0101m\u012b (Dard.)",
+    "words": [
+      "w\u014dst",
+      "w",
+      "w\u014dr",
+      "wo\u0304\u0303c\u0323",
+      "wo\u0304\u0303c\u0323"
+    ],
+    "ref": "Ni\u1e45g. <i>w\u014dst</i> \u02bb arm \u02bc (<i>w</i> -- extended to names of parts of body from <i>w\u014dr</i> \u02bb belly \u02bc &lt; <smallcaps>udara</smallcaps> -- as in <i>wo\u0304\u0303c\u0323</i> \u02bb shoulder \u02bc &lt; <smallcaps>ak\u1e63a</smallcaps> -- <superscript>1</superscript> or <smallcaps>up\u0101k\u1e63a</smallcaps> -- <superscript>1</superscript> and <i>wo\u0304\u0303c\u0323</i> \u02bb eye \u02bc &lt; <smallcaps>\u00e1k\u1e63i</smallcaps> -- or <smallcaps>up\u0101k\u1e63a</smallcaps> -- <superscript>2</superscript>? Cf. "
+  },
+  {
+    "lang": "English",
+    "words": [
+      "larm",
+      "lear",
+      "leye",
+      "leg",
+      "lip"
+    ],
+    "ref": "Eng. (child's language) <i>larm</i>, <i>lear</i>, <i>leye</i> after <i>leg</i>, <i>lip</i>); "
+  },
+  {
+    "lang": "Gamb\u012br\u012b (Kaf.)",
+    "words": [
+      "d\u014d\u0161"
+    ],
+    "ref": "Gmb. <i>d\u014d\u0161</i> \u02bb hand \u02bc, "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "aste -- m"
+    ],
+    "ref": "Shum. <i>aste -- m</i>, "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "hast",
+      "h\u0101th"
+    ],
+    "ref": "Gaw. <i>hast</i> (<i>h\u0101th</i> \u02bb forearm \u02bc \u2190 "
+  },
+  {
+    "lang": "Indo-aryan of India proper excluding Kafiri and Dardic",
+    "words": [
+      "hast"
+    ],
+    "ref": "urt. <i>hast</i>, "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "hast"
+    ],
+    "ref": "urt. <i>hast</i>, "
+  },
+  {
+    "lang": "Urtsun dialect of Kalasha",
+    "words": [
+      "hast"
+    ],
+    "ref": "urt. <i>hast</i>, "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "has",
+      "hast"
+    ],
+    "ref": "rumb. <i>has</i> (st. <i>hast</i> -- ); "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "host"
+    ],
+    "ref": "Kho. <i>host</i> \u02bb hand, arm, cubit \u02bc; "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "h",
+      "tth"
+    ],
+    "ref": "Tor. <i>h</i><at>*l</at><i>tth</i> m. \u02bb hand \u02bc, "
+  },
+  {
+    "lang": "Kandia (Dard.)",
+    "words": [
+      "hath"
+    ],
+    "ref": "Kand. <i>hath</i>, "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "h\u0101"
+    ],
+    "ref": "Mai. <i>h\u0101</i>, "
+  },
+  {
+    "lang": "Kanyaw\u0101l\u012b dialect of Maiy\u00e3\u0304",
+    "words": [
+      "h\u00e3\u0304",
+      "h\u0101tha"
+    ],
+    "ref": "ky. <i>h\u00e3\u0304</i> (obl. <i>h\u0101tha</i>); "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "hatha"
+    ],
+    "ref": "Sv. <i>hatha</i> \u02bb hand, arm \u02bc, "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "h\u0101t",
+      "\u0101 h\u0101th"
+    ],
+    "ref": "Phal. <i>h\u0101t</i> f. (<i>\u0101 h\u0101th</i> \u02bb one cubit i.e. from elbow to finger tip \u02bc); "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "h\u0103t"
+    ],
+    "ref": "gil. <i>h\u0103t</i> m. \u02bb hand, cubit \u02bc, "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "h\u0103t"
+    ],
+    "ref": "gil. <i>h\u0103t</i> m. \u02bb hand, cubit \u02bc, "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "h\u0103th"
+    ],
+    "ref": "jij. <i>h\u0103th</i> m., "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "h\u0103th"
+    ],
+    "ref": "jij. <i>h\u0103th</i> m., "
+  },
+  {
+    "lang": "Jijelut dialect of Shina",
+    "words": [
+      "h\u0103th"
+    ],
+    "ref": "jij. <i>h\u0103th</i> m., "
+  },
+  {
+    "lang": "Pales\u012b dialect of Shina",
+    "words": [
+      "hatth"
+    ],
+    "ref": "pales. <i>hatth</i>; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "atha",
+      "athas"
+    ],
+    "ref": "K. <i>atha</i>, dat. <i>athas</i> m. \u02bb hand, forearm \u02bc, "
+  },
+  {
+    "lang": "R\u0101mban\u012b dialect of Kashmiri in Jammu",
+    "words": [
+      "hatth"
+    ],
+    "ref": "\u1e0do\u1e0d. <i>hatth</i>, "
+  },
+  {
+    "lang": "\u1e0co\u1e0d\u012b (Sir\u0101j\u012b of \u1e0co\u1e0d\u0101), a dialect of Kashmiri in Jammu",
+    "words": [
+      "hatth"
+    ],
+    "ref": "\u1e0do\u1e0d. <i>hatth</i>, "
+  },
+  {
+    "lang": "P\u01d2gul\u012b dialect of Kashmiri",
+    "words": [
+      "\u0101ht"
+    ],
+    "ref": "pog. <i>\u0101ht</i>; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "hathu"
+    ],
+    "ref": "S. <i>hathu</i> m. \u02bb hand \u02bc, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "hatth"
+    ],
+    "ref": "P. <i>hatth</i> m., "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "hatth"
+    ],
+    "ref": "P. <i>hatth</i> m., "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hatth"
+    ],
+    "ref": "pa\u1e45. <i>hatth</i>, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hatth"
+    ],
+    "ref": "pa\u1e45. <i>hatth</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hatth"
+    ],
+    "ref": "pa\u1e45. <i>hatth</i>, "
+  },
+  {
+    "lang": "Pa\u1e45gw\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hatth"
+    ],
+    "ref": "pa\u1e45. <i>hatth</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hatt"
+    ],
+    "ref": "cur. <i>hatt</i>, "
+  },
+  {
+    "lang": "P\u0101\u1e0dar\u012b sub-dialect of Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hat",
+      "h\u0101th"
+    ],
+    "ref": "p\u0101\u1e0d. <i>hat</i>, (Joshi) <i>h\u0101th</i> m.; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "h\u0101th"
+    ],
+    "ref": "Ku. <i>h\u0101th</i> \u02bb hand, arm, cubit \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "h\u0101t"
+    ],
+    "ref": "N. <i>h\u0101t</i> \u02bb hand, forarm \u02bc; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "h\u0101t"
+    ],
+    "ref": "A. <i>h\u0101t</i> \u02bb hand, cubit \u02bc; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "h\u0101t"
+    ],
+    "ref": "B. <i>h\u0101t</i> \u02bb arm \u02bc, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "h\u0101ta"
+    ],
+    "ref": "Or. <i>h\u0101ta</i>; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "h\u0101th"
+    ],
+    "ref": "Bhoj. <i>h\u0101th</i> \u02bb hand, forearm, cubit \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "h\u0101th"
+    ],
+    "ref": "Bhoj. <i>h\u0101th</i> \u02bb hand, forearm, cubit \u02bc; "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "h\u0101th"
+    ],
+    "ref": "Bhoj. <i>h\u0101th</i> \u02bb hand, forearm, cubit \u02bc; "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "h\u00e3\u0304th"
+    ],
+    "ref": "lakh. <i>h\u00e3\u0304th</i> m. hand \u02bc; "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "h\u00e3\u0304th"
+    ],
+    "ref": "lakh. <i>h\u00e3\u0304th</i> m. hand \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "h\u0101th"
+    ],
+    "ref": "G. <i>h\u0101th</i> m. \u02bb hand, arm, cubit \u02bc, "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "h\u0101th"
+    ],
+    "ref": "G. <i>h\u0101th</i> m. \u02bb hand, arm, cubit \u02bc, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "h\u0101th"
+    ],
+    "ref": "G. <i>h\u0101th</i> m. \u02bb hand, arm, cubit \u02bc, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "h\u0101t"
+    ],
+    "ref": "M. <i>h\u0101t</i> m.; "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "h\u0101tu"
+    ],
+    "ref": "Ko. <i>h\u0101tu</i> \u02bb hand \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "at -- a",
+      "hat",
+      "allanav\u0101",
+      "at la\u02da"
+    ],
+    "ref": "Si. <i>at -- a</i> \u02bb hand, elephant's trunk \u02bc, <i>hat</i> \u02bb cubit \u02bc (<i>allanav\u0101</i> \u02bb to seize \u02bc &lt; <i>at la\u02da</i>); "
+  },
+  {
+    "lang": "or mald. Maldivian dialect of Sinhalese",
+    "words": [
+      "at",
+      "ai",
+      "\u1e0d"
+    ],
+    "ref": "Md. <i>at</i>, <i>ai</i> \u02bb hand \u02bc. -- Ext. -- <i>\u1e0d</i> -- (semant. cf. <smallcaps>hastaka</smallcaps> -- ): "
+  },
+  {
+    "lang": "Apabhra\u1e41\u015ba",
+    "words": [
+      "hatta\u1e0da"
+    ],
+    "ref": "Ap. <i>hatta\u1e0da</i> -- m. \u02bb hand \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "hath\u1e5b\u0101",
+      "hathr\u0101"
+    ],
+    "ref": "Bi. <i>hath\u1e5b\u0101</i>, <i>hathr\u0101</i> \u02bb handle of grindstone \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "h\u0101thar",
+      "hathr\u0101",
+      "l"
+    ],
+    "ref": "Mth. <i>h\u0101thar</i> \u02bb handle of grindstone \u02bc, <i>hathr\u0101</i> \u02bb do. of millstone \u02bc; -- -- <i>l</i> -- : "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "hathal",
+      "hathl\u012b"
+    ],
+    "ref": "H. <i>hathal</i> m., <i>hathl\u012b</i> f. \u02bb handle \u02bc. -- See Add."
+  }
+]

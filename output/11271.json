@@ -1,0 +1,44 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["v\u00e1ndana"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>11271</number> <b>v\u00e1ndana</b><superscript>1</superscript> n. \u02bb praising \u02bc RV. [\u221a<smallcaps>vand</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "vandana",
+      "\u02dan\u0101"
+    ],
+    "ref": "Pa. <i>vandana</i> -- n., <i>\u02dan\u0101</i> -- f. \u02bb salutation \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "va\u1e41da\u1e47a",
+      "\u02da\u1e47\u0101"
+    ],
+    "ref": "Pk. <i>va\u1e41da\u1e47a</i> -- n., <i>\u02da\u1e47\u0101</i> -- f., O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "v\u0101\u1e41da\u1e47\u00e3\u0304"
+    ],
+    "ref": "G. <i>v\u0101\u1e41da\u1e47\u00e3\u0304</i> n. pl.; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "v\u00e4n\u0306dun"
+    ],
+    "ref": "Si. <i>v\u00e4n\u0306dun</i> \u02bb honouring \u02bc; "
+  },
+  {
+    "lang": "or mald. Maldivian dialect of Sinhalese",
+    "words": [
+      "vadun"
+    ],
+    "ref": "Md. <i>vadun</i> \u02bb gift \u02bc."
+  }
+]

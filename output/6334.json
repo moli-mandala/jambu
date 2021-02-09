@@ -1,0 +1,33 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["divasak\u0101la"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>6334</number> *<b>divasak\u0101la</b> \u02bb daytime \u02bc. [<smallcaps>divas\u00e1 -- , k\u0101l\u00e1</smallcaps> -- <superscript>2</superscript>]"
+  },
+  {
+    "lang": "MIA. forms occurring in Corpus Inscriptionum Indicarum Vol. II Pt. 1",
+    "words": [
+      "divasakale"
+    ],
+    "ref": "KharI. <i>divasakale</i> loc. sg., "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "do\u0306hulu",
+      "duh\u02da"
+    ],
+    "ref": "K. <i>do\u0306hul<superscript>u</superscript></i>, <i>duh\u02da</i> m., "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "davahala",
+      "\u02dav\u0101la",
+      "daval",
+      "dahaval",
+      "d\u0101v"
+    ],
+    "ref": "Si. <i>davahala</i>, <i>\u02dav\u0101la</i>, <i>daval</i>, <i>dahaval</i>, <i>d\u0101v"
+  }
+]

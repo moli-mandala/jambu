@@ -1,0 +1,76 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "vy\u1e15ti",
+    "ref": "<html><body><number>12223</number> <b>vy\u1e15ti</b> \u02bb goes away \u02bc RV. 2. Pres. part. <b>viy\u00e1nt -- </b> RV. 3. Pp. <b>v\u012bta -- </b><superscript>1</superscript> Up. 4. Fut. <b>vy\u0113\u1e63yati.</b> [\u221a<smallcaps>i</smallcaps><superscript>2</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "v\u0113ti"
+    ],
+    "ref": "Pa. <i>v\u0113ti</i> \u02bb goes away \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "v\u0113i"
+    ],
+    "ref": "Pk. <i>v\u0113i</i> \u02bb is lost \u02bc; "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "wi"
+    ],
+    "ref": "Pr. <i>wi</i> -- \u02bb to come out \u02bc (?); "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "w\u0113"
+    ],
+    "ref": "Pa\u0161. <i>w\u0113</i> -- \u02bb to pass (of time) \u02bc IIFL iii 3, 182; "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "bik",
+      "bim",
+      "b\u012br",
+      "ba",
+      "ai",
+      "bo",
+      "du"
+    ],
+    "ref": "Kho. <i>bik</i> \u02bb to go \u02bc, aor. 1 sg. <i>bim</i>, 3 sg. <i>b\u012br</i> (pret. <i>ba</i><at>g</at><i>ai</i> &lt; <smallcaps>\u00e1p\u0101g\u0101t</smallcaps>, pp. <i>bo</i><at>g</at><i>du</i> &lt; <smallcaps>apagata</smallcaps> -- ) rather than &lt; <smallcaps>\u00e1paiti</smallcaps>; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "v\u0113"
+    ],
+    "ref": "kcch. <i>v\u0113</i> -- \u02bb to go \u02bc, "
+  },
+  {
+    "lang": "Kacch\u012b dialect of Sindh\u012b",
+    "words": [
+      "v\u0113"
+    ],
+    "ref": "kcch. <i>v\u0113</i> -- \u02bb to go \u02bc, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "v"
+    ],
+    "ref": "aw\u0101\u1e47. <i>v</i><at>e_</at> -- ."
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "v"
+    ],
+    "ref": "aw\u0101\u1e47. <i>v</i><at>e_</at> -- ."
+  }
+]

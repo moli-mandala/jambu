@@ -1,0 +1,120 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["sat\u0113ra"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>13106</number> *<b>sat\u0113ra</b><superscript>1</superscript> \u02bb a measure of weight \u02bc: in NIA. it varies between 130 tolas (3.3 lbs.) in Malabar to 20 tolas (c. 8 oz.) in Mah\u0101r\u0101\u1e63\u1e6dra; more usual weight is about 2 lbs. [\u2190 Ir., Pahl. <i>sat\u0113r</i> H. W. Bailey JRAS 1930, 17 \u2190 Gk. <at>stath\u0301\u1e5b</at> F. W. Thomas JRAS 1924, 671. -- Sk. <i>s\u0113\u1e6da</i> -- Col. is sanskritization of NIA.?]"
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "satera",
+      "sadera",
+      "suv\u0301arna -- s\u0331adera"
+    ],
+    "ref": "NiDoc. <i>satera</i>, <i>sadera</i>, <i>suv\u0301arna -- s\u0331adera</i>, "
+  },
+  {
+    "lang": "MIA. forms occurring in Corpus Inscriptionum Indicarum Vol. II Pt. 1",
+    "words": [
+      "sa",
+      "sya"
+    ],
+    "ref": "KharI. abbreviation <i>sa</i>, <i>sya</i> Sten Konow CII ii 98, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "s\u0113r"
+    ],
+    "ref": "K. <i>s\u0113r</i> m., "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "seru",
+      "\u1e6drisero"
+    ],
+    "ref": "S. <i>seru</i> m. (<i>\u1e6drisero</i> \u02bb weighing 3 ser \u02bc), "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "ser"
+    ],
+    "ref": "N. <i>ser</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "ser"
+    ],
+    "ref": "N. <i>ser</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "ser"
+    ],
+    "ref": "N. <i>ser</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "ser"
+    ],
+    "ref": "N. <i>ser</i>, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "xer"
+    ],
+    "ref": "A. <i>xer</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "ser"
+    ],
+    "ref": "B. <i>ser</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "sera"
+    ],
+    "ref": "Or. <i>sera</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "ser"
+    ],
+    "ref": "H. <i>ser</i> m., O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "sera"
+    ],
+    "ref": "Marw. <i>sera</i> m., "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "ser",
+      "\u015ber",
+      "\u015beriyu\u0303"
+    ],
+    "ref": "G. <i>ser</i>, <i>\u015ber</i> m. (<i>\u015beriyu\u0303</i> n. \u02bb a measure containing 1 ser \u02bc), "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "\u015ber",
+      "\u015berk\u0101",
+      "\u015ber\u012b"
+    ],
+    "ref": "M. <i>\u015ber</i> m. (<i>\u015berk\u0101</i> \u02bb holding or weighing 1 ser \u02bc, <i>\u015ber\u012b</i> f. \u02bb a perquisite of 2 ser per maund taken from grain brought in payment of revenue \u02bc)."
+  }
+]

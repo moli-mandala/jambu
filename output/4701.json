@@ -1,0 +1,330 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["c\u00e1rman"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>4701</number> <b>c\u00e1rman</b> n. \u02bb hide, skin \u02bc RV."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "camma"
+    ],
+    "ref": "Pk. <i>camma</i> -- n. \u02bb leather, shield \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "camma"
+    ],
+    "ref": "Pk. <i>camma</i> -- n. \u02bb leather, shield \u02bc; "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "\u010dam"
+    ],
+    "ref": "arm. <i>\u010dam</i> m. \u02bb leather \u02bc, "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "\u010dam"
+    ],
+    "ref": "arm. <i>\u010dam</i> m. \u02bb leather \u02bc, "
+  },
+  {
+    "lang": "Armenian dialect of Gypsy",
+    "words": [
+      "\u010dam"
+    ],
+    "ref": "arm. <i>\u010dam</i> m. \u02bb leather \u02bc, "
+  },
+  {
+    "lang": "Persian dialect of Asiatic Gypsy",
+    "words": [
+      "\u010dam\u012b"
+    ],
+    "ref": "pers. <i>\u010dam\u012b</i> \u02bb skin \u02bc; "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "\u010bam"
+    ],
+    "ref": "Ash. <i>\u010bam</i> \u02bb skin, bark \u02bc, "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "\u010d\u0101m"
+    ],
+    "ref": "Wg. <i>\u010d\u0101m</i>; "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "\u010dom"
+    ],
+    "ref": "Kt. <i>\u010dom</i> \u02bb skin \u02bc, "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "\u010d\u0101m\u0259"
+    ],
+    "ref": "Pr. <i>\u010d\u0101m\u0259</i>, "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "\u010dam"
+    ],
+    "ref": "Tor. <i>\u010dam</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "\u010dam"
+    ],
+    "ref": "Tor. <i>\u010dam</i>, "
+  },
+  {
+    "lang": "Gauro (Dard.)",
+    "words": [
+      "s\u0101m"
+    ],
+    "ref": "Gau. <i>s\u0101m</i>; "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "\u010dom"
+    ],
+    "ref": "Sh. <i>\u010dom</i> m. \u02bb skin, leather \u02bc (\u2192 "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "\u010dom"
+    ],
+    "ref": "\u1e0c. <i>\u010dom</i> m.); "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "\u010bam"
+    ],
+    "ref": "K. <i>\u010bam</i> f. \u02bb leather \u02bc, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "camu"
+    ],
+    "ref": "S. <i>camu</i> m.; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "camm"
+    ],
+    "ref": "P. <i>camm</i> m. \u02bb hide \u02bc; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "camm"
+    ],
+    "ref": "P. <i>camm</i> m. \u02bb hide \u02bc; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u010bamm"
+    ],
+    "ref": "bhal. <i>\u010bamm</i> n. \u02bb leather \u02bc, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u010bamm"
+    ],
+    "ref": "bhal. <i>\u010bamm</i> n. \u02bb leather \u02bc, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "c\u0101m"
+    ],
+    "ref": "N. <i>c\u0101m</i>; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "c\u0101m"
+    ],
+    "ref": "N. <i>c\u0101m</i>; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "c\u0101m"
+    ],
+    "ref": "B. <i>c\u0101m</i> \u02bb skin, leather, bark \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "cama"
+    ],
+    "ref": "Or. <i>cama</i> \u02bb leather \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "c\u0101m"
+    ],
+    "ref": "Bhoj. <i>c\u0101m</i> \u02bb tanned cowhide \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "c\u0101m"
+    ],
+    "ref": "Bhoj. <i>c\u0101m</i> \u02bb tanned cowhide \u02bc; "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "c\u0101m"
+    ],
+    "ref": "Bhoj. <i>c\u0101m</i> \u02bb tanned cowhide \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "c\u0101m"
+    ],
+    "ref": "H. <i>c\u0101m</i> m. \u02bb hide, leather \u02bc, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "c\u0101m"
+    ],
+    "ref": "G. <i>c\u0101m</i> n., "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "\u010b\u0101m"
+    ],
+    "ref": "M. <i>\u010b\u0101m</i> n., "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "sama",
+      "ha\u02da",
+      "\u1e0da"
+    ],
+    "ref": "Si. <i>sama</i>, <i>ha\u02da</i>; -- ext. -- <i>\u1e0da</i> -- : "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "cami\u1e5bo"
+    ],
+    "ref": "S. <i>cami\u1e5bo</i> m. \u02bb piece of leather \u02bc, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "cam\u1e5b\u0101"
+    ],
+    "ref": "P. <i>cam\u1e5b\u0101</i> m. \u02bb dressed hide \u02bc; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "cam\u1e5b\u0101"
+    ],
+    "ref": "P. <i>cam\u1e5b\u0101</i> m. \u02bb dressed hide \u02bc; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "c\u0101m\u1e5b\u0101",
+      "c\u0101m\u1e5b\u012b"
+    ],
+    "ref": "B. <i>c\u0101m\u1e5b\u0101</i> \u02bb leather \u02bc, <i>c\u0101m\u1e5b\u012b</i> \u02bb scurf \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "cama\u1e5b\u0101"
+    ],
+    "ref": "Or. <i>cama\u1e5b\u0101</i> \u02bb leather \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "cam\u1e5b\u0101"
+    ],
+    "ref": "Bi. <i>cam\u1e5b\u0101</i> \u02bb raw hide \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "cam\u1e5b\u0101"
+    ],
+    "ref": "H. <i>cam\u1e5b\u0101</i> m. \u02bb leather \u02bc, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "c\u0101m\u1e0du\u0303",
+      "\u02da\u1e0d\u012b"
+    ],
+    "ref": "G. <i>c\u0101m\u1e0du\u0303</i> n., <i>\u02da\u1e0d\u012b</i> f.; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "\u010b\u0101m\u1e0d\u1ebd",
+      "\u02da\u1e0d\u012b"
+    ],
+    "ref": "M. <i>\u010b\u0101m\u1e0d\u1ebd</i> n. \u02bb a hide \u02bc, <i>\u02da\u1e0d\u012b</i> f. \u02bb the skin \u02bc; "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "c\u0101m\u1e0d\u1ebd"
+    ],
+    "ref": "Ko. <i>c\u0101m\u1e0d\u1ebd</i> n. \u02bb hide \u02bc. -- Prob. "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "s\u0101m"
+    ],
+    "ref": "A. <i>s\u0101m</i> \u02bb crop of boils \u02bc (cf. "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "c\u0101m\u1e5b\u012b",
+      "s\u0101mn\u012b",
+      "camma\u1e47a"
+    ],
+    "ref": "B. <i>c\u0101m\u1e5b\u012b</i> above), <i>s\u0101mn\u012b</i> \u02bb scum, scale \u02bc &lt; *<i>camma\u1e47a</i> -- ? -- "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "\u010d",
+      "rma"
+    ],
+    "ref": "Kho. (Lor.) <i>\u010d</i><at>*l</at><i>rma</i> \u02bb hide from which shields are made \u02bc \u2190 "
+  }
+]

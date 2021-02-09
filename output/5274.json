@@ -1,0 +1,29 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["j\u00f1\u0101t\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>5274</number> <b>j\u00f1\u0101t\u00e1</b> \u02bb known \u02bc AV. [\u221a<smallcaps>j\u00f1\u0101</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "\u00f1\u0101ta"
+    ],
+    "ref": "Pa. <i>\u00f1\u0101ta</i> -- , "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "\u00f1ata",
+      "\u00f1ada"
+    ],
+    "ref": "NiDoc. in cmpds. <i>\u00f1ata</i>, <i>\u00f1ada</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "\u1e47\u0101ya"
+    ],
+    "ref": "Pk. <i>\u1e47\u0101ya</i> -- ."
+  }
+]

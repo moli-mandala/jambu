@@ -1,0 +1,365 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["b\u014dll"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>9321</number> *<b>b\u014dll</b> \u02bb speak \u02bc. [<i>bahu -- b\u014dllaka</i> -- m. \u02bb great talker \u02bc Divy\u0101v. L. Schwarzschild JAOS 77, 205 derives Ap. <i>volla\u00ef</i> \u02bb speaks \u02bc from Pk. <i>vaya\u00ef</i> (&lt; <i>v\u00e1dati</i> and <i>v\u00e1kti</i>) ~ <i>vutta</i>&lt;-&gt; (&lt; <i>ukt\u00e1</i> -- , with <i>o</i> in inf. <i>vottu\u1e41</i>, fut. <i>vocchami</i>) after type <i>\u1e47utta</i> -- ~ <i>\u1e47olla\u00ef</i> (&lt; *<i>nud -- la</i> -- ?). If so, early appearance of <i>b</i> -- in Pk. and BHSk. (only <i>b</i> -- forms are attested in NIA.) may be due to collision with MIA. forms of <i>br\u00e1v\u012bti</i> in which abnormal sound -- change in a word of \u02bb saying \u02bc produced <i>b\u0113mi</i> (&lt; <i>br\u00e1v\u012bmi</i>), pres. part. <i>be\u1e41ta</i> -- . Borrowing from Drav. word -- group of Tam. <i>vaku\u1e37i</i> DED 4256 (J. Bloch BSOS v 742) is very doubtful]"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "bolla\u00ef",
+      "bulla\u00ef"
+    ],
+    "ref": "Pk. <i>bolla\u00ef</i>, <i>bulla\u00ef</i> \u02bb speaks \u02bc, "
+  },
+  {
+    "lang": "Apabhra\u1e41\u015ba",
+    "words": [
+      "volla\u00ef"
+    ],
+    "ref": "Ap. <i>volla\u00ef</i>, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "b\u014dlun"
+    ],
+    "ref": "K. <i>b\u014dlun</i>, "
+  },
+  {
+    "lang": "R\u0101mban\u012b dialect of Kashmiri in Jammu",
+    "words": [
+      "b\u014dly\u0101"
+    ],
+    "ref": "r\u0101m. <i>b\u014dly\u0101</i> \u02bb it was said \u02bc, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "\u1e07ola\u1e47u"
+    ],
+    "ref": "S. <i>\u1e07ola\u1e47u</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "bola\u1e47",
+      "bulend\u0101",
+      "\u1e07ola\u1e47"
+    ],
+    "ref": "L. <i>bola\u1e47</i>, pres. part. <i>bulend\u0101</i>, (Ju.) <i>\u1e07ola\u1e47</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "bol\u1e47\u0101"
+    ],
+    "ref": "P. <i>bol\u1e47\u0101</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bola\u1e47"
+    ],
+    "ref": "p\u0101\u1e0d. <i>bola\u1e47</i>, "
+  },
+  {
+    "lang": "P\u0101\u1e0dar\u012b sub-dialect of Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bola\u1e47"
+    ],
+    "ref": "p\u0101\u1e0d. <i>bola\u1e47</i>, "
+  },
+  {
+    "lang": "Pa\u1e45gw\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bol\u1e47\u0101"
+    ],
+    "ref": "cam. <i>bol\u1e47\u0101</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bol\u1e47\u0101"
+    ],
+    "ref": "cam. <i>bol\u1e47\u0101</i>, "
+  },
+  {
+    "lang": "Came\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "bol\u1e47\u0101"
+    ],
+    "ref": "cam. <i>bol\u1e47\u0101</i>, "
+  },
+  {
+    "lang": "Rudh\u0101r\u012b sub-dialect of Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "b\u00f2lla"
+    ],
+    "ref": "rudh. <i>b\u00f2lla</i> 2 pl. imper., "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "bol\u1e47o"
+    ],
+    "ref": "Ku. <i>bol\u1e47o</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "bolnu"
+    ],
+    "ref": "N. <i>bolnu</i>, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "boliba"
+    ],
+    "ref": "A. <i>boliba</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "bol\u0101",
+      "bal\u0101"
+    ],
+    "ref": "B. <i>bol\u0101</i>, <i>bal\u0101</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "bolib\u0101"
+    ],
+    "ref": "Or. <i>bolib\u0101</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "b\u014dlab"
+    ],
+    "ref": "lakh. <i>b\u014dlab</i>, "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "b\u014dlab"
+    ],
+    "ref": "lakh. <i>b\u014dlab</i>, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "b\u014dlab"
+    ],
+    "ref": "lakh. <i>b\u014dlab</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "boln\u0101"
+    ],
+    "ref": "H. <i>boln\u0101</i>, O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "bola\u00ef"
+    ],
+    "ref": "Marw. <i>bola\u00ef</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "bolvu\u0303"
+    ],
+    "ref": "G. <i>bolvu\u0303</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "bol\u1e47\u1ebd"
+    ],
+    "ref": "M. <i>bol\u1e47\u1ebd</i>; &lt;-&gt; caus. "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "boll\u0101viya"
+    ],
+    "ref": "Pk. <i>boll\u0101viya</i> -- ; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "bol\u0101unu"
+    ],
+    "ref": "N. <i>bol\u0101unu</i>, "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "bol\u0101unu"
+    ],
+    "ref": "N. <i>bol\u0101unu</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "bol\u0101unu"
+    ],
+    "ref": "N. <i>bol\u0101unu</i>, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "bol\u0101iba"
+    ],
+    "ref": "A. <i>bol\u0101iba</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "bol\u0101na",
+      "bal\u02da"
+    ],
+    "ref": "B. <i>bol\u0101na</i>, <i>bal\u02da</i>, O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "bul\u0101va\u00ef"
+    ],
+    "ref": "Aw. <i>bul\u0101va\u00ef</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "bul\u0101n\u0101"
+    ],
+    "ref": "H. <i>bul\u0101n\u0101</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "bol\u0101vvu\u0303"
+    ],
+    "ref": "G. <i>bol\u0101vvu\u0303</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "bolavi\u1e47\u1ebd"
+    ],
+    "ref": "M. <i>bolavi\u1e47\u1ebd</i>; -- "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "boll\u0101"
+    ],
+    "ref": "Pk. <i>boll\u0101</i> -- f. \u02bb talk \u02bc, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "b\u014dl",
+      "b\u016bli"
+    ],
+    "ref": "K. <i>b\u014dl</i> m., <i>b\u016bl<superscript>i</superscript></i> f. \u02bb language \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "\u1e07ola",
+      "\u02dalu",
+      "\u02dal\u012b"
+    ],
+    "ref": "S. <i>\u1e07ola</i> f., <i>\u02dalu</i> m. \u02bb promise \u02bc, <i>\u02dal\u012b</i> f. \u02bb language \u02bc, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "\u1e07ol\u012b"
+    ],
+    "ref": "L. (Ju.) <i>\u1e07ol\u012b</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "bol",
+      "boll\u012b"
+    ],
+    "ref": "P. <i>bol</i> m., <i>boll\u012b</i> f., "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "boli"
+    ],
+    "ref": "N. <i>boli</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "boli"
+    ],
+    "ref": "N. <i>boli</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "bol",
+      "\u02dali"
+    ],
+    "ref": "B. <i>bol</i>, <i>\u02dali</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "bola",
+      "\u02dali"
+    ],
+    "ref": "Or. <i>bola</i>, <i>\u02dali</i>; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "bol",
+      "\u02dali"
+    ],
+    "ref": "Mth. <i>bol</i>, <i>\u02dali</i> \u02bb speech, promise \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "bol",
+      "\u02dal\u012b"
+    ],
+    "ref": "H. <i>bol</i> m., <i>\u02dal\u012b</i> f. \u02bb speech \u02bc; O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "bola"
+    ],
+    "ref": "Marw. <i>bola</i> \u02bb promise \u02bc; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "bol",
+      "\u02dal\u012b"
+    ],
+    "ref": "M. <i>bol</i> m. \u02bb words \u02bc, <i>\u02dal\u012b</i> f. \u02bb language \u02bc."
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "bol",
+      "\u02dal\u012b"
+    ],
+    "ref": "M. <i>bol</i> m. \u02bb words \u02bc, <i>\u02dal\u012b</i> f. \u02bb language \u02bc."
+  }
+]

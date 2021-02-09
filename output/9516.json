@@ -1,0 +1,38 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["bh\u012br\u00fa"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>9516</number> <b>bh\u012br\u00fa</b> \u02bb timid \u02bc RV., <i>bh\u012b\u02caruka</i> -- MBh., <i>bh\u012blu</i> -- lex., <i>bh\u012b\u02caluka</i>- Kath\u0101s. [\u221a<smallcaps>bh\u012b</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "bh\u012bru",
+      "\u02dauka"
+    ],
+    "ref": "Pa. <i>bh\u012bru</i>, <i>\u02dauka</i> -- \u02bb timid, shy \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "bh\u012bru",
+      "\u02daua"
+    ],
+    "ref": "Pk. <i>bh\u012bru</i> -- , <i>\u02daua</i> -- ; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "biru",
+      "biri"
+    ],
+    "ref": "Si. <i>biru</i>, <i>biri</i> \u02bb fearful, dreadful \u02bc; "
+  },
+  {
+    "lang": "or mald. Maldivian dialect of Sinhalese",
+    "words": [
+      "biru"
+    ],
+    "ref": "Md. <i>biru</i> \u02bb afraid \u02bc."
+  }
+]

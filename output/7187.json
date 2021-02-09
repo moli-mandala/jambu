@@ -1,0 +1,55 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["ni\u1e47y\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>7187</number> <b>ni\u1e47y\u00e1</b> \u02bb inner, hidden, secret \u02bc RV. [<smallcaps>n\u00ed</smallcaps>]"
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "nyi\u0155e",
+      "n\u012b\u02dc\u0155"
+    ],
+    "ref": "Kt. <i>nyi\u0155e</i> \u02bb down \u02bc, <i>n\u012b\u02dc\u0155</i> \u02bb east \u02bc; "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "ny",
+      "\u0155a",
+      "nyo\u0155a\u0303",
+      "ny\u00e4\u0155 -- p\u0101"
+    ],
+    "ref": "Dm. <i>n<superscript>y</superscript></i><at>e_</at><i>\u0155a</i>, <i>nyo\u0155a\u0303</i> \u02bb under, below \u02bc, <i>n<superscript>y</superscript>\u00e4\u0155 -- p\u0101</i> \u02bb sole of foot \u02bc, "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "n\u0259\u0303\u0155",
+      "n\u0259\u0303\u0155una"
+    ],
+    "ref": "rumb. <i>n\u0259\u0303\u0155</i> \u02bb lower part \u02bc, <i>n\u0259\u0303\u0155una</i> \u02bb below \u02bc; "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "n\u0259\u0303\u0155",
+      "n\u0259\u0303\u0155una"
+    ],
+    "ref": "rumb. <i>n\u0259\u0303\u0155</i> \u02bb lower part \u02bc, <i>n\u0259\u0303\u0155una</i> \u02bb below \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "ni\u00f1j\u0101"
+    ],
+    "ref": "khet. <i>ni\u00f1j\u0101</i> \u02bb south \u02bc (or &lt; <smallcaps>n\u00edya\u00f1c</smallcaps> -- ).</div>"
+  },
+  {
+    "lang": "Khetr\u0101n\u012b dialect of Lahnd\u0101",
+    "words": [
+      "ni\u00f1j\u0101"
+    ],
+    "ref": "khet. <i>ni\u00f1j\u0101</i> \u02bb south \u02bc (or &lt; <smallcaps>n\u00edya\u00f1c</smallcaps> -- ).</div>"
+  }
+]

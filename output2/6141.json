@@ -1,0 +1,115 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "d\u00e1d\u0101ti",
+    "ref": "<html><body><number>6141</number> <b>d\u00e1d\u0101ti</b> \u02bb gives \u02bc RV. [\u221a<smallcaps>d\u0101</smallcaps><superscript>1</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "dad\u0101ti"
+    ],
+    "ref": "Pa. <i>dad\u0101ti</i> \u02bb gives \u02bc; E"
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "d\u0101ha\u1e41ti",
+      "d\u0101sy\u00e1nti"
+    ],
+    "ref": "A\u015b. fut. <i>d\u0101ha\u1e41ti</i> &lt; <i>d\u0101sy\u00e1nti</i>; "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "dad\u0101ti",
+      "dadavo"
+    ],
+    "ref": "NiDoc. <i>dad\u0101ti</i>, ger. <i>dadavo</i>, "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "day"
+    ],
+    "ref": "lau\u1e5b. <i>day</i> -- IIFL iii 3, 62; "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "day"
+    ],
+    "ref": "lau\u1e5b. <i>day</i> -- IIFL iii 3, 62; "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "deh",
+      "d\u0113h\u00ed"
+    ],
+    "ref": "Kal. 2 sg. imper. <i>deh</i> &lt; <i>d\u0113h\u00ed</i>; "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "diy\u0101r",
+      "d\u00e1d\u0101tu",
+      "det",
+      "daddh\u00ed"
+    ],
+    "ref": "Kho. 3 sg. imper. <i>diy\u0101r</i> &lt; <i>d\u00e1d\u0101tu</i>, 2 sg. <i>det</i> &lt; <i>daddh\u00ed</i>; "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "da",
+      "ya d\u0101nt",
+      "d\u00e1dat"
+    ],
+    "ref": "Bshk. <i>da</i> -- , 1st sg. pres. <i>ya d\u0101nt</i> (&lt; pres. part. <i>d\u00e1dat</i> -- , "
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "dadant\u014d"
+    ],
+    "ref": "Pa. <i>dadant\u014d</i>); "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "dam",
+      "d\u0113"
+    ],
+    "ref": "Mai. 1 sg. <i>dam</i>, imper. <i>d\u0113</i>, "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "d\u016bm",
+      "deh"
+    ],
+    "ref": "Phal. <i>d\u016bm</i>, <i>deh</i>, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "deh"
+    ],
+    "ref": "chil. <i>deh</i>, "
+  },
+  {
+    "lang": "Chilasi dialect of Shina or of Pashai",
+    "words": [
+      "deh"
+    ],
+    "ref": "chil. <i>deh</i>, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "dih."
+    ],
+    "ref": "K. <i>dih.</i>"
+  }
+]

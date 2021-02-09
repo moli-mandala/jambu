@@ -1,0 +1,71 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "ka\u00f1cu",
+    "ref": "<html><body><number>2626</number> *<b>ka\u00f1cu</b> \u02bb skin of a snake \u02bc. 2. <b>ka\u00f1cuka -- </b> m. \u02bb corselet, jacket \u02bc R., \u02bb snake's slough \u02bc Pa\u00f1cat., \u02bb husk \u02bc BhP. [Poss. \u2190 Mu. Kuiper AO xvi 307, EWA i 140]"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ka\u1e41cu"
+    ],
+    "ref": "Pk. <i>ka\u1e41cu</i> -- m. \u02bb snake's slough, woman's bodice \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "ku\u00f1j"
+    ],
+    "ref": "aw\u0101\u1e47. <i>ku\u00f1j</i> \u02bb snake's slough \u02bc, "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "ku\u00f1j"
+    ],
+    "ref": "aw\u0101\u1e47. <i>ku\u00f1j</i> \u02bb snake's slough \u02bc, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "ka\u00f1j",
+      "ku\u00f1j"
+    ],
+    "ref": "P. <i>ka\u00f1j</i>, <i>ku\u00f1j</i> f., "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sap -- ko\u010b"
+    ],
+    "ref": "kha\u015b. <i>sap -- ko\u010b</i>, "
+  },
+  {
+    "lang": "Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sap -- ko\u010b"
+    ],
+    "ref": "kha\u015b. <i>sap -- ko\u010b</i>, "
+  },
+  {
+    "lang": "\u015aeu\u1e6d\u012b sub-dialect of Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sap -- coc"
+    ],
+    "ref": "\u015beu. <i>sap -- coc</i>, 1. "
+  },
+  {
+    "lang": "Rudh\u0101r\u012b sub-dialect of Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sap -- ganj\u0308"
+    ],
+    "ref": "rudh. <i>sap -- ganj\u0308</i>, "
+  },
+  {
+    "lang": "Marmat\u012b sub-dialect of Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sap -- kos."
+    ],
+    "ref": "marm. <i>sap -- kos.</i>"
+  }
+]

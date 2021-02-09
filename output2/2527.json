@@ -1,0 +1,40 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "\u0113v\u00e1m",
+    "ref": "<html><body><number>2527</number> <b>\u0113v\u00e1m</b> \u02bb thus \u02bc RV."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "\u0113va\u1e41"
+    ],
+    "ref": "Pa. <i>\u0113va\u1e41</i>, "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "eva\u1e41",
+      "he\u02da"
+    ],
+    "ref": "A\u015b. <i>eva\u1e41</i>, <i>he\u02da</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "\u0113va\u1e41",
+      "evv\u02da",
+      "\u0113a\u1e41",
+      "\u0113va",
+      "\u0113a;"
+    ],
+    "ref": "Pk. <i>\u0113va\u1e41</i>, <i>evv\u02da</i>, <i>\u0113a\u1e41</i>, <i>\u0113va</i>, <i>\u0113a;</i> -- "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "ovu"
+    ],
+    "ref": "Si. <i>ovu</i> \u02bb yes \u02bc (Childers Notes on the Singhalese Language 139) is rather &lt; <smallcaps>s\u0101dh\u00fa</smallcaps> -- ."
+  }
+]

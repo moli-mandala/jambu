@@ -1,0 +1,60 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "kh\u00e1lu",
+    "ref": "<html><body><number>3846</number> <b>kh\u00e1lu</b> \u02bb certainly \u02bc RV."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "khalu",
+      "kh\u014d"
+    ],
+    "ref": "Pa. <i>khalu</i>, <i>kh\u014d</i>, "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "kho"
+    ],
+    "ref": "A\u015b. <i>kho</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "khalu",
+      "khu",
+      "kkhu",
+      "hu"
+    ],
+    "ref": "Pk. <i>khalu</i>, <i>khu</i> (in cmpd. -- <i>kkhu</i>), <i>hu</i>; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "khu",
+      "\u00f3khu",
+      "t",
+      "khu"
+    ],
+    "ref": "bhal. <i>khu</i> emph. particle with pron. e.g. <i>\u00f3khu</i>, <i>t</i>n/a<i>khu</i>; O"
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "khu",
+      "\u00f3khu",
+      "t",
+      "khu"
+    ],
+    "ref": "bhal. <i>khu</i> emph. particle with pron. e.g. <i>\u00f3khu</i>, <i>t</i>n/a<i>khu</i>; O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "ek\u016b",
+      "eka -- hu"
+    ],
+    "ref": "G. <i>ek\u016b</i> \u02bb even one \u02bc &lt; *<i>eka -- hu</i>?"
+  }
+]

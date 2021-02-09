@@ -1,0 +1,147 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "va\u1e45ka",
+    "ref": "<html><body><number>11191</number> <b>va\u1e45ka</b><superscript>1</superscript> \u02bb *bent, crooked \u02bc, m. \u02bb bend of a river \u02bc lex. [Like <i>va\u1e45k\u00fa</i> -- , belongs to or has been infl. by a prob. non -- Aryan word -- group for \u02bb bent, crooked \u02bc (S. K. Chatterji JGIS iii 49, PMWS 87) or with more general \u02bb defective \u02bc meaning s.v. *<smallcaps>va\u1e45ka -- <superscript>2</superscript> ~ vya\u1e45ga</smallcaps> -- . Variants with <i>bh</i> -- and <i>p</i> -- s.vv. <smallcaps>bha\u1e45gi</smallcaps> -- (cf. <smallcaps>bha\u1e45gur\u00e1&lt;-&gt; ~ va\u1e45k\u00fa -- , va\u1e45kara</smallcaps> -- ) and <smallcaps>pa\u1e45g\u00fa</smallcaps> -- . No doubt both <i>va\u1e45ka</i> -- <superscript>1</superscript> and <i>va\u1e45k\u00fa</i> -- were pop. associated with <smallcaps>vakr\u00e1</smallcaps>&lt;-&gt; (as <i>bha\u1e45gur\u00e1</i> -- with <i>bha\u1e45ga</i> -- <superscript>1</superscript>)]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "va\u1e45ka",
+      "va\u1e45kaka"
+    ],
+    "ref": "Pa. <i>va\u1e45ka</i> -- \u02bb crooked \u02bc, m. \u02bb bend \u02bc, <i>va\u1e45kaka</i> -- n. \u02bb some&lt;-&gt; thing crooked \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "va\u1e41ka"
+    ],
+    "ref": "Pk. <i>va\u1e41ka</i> -- \u02bb crooked \u02bc, m. \u02bb bend of a river \u02bc; "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "bango"
+    ],
+    "ref": "eur. <i>bango</i> \u02bb bent, lame, crippled \u02bc; "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "bango"
+    ],
+    "ref": "eur. <i>bango</i> \u02bb bent, lame, crippled \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "b\u0101\u1e45o"
+    ],
+    "ref": "Ku. <i>b\u0101\u1e45o</i> \u02bb crooked \u02bc, "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "b\u00e3\u0304g"
+    ],
+    "ref": "gng. <i>b\u00e3\u0304g</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "b\u00e3\u0304ka\u0304\u0306"
+    ],
+    "ref": "B. <i>b\u00e3\u0304ka\u0304\u0306</i> \u02bb crooked \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "b\u0101\u1e45ka",
+      "b\u0101\u1e45ka\u1e5b\u0101",
+      "\u0101\u1e5bab\u00e3\u0304ka"
+    ],
+    "ref": "Or. <i>b\u0101\u1e45ka</i> \u02bb curved, crooked \u02bc, <i>b\u0101\u1e45ka\u1e5b\u0101</i> \u02bb somewhat curved \u02bc, <i>\u0101\u1e5bab\u00e3\u0304ka</i> \u02bb oblique \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "b\u00e3\u0304k"
+    ],
+    "ref": "Bi. <i>b\u00e3\u0304k</i> \u02bb transverse rib of a boat \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "b\u00e3\u0304k"
+    ],
+    "ref": "Bhoj. <i>b\u00e3\u0304k</i> \u02bb bent, distorted, cruel \u02bc; O"
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "b\u00e3\u0304k"
+    ],
+    "ref": "Bhoj. <i>b\u00e3\u0304k</i> \u02bb bent, distorted, cruel \u02bc; O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "b\u0101\u1e41ka"
+    ],
+    "ref": "Aw. <i>b\u0101\u1e41ka</i> \u02bb crooked \u02bc, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "b\u00e3\u0304k\u0101"
+    ],
+    "ref": "lakh. <i>b\u00e3\u0304k\u0101</i>; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "b\u00e3\u0304k",
+      "b\u00e3\u0304k\u0101"
+    ],
+    "ref": "H. <i>b\u00e3\u0304k</i> m. \u02bb bend of a river \u02bc, <i>b\u00e3\u0304k\u0101</i> \u02bb bent \u02bc, "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "b\u00e3\u0304ko"
+    ],
+    "ref": "Marw. <i>b\u00e3\u0304ko</i>; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "v\u00e3\u0304k"
+    ],
+    "ref": "G. <i>v\u00e3\u0304k</i> m. \u02bb curve \u02bc, O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "v\u0101\u1e41ka\u00fc"
+    ],
+    "ref": "G. <i>v\u0101\u1e41ka\u00fc</i> \u02bb crooked \u02bc, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "v\u00e3\u0304ku\u0303"
+    ],
+    "ref": "G. <i>v\u00e3\u0304ku\u0303</i>; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "v\u00e3\u0304k",
+      "v\u0101k",
+      "v\u00e3\u0304k\u0101",
+      "v\u0101k\u0101"
+    ],
+    "ref": "M. <i>v\u00e3\u0304k</i>, <i>v\u0101k</i> m. \u02bb curve \u02bc, <i>v\u00e3\u0304k\u0101</i>, <i>v\u0101k\u0101</i> \u02bb crooked \u02bc."
+  }
+]

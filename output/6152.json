@@ -1,0 +1,505 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["d\u00e1nta"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>6152</number> <b>d\u00e1nta</b> m. \u02bb tooth \u02bc RV. [<i>d\u00e1nt</i> -- RV.]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "danta"
+    ],
+    "ref": "Pa. <i>danta</i> -- m. \u02bb tooth, tusk \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "da\u1e41ta"
+    ],
+    "ref": "Pk. <i>da\u1e41ta</i> -- m. \u02bb tooth, part of a mountain \u02bc; "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "dand"
+    ],
+    "ref": "eur. <i>dand</i> m. \u02bb tooth \u02bc, "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "dand"
+    ],
+    "ref": "eur. <i>dand</i> m. \u02bb tooth \u02bc, "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "d\u1e53nd\u0103"
+    ],
+    "ref": "pal. <i>d\u1e53nd\u0103</i>, "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "d\u014d\u02d8nt"
+    ],
+    "ref": "Ash. <i>d\u014d\u02d8nt</i>, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "dut"
+    ],
+    "ref": "Kt. <i>dut</i>, "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "do\u0304\u0303t",
+      "du\u0304\u0303t"
+    ],
+    "ref": "Wg. <i>do\u0304\u0303t</i>, <i>du\u0304\u0303t</i>, "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "letum",
+      "l\u00e4t\u0259m",
+      "'\u00e4t\u0259m"
+    ],
+    "ref": "Pr. <i>letum</i>, <i>l\u00e4t\u0259m</i>, <i>'\u00e4t\u0259m</i> \u02bb my (?) tooth \u02bc, "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "dan"
+    ],
+    "ref": "Dm. <i>dan</i>, "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "d",
+      "nd\u0259"
+    ],
+    "ref": "Tir. <i>d</i><at>*l</at><i>nd\u0259</i>, "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "dan",
+      "d"
+    ],
+    "ref": "lau\u1e5b. <i>dan</i>(<i>d</i>), "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "dan",
+      "d"
+    ],
+    "ref": "lau\u1e5b. <i>dan</i>(<i>d</i>), "
+  },
+  {
+    "lang": "Uzbini dialect of Pashai",
+    "words": [
+      "d\u014dn"
+    ],
+    "ref": "uzb. <i>d\u014dn</i>, "
+  },
+  {
+    "lang": "Ni\u1e45gal\u0101m\u012b (Dard.)",
+    "words": [
+      "da\u1e45"
+    ],
+    "ref": "Ni\u1e45g. <i>da\u1e45</i>, "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "dandem"
+    ],
+    "ref": "Shum. <i>dandem</i> \u02bb my tooth \u02bc, "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "dan"
+    ],
+    "ref": "Wo\u1e6d. <i>dan</i> m., "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "dant"
+    ],
+    "ref": "Gaw. <i>dant</i>, "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "d",
+      "n"
+    ],
+    "ref": "urt. <i>d</i><at>*l</at><i>n</i>, "
+  },
+  {
+    "lang": "Urtsun dialect of Kalasha",
+    "words": [
+      "d",
+      "n"
+    ],
+    "ref": "urt. <i>d</i><at>*l</at><i>n</i>, "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "dh",
+      "nd\u014d\u0155y",
+      "k"
+    ],
+    "ref": "rumb. <i>dh</i><at>*l</at><i>nd\u014d\u0155y</i><at>*l</at><i>k</i> (l"
+  },
+  {
+    "lang": "Italian dialect of European Gypsy",
+    "words": [
+      "don"
+    ],
+    "ref": "Kho. <i>don</i>, "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "don"
+    ],
+    "ref": "Kho. <i>don</i>, "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "d",
+      "nd\u0259"
+    ],
+    "ref": "Bshk. <i>d</i><at>*l</at><i>nd\u0259</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "d",
+      "n"
+    ],
+    "ref": "Tor. <i>d</i><at>*l</at><i>n</i>, "
+  },
+  {
+    "lang": "Kandia (Dard.)",
+    "words": [
+      "d\u0254di"
+    ],
+    "ref": "Kand. <i>d\u0254di</i>, "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "d\u0101n"
+    ],
+    "ref": "Mai. <i>d\u0101n</i>, "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "d\u0101nd"
+    ],
+    "ref": "Sv. <i>d\u0101nd</i>, "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "d\u0101n",
+      "d\u0101nda"
+    ],
+    "ref": "Phal. <i>d\u0101n</i>, pl. <i>d\u0101nda</i>, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "do\u032fn",
+      "d\u014dnye\u032f"
+    ],
+    "ref": "gil. <i>do\u032fn</i>, pl. <i>d\u014dnye\u032f</i> m. (\u2192 "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "do\u032fn",
+      "d\u014dnye\u032f"
+    ],
+    "ref": "gil. <i>do\u032fn</i>, pl. <i>d\u014dnye\u032f</i> m. (\u2192 "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "don"
+    ],
+    "ref": "\u1e0c. <i>don</i> m.), "
+  },
+  {
+    "lang": "Pales\u012b dialect of Shina",
+    "words": [
+      "d",
+      "n"
+    ],
+    "ref": "pales. <i>d</i><at>*l</at><i>n</i>, "
+  },
+  {
+    "lang": "Jijelut dialect of Shina",
+    "words": [
+      "d\u0254n"
+    ],
+    "ref": "jij. <i>d\u0254n</i>, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "dand"
+    ],
+    "ref": "K. <i>dand</i> m., "
+  },
+  {
+    "lang": "R\u0101mban\u012b dialect of Kashmiri in Jammu",
+    "words": [
+      "dant"
+    ],
+    "ref": "\u1e0do\u1e0d. <i>dant</i>, "
+  },
+  {
+    "lang": "P\u01d2gul\u012b dialect of Kashmiri",
+    "words": [
+      "dant"
+    ],
+    "ref": "\u1e0do\u1e0d. <i>dant</i>, "
+  },
+  {
+    "lang": "\u1e0co\u1e0d\u012b (Sir\u0101j\u012b of \u1e0co\u1e0d\u0101), a dialect of Kashmiri in Jammu",
+    "words": [
+      "dant"
+    ],
+    "ref": "\u1e0do\u1e0d. <i>dant</i>, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "\u1e0d\u0320andu"
+    ],
+    "ref": "S. <i>\u1e0d\u0320andu</i> m.; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "dand"
+    ],
+    "ref": "L. <i>dand</i>, "
+  },
+  {
+    "lang": "Mult\u0101n\u012b dialect of Lahnd\u0101",
+    "words": [
+      "\u1e0dand",
+      "\u1e0d\u0320a\u0303d"
+    ],
+    "ref": "mult. <i>\u1e0dand</i>, (Ju.) <i>\u1e0d\u0320a\u0303d</i> m., "
+  },
+  {
+    "lang": "Khetr\u0101n\u012b dialect of Lahnd\u0101",
+    "words": [
+      "dant",
+      "da\u0303d"
+    ],
+    "ref": "khet. <i>dant</i> \u02bb tooth \u02bc, (Shahpur) <i>da\u0303d</i> f. \u02bb cliff, precipice \u02bc; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "dand"
+    ],
+    "ref": "P. <i>dand</i> m. \u02bb tooth, \u02bc "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "dant"
+    ],
+    "ref": "cur. <i>dant</i>, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "dant"
+    ],
+    "ref": "cur. <i>dant</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "dant"
+    ],
+    "ref": "cur. <i>dant</i>, "
+  },
+  {
+    "lang": "Pa\u1e45gw\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "dant"
+    ],
+    "ref": "cur. <i>dant</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "dant"
+    ],
+    "ref": "cur. <i>dant</i>, "
+  },
+  {
+    "lang": "Came\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "dand"
+    ],
+    "ref": "cam. <i>dand</i>, "
+  },
+  {
+    "lang": "P\u0101\u1e0dar\u012b sub-dialect of Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "dann"
+    ],
+    "ref": "p\u0101\u1e0d. <i>dann</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "d\u00e3\u0304t",
+      "d\u00e3\u0304d"
+    ],
+    "ref": "N. <i>d\u00e3\u0304t</i> (&lt; *<i>d\u00e3\u0304d</i> in "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "d\u00e3\u0304t",
+      "d\u00e3\u0304d"
+    ],
+    "ref": "N. <i>d\u00e3\u0304t</i> (&lt; *<i>d\u00e3\u0304d</i> in "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "d\u00e3\u0304de"
+    ],
+    "ref": "N. <i>d\u00e3\u0304de</i> \u02bb harrow, a kind of grass \u02bc), "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "d\u00e3\u0304t"
+    ],
+    "ref": "B. <i>d\u00e3\u0304t</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "d\u00e3\u0304t"
+    ],
+    "ref": "B. <i>d\u00e3\u0304t</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "d\u0101nta"
+    ],
+    "ref": "Or. <i>d\u0101nta</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "d\u00e3\u0304t"
+    ],
+    "ref": "M. <i>d\u00e3\u0304t</i> m., "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "d\u00e3\u0304t"
+    ],
+    "ref": "M. <i>d\u00e3\u0304t</i> m., "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "d\u00e3\u0304t"
+    ],
+    "ref": "M. <i>d\u00e3\u0304t</i> m., "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "d\u00e3\u0304t"
+    ],
+    "ref": "M. <i>d\u00e3\u0304t</i> m., "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "d\u00e3\u0304t"
+    ],
+    "ref": "M. <i>d\u00e3\u0304t</i> m., "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "d\u00e3\u0304t"
+    ],
+    "ref": "M. <i>d\u00e3\u0304t</i> m., "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "d\u00e3\u0304t"
+    ],
+    "ref": "M. <i>d\u00e3\u0304t</i> m., "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "d\u00e3\u0304t"
+    ],
+    "ref": "M. <i>d\u00e3\u0304t</i> m., "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "d\u0101ntu"
+    ],
+    "ref": "Ko. <i>d\u0101ntu</i>, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "data.",
+      "\u1e0da"
+    ],
+    "ref": "Si. <i>data.</i> -- Ext. -- <i>\u1e0da</i> -- : "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "dand\u0259\u0301\u0155i",
+      "d\u00e1nduri"
+    ],
+    "ref": "Dm. <i>dand\u0259\u0301\u0155i</i>, <i>d\u00e1nduri</i> \u02bb horse's bit \u02bc, "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "d\u00e1nda\u1e5bi."
+    ],
+    "ref": "Phal. <i>d\u00e1nda\u1e5bi.</i> -- See Add."
+  }
+]

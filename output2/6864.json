@@ -1,0 +1,37 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "dh\u016byat\u0113",
+    "ref": "<html><body><number>6864</number> *<b>dh\u016byat\u0113</b><superscript>2</superscript> \u02bb is washed \u02bc. [Same as <smallcaps>dh\u016by\u00e1t\u0113<superscript>1</superscript>? -- \u221adh\u0101v</smallcaps><superscript>2</superscript>]"
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "du\u017e\u00f3\u012dki\u032f",
+      "du\u01f0i\u01f0oiki"
+    ],
+    "ref": "gil. <i>du\u017e\u00f3\u012dki\u032f</i> tr. \u02bb to wash \u02bc, (Lor.) <i>du\u01f0i\u01f0oiki</i> \u02bb to be washed \u02bc, "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "du\u017e\u00f3\u012dki\u032f",
+      "du\u01f0i\u01f0oiki"
+    ],
+    "ref": "gil. <i>du\u017e\u00f3\u012dki\u032f</i> tr. \u02bb to wash \u02bc, (Lor.) <i>du\u01f0i\u01f0oiki</i> \u02bb to be washed \u02bc, "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "di\u017e\u0101r\u014dn\u1e77"
+    ],
+    "ref": "koh. <i>di\u017e\u0101r\u014dn\u1e77</i> tr., "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "du\u017e\u0101ry\u014dn\u1e77."
+    ],
+    "ref": "gur. <i>du\u017e\u0101ry\u014dn\u1e77.</i>"
+  }
+]

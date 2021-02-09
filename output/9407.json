@@ -1,0 +1,24 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["bhaluha"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>9407</number> <b>bhaluha</b> m. \u02bb dog \u02bc, <i>bhall\u016bka</i> -- <superscript>2</superscript> m. lex."
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "balu",
+      "ball\u0101",
+      "baluv\u0101",
+      "b\u00e4lli"
+    ],
+    "ref": "Si. <i>balu</i>, <i>ball\u0101</i> (&lt; *<i>baluv\u0101</i>) \u02bb dog \u02bc, <i>b\u00e4lli</i> \u02bb bitch \u02bc; "
+  },
+  {
+    "lang": "or mald. Maldivian dialect of Sinhalese",
+    "words": [
+      "balu"
+    ],
+    "ref": "Md. <i>balu</i> \u02bb dog \u02bc."
+  }
+]

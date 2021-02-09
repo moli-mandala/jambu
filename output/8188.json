@@ -1,0 +1,173 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["p\u00edtriya"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>8188</number> <b>p\u00edtriya</b> \u02bb paternal \u02bc (metr.) RV., m. \u02bb eldest brother who takes place of father \u02bc lex. 2. <b>p\u00edtrya -- </b> RV. [Replaces <i>pitr\u0325vya</i> -- m. \u02bb father's brother \u02bc Mn. -- <smallcaps>pit\u0155\u030a</smallcaps> -- ]"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "pittiya",
+      "pittijja",
+      "pitr\u0325vya",
+      "piijja"
+    ],
+    "ref": "Pk. <i>pittiya</i> -- , <i>pittijja</i> -- m. \u02bb father's brother \u02bc (X <i>pitr\u0325vya</i> -- &gt; <i>piijja</i> -- m.), "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "p\u00edtri"
+    ],
+    "ref": "Dm. <i>p\u00edtri</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "pi\u1e93\u012b"
+    ],
+    "ref": "Tor. <i>pi\u1e93\u012b</i>, "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "pi",
+      "i",
+      "pi",
+      "\u0113"
+    ],
+    "ref": "Bshk. <i>pi</i><at>ll</at><i>i</i> (<i>pi</i><at>l</at><i>\u0113</i> \u02bb his wife \u02bc), "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "pic\u0323h\u012b"
+    ],
+    "ref": "Mai. (Barth) \"<i>pic\u0323h\u012b</i>\"; "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "p\u00edtr\u012b"
+    ],
+    "ref": "Phal. <i>p\u00edtr\u012b</i> \u02bb father's brother, male relation \u02bc; "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "pic\u0323i"
+    ],
+    "ref": "gil. <i>pic\u0323i</i>, "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "pic\u0323i"
+    ],
+    "ref": "gil. <i>pic\u0323i</i>, "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "pi\u010d\u0101\u0301"
+    ],
+    "ref": "koh. <i>pi\u010d\u0101\u0301</i>, "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "pi\u010d\u012b\u0301"
+    ],
+    "ref": "gur. <i>pi\u010d\u012b\u0301</i>, "
+  },
+  {
+    "lang": "Pales\u012b dialect of Shina",
+    "words": [
+      "pity\u0101\u0301",
+      "ty",
+      "\u010d"
+    ],
+    "ref": "pales. <i>pity\u0101\u0301</i> (<i>ty</i> = <i>\u010d</i>?) \u02bb father's brother \u02bc, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "pitr\u012b"
+    ],
+    "ref": "r\u0101m. <i>pitr\u012b</i>, "
+  },
+  {
+    "lang": "R\u0101mban\u012b dialect of Kashmiri in Jammu",
+    "words": [
+      "pitr\u012b"
+    ],
+    "ref": "r\u0101m. <i>pitr\u012b</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "patr\u012by\u0101"
+    ],
+    "ref": "L. <i>patr\u012by\u0101</i> m., "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "patar\u012b\u0101"
+    ],
+    "ref": "\u1e0dog. <i>patar\u012b\u0101</i> m., "
+  },
+  {
+    "lang": "\u1e0cogr\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "patar\u012b\u0101"
+    ],
+    "ref": "\u1e0dog. <i>patar\u012b\u0101</i> m., "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "pi\u1e6d\u1e37\u0101"
+    ],
+    "ref": "bhal. <i>pi\u1e6d\u1e37\u0101</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "pi\u1e6d\u1e37\u0101"
+    ],
+    "ref": "bhal. <i>pi\u1e6d\u1e37\u0101</i>, "
+  },
+  {
+    "lang": "Bhi\u1e0dl\u00e0\u012b sub-dialect of Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "pi\u1e6d\u1e37",
+      "\u00f6\u1e6du"
+    ],
+    "ref": "bhi\u1e0d. <i>pi\u1e6d\u1e37</i><at>e</at><i>\u00f6\u1e6du</i> n. \u02bb young paternal uncle \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "pitt\u012b"
+    ],
+    "ref": "Mth. <i>pitt\u012b</i> \u02bb father's brother \u02bc, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "pit",
+      "i",
+      "y\u0101"
+    ],
+    "ref": "H. <i>pit</i>(<i>i</i>)<i>y\u0101</i> m. -- "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "pitrer",
+      "pitrer\u0101"
+    ],
+    "ref": "L. <i>pitrer</i>, <i>pitrer\u0101</i> m. \u02bb father's brother's son \u02bc X *<smallcaps>putratara</smallcaps> -- q.v."
+  }
+]

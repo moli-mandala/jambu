@@ -1,0 +1,67 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["kr\u0325k\u0101\u1e6dik\u0101"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>3419</number> <b>kr\u0325k\u0101\u1e6dik\u0101</b> f. \u02bb joint of neck \u02bc Su\u015br., <i>k\u0155\u030ak\u0101\u1e6da</i> -- n. AV., <i>\u02da\u1e6daka</i> -- n. lex., <i>kak\u0101\u02ca\u1e6dik\u0101</i> -- f. \u02bb a part of the skull \u02bc AV. [PMWS 29 groups -- <i>k\u0101\u1e6d</i> -- , prefixed by <i>kr\u0325</i> -- , <i>ka</i> -- , with <smallcaps>ka\u1e47\u1e6dh\u00e1</smallcaps> -- as Mu., and so separates from <i>kr\u0325ka</i> -- \u02bb throat, neck \u02bc]"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ki\u0101\u1e0di\u0101",
+      "kiy\u0101\u1e0diy\u0101"
+    ],
+    "ref": "Pk. <i>ki\u0101\u1e0di\u0101</i> -- f. \u02bb upper part of neck \u02bc, <i>kiy\u0101\u1e0diy\u0101</i> -- f. \u02bb upper part of ear \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "ki\u0101\u1e5b\u012b"
+    ],
+    "ref": "S. <i>ki\u0101\u1e5b\u012b</i> f. \u02bb back of the head, the hair on it \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "k\u012b\u0101\u1e5b\u012b"
+    ],
+    "ref": "L. <i>k\u012b\u0101\u1e5b\u012b</i> f. \u02bb nape of neck \u02bc; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "ki\u0101\u1e5b\u012b"
+    ],
+    "ref": "P. <i>ki\u0101\u1e5b\u012b</i> f. \u02bb nape of neck, back of head, jaw \u02bc, adv. \u02bb behind \u02bc; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "ki\u0101\u1e5b\u012b",
+      "kk"
+    ],
+    "ref": "kha\u015b. <i>ki\u0101\u1e5b\u012b</i> \u02bb back of neck \u02bc; -- ext. with -- <i>kk</i> -- : "
+  },
+  {
+    "lang": "Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "ki\u0101\u1e5b\u012b",
+      "kk"
+    ],
+    "ref": "kha\u015b. <i>ki\u0101\u1e5b\u012b</i> \u02bb back of neck \u02bc; -- ext. with -- <i>kk</i> -- : "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "kir\u012bk"
+    ],
+    "ref": "Wg. <i>kir\u012bk</i> \u02bb back of neck \u02bc and poss. "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "kake\u1e5b\u00edk",
+      "k"
+    ],
+    "ref": "Ash. <i>kake\u1e5b\u00edk</i> \u02bb throat \u02bc despite apparent survival of -- <i>k</i> -- ."
+  }
+]

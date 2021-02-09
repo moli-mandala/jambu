@@ -1,0 +1,77 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["m\u0101tr\u0113ya"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>10024</number> *<b>m\u0101tr\u0113ya</b> \u02bb maternal \u02bc. [Cf. <i>bhr\u0101tr\u0113ya</i> -- BhP. - <smallcaps>m\u0101t\u0155\u030a</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "matteyya",
+      "metteyya",
+      "e",
+      "petteyya"
+    ],
+    "ref": "Pa. <i>matteyya</i> -- \u02bb reverential to one's mother \u02bc, <i>metteyya</i>&lt;-&gt; (with <i>e</i> from <i>petteyya</i> -- with which it is always used); "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "m\u0101\u1e6dre",
+      "m\u02da j\u012b m\u0101u",
+      "m\u02da jo bh\u0101u",
+      "m\u0101\u1e6dreyo"
+    ],
+    "ref": "S. <i>m\u0101\u1e6dre</i> \u02bb half -- (in relationship), step -- \u02bc (<i>m\u02da j\u012b m\u0101u</i> \u02bb stepmother \u02bc, <i>m\u02da jo bh\u0101u</i> \u02bb stepbrother \u02bc), <i>m\u0101\u1e6dreyo</i>; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "m\u0101tar m\u0101",
+      "matra\u012b m\u0101",
+      "matri m\u0101",
+      "matre\u0101",
+      "matri\u0101"
+    ],
+    "ref": "L. <i>m\u0101tar m\u0101</i>, (Ju.) <i>matra\u012b m\u0101</i>, <i>matri m\u0101</i> \u02bb stepmother \u02bc, <i>matre\u0101</i> m. \u02bb half -- brother \u02bc, (Ju.) <i>matri\u0101</i> m.f. \u02bb half -- brother or sister \u02bc, "
+  },
+  {
+    "lang": "Mult\u0101n\u012b dialect of Lahnd\u0101",
+    "words": [
+      "matre\u012b",
+      "matre\u0101",
+      "m\u0101tar"
+    ],
+    "ref": "mult. <i>matre\u012b</i> f. \u02bb stepmother \u02bc, <i>matre\u0101</i> m. \u02bb half -- brother \u02bc, (Shahpur) <i>m\u0101tar</i> f. \u02bb stepmother \u02bc, "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "matr\u0113\u012b m\u0101"
+    ],
+    "ref": "aw\u0101\u1e47. <i>matr\u0113\u012b m\u0101</i>; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "matre\u0101",
+      "mate\u0101",
+      "mate\u012b"
+    ],
+    "ref": "P. <i>matre\u0101</i>, <i>mate\u0101</i> m. \u02bb half -- brother \u02bc, <i>mate\u012b</i> f. \u02bb stepmother \u02bc; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "mate\u012b"
+    ],
+    "ref": "H. <i>mate\u012b</i> f. \u02bb stepmother \u02bc."
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "mate\u012b"
+    ],
+    "ref": "H. <i>mate\u012b</i> f. \u02bb stepmother \u02bc."
+  }
+]

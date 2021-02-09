@@ -1,0 +1,44 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "prasavati",
+    "ref": "<html><body><number>8828</number> <b>prasavati</b> \u02bb bears, begets \u02bc MBh. 2. *<b>prasavayati</b> \u02bb causes to be born \u02bc. 3. Pass. *<b>prasavyat\u0113</b>. [\u221a<smallcaps>s\u016b</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "pasavati"
+    ],
+    "ref": "Pa. <i>pasavati</i> \u02bb produces \u02bc; "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "pras\u0331avita"
+    ],
+    "ref": "NiDoc. <i>pras\u0331avita</i>, &amp;gacute \u02bb granted \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "pasava\u00ef",
+      "pasavia"
+    ],
+    "ref": "Pk. <i>pasava\u00ef</i> \u02bb produces \u02bc, pp. <i>pasavia</i> -- ; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "prasavvu\u0303"
+    ],
+    "ref": "G. <i>prasavvu\u0303</i> \u02bb to bear \u02bc; -- "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "pas\u0101unu",
+      "pasaunu"
+    ],
+    "ref": "N. <i>pas\u0101unu</i> \u02bb to sprout, (flower or fruit) just to show \u02bc (replaces *<i>pasaunu</i>?)."
+  }
+]

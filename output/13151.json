@@ -1,0 +1,157 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["saptam\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>13151</number> <b>saptam\u00e1</b> \u02bb 7th \u02bc VS., <i>\u02daaka</i> -- \u015arutab. [<smallcaps>sapt\u00e1</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "sattama"
+    ],
+    "ref": "Pk. <i>sattama</i> -- \u02bb 7th \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "sattama"
+    ],
+    "ref": "Pk. <i>sattama</i> -- \u02bb 7th \u02bc, "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "sata\u1e41ma"
+    ],
+    "ref": "NiDoc. <i>sata\u1e41ma</i>, "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "sat\u00e1m"
+    ],
+    "ref": "Wo\u1e6d. <i>sat\u00e1m</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "sat\u0259m"
+    ],
+    "ref": "Tor. <i>sat\u0259m</i>, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "s",
+      "tmuo"
+    ],
+    "ref": "Sh. (Lor.) <i>s</i><at>*l</at><i>tmuo</i>, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "satyumu",
+      "sattima"
+    ],
+    "ref": "K. <i>satyum<superscript>u</superscript></i> (&lt; *<i>sattima</i> -- ), "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "sat\u00f5"
+    ],
+    "ref": "S. <i>sat\u00f5</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "sattva\u0303"
+    ],
+    "ref": "L. <i>sattva\u0303</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "satv\u00e3\u0304",
+      "satm\u00e3\u0304"
+    ],
+    "ref": "P. <i>satv\u00e3\u0304</i>, <i>satm\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sattau\u0303"
+    ],
+    "ref": "bhal. <i>sattau\u0303</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "sattau\u0303"
+    ],
+    "ref": "bhal. <i>sattau\u0303</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "saitu\u00e3\u0304"
+    ],
+    "ref": "cur. <i>saitu\u00e3\u0304</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "s\u0101tau\u0303"
+    ],
+    "ref": "N. <i>s\u0101tau\u0303</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "s\u0101tui"
+    ],
+    "ref": "B. <i>s\u0101tui</i>, O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "s\u0101tava\u1e41"
+    ],
+    "ref": "Aw. <i>s\u0101tava\u1e41</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "s\u0101tw\u00e3\u0304"
+    ],
+    "ref": "H. <i>s\u0101tw\u00e3\u0304</i>, O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "s\u0101tavu"
+    ],
+    "ref": "Marw. <i>s\u0101tavu</i>, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "s\u0101tmu\u0303"
+    ],
+    "ref": "G. <i>s\u0101tmu\u0303</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "s\u0101tv\u0101"
+    ],
+    "ref": "M. <i>s\u0101tv\u0101</i>, "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "s\u0101tvo."
+    ],
+    "ref": "Ko. <i>s\u0101tvo.</i>"
+  }
+]

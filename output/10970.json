@@ -1,0 +1,36 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["lal\u0101\u02ca\u1e6da"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>10970</number> <b>lal\u0101\u02ca\u1e6da</b> n. \u02bb forehead, brow \u02bc AV., <i>rar\u0101\u02ca\u1e6da</i> -- VS. 2. <b>ni\u1e6d\u0101la -- </b> n. K\u0101v., <i>ni\u1e6dala</i> -- , <i>ni\u1e6dila</i> -- n. Da\u015b. [<i>ni\u1e6da\u0304\u0306la</i>&lt;-&gt; (~ <i>lal\u0101\u02ca\u1e6da</i> -- ) later \u2190 Drav., Tam. <i>nutal</i>, &amp;c. DED 3069, 3118]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "lal\u0101\u1e6da",
+      "nal\u02da",
+      "nal\u0101\u1e6dik\u0101"
+    ],
+    "ref": "Pa. <i>lal\u0101\u1e6da</i> -- , <i>nal\u02da</i> n. \u02bb forehead \u02bc, <i>nal\u0101\u1e6dik\u0101</i> -- f. \u02bb frown \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "lal\u0101\u1e0da",
+      "la\u1e0d\u0101la",
+      "\u1e47al\u0101\u1e0da",
+      "\u1e47a\u1e0d\u0101la",
+      "\u1e47\u0101\u1e0d\u0101la"
+    ],
+    "ref": "Pk. <i>lal\u0101\u1e0da</i> -- , <i>la\u1e0d\u0101la</i> -- , <i>\u1e47al\u0101\u1e0da</i> -- , <i>\u1e47a\u1e0d\u0101la</i> -- n. (whence <i>\u1e47\u0101\u1e0d\u0101la</i> -- adj.) n. \u02bb forehead \u02bc, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "nala\u1e37a",
+      "na\u1e37ala",
+      "ni\u1e6d\u0101la"
+    ],
+    "ref": "Si. <i>nala\u1e37a</i>, <i>na\u1e37ala</i> (or &lt; <i>ni\u1e6d\u0101la</i> -- )."
+  }
+]

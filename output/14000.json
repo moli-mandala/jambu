@@ -1,0 +1,301 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["hal\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>14000</number> <b>hal\u00e1</b><superscript>1</superscript> m.n. \u02bb plough \u02bc MBh., <i>hali</i> -- m. Da\u015b."
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "hala"
+    ],
+    "ref": "Pk. <i>hala</i> -- n. \u02bb plough \u02bc, "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "hal",
+      "xal",
+      "h"
+    ],
+    "ref": "Dm. <i>hal</i>, <i>xal</i> (with preventive hardening of the threatened <i>h</i> -- NTS xii 126); "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "hal"
+    ],
+    "ref": "lau\u1e5b. <i>hal</i> \u02bb ploughshare \u02bc, "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "hal"
+    ],
+    "ref": "lau\u1e5b. <i>hal</i> \u02bb ploughshare \u02bc, "
+  },
+  {
+    "lang": "Ishpi dialect of Pashai",
+    "words": [
+      "h\u0101\u0301la"
+    ],
+    "ref": "ish. <i>h\u0101\u0301la</i>, "
+  },
+  {
+    "lang": "Wegali dialect of Pashai",
+    "words": [
+      "al"
+    ],
+    "ref": "weg. <i>al</i>, "
+  },
+  {
+    "lang": "Ku\u1e5ba\u1e45gali dialect of Pashai",
+    "words": [
+      "\u0101l"
+    ],
+    "ref": "ku\u1e5b. <i>\u0101l</i> (with rising tone), "
+  },
+  {
+    "lang": "Chilasi dialect of Shina or of Pashai",
+    "words": [
+      "\u0101l"
+    ],
+    "ref": "ar. <i>\u0101l</i> \u02bb plough \u02bc, "
+  },
+  {
+    "lang": "Areti dialect of Pashai",
+    "words": [
+      "\u0101l"
+    ],
+    "ref": "ar. <i>\u0101l</i> \u02bb plough \u02bc, "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "\u0101l",
+      "\u0101\u0324l"
+    ],
+    "ref": "Shum. <i>\u0101l</i>, <i>\u0101\u0324l</i>, "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "ha\u0304\u0306l"
+    ],
+    "ref": "Gaw. <i>ha\u0304\u0306l</i>, "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "h\u0101l"
+    ],
+    "ref": "urt. <i>h\u0101l</i>, "
+  },
+  {
+    "lang": "Urtsun dialect of Kalasha",
+    "words": [
+      "h\u0101l"
+    ],
+    "ref": "urt. <i>h\u0101l</i>, "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "hau",
+      "h\u0101las"
+    ],
+    "ref": "rumb. <i>hau</i> (gen. <i>h\u0101las</i>), "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "hal"
+    ],
+    "ref": "Tor. <i>hal</i> m.; "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "hal"
+    ],
+    "ref": "Sv. <i>hal</i> \u02bb ploughshare \u02bc; "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "h\u0101l"
+    ],
+    "ref": "Phal. <i>h\u0101l</i> m. \u02bb plough \u02bc, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "h\u0103l"
+    ],
+    "ref": "Sh. <i>h\u0103l</i> m.; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "haru",
+      "har\u012b"
+    ],
+    "ref": "S. <i>haru</i> m. \u02bb plough \u02bc, <i>har\u012b</i> f. \u02bb drill plough \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "ha\u1e37"
+    ],
+    "ref": "L. <i>ha\u1e37</i> m. \u02bb plough \u02bc, "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "hal"
+    ],
+    "ref": "aw\u0101\u1e47. <i>hal</i> m.; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "hal",
+      "ha\u1e37"
+    ],
+    "ref": "P. <i>hal</i> m. \u02bb plough \u02bc, (Grahame Bailey) <i>ha\u1e37</i> m. \u02bb oxen and plough \u02bc; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hal"
+    ],
+    "ref": "cam. <i>hal</i> \u02bb plough \u02bc, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hal"
+    ],
+    "ref": "cam. <i>hal</i> \u02bb plough \u02bc, "
+  },
+  {
+    "lang": "Pa\u1e45gw\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hal"
+    ],
+    "ref": "cam. <i>hal</i> \u02bb plough \u02bc, "
+  },
+  {
+    "lang": "Came\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hal"
+    ],
+    "ref": "cam. <i>hal</i> \u02bb plough \u02bc, "
+  },
+  {
+    "lang": "Jauns\u0101r\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hal",
+      "haw"
+    ],
+    "ref": "jaun. <i>hal</i>, <i>haw</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "hal"
+    ],
+    "ref": "Ku. <i>hal</i>, "
+  },
+  {
+    "lang": "Ga\u1e45go\u012b dialect of Kumaun\u012b",
+    "words": [
+      "haw"
+    ],
+    "ref": "gng. <i>haw</i>; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "hal"
+    ],
+    "ref": "N. <i>hal</i> \u02bb a pair of bullocks \u02bc; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "hal"
+    ],
+    "ref": "B. <i>hal</i> \u02bb plough \u02bc, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "ha\u1e37a"
+    ],
+    "ref": "Or. <i>ha\u1e37a</i>, "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "har"
+    ],
+    "ref": "lakh. <i>har</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "har"
+    ],
+    "ref": "lakh. <i>har</i>, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "har"
+    ],
+    "ref": "lakh. <i>har</i>, "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "har"
+    ],
+    "ref": "lakh. <i>har</i>, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "har"
+    ],
+    "ref": "lakh. <i>har</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "hal"
+    ],
+    "ref": "H. <i>hal</i> m., "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "ha\u1e37"
+    ],
+    "ref": "M. <i>ha\u1e37</i> m., "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "ha\u1e37"
+    ],
+    "ref": "M. <i>ha\u1e37</i> m., "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "hal -- a."
+    ],
+    "ref": "Si. <i>hal -- a.</i>"
+  }
+]

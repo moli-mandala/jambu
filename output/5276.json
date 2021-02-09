@@ -1,0 +1,91 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["j\u00f1\u0101t\u00ed"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>5276</number> <b>j\u00f1\u0101t\u00ed</b><superscript>1</superscript> m. \u02bb kinsman \u02bc RV. [\u221a<smallcaps>jan</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "\u00f1\u0101ti"
+    ],
+    "ref": "Pa. <i>\u00f1\u0101ti</i> -- m. \u02bb kinsman \u02bc, "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "\u00f1\u0101ti",
+      "\u00f1\u0101tika"
+    ],
+    "ref": "gir. <i>\u00f1\u0101ti</i> -- , <i>\u00f1\u0101tika</i> -- , "
+  },
+  {
+    "lang": "Girn\u0101r Rock Inscription of A\u015boka",
+    "words": [
+      "\u00f1\u0101ti",
+      "\u00f1\u0101tika"
+    ],
+    "ref": "gir. <i>\u00f1\u0101ti</i> -- , <i>\u00f1\u0101tika</i> -- , "
+  },
+  {
+    "lang": "K\u0101ls\u012b Rock Inscription of A\u015boka",
+    "words": [
+      "n\u0101ti",
+      "n\u0101tikye"
+    ],
+    "ref": "k\u0101l. <i>n\u0101ti</i> -- , <i>n\u0101tikye</i> nom. sg., "
+  },
+  {
+    "lang": "Sh\u0101hb\u0101zga\u1e5bh\u012b Rock Inscription of A\u015boka",
+    "words": [
+      "\u00f1atika"
+    ],
+    "ref": "shah. <i>\u00f1atika</i>, "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "\u00f1ati"
+    ],
+    "ref": "NiDoc. <i>\u00f1ati</i>, "
+  },
+  {
+    "lang": "MIA. forms occurring in Corpus Inscriptionum Indicarum Vol. II Pt. 1",
+    "words": [
+      "\u00f1ati",
+      "\u00f1atiga",
+      "nadiga"
+    ],
+    "ref": "KharI. <i>\u00f1ati</i>, <i>\u00f1atiga</i>, <i>nadiga</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "\u1e47\u0101i"
+    ],
+    "ref": "Pk. <i>\u1e47\u0101i</i> -- f.; "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "i\u017en\u0101ri",
+      "j\u00f1\u0101tika"
+    ],
+    "ref": "Kho. <i>i\u017en\u0101ri</i> \u02bb sort \u02bc (&lt; *<i>j\u00f1\u0101tika</i> -- BelvalkarVol 87); O"
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "n\u0101\u0324"
+    ],
+    "ref": "Si. <i>n\u0101\u0324</i> \u02bb related \u02bc, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "n\u0101\u0324y\u0101",
+      "n\u0101\u0324n\u0101"
+    ],
+    "ref": "Si. <i>n\u0101\u0324y\u0101</i> \u02bb relative \u02bc, <i>n\u0101\u0324n\u0101</i> \u02bb female cousin \u02bc."
+  }
+]

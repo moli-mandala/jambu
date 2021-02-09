@@ -1,0 +1,620 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "m\u00e1dhya",
+    "ref": "<html><body><number>9804</number> <b>m\u00e1dhya</b> \u02bb middle \u02bc, n. \u02bb the middle \u02bc RV., \u02bb waist \u02bc \u015aBr. Equivalent to postpositions with genitive: <i>madhyam</i> \u02bb among \u02bc MBh., <i>m\u00e1dhy\u0113na</i> \u02bb between \u02bc \u015aBr., <i>madhy\u0101t</i> \u02bb from \u02bc R., <i>madhy\u0113</i> \u02bb in, among \u02bc Mn."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "majjha",
+      "majjhaka"
+    ],
+    "ref": "Pa. <i>majjha</i> -- \u02bb middle \u02bc, n. \u02bb the middle \u02bc, in cmpd. -- <i>majjhaka</i> -- \u02bb being in the middle \u02bc, "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "majha"
+    ],
+    "ref": "dh. <i>majha</i> -- , "
+  },
+  {
+    "lang": "Dhauli Rock Inscription of A\u015boka",
+    "words": [
+      "majha"
+    ],
+    "ref": "dh. <i>majha</i> -- , "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "majjha"
+    ],
+    "ref": "Pk. <i>majjha</i> -- adj. and n.; "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "ma\u0161k\u0259r"
+    ],
+    "ref": "germ. <i>ma\u0161k\u0259r</i>, "
+  },
+  {
+    "lang": "German dialect of European Gypsy",
+    "words": [
+      "ma\u0161k\u0259r"
+    ],
+    "ref": "germ. <i>ma\u0161k\u0259r</i>, "
+  },
+  {
+    "lang": "Rumanian dialect of European Gypsy",
+    "words": [
+      "ma\u0161k\u00e1r"
+    ],
+    "ref": "rum. <i>ma\u0161k\u00e1r</i>, "
+  },
+  {
+    "lang": "Greek dialect of European Gypsy",
+    "words": [
+      "maskar\u00e9"
+    ],
+    "ref": "gr. <i>maskar\u00e9</i>, "
+  },
+  {
+    "lang": "Welsh dialect of European Gypsy",
+    "words": [
+      "maskal"
+    ],
+    "ref": "wel. <i>maskal</i> \u02bb in, between \u02bc (+?), "
+  },
+  {
+    "lang": "Armenian dialect of Gypsy",
+    "words": [
+      "man\u01f0"
+    ],
+    "ref": "arm. <i>man\u01f0</i> \u02bb middle, waist \u02bc, "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "m\u0103n\u01f0",
+      "m\u0103\u01f0 -- b\u00e1ni"
+    ],
+    "ref": "pal. <i>m\u0103n\u01f0</i> \u02bb middle, loins \u02bc, <i>m\u0103\u01f0 -- b\u00e1ni</i> \u02bb girdle \u02bc; "
+  },
+  {
+    "lang": "Ashkun (A\u1e63ku\u0304\u0303 \u2014 Kaf.)",
+    "words": [
+      "m\u00e4z",
+      "m\u0259z",
+      "m",
+      "zi"
+    ],
+    "ref": "Ash. <i>m\u00e4z</i>, <i>m\u0259z</i> \u02bb the middle \u02bc, <i>m</i><at>*l</at><i>zi</i> adj., "
+  },
+  {
+    "lang": "Waigal\u012b or Wai-al\u0101 (Kaf.)",
+    "words": [
+      "man\u01f0"
+    ],
+    "ref": "Wg. <i>man\u01f0</i> (in &amp;eacutedotdot \u02bb middle finger \u02bc), "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "mi\u01f0"
+    ],
+    "ref": "Kt. <i>mi\u01f0</i>, "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "mun\u01f0"
+    ],
+    "ref": "Pr. <i>mun\u01f0</i>; "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "manz"
+    ],
+    "ref": "Tir. <i>manz</i> \u02bb waist \u02bc (or \u2190 "
+  },
+  {
+    "lang": "Pashto (Iranian)",
+    "words": [
+      "man\u01f0\u0101\u0301"
+    ],
+    "ref": "lau\u1e5b. <i>man\u01f0\u0101\u0301</i> \u02bb between \u02bc, "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "man\u01f0\u0101\u0301"
+    ],
+    "ref": "lau\u1e5b. <i>man\u01f0\u0101\u0301</i> \u02bb between \u02bc, "
+  },
+  {
+    "lang": "Lau\u1e5bow\u0101n\u012b dialect of Pashai",
+    "words": [
+      "man\u01f0\u0101\u0301"
+    ],
+    "ref": "lau\u1e5b. <i>man\u01f0\u0101\u0301</i> \u02bb between \u02bc, "
+  },
+  {
+    "lang": "Areti dialect of Pashai",
+    "words": [
+      "main\u017e",
+      "\u00e4\u1e45gu\u1e5b",
+      "m\u00e4\u0301in\u01f0ea",
+      "m\u00e4ya"
+    ],
+    "ref": "ar. <i>main\u017e</i> f. adj. (with <i>\u00e4\u1e45gu\u1e5b</i> \u02bb finger \u02bc), <i>m\u00e4\u0301in\u01f0ea</i>, <i>m\u00e4ya</i> \u02bb space between thumb and forefinger \u02bc; "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "m\u00e3\u0304z -- ge"
+    ],
+    "ref": "Shum. <i>m\u00e3\u0304z -- ge</i> \u02bb into \u02bc; "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "manz",
+      "manza"
+    ],
+    "ref": "Gaw. <i>manz</i> \u02bb middle (finger) \u02bc, <i>manza</i> \u02bb with \u02bc; "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "mo\u0304\u0303\u010dai",
+      "\u010d",
+      "\u010d",
+      "\u01f0"
+    ],
+    "ref": "Kal. <i>mo\u0304\u0303\u010dai</i> \u02bb in the middle \u02bc (with -- <i>\u010d</i> -- from final -- <i>\u010d</i> &lt; -- <i>\u01f0</i>?); "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "mu\u017e",
+      "mu\u017e",
+      "n",
+      "mu\u017ear",
+      "mu\u017ei",
+      "u",
+      "o",
+      "meh",
+      "madhiya",
+      "mehi"
+    ],
+    "ref": "Kho. <i>mu\u017e</i> \u02bb middle \u02bc, <i>mu\u017e</i><at>e</at><i>n</i> \u02bb through \u02bc, <i>mu\u017ear</i> \u02bb from in \u02bc, <i>mu\u017ei</i> \u02bb in the middle \u02bc (with <i>u</i> &lt; normal <i>o</i>), <i>meh</i> \u02bb waist \u02bc (&lt; *<i>madhiya</i> -- ? -- But why not *<i>mehi</i>? BelvalkarVol 93); "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "maz"
+    ],
+    "ref": "Mai. <i>maz</i> \u02bb in \u02bc; "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "mi\u0113n\u01f0",
+      "m",
+      "\u01f0\u012b"
+    ],
+    "ref": "Phal. <i>mi\u0113n\u01f0</i>, <i>m</i><at>e_</at><i>\u01f0\u012b</i> f. adj. \u02bb middle (finger) \u02bc; "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "m\u0103\u017e\u0101",
+      "m\u0103\u017e\u012bn\u016d"
+    ],
+    "ref": "gur. <i>m\u0103\u017e\u0101</i> \u02bb in, among, between \u02bc, <i>m\u0103\u017e\u012bn\u016d</i> adj. \u02bb middle \u02bc; "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "m\u0103\u017e\u0101",
+      "m\u0103\u017e\u012bn\u016d"
+    ],
+    "ref": "gur. <i>m\u0103\u017e\u0101</i> \u02bb in, among, between \u02bc, <i>m\u0103\u017e\u012bn\u016d</i> adj. \u02bb middle \u02bc; "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "m\u0103\u017e\u0101",
+      "m\u0103\u017e\u012bn\u016d"
+    ],
+    "ref": "gur. <i>m\u0103\u017e\u0101</i> \u02bb in, among, between \u02bc, <i>m\u0103\u017e\u012bn\u016d</i> adj. \u02bb middle \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "manz",
+      "manza",
+      "ma\u0307nzi"
+    ],
+    "ref": "K. <i>manz</i> m. \u02bb middle \u02bc, <i>manza</i> \u02bb from in \u02bc, <i>ma\u0307nz<superscript>i</superscript></i> \u02bb between \u02bc, "
+  },
+  {
+    "lang": "P\u01d2gul\u012b dialect of Kashmiri",
+    "words": [
+      "manz"
+    ],
+    "ref": "kash. <i>manz</i> \u02bb in \u02bc; "
+  },
+  {
+    "lang": "or ki\u015b. Kash\u1e6daw\u0101\u1e5b\u012b dialect of Kashmiri",
+    "words": [
+      "manz"
+    ],
+    "ref": "kash. <i>manz</i> \u02bb in \u02bc; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "ma\u00f1jhu",
+      "\u02dajh\u00e3\u0304",
+      "\u02dajhi"
+    ],
+    "ref": "S. <i>ma\u00f1jhu</i> m. \u02bb the inside, a secret \u02bc, <i>\u02dajh\u00e3\u0304</i> \u02bb out of \u02bc, <i>\u02dajhi</i> \u02bb in, into \u02bc; "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "majjh",
+      "ma\u00f1jh"
+    ],
+    "ref": "L. <i>majjh</i> m. \u02bb waist \u02bc, (Ju.) <i>ma\u00f1jh</i> f. \u02bb lower part from waist down \u02bc, "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "majh"
+    ],
+    "ref": "aw\u0101\u1e47. <i>majh</i> \u02bb waist \u02bc; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "maj\u0308\u0101"
+    ],
+    "ref": "\u1e0dog. <i>maj\u0308\u0101</i> \u02bb from the middle \u02bc; "
+  },
+  {
+    "lang": "\u1e0cogr\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "maj\u0308\u0101"
+    ],
+    "ref": "\u1e0dog. <i>maj\u0308\u0101</i> \u02bb from the middle \u02bc; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "m\u00e0j\u0308j\u0308"
+    ],
+    "ref": "bhad. <i>m\u00e0j\u0308j\u0308</i> n. \u02bb girdle \u02bc, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "m\u00e0j\u0308j\u0308"
+    ],
+    "ref": "bhad. <i>m\u00e0j\u0308j\u0308</i> n. \u02bb girdle \u02bc, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "m\u00e0j\u0308",
+      "maj\u0308"
+    ],
+    "ref": "bhal. <i>m\u00e0j\u0308</i> n., <i>maj\u0308</i> \u02bb in \u02bc, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "majh"
+    ],
+    "ref": "cur. <i>majh</i>; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "m\u0101jh",
+      "m\u0101jhi"
+    ],
+    "ref": "N. <i>m\u0101jh</i> \u02bb the middle \u02bc, <i>m\u0101jhi</i> f. adj. \u02bb middle (finger) \u02bc; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "m\u0101z",
+      "m\u0101ze"
+    ],
+    "ref": "A. <i>m\u0101z</i> \u02bb the middle \u02bc, <i>m\u0101ze</i> \u02bb through \u02bc; "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "m\u0101j",
+      "h",
+      "m\u0101jh\u0101"
+    ],
+    "ref": "B. <i>m\u0101j</i>(<i>h</i>) \u02bb middle \u02bc, <i>m\u0101jh\u0101</i> \u02bb waist \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "m\u0101jha"
+    ],
+    "ref": "Or. <i>m\u0101jha</i> \u02bb the middle, waist, inside \u02bc, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "m\u00e3\u0304jh"
+    ],
+    "ref": "Bhoj. <i>m\u00e3\u0304jh</i>; O"
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "m\u00e3\u0304jh"
+    ],
+    "ref": "Bhoj. <i>m\u00e3\u0304jh</i>; O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "m\u0101\u1e41jha"
+    ],
+    "ref": "Aw. <i>m\u0101\u1e41jha</i> m. \u02bb middle \u02bc, postp. \u02bb among \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "m\u00e3\u0304jh",
+      "m\u00e3\u0304jh\u0101"
+    ],
+    "ref": "H. <i>m\u00e3\u0304jh</i> adj. and m. \u02bb middle \u02bc, <i>m\u00e3\u0304jh\u0101</i> m. \u02bb girth, trunk of tree \u02bc; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "m\u0101j\u0308",
+      "m\u0101j\u012b\u02dc"
+    ],
+    "ref": "M. <i>m\u0101j\u0308</i> m. \u02bb middle \u02bc, <i>m\u0101j\u012b\u02dc</i> \u02bb among \u02bc; O"
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "made",
+      "m\u00e4da"
+    ],
+    "ref": "Si. (Br\u0101hm\u012b inscr.) <i>made</i>, <i>m\u00e4da</i> adj. and sb. \u02bb middle \u02bc, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "m\u00e4dda",
+      "m\u00e4di"
+    ],
+    "ref": "Si. <i>m\u00e4dda</i>, st. <i>m\u00e4di</i> -- sb., "
+  },
+  {
+    "lang": "or mald. Maldivian dialect of Sinhalese",
+    "words": [
+      "medu",
+      "ll"
+    ],
+    "ref": "Md. <i>medu</i> adj. -- Ext. -- <i>ll</i> -- : "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "majjhilla",
+      "i",
+      "majjhima"
+    ],
+    "ref": "Pk. <i>majjhilla</i> -- adj. (with <i>i</i> from <i>majjhima</i>&lt;-&gt; s.v. <smallcaps>madhyam\u00e1</smallcaps> -- ); "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "majjhl\u0101"
+    ],
+    "ref": "L. <i>majjhl\u0101</i>, "
+  },
+  {
+    "lang": "Mult\u0101n\u012b dialect of Lahnd\u0101",
+    "words": [
+      "ma\u00f1jhl\u0101"
+    ],
+    "ref": "mult. <i>ma\u00f1jhl\u0101</i> m. \u02bb waistcloth \u02bc, adj. \u02bb belonging to the middle \u02bc; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "majhl\u0101"
+    ],
+    "ref": "P. <i>majhl\u0101</i> \u02bb middle, intermediate \u02bc, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "m\u0101jhilo"
+    ],
+    "ref": "N. <i>m\u0101jhilo</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "m\u0101jhil",
+      "\u02dal\u0101"
+    ],
+    "ref": "Mth. <i>m\u0101jhil</i>, <i>\u02dal\u0101</i>, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "m\u0101jhil"
+    ],
+    "ref": "Bhoj. <i>m\u0101jhil</i>; "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "m\u00e3\u0304jhil"
+    ],
+    "ref": "lakh. <i>m\u00e3\u0304jhil</i> \u02bb the second son \u02bc; "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "m\u00e3\u0304jhil"
+    ],
+    "ref": "lakh. <i>m\u00e3\u0304jhil</i> \u02bb the second son \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "majh",
+      "i",
+      "l\u0101"
+    ],
+    "ref": "H. <i>majh</i>(<i>i</i>)<i>l\u0101</i> \u02bb midmost \u02bc. -- Abnormal loss of occlusion (through association with similar forms of postpositions? -- see below): "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "m\u0101\u0129lo"
+    ],
+    "ref": "N. <i>m\u0101\u0129lo</i> adj. \u02bb middle (finger) \u02bc, sb. \u02bb second eldest brother \u02bc; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "m\u0101yl\u0254",
+      "m\u0101yru\u0303"
+    ],
+    "ref": "G. <i>m\u0101yl\u0254</i> \u02bb internal \u02bc, <i>m\u0101yru\u0303</i> n. \u02bb ceremony of marriage performed in an inner room \u02bc; -- in postpositions: "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "ma"
+    ],
+    "ref": "Tir. <i>ma</i> \u02bb from \u02bc; "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "m\u1ebd"
+    ],
+    "ref": "Bshk. <i>m\u1ebd</i> \u02bb in \u02bc, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "me",
+      "m\u012d\u0304",
+      "mo"
+    ],
+    "ref": "Tor. <i>me</i>, <i>m\u012d\u0304</i>, <i>mo</i>; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "m\u00e3\u0304",
+      "m\u00e3\u0304h\u012b\u02dc"
+    ],
+    "ref": "S. <i>m\u00e3\u0304</i>, <i>m\u00e3\u0304h\u012b\u02dc</i> \u02bb out of \u02bc; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "m\u00e3\u0304"
+    ],
+    "ref": "bhad. <i>m\u00e3\u0304</i> \u02bb in \u02bc; "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "m\u00e3\u0304"
+    ],
+    "ref": "bhad. <i>m\u00e3\u0304</i> \u02bb in \u02bc; "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "mu",
+      "mai"
+    ],
+    "ref": "Ku. <i>mu</i> \u02bb in \u02bc, <i>mai</i> \u02bb with, in \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "m\u00e3\u0304"
+    ],
+    "ref": "N. <i>m\u00e3\u0304</i> \u02bb in \u02bc, E"
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "mi"
+    ],
+    "ref": "B. <i>mi</i> ODBL 751, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "m\u00e3\u0304",
+      "h",
+      "ma\u0303",
+      "h"
+    ],
+    "ref": "Mth. <i>m\u00e3\u0304</i>(<i>h</i>), <i>ma\u0303</i>(<i>h</i>), O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "m\u0101\u1e41ha",
+      "maha\u1e41",
+      "ma\u0304\u0306hi\u1e41"
+    ],
+    "ref": "Aw. <i>m\u0101\u1e41ha</i>, <i>maha\u1e41</i>, <i>ma\u0304\u0306hi\u1e41</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "m\u1ebd"
+    ],
+    "ref": "H. <i>m\u1ebd</i>; O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "m\u0101h\u012b",
+      "m\u0101h\u016b"
+    ],
+    "ref": "Marw. <i>m\u0101h\u012b</i> \u02bb in, into \u02bc, <i>m\u0101h\u016b</i> \u02bb through \u02bc; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "m\u00e3\u0304h",
+      "mahi",
+      "m\u00e3\u0304h\u012b",
+      "m\u00e3\u0304"
+    ],
+    "ref": "G. <i>m\u00e3\u0304h</i><at>e_</at>, <i>mahi</i>, <i>m\u00e3\u0304h\u012b</i>, <i>m\u00e3\u0304</i> \u02bb in \u02bc. -- X <smallcaps>\u015blak\u1e63\u1e47\u00e1</smallcaps> -- q.v."
+  }
+]

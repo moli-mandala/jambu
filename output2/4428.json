@@ -1,0 +1,268 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "ghara -- ,",
+    "ref": "<html><body><number>4428</number> <b>ghara -- ,</b> <i>\u02daaka</i> -- n. \u02bb house \u02bc BHS ii 220. [Derivation fr. IE. *<i>g<superscript>w</superscript>horo</i> -- (BSOS iii 401) very unlikely EWA i 357: on the other hand gen. accepted deriv. as popular form (already in canonical Pa., as in A\u015b., ~ <i>gaha</i> -- ) &lt; <smallcaps>gr\u0325h\u00e1</smallcaps>&lt;-&gt; which it largely replaces in NIA., is phonet. difficult]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "ghara",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>ghara</i> -- , <i>\u02daaka</i> -- n. \u02bb house \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ghara",
+      "\u02daaga"
+    ],
+    "ref": "Pk. <i>ghara</i> -- , <i>\u02daaga</i> -- n., "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "ghar"
+    ],
+    "ref": "as. (Balu\u010di) <i>ghar</i>, "
+  },
+  {
+    "lang": "Asiatic dialects of Gypsy",
+    "words": [
+      "ghar"
+    ],
+    "ref": "as. (Balu\u010di) <i>ghar</i>, "
+  },
+  {
+    "lang": "Armenian dialect of Gypsy",
+    "words": [
+      "khar"
+    ],
+    "ref": "arm. <i>khar</i>, "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "kher"
+    ],
+    "ref": "eur. <i>kher</i>, "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "g\u014dr",
+      "g",
+      "r",
+      "s"
+    ],
+    "ref": "\u1e0c. <i>g\u014dr</i>, obl. <i>g</i><at>*l</at><i>r</i><at>*l</at><i>s</i> m., "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "gara"
+    ],
+    "ref": "K. <i>gara</i> m., "
+  },
+  {
+    "lang": "R\u0101mban\u012b dialect of Kashmiri in Jammu",
+    "words": [
+      "ghar"
+    ],
+    "ref": "r\u0101m. <i>ghar</i>, "
+  },
+  {
+    "lang": "P\u01d2gul\u012b dialect of Kashmiri",
+    "words": [
+      "gar"
+    ],
+    "ref": "pog. <i>gar</i>, "
+  },
+  {
+    "lang": "or ki\u015b. Kash\u1e6daw\u0101\u1e5b\u012b dialect of Kashmiri",
+    "words": [
+      "ghar\u014d"
+    ],
+    "ref": "kash. <i>ghar\u014d</i>, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "gharu"
+    ],
+    "ref": "S. <i>gharu</i> m., "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "ghar"
+    ],
+    "ref": "P. <i>ghar</i> m., "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "ghar"
+    ],
+    "ref": "P. <i>ghar</i> m., "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "ghar"
+    ],
+    "ref": "kha\u015b. <i>ghar</i> n., "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "ghar"
+    ],
+    "ref": "kha\u015b. <i>ghar</i> n., "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "ghar"
+    ],
+    "ref": "kha\u015b. <i>ghar</i> n., "
+  },
+  {
+    "lang": "Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "ghar"
+    ],
+    "ref": "kha\u015b. <i>ghar</i> n., "
+  },
+  {
+    "lang": "\u015aeu\u1e6d\u012b sub-dialect of Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "k",
+      "r"
+    ],
+    "ref": "\u015beu. <i>k</i><at>*l/</at><i>r</i> n., "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "ghar;"
+    ],
+    "ref": "B. <i>ghar;</i> "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "ghar;"
+    ],
+    "ref": "B. <i>ghar;</i> "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "ghar;"
+    ],
+    "ref": "B. <i>ghar;</i> "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "ghar;"
+    ],
+    "ref": "B. <i>ghar;</i> "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "ghar\u0101"
+    ],
+    "ref": "B. <i>ghar\u0101</i> \u02bb cell, drawer \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "ghara",
+      "\u02dar\u0101"
+    ],
+    "ref": "Or. <i>ghara</i> \u02bb house \u02bc, <i>\u02dar\u0101</i> \u02bb niche, groove \u02bc; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "ghar",
+      "\u02dar\u0101"
+    ],
+    "ref": "Bi. <i>ghar</i>, <i>\u02dar\u0101</i> \u02bb house \u02bc, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "ghaur",
+      "gharo"
+    ],
+    "ref": "Mth. (SETirhut) <i>ghaur</i>, (SBhagalpur) <i>gharo</i>, "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "ghar"
+    ],
+    "ref": "Marw. <i>ghar</i> m., "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "ghar"
+    ],
+    "ref": "Marw. <i>ghar</i> m., "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "ghar"
+    ],
+    "ref": "Marw. <i>ghar</i> m., "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "ghar"
+    ],
+    "ref": "Marw. <i>ghar</i> m., "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "ghar"
+    ],
+    "ref": "M. <i>ghar</i> n., "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "ghar"
+    ],
+    "ref": "M. <i>ghar</i> n., "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "ghar\u0101"
+    ],
+    "ref": "M. <i>ghar\u0101</i> m. \u02bb little hole or cavity \u02bc; "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "ghara"
+    ],
+    "ref": "Ko. <i>ghara</i> n. \u02bb house \u02bc, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "gara."
+    ],
+    "ref": "Si. <i>gara.</i>"
+  }
+]

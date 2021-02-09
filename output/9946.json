@@ -1,0 +1,38 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["mah\u0101\u02cant"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>9946</number> <b>mah\u0101\u02cant</b> \u02bb great \u02bc RV. [<smallcaps>mah</smallcaps> -- ]"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "maha\u1e41ta"
+    ],
+    "ref": "Pk. <i>maha\u1e41ta</i> -- ; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "maha\u0304\u0306nd\u012b"
+    ],
+    "ref": "S. <i>maha\u0304\u0306nd\u012b</i> f. \u02bb husband's sister \u02bc; "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "mahatiy\u0101"
+    ],
+    "ref": "Aw. <i>mahatiy\u0101</i> \u02bb headman \u02bc BRS 109; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "mah",
+      "t\u0254",
+      "m",
+      "ht\u0254"
+    ],
+    "ref": "G. <i>mah</i><at>e</at><i>t\u0254</i>, <i>m</i><at>e</at><i>ht\u0254</i> m. \u02bb schoolmaster, clerk \u02bc."
+  }
+]

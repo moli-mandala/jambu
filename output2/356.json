@@ -1,0 +1,91 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "ant\u00e1r",
+    "ref": "<html><body><number>356</number> <b>ant\u00e1r</b> \u02bb inside \u02bc RV."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "ant\u014d",
+      "ant\u0113"
+    ],
+    "ref": "Pa. <i>ant\u014d</i>, <i>ant\u0113</i> -- in cmpds., "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "a\u1e41t\u0113"
+    ],
+    "ref": "jau. <i>a\u1e41t\u0113</i>, "
+  },
+  {
+    "lang": "Dhauli Rock Inscription of A\u015boka",
+    "words": [
+      "a\u1e41t\u0113"
+    ],
+    "ref": "jau. <i>a\u1e41t\u0113</i>, "
+  },
+  {
+    "lang": "Jauga\u1e0da Rock Inscription of A\u015boka",
+    "words": [
+      "a\u1e41t\u0113"
+    ],
+    "ref": "jau. <i>a\u1e41t\u0113</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "a\u1e41t\u014d",
+      "\u02data"
+    ],
+    "ref": "Pk. <i>a\u1e41t\u014d</i>, <i>\u02data</i>; "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "atu",
+      "tu"
+    ],
+    "ref": "Kt. <i>atu</i>, <i>tu</i> \u02bb in, into \u02bc, "
+  },
+  {
+    "lang": "Prasun (Kaf.)",
+    "words": [
+      "tu",
+      "ti"
+    ],
+    "ref": "Pr. <i>tu</i> -- , <i>ti</i> -- Morgenstierne NTS <smallcaps>xv</smallcaps> 272; "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "\u0101n",
+      "a\u0304\u0306ntra"
+    ],
+    "ref": "Dm. <i>\u0101n</i> \u02bb inside \u02bc (NTS xii 154 &lt; <i>a\u0304\u0306ntra</i> -- ); "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "andu -- b\u00e1ha"
+    ],
+    "ref": "Pa\u0161. <i>andu -- b\u00e1ha</i> \u02bb indoors \u02bc; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "\u00e3\u0304te -- \u00e3\u0304te"
+    ],
+    "ref": "A. <i>\u00e3\u0304te -- \u00e3\u0304te</i> \u02bb secretly \u02bc; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "\u00e3\u0304t",
+      "\u00e3\u0304t\u012bl",
+      "\u00e3\u0304tl\u0101"
+    ],
+    "ref": "M. <i>\u00e3\u0304t</i> adv. and postp. \u02bb inside, in \u02bc, deriv. <i>\u00e3\u0304t\u012bl</i>, <i>\u00e3\u0304tl\u0101</i> \u02bb interior \u02bc."
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "ardh\u00e1",
+    "ref": "<html><body><number>644</number> <b>ardh\u00e1</b><superscript>2</superscript> \u02bb half \u02bc, m.n. \u02bb a half \u02bc RV. [Same as <smallcaps>\u00e1rdha</smallcaps> -- <superscript>1</superscript>?]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "a\u1e0d\u1e0dha",
+      "\u02daaka",
+      "addha"
+    ],
+    "ref": "Pa. <i>a\u1e0d\u1e0dha</i> -- , <i>\u02daaka</i> -- , <i>addha</i> -- m.n., "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "a\u1e0dha"
+    ],
+    "ref": "A\u015b. <i>a\u1e0dha</i> -- , "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "ardha",
+      "a\u1e0dha",
+      "adha"
+    ],
+    "ref": "NiDoc. <i>ardha</i>, <i>a\u1e0dha</i>, <i>adha</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "a\u1e0d\u1e0dha",
+      "addha"
+    ],
+    "ref": "Pk. <i>a\u1e0d\u1e0dha</i> -- , <i>addha</i> -- ; "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "a\u1e0d\u1e0da"
+    ],
+    "ref": "Tir. <i>a\u1e0d\u1e0da</i> \u02bb halffull \u02bc, "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "a\u1e0d\u1e0d",
+      "h",
+      "\u0101\u0301"
+    ],
+    "ref": "Pa\u0161. <i>a\u1e0d\u1e0d</i>(<i>h</i>)<i>\u0101\u0301</i>, "
+  },
+  {
+    "lang": "Areti dialect of Pashai",
+    "words": [
+      "a\u1e5b\u00f3"
+    ],
+    "ref": "ar. <i>a\u1e5b\u00f3</i> (\u2192 "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "\u00e1\u1e5ba"
+    ],
+    "ref": "Shum. <i>\u00e1\u1e5ba</i> NTS xiii 243); "
+  },
+  {
+    "lang": "Gawar-Bati (Dard.)",
+    "words": [
+      "adhe"
+    ],
+    "ref": "Gaw. (Biddulph) <i>adhe</i> \u02bb half \u02bc; "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "adhe",
+      "\u0101\u0301dhek"
+    ],
+    "ref": "Kal. <i>adhe</i> \u02bb half \u02bc, <i>\u0101\u0301dhek</i> \u02bb small \u02bc; "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "a\u1e5b"
+    ],
+    "ref": "Bshk. '<i>a\u1e5b</i> \u02bb half -- full \u02bc; "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "ar"
+    ],
+    "ref": "Tor. <i>ar</i> \u02bb half \u02bc; "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "a\u1e5b -- d\u012b"
+    ],
+    "ref": "Mai. <i>a\u1e5b -- d\u012b</i> \u02bb noon \u02bc, "
+  },
+  {
+    "lang": "Kanyaw\u0101l\u012b dialect of Maiy\u00e3\u0304",
+    "words": [
+      "a\u1e5bh\u012b",
+      "ardhik\u0101"
+    ],
+    "ref": "ky. <i>a\u1e5bh\u012b</i> \u02bb half \u02bc &lt; *<i>ardhik\u0101</i> -- Buddruss Kan 43; "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "\u0101\u0301\u1e0du"
+    ],
+    "ref": "Phal. <i>\u0101\u0301\u1e0du</i> \u02bb half -- full \u02bc; "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "a\u1e0d",
+      "o\u1e0du"
+    ],
+    "ref": "K. <i>a\u1e0d</i> m. \u02bb half \u02bc, <i>o\u1e0d<superscript>u</superscript></i> adj., "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "adhu"
+    ],
+    "ref": "S. <i>adhu</i> m. and adj., "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "addh",
+      "addh\u0101"
+    ],
+    "ref": "L. <i>addh</i> m., <i>addh\u0101</i> adj., "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "addh",
+      "addh\u0101"
+    ],
+    "ref": "P. <i>addh</i>, <i>addh\u0101</i> both m. and adj., "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "addh\u016b"
+    ],
+    "ref": "bhad. <i>addh\u016b</i>, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "addh\u016b"
+    ],
+    "ref": "bhad. <i>addh\u016b</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "\u00e0ddo",
+      "\u02dadu"
+    ],
+    "ref": "bhal. <i>\u00e0ddo</i>, n. <i>\u02dadu</i>, "
+  },
+  {
+    "lang": "Cur\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "addh\u0101"
+    ],
+    "ref": "cam. <i>addh\u0101</i>, "
+  },
+  {
+    "lang": "Came\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "addh\u0101"
+    ],
+    "ref": "cam. <i>addh\u0101</i>, "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "\u0101d",
+      "\u0101dho"
+    ],
+    "ref": "Ku. <i>\u0101d</i> m., <i>\u0101dho</i> adj.; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "\u0101dh\u0101"
+    ],
+    "ref": "A. <i>\u0101dh\u0101</i> subst. and adj., "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "\u0101dh\u0101"
+    ],
+    "ref": "A. <i>\u0101dh\u0101</i> subst. and adj., "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "\u0101dh",
+      "\u0101d",
+      "\u0101dh\u0101"
+    ],
+    "ref": "B. <i>\u0101dh</i>, <i>\u0101d</i>, <i>\u0101dh\u0101</i>; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "\u0101\u1e5ba",
+      "adha\u0304\u0306"
+    ],
+    "ref": "Or. <i>\u0101\u1e5ba</i> \u02bb half, slightly \u02bc (<i>adha\u0304\u0306</i> subst. and adj. \u2190 "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "\u0101dh\u0101"
+    ],
+    "ref": "Bi. <i>\u0101dh\u0101</i>, "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "\u0101dh\u0101"
+    ],
+    "ref": "Bi. <i>\u0101dh\u0101</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "\u0101dh"
+    ],
+    "ref": "Mth. <i>\u0101dh</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "\u0101dh\u0101"
+    ],
+    "ref": "H. <i>\u0101dh\u0101</i>, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "\u0101dh\u0101"
+    ],
+    "ref": "H. <i>\u0101dh\u0101</i>, "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "\u0101dh\u0101"
+    ],
+    "ref": "H. <i>\u0101dh\u0101</i>, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "\u0101dh\u0101"
+    ],
+    "ref": "H. <i>\u0101dh\u0101</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "\u0101dh\u0101"
+    ],
+    "ref": "H. <i>\u0101dh\u0101</i>, "
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "\u0101dho"
+    ],
+    "ref": "Marw. <i>\u0101dho</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "\u0101dh\u0101"
+    ],
+    "ref": "M. <i>\u0101dh\u0101</i>, "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "\u0101do;"
+    ],
+    "ref": "Ko. <i>\u0101do;</i> "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "a\u1e0da",
+      "a\u1e0du"
+    ],
+    "ref": "Si. <i>a\u1e0da</i> \u02bb half \u02bc, <i>a\u1e0du</i> \u02bb wanting, imperfect \u02bc; -- in mod. cmpds. "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "ad"
+    ],
+    "ref": "Ku. <i>ad</i> -- , "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "adh"
+    ],
+    "ref": "N. <i>adh</i> -- , "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "\u0101d"
+    ],
+    "ref": "A. <i>\u0101d</i> -- , "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "\u0101\u1e5b"
+    ],
+    "ref": "B. <i>\u0101\u1e5b</i> -- Chatterji ODBL 500, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "adha"
+    ],
+    "ref": "Or. <i>adha</i> -- , "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "a\u0304\u0306dh",
+      "a\u0304\u0306d",
+      "a\u1e5b",
+      "a\u1e5bk\u0101",
+      "a\u1e5baruk\u0101"
+    ],
+    "ref": "H. <i>a\u0304\u0306dh</i> -- , <i>a\u0304\u0306d</i> -- , <i>a\u1e5b</i> -- (in <i>a\u1e5bk\u0101</i> \u02bb one half ruk\u0101 \u02bc &lt; *<i>a\u1e5baruk\u0101</i>), "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "adh",
+      "ad"
+    ],
+    "ref": "G. <i>adh</i> -- , <i>ad</i> -- ; "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "ad",
+      "\u0101\u1e0d",
+      "a\u1e0d"
+    ],
+    "ref": "M. <i>ad</i> -- , <i>\u0101\u1e0d</i> -- , <i>a\u1e0d</i>&lt;-&gt; \u02bb half, small \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "a\u1e0da"
+    ],
+    "ref": "Si. <i>a\u1e0da</i> -- ."
+  }
+]

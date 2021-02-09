@@ -1,0 +1,28 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["v\u00e1r\u0101ka"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>11324</number> <b>v\u00e1r\u0101ka</b> \u02bb wretched \u02bc P\u0101\u1e47., <i>var\u0101kaka</i> -- Pa\u00f1cad."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "var\u0101ka"
+    ],
+    "ref": "Pa. <i>var\u0101ka</i> -- \u02bb wretched \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "vara\u0304\u0306ya"
+    ],
+    "ref": "Pk. <i>vara\u0304\u0306ya</i> -- ; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "bar\u0101"
+    ],
+    "ref": "N. <i>bar\u0101</i> \u02bb poor, wretched \u02bc."
+  }
+]

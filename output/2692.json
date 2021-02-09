@@ -1,0 +1,52 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["katam\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>2692</number> <b>katam\u00e1</b> \u02bb which out of several? \u02bc RV. [<smallcaps>ka</smallcaps> -- <superscript>1</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "katama",
+      "\u02datima"
+    ],
+    "ref": "Pa. <i>katama</i> -- , <i>\u02datima</i> -- , "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "kayama",
+      "ka\u00efma"
+    ],
+    "ref": "Pk. <i>kayama</i> -- , <i>ka\u00efma</i> -- ; "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "kam\u1e17k"
+    ],
+    "ref": "Wo\u1e6d. <i>kam\u1e17k</i> \u02bb which? \u02bc; "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "kam"
+    ],
+    "ref": "Bshk. <i>kam</i> \u02bb who? \u02bc, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "k\u0101m"
+    ],
+    "ref": "Tor. <i>k\u0101m</i> AO xviii 238; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "ka\u0303\u00f5",
+      "k\u00e3\u0304\u00f5"
+    ],
+    "ref": "S. <i>ka\u0303\u00f5</i>, <i>k\u00e3\u0304\u00f5</i>, \u02bb which, of what number? \u02bc</div>"
+  }
+]

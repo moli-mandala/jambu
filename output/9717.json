@@ -1,0 +1,55 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["ma\u00f1ji\u1e63\u1e6dha"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>9717</number> <b>ma\u00f1ji\u1e63\u1e6dha</b> \u02bb bright red \u02bc MBh. [K. <i>m\u00f6nz<superscript>\u00fc</superscript></i> = <i>ma\u00f1ji\u1e63\u1e6dh\u0101</i>- supports this as superlative from <smallcaps>ma\u00f1j\u00fa</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "ma\u00f1je\u1e6d\u1e6dha",
+      "\u02daaka"
+    ],
+    "ref": "Pa. <i>ma\u00f1je\u1e6d\u1e6dha</i> -- , <i>\u02daaka</i> -- \u02bb crimson \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ma\u1e41ji\u1e6d\u1e6dha",
+      "\u02daaa"
+    ],
+    "ref": "Pk. <i>ma\u1e41ji\u1e6d\u1e6dha</i> -- , <i>\u02daaa</i>&lt;-&gt; \u02bb red \u02bc, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "ma\u0303j\u012b\u1e6dh\u0101",
+      "maj\u02da"
+    ],
+    "ref": "P. <i>ma\u0303j\u012b\u1e6dh\u0101</i>, <i>maj\u02da</i>; "
+  },
+  {
+    "lang": "Bih\u0101r\u012b",
+    "words": [
+      "maj\u012b\u1e6dh\u0101",
+      "ma\u0129\u1e6dh\u0101"
+    ],
+    "ref": "Bi. <i>maj\u012b\u1e6dh\u0101</i>, <i>ma\u0129\u1e6dh\u0101</i> \u02bb the duck Nyroca fuligina \u02bc (wrongly given by E. "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "maj\u012b\u1e6d\u0101",
+      "ma\u0129\u1e6d\u0101",
+      "majj"
+    ],
+    "ref": "H. Johnston BSOS viii 600 as <i>maj\u012b\u1e6d\u0101</i>, <i>ma\u0129\u1e6d\u0101</i> and connected with \u221a<i>majj</i>); "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "mada\u1e6da -- van"
+    ],
+    "ref": "Si. <i>mada\u1e6da -- van</i> \u02bb red colour \u02bc."
+  }
+]

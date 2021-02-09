@@ -1,0 +1,383 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["nidr\u0101\u02ca"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>7200</number> <b>nidr\u0101\u02ca</b> f. \u02bb sleep \u02bc RV. [\u221a<smallcaps>drai</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "nidd\u0101"
+    ],
+    "ref": "Pa. <i>nidd\u0101</i> -- f. \u02bb sleep \u02bc, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "\u1e47idd\u0101",
+      "\u1e47edd\u0101"
+    ],
+    "ref": "Pk. <i>\u1e47idd\u0101</i> -- , <i>\u1e47edd\u0101</i> -- f., "
+  },
+  {
+    "lang": "Apabhra\u1e41\u015ba",
+    "words": [
+      "\u1e47i\u1e41da",
+      "\u1e47idda\u1e0d\u012b"
+    ],
+    "ref": "Ap. <i>\u1e47i\u1e41da</i> nom. sg. f., <i>\u1e47idda\u1e0d\u012b</i> -- f., "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "lindr",
+      "\u02dara",
+      "\u02dari"
+    ],
+    "ref": "eur. <i>lindr</i>, <i>\u02dara</i>, <i>\u02dari</i> f., "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "lindr",
+      "\u02dara",
+      "\u02dari"
+    ],
+    "ref": "eur. <i>lindr</i>, <i>\u02dara</i>, <i>\u02dari</i> f., "
+  },
+  {
+    "lang": "Asiatic dialects of Gypsy",
+    "words": [
+      "nendir"
+    ],
+    "ref": "as. <i>nendir</i>, "
+  },
+  {
+    "lang": "Kati or Katei (Kaf.)",
+    "words": [
+      "m\u012bn\u0254"
+    ],
+    "ref": "Kt. <i>m\u012bn\u0254</i>, "
+  },
+  {
+    "lang": "Tir\u0101h\u012b (Dard.)",
+    "words": [
+      "n\u012bndar"
+    ],
+    "ref": "Tir. <i>n\u012bnd<superscript>a</superscript>r</i>, "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "n\u012bn"
+    ],
+    "ref": "Tor. <i>n\u012bn</i> f., "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "n\u012bn"
+    ],
+    "ref": "Tor. <i>n\u012bn</i> f., "
+  },
+  {
+    "lang": "Phal\u016b\u1e5ba (Dard.)",
+    "words": [
+      "n\u012bdr\u0259",
+      "n\u012bndra"
+    ],
+    "ref": "Phal. <i>n\u012bdr\u0259</i>, <i>n\u012bndra</i>, "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "ne\u0306ndar"
+    ],
+    "ref": "K. <i>ne\u0306nd<superscript>a</superscript>r</i> f., "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "ni\u1e47\u1e0dra"
+    ],
+    "ref": "S. <i>ni\u1e47\u1e0dra</i> f., "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "nindr"
+    ],
+    "ref": "L. <i>nindr</i> f., "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "n\u012b\u02dcdur"
+    ],
+    "ref": "aw\u0101\u1e47. <i>n\u012b\u02dcdur</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "n\u012b\u02dcdar",
+      "n\u012b\u02dcd"
+    ],
+    "ref": "P. <i>n\u012b\u02dcdar</i>, <i>n\u012b\u02dcd</i> f., "
+  },
+  {
+    "lang": "\u1e0cogr\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "n\u012b\u02dcd\u0259r\u0259"
+    ],
+    "ref": "\u1e0dog. <i>n\u012b\u02dcd\u0259r<superscript>\u0259</superscript></i> f., "
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "n\u012bn"
+    ],
+    "ref": "Ku. <i>n\u012bn</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "n\u0129d",
+      "nin"
+    ],
+    "ref": "N. <i>n\u0129d</i>, <i>nin</i>, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "nind"
+    ],
+    "ref": "A. <i>nind</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "nid",
+      "n\u012b\u02dcd"
+    ],
+    "ref": "B. <i>nid</i>, <i>n\u012b\u02dcd</i>, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "nida"
+    ],
+    "ref": "Or. <i>nida</i>, "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "n\u012b\u02dcd",
+      "n\u012bn"
+    ],
+    "ref": "Mth. <i>n\u012b\u02dcd</i>, <i>n\u012bn</i>, "
+  },
+  {
+    "lang": "Bhojpur\u012b",
+    "words": [
+      "nini\u00f1\u0101"
+    ],
+    "ref": "Bhoj. <i>nini\u00f1\u0101</i>, "
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "n\u012b\u02dcd"
+    ],
+    "ref": "lakh. <i>n\u012b\u02dcd</i>, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "n\u012b\u02dcd"
+    ],
+    "ref": "lakh. <i>n\u012b\u02dcd</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "n\u012bd",
+      "n\u012b\u02dcd"
+    ],
+    "ref": "H. <i>n\u012bd</i>, <i>n\u012b\u02dcd</i> f., O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "n\u012bda"
+    ],
+    "ref": "Marw. <i>n\u012bda</i> f., "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "n\u012bdar",
+      "nidar\u1e5b\u012b",
+      "n\u012b\u02dcd"
+    ],
+    "ref": "G. <i>n\u012bdar</i>, <i>nidar\u1e5b\u012b</i>, <i>n\u012b\u02dcd</i> f., "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "n\u012bd"
+    ],
+    "ref": "M. <i>n\u012bd</i> f., "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "n\u0129da"
+    ],
+    "ref": "Ko. <i>n\u0129da</i> f., "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "ninda",
+      "nin\u0306di"
+    ],
+    "ref": "Si. <i>ninda</i>, st. <i>nin\u0306di</i> -- . -- "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "ni\u017e",
+      "ni\u1e93",
+      "\u017e",
+      "i"
+    ],
+    "ref": "Mai. <i>ni\u017e</i> \u02bb sleep \u02bc (&lt; *<i>ni\u1e93</i> with <i>\u017e</i> after <i>i</i> Buddruss Kan 12), "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "nir"
+    ],
+    "ref": "gil. <i>nir</i> f. (\u2192 "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "nir"
+    ],
+    "ref": "gil. <i>nir</i> f. (\u2192 "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "ni",
+      "niya"
+    ],
+    "ref": "\u1e0c. <i>ni</i>, <i>niya</i>?), "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "n\u012b\u02dc\u0161"
+    ],
+    "ref": "gur. <i>n\u012b\u02dc\u0161</i> (cf. "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "n\u012b\u02dc\u0161"
+    ],
+    "ref": "gur. <i>n\u012b\u02dc\u0161</i> (cf. "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "ne\u1e63",
+      "ne\u1e93"
+    ],
+    "ref": "pales. <i>ne\u1e63</i> (&lt; *<i>ne\u1e93</i>, phonet. cf. <smallcaps>yantr\u00e1</smallcaps> -- &gt; "
+  },
+  {
+    "lang": "Pales\u012b dialect of Shina",
+    "words": [
+      "ne\u1e63",
+      "ne\u1e93"
+    ],
+    "ref": "pales. <i>ne\u1e63</i> (&lt; *<i>ne\u1e93</i>, phonet. cf. <smallcaps>yantr\u00e1</smallcaps> -- &gt; "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "y\u00f5\u032fr"
+    ],
+    "ref": "gil. <i>y\u00f5\u032fr</i>, "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "y\u00f5\u1e63",
+      "y\u00f5\u1e93"
+    ],
+    "ref": "gur. <i>y\u00f5\u1e63</i>, stem <i>y\u00f5\u1e93</i> -- ). -- But "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "y\u00f5\u1e63",
+      "y\u00f5\u1e93"
+    ],
+    "ref": "gur. <i>y\u00f5\u1e63</i>, stem <i>y\u00f5\u1e93</i> -- ). -- But "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "ni\u017e"
+    ],
+    "ref": "Mai. <i>ni\u017e</i>, "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "n\u012b\u02dc\u0161",
+      "\u0161",
+      "\u017e"
+    ],
+    "ref": "Sh. <i>n\u012b\u02dc\u0161</i> (if with <i>\u0161</i> &lt; final -- <i>\u017e</i>), with "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "n\u012bj"
+    ],
+    "ref": "WPah. (Joshi) <i>n\u012bj</i> f. \u02bb sleep \u02bc, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "n\u012bj\u0308",
+      "nij\u0308\u1e47\u1ebd"
+    ],
+    "ref": "M. <i>n\u012bj\u0308</i> f. (<i>nij\u0308\u1e47\u1ebd</i> \u02bb to sleep \u02bc, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "nijvu\u0303"
+    ],
+    "ref": "G. <i>nijvu\u0303</i>) phonet. might be &lt; <smallcaps>niry\u0101\u0301 -- , niry\u0101ti</smallcaps> or both phonet. and semant. &lt; <smallcaps>n\u00edpadyat\u0113</smallcaps>. -- "
+  },
+  {
+    "lang": "Kashmiri (K\u0101\u015bm\u012br\u012b)",
+    "words": [
+      "ne\u0306h"
+    ],
+    "ref": "K. <i>ne\u0306h</i> f. \u02bb sleep \u02bc \u2190 another "
+  },
+  {
+    "lang": "Dardic",
+    "words": [
+      "ni\u1e63"
+    ],
+    "ref": "Dard. dialect with *<i>ni\u1e63</i> as in "
+  }
+]

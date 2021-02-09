@@ -1,0 +1,65 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["k\u1e63ulla"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>3732</number> <b>k\u1e63ulla</b> \u02bb small \u02bc BhP. [&lt; *<i>k\u1e63udla</i> -- ~ <smallcaps>k\u1e63udr\u00e1 -- : \u221ak\u1e63ud</smallcaps>]"
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "khulla",
+      "\u02daaya",
+      "chulla"
+    ],
+    "ref": "Pk. <i>khulla</i> -- , <i>\u02daaya</i> -- , <i>chulla</i> -- ; "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "khull\u0101"
+    ],
+    "ref": "P. <i>khull\u0101</i> m. \u02bb mean fellow \u02bc; "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "chuly\u0101h\u0101"
+    ],
+    "ref": "N. <i>chuly\u0101h\u0101</i> \u02bb deceitful, backbiting \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "chull\u016b"
+    ],
+    "ref": "H. <i>chull\u016b</i> \u02bb childish \u02bc. -- Altern. &lt; *<smallcaps>culla</smallcaps> -- <superscript>2</superscript>: "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "\u010dulo"
+    ],
+    "ref": "eur. <i>\u010dulo</i> \u02bb a little \u02bc; "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "\u010dulo"
+    ],
+    "ref": "eur. <i>\u010dulo</i> \u02bb a little \u02bc; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "sulu"
+    ],
+    "ref": "Si. <i>sulu</i> \u02bb small \u02bc. -- Redup. "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "chulchul\u0101"
+    ],
+    "ref": "H. <i>chulchul\u0101</i> \u02bb trifling, puerile \u02bc."
+  }
+]

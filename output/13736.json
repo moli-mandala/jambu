@@ -1,0 +1,135 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["straika"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>13736</number> *<b>straika</b> \u02bb female \u02bc, *<i>straik\u012b</i> -- \u02bb woman \u02bc. [Cf. <i>stra\u00ed\u1e47a</i>&lt;-&gt; \u02bb female \u02bc RV. and -- <i>str\u012bka</i> -- in cmpds. K\u0101lid. -- <smallcaps>str\u012b\u02ca -- </smallcaps>]"
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "i\u0161trei"
+    ],
+    "ref": "Dm. <i>i\u0161trei</i> adj. \u02bb female (of animals) \u02bc; "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "\u010d\u0115\u0301i",
+      "\u010d\u0101\u0301e"
+    ],
+    "ref": "gil. <i>\u010d\u0115\u0301i</i>, pl. <i>\u010d\u0101\u0301e</i>, "
+  },
+  {
+    "lang": "Gilgit\u012b dialect of Shina",
+    "words": [
+      "\u010d\u0115\u0301i",
+      "\u010d\u0101\u0301e"
+    ],
+    "ref": "gil. <i>\u010d\u0115\u0301i</i>, pl. <i>\u010d\u0101\u0301e</i>, "
+  },
+  {
+    "lang": "Kohist\u0101n\u012b dialect of Shina",
+    "words": [
+      "\u010dei"
+    ],
+    "ref": "koh. <i>\u010dei</i>, "
+  },
+  {
+    "lang": "Gur\u0113s\u012b dialect of Shina",
+    "words": [
+      "\u010d\u00f6i"
+    ],
+    "ref": "gur. <i>\u010d\u00f6i</i>, "
+  },
+  {
+    "lang": "Pales\u012b dialect of Shina",
+    "words": [
+      "c\u0323\u1e17\u012b"
+    ],
+    "ref": "pales. <i>c\u0323\u1e17\u012b</i> \u02bb young woman \u02bc, "
+  },
+  {
+    "lang": "Jijelut dialect of Shina",
+    "words": [
+      "c\u0323ei",
+      "\u010d\u0113yo",
+      "kk"
+    ],
+    "ref": "jij. <i>c\u0323e<smallcaps>i</smallcaps></i>, (Lor.) <i>\u010d\u0113yo</i> \u02bb pertaining to women \u02bc; -- ext. -- <i>kk</i> -- : "
+  },
+  {
+    "lang": "Dameli (Dam\u03b5\u0303\u1e0d\u012b\u02ca \u2014 Kaf.-Dard.)",
+    "words": [
+      "a\u0161tr",
+      "k\u00e1"
+    ],
+    "ref": "Dm. <i>a\u0161tr</i><at>e</at><i>k\u00e1</i> \u02bb woman, female (of animals) \u02bc; "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "ek\u0101 -- m"
+    ],
+    "ref": "weg. <at>l</at><i>ek\u0101 -- m</i> \u02bb my wife \u02bc, "
+  },
+  {
+    "lang": "Darrai-i N\u016br dialect of Pashai",
+    "words": [
+      "ek\u0101 -- m"
+    ],
+    "ref": "weg. <at>l</at><i>ek\u0101 -- m</i> \u02bb my wife \u02bc, "
+  },
+  {
+    "lang": "Wegali dialect of Pashai",
+    "words": [
+      "ek\u0101 -- m"
+    ],
+    "ref": "weg. <at>l</at><i>ek\u0101 -- m</i> \u02bb my wife \u02bc, "
+  },
+  {
+    "lang": "Gulbah\u0101r\u012b dialect of Pashai",
+    "words": [
+      "i\u0161terk\u0101"
+    ],
+    "ref": "gul. <i>i\u0161terk\u0101</i>; "
+  },
+  {
+    "lang": "Kalasha (Kal\u00e1\u1e63a \u2014 Dard.)",
+    "words": [
+      "str\u0113",
+      "k",
+      "\u1e0d"
+    ],
+    "ref": "rumb. <i>str\u0113</i><at>*l</at><i>k</i> \u02bb female (of animals) \u02bc; -- -- <i>\u1e0d</i> -- : "
+  },
+  {
+    "lang": "Rumb\u016br dialect of Kalasha",
+    "words": [
+      "str\u0113",
+      "k",
+      "\u1e0d"
+    ],
+    "ref": "rumb. <i>str\u0113</i><at>*l</at><i>k</i> \u02bb female (of animals) \u02bc; -- -- <i>\u1e0d</i> -- : "
+  },
+  {
+    "lang": "Pashai (Pa\u0161a\u012b \u2014 Dard.)",
+    "words": [
+      "l\u00e9\u1e0dek"
+    ],
+    "ref": "nir. <i>l\u00e9\u1e0dek</i> \u02bb female (of animals) \u02bc; "
+  },
+  {
+    "lang": "Nirl\u0101m\u012b dialect of Pashai",
+    "words": [
+      "l\u00e9\u1e0dek"
+    ],
+    "ref": "nir. <i>l\u00e9\u1e0dek</i> \u02bb female (of animals) \u02bc; "
+  },
+  {
+    "lang": "Savi (Dard.)",
+    "words": [
+      "e\u1e5b\u012b\u0301"
+    ],
+    "ref": "Sv. <at>l</at><i>e\u1e5b\u012b\u0301</i> \u02bb woman \u02bc."
+  }
+]

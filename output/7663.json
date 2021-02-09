@@ -1,0 +1,73 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["pa\u00f1cada\u015b\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>7663</number> <b>pa\u00f1cada\u015b\u00e1</b> \u02bb fifteenth \u02bc AV., <i>pa\u00f1cada\u015b\u012b</i> -- f. \u02bb fifteenth day of lunar fortnight \u02bc TBr. [<smallcaps>p\u00e1\u00f1cada\u015ba</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "pa\u00f1cadasa",
+      "\u02das\u012b",
+      "pa\u1e47\u1e47arasa",
+      "\u02das\u012b",
+      "pannarasa"
+    ],
+    "ref": "Pa. <i>pa\u00f1cadasa</i> -- \u02bb fifteenth \u02bc, <i>\u02das\u012b</i> -- f. \u02bb fifteenth day \u02bc, <i>pa\u1e47\u1e47arasa</i> -- (<i>\u02das\u012b</i> -- f.), <i>pannarasa</i> -- , "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "pa\u1e41na\u1e0dasa"
+    ],
+    "ref": "A\u015b. <i>pa\u1e41na\u1e0dasa</i> -- , "
+  },
+  {
+    "lang": "MIA. forms occurring in Corpus Inscriptionum Indicarum Vol. II Pt. 1",
+    "words": [
+      "pa\u1e41cada\u015be"
+    ],
+    "ref": "KharI. <i>pa\u1e41cada\u015be</i> loc. sg.; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "pa\u1e41cadas\u012b"
+    ],
+    "ref": "Pk. <i>pa\u1e41cadas\u012b</i> -- f. \u02bb fifteenth day \u02bc; "
+  },
+  {
+    "lang": "Khow\u0101r (Dard.)",
+    "words": [
+      "pan\u01f0ara\u0161",
+      "r",
+      "d",
+      "pa\u00f1cada\u015ba",
+      "d"
+    ],
+    "ref": "Kho. <i>pan\u01f0ara\u0161</i> \u02bb day of full moon \u02bc ( -- <i>r</i> -- &lt; -- <i>d</i> -- of <i>pa\u00f1cada\u015ba</i> recreated after loss of orig. -- <i>d</i> -- ); "
+  },
+  {
+    "lang": "Wo\u1e6dap\u016br\u012b (language of Wo\u1e6dap\u016br and Ka\u1e6d\u0101rqal\u0101 \u2014 Dard.)",
+    "words": [
+      "p\u0101ru\u0304\u0303",
+      "p\u00e3\u0304ru\u0304\u0303"
+    ],
+    "ref": "Wo\u1e6d. <i>p\u0101ru\u0304\u0303</i> \u02bb fifteenth \u02bc (&lt; *<i>p\u00e3\u0304ru\u0304\u0303</i> Buddruss Wo\u1e6d 120); "
+  },
+  {
+    "lang": "Shina (\u1e62i\u1e47\u0101 \u2014 Dard.)",
+    "words": [
+      "p",
+      "nzei"
+    ],
+    "ref": "Sh. (Lor.) <i>p</i><at>*l</at><i>nzei</i> \u02bb fifteenth day of lunar fortnight \u02bc, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "pa\u1e47ara."
+    ],
+    "ref": "Si. <i>pa\u1e47ara.</i>"
+  }
+]

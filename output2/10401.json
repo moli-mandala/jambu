@@ -1,0 +1,109 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "y\u00e1ta\u1e25",
+    "ref": "<html><body><number>10401</number> <b>y\u00e1ta\u1e25</b> \u02bb whence \u02bc RV., \u02bb where, because \u02bc AV. [<smallcaps>y\u00e1</smallcaps> -- ]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "yat\u014d"
+    ],
+    "ref": "Pa. <i>yat\u014d</i> \u02bb whence, because \u02bc, "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "yatu"
+    ],
+    "ref": "NiDoc. <i>yatu</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "ja\u014d"
+    ],
+    "ref": "Pk. <i>ja\u014d</i>; "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "jo"
+    ],
+    "ref": "S. <i>jo</i> \u02bb because \u02bc; "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "jau\u0303"
+    ],
+    "ref": "pa\u1e45. <i>jau\u0303</i> \u02bb when \u02bc; "
+  },
+  {
+    "lang": "Pa\u1e45gw\u0101\u1e37\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "jau\u0303"
+    ],
+    "ref": "pa\u1e45. <i>jau\u0303</i> \u02bb when \u02bc; "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "ja\u0169\u0308"
+    ],
+    "ref": "Or. <i>ja\u0169\u0308</i> \u02bb because \u02bc; "
+  },
+  {
+    "lang": "Maithil\u012b",
+    "words": [
+      "jau",
+      "jau\u0303"
+    ],
+    "ref": "Mth. <i>jau</i> \u02bb when \u02bc, <i>jau\u0303</i> \u02bb if \u02bc; O"
+  },
+  {
+    "lang": "Awadh\u012b",
+    "words": [
+      "ja\u00fc"
+    ],
+    "ref": "Aw. <i>ja\u00fc</i> \u02bb when, if \u02bc, "
+  },
+  {
+    "lang": "Lakh\u012bmpur\u012b dialect of Awadh\u012b",
+    "words": [
+      "jau",
+      "jo"
+    ],
+    "ref": "lakh. <i>jau</i>, <i>jo</i> \u02bb if \u02bc; "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "jo"
+    ],
+    "ref": "H. <i>jo</i> \u02bb when, if \u02bc; O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "ja\u00fc",
+      "jo",
+      "ju"
+    ],
+    "ref": "Marw. <i>ja\u00fc</i>, <i>jo</i>, <i>ju</i> \u02bb if \u02bc; O"
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "ja\u00fc"
+    ],
+    "ref": "G. <i>ja\u00fc</i> when, if \u02bc, "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "jo"
+    ],
+    "ref": "G. <i>jo</i> \u02bb if \u02bc."
+  }
+]

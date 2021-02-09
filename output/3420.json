@@ -1,0 +1,54 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["kr\u0325cchr\u00e1"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>3420</number> <b>kr\u0325cchr\u00e1</b> \u02bb painful, miserable \u02bc MBh., n. \u02bb difficulty, trouble, danger \u02bc RV. [Derivation from *<i>kr\u0325psr\u00e1</i>&lt;-&gt; Wackernagel AiGr i 158 and EWA i 257 with lit. is supported by WPah. <i>u</i> &lt; <i>r\u0325</i> before <i>p.</i> -- \u221a<smallcaps>kr\u0325p</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "kasira",
+      "p",
+      "psr",
+      "t"
+    ],
+    "ref": "Pa. <i>kasira</i> -- \u02bb distressed \u02bc (with loss of <i>p</i> in the group <i>psr</i> as of <i>t</i> in <smallcaps>kr\u0325tsn\u00e1</smallcaps> -- ), "
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "kiccha",
+      "\u1e0da"
+    ],
+    "ref": "Pk. <i>kiccha</i> -- \u02bb distressed \u02bc, n. \u02bb pain, trouble \u02bc; -- ext. with -- <i>\u1e0da</i> -- : "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "kiccha",
+      "\u1e0da"
+    ],
+    "ref": "Pk. <i>kiccha</i> -- \u02bb distressed \u02bc, n. \u02bb pain, trouble \u02bc; -- ext. with -- <i>\u1e0da</i> -- : "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "ku\u010b\u010bha\u1e5b"
+    ],
+    "ref": "bhal. <i>ku\u010b\u010bha\u1e5b</i> \u02bb miserly \u02bc; "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "ku\u010b\u010bha\u1e5b"
+    ],
+    "ref": "bhal. <i>ku\u010b\u010bha\u1e5b</i> \u02bb miserly \u02bc; "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "khisir\u0101"
+    ],
+    "ref": "A. <i>khisir\u0101</i> \u02bb lean, thin \u02bc."
+  }
+]

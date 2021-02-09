@@ -1,0 +1,176 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "hasyat\u0113",
+    "ref": "<html><body><number>14048</number> *<b>hasyat\u0113</b> impers. \u02bb one laughs \u02bc. [\u221a<smallcaps>has</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "hassati",
+      "hassati"
+    ],
+    "ref": "Pa. <i>hassati</i> \u02bb laughs \u02bc (collides with <i>hassati</i> \u02bb is glad \u02bc &lt; <smallcaps>h\u0155\u030a\u1e63yati</smallcaps>), "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "hassa\u00ef"
+    ],
+    "ref": "Pk. <i>hassa\u00ef</i>, "
+  },
+  {
+    "lang": "Gypsy or Romani",
+    "words": [
+      "asel"
+    ],
+    "ref": "eur. 3 sg. <i>asel</i>, "
+  },
+  {
+    "lang": "European (Gypsy)",
+    "words": [
+      "asel"
+    ],
+    "ref": "eur. 3 sg. <i>asel</i>, "
+  },
+  {
+    "lang": "Palestinian dialect of Asiatic Gypsy of the Nawar",
+    "words": [
+      "h\u032e\u00e1z\u0103r",
+      "z"
+    ],
+    "ref": "pal. <i>h\u032e\u00e1z\u0103r</i> ( -- <i>z</i> -- ?), "
+  },
+  {
+    "lang": "\u1e0cum\u0101ki",
+    "words": [
+      "h",
+      "sin\u00e1"
+    ],
+    "ref": "\u1e0c. <i>h</i><at>*l</at><i>sin\u00e1</i>, "
+  },
+  {
+    "lang": "To\u0304rw\u0101l\u012b (Dard.)",
+    "words": [
+      "has"
+    ],
+    "ref": "Tor. <i>has</i> -- , "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "hassa\u1e47",
+      "hasa\u1e47"
+    ],
+    "ref": "L. <i>hassa\u1e47</i>, (Ju.) <i>hasa\u1e47</i>, "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "hassu\u1e47"
+    ],
+    "ref": "aw\u0101\u1e47. <i>hassu\u1e47</i>, "
+  },
+  {
+    "lang": "Panj\u0101b\u012b (Pa\u00f1j\u0101b\u012b)",
+    "words": [
+      "hass\u1e47\u0101"
+    ],
+    "ref": "P. <i>hass\u1e47\u0101</i>, "
+  },
+  {
+    "lang": "Ludhi\u0101n\u012b dialect of Panj\u0101b\u012b",
+    "words": [
+      "hasn\u0101"
+    ],
+    "ref": "ludh. <i>hasn\u0101</i>, "
+  },
+  {
+    "lang": "West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "has\u1e47\u016b"
+    ],
+    "ref": "bhal. <i>has\u1e47\u016b</i>, "
+  },
+  {
+    "lang": "Bhales\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "has\u1e47\u016b"
+    ],
+    "ref": "bhal. <i>has\u1e47\u016b</i>, "
+  },
+  {
+    "lang": "Bhadraw\u0101h\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hasn\u016b",
+      "hassu"
+    ],
+    "ref": "bhad. <i>hasn\u016b</i> (pp. <i>hassu</i>), "
+  },
+  {
+    "lang": "Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "h",
+      "ssy",
+      "u\u0303"
+    ],
+    "ref": "kha\u015b. <i>h</i><at>e</at><i>ssy</i><at>e</at><i>u\u0303</i> pret. im"
+  },
+  {
+    "lang": "Persian dialect of Asiatic Gypsy",
+    "words": [
+      "hassu\u0101"
+    ],
+    "ref": "rudh. <i>hassu\u0101</i>, "
+  },
+  {
+    "lang": "Rudh\u0101r\u012b sub-dialect of Kha\u015b\u0101l\u012b dialect of West Pah\u0101\u1e5b\u012b",
+    "words": [
+      "hassu\u0101"
+    ],
+    "ref": "rudh. <i>hassu\u0101</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "h\u00e3\u0304snu"
+    ],
+    "ref": "N. <i>h\u00e3\u0304snu</i>, "
+  },
+  {
+    "lang": "Assamese",
+    "words": [
+      "h\u00e3\u0304hiba"
+    ],
+    "ref": "A. <i>h\u00e3\u0304hiba</i>, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "h\u0101s\u0101",
+      "h\u00e3\u0304s\u0101"
+    ],
+    "ref": "B. <i>h\u0101s\u0101</i>, <i>h\u00e3\u0304s\u0101</i>, "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "h\u00e3\u0304sn\u0101"
+    ],
+    "ref": "H. <i>h\u00e3\u0304sn\u0101</i>, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "h\u00e3\u0304s\u1e47\u1ebd"
+    ],
+    "ref": "M. <i>h\u00e3\u0304s\u1e47\u1ebd</i>, "
+  },
+  {
+    "lang": "Ko\u1e45ka\u1e47\u012b",
+    "words": [
+      "h\u0101st\u0101."
+    ],
+    "ref": "Ko. <i>h\u0101st\u0101.</i>"
+  }
+]

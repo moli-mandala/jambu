@@ -1,0 +1,68 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["piccha"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>8151</number> <b>piccha</b> n. \u02bb tail -- feather \u02bc MBh., <i>\u02dachaka</i> -- m.n. lex., <i>\u02dachik\u0101</i> -- f. \u02bb a kind of chowrie, bunch of peacock's feathers (?) \u02bc Ratn\u0101v. 2. *<b>pi\u00f1ja -- <superscript>2</superscript>.</b> [<i>pi\u00f1j\u0101</i> -- f. \u02bb switch \u02bc lex., <i>pi\u00f1jal\u012b</i> -- f. \u02bb bunch of grass \u02bc Gobh., <i>\u02dala</i> -- n. lex., <i>pi\u00f1jul\u00e1</i> -- n. P\u0101rGr\u0325., <i>pi\u00f1j\u016bl\u012b</i> -- f. Kau\u015b., (with <i>darbh\u00e1</i> -- ) <i>\u02dal\u00e1</i> -- n. MaitrS., <i>pi\u00f1j\u012bl\u00e1</i> -- n., <i>pu\u00f1j\u012bla</i> -- n. TS. -- If *<i>pi\u00f1ja</i> -- \u02bb bunch \u02bc (~ <i>pu\u00f1ja</i> -- \u02bb heap \u02bc?) is the earlier word, then <i>piccha</i> -- , (Pa.) <i>pi\u00f1cha</i> -- \u02bb *bunch of tail -- feathers \u02bc are poss. from *<i>pi\u00f1ja</i>&lt;-&gt; X <smallcaps>p\u00faccha</smallcaps> -- . Neither EWA ii 271 (<i>piccha</i> -- and <i>p\u00faccha</i>&lt;-&gt; &lt; *<i>pr\u0325\u1e63\u1e6dhya</i> -- ) nor T. Burrow BSOAS xi 348 (\u2190 Drav., contested in PMWS 132) are convincing]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "piccha",
+      "pi\u00f1cha"
+    ],
+    "ref": "Pa. <i>piccha</i> -- , <i>pi\u00f1cha</i> -- n. \u02bb tailfeather \u02bc; "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "piccha",
+      "pi\u1e41cha",
+      "\u02daa\u1e0da"
+    ],
+    "ref": "Pk. <i>piccha</i> -- , <i>pi\u1e41cha</i> -- , <i>\u02daa\u1e0da</i> -- n. \u02bb tail -- feather, tail \u02bc, "
+  },
+  {
+    "lang": "Bengali (Ba\u1e45gl\u0101)",
+    "words": [
+      "p\u1ebdc\u0101"
+    ],
+    "ref": "B. <i>p\u1ebdc\u0101</i> \u02bb tail -- piece (as of a fish) \u02bc, "
+  },
+  {
+    "lang": "O\u1e5biy\u0101",
+    "words": [
+      "picha"
+    ],
+    "ref": "Or. <i>picha</i> \u02bb tail -- feather \u02bc, O"
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "pi\u1e41cha"
+    ],
+    "ref": "M. <i>pi\u1e41cha</i>; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "p\u012bch",
+      "p\u012bchu\u0303",
+      "p\u012b\u02dcch"
+    ],
+    "ref": "G. <i>p\u012bch</i>, <i>p\u012bchu\u0303</i>, <i>p\u012b\u02dcch</i> n. \u02bb feather \u02bc, "
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "p\u012bs"
+    ],
+    "ref": "M. <i>p\u012bs</i>; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "pih\u0101"
+    ],
+    "ref": "Si. <i>pih\u0101</i> \u02bb wing \u02bc."
+  }
+]

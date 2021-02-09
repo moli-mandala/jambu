@@ -1,0 +1,28 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["pur\u0101tana"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>8285</number> <b>pur\u0101tana</b> \u02bb ancient \u02bc MBh. [<smallcaps>pur\u00e1s</smallcaps>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "pur\u0101tana"
+    ],
+    "ref": "Pa. <i>pur\u0101tana</i> -- , "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "pur\u0101a\u1e47a"
+    ],
+    "ref": "Pk. <i>pur\u0101a\u1e47a</i> -- . -- In "
+  },
+  {
+    "lang": "New (modern) Indo-aryan",
+    "words": [
+      "pur\u0101\u1e47\u00e1"
+    ],
+    "ref": "NIA. it would collide with <i>pur\u0101\u1e47\u00e1</i> -- except in "
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["s\u00e1m\u016b\u1e0dha"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>13238</number> <b>s\u00e1m\u016b\u1e0dha</b><superscript>1</superscript>, <i>s\u00e1m\u016b\u1e37ha</i> -- \u02bb collected together \u02bc RV. [\u221a<smallcaps>\u016bh</smallcaps><superscript>1</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "sa\u1e41v\u016b\u1e37ha",
+      "sa\u1e41y\u016b\u02da",
+      "y",
+      "viy -- \u016b\u1e37ha"
+    ],
+    "ref": "Pa. <i>sa\u1e41v\u016b\u1e37ha</i> -- \u02bb collected, massed \u02bc, <i>sa\u1e41y\u016b\u02da</i> (with <i>y</i>&lt;-&gt; after its opposite <i>viy -- \u016b\u1e37ha</i> -- ); "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "hamu\u1e37u"
+    ],
+    "ref": "Si. <i>hamu\u1e37u</i> \u02bb collection \u02bc; &lt;-&gt; "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "mu\u1e37u",
+      "mulu",
+      "mu\u1e37a",
+      "muhu\u1e37",
+      "hamu\u1e37"
+    ],
+    "ref": "Si. <i>mu\u1e37u</i>, <i>mulu</i> \u02bb all, entire \u02bc, <i>mu\u1e37a</i> \u02bb multitude \u02bc (GS 32) poss. &lt; *<i>muhu\u1e37</i> -- &lt; *<i>hamu\u1e37</i> -- or &lt; <smallcaps>s\u00e1m\u016bla -- ,</smallcaps> but prob. \u2190 "
+  },
+  {
+    "lang": "Tamil (Dravidian)",
+    "words": [
+      "mul\u0324u"
+    ],
+    "ref": "Mal. <i>mul\u0324u</i> \u02bb all, whole, entire \u02bc, "
+  },
+  {
+    "lang": "Malay\u0101\u1e37am (Dravidian)",
+    "words": [
+      "mul\u0324u"
+    ],
+    "ref": "Mal. <i>mul\u0324u</i> \u02bb all, whole, entire \u02bc, "
+  },
+  {
+    "lang": "Malay\u0101\u1e37am (Dravidian)",
+    "words": [
+      "mul\u0324appu"
+    ],
+    "ref": "Mal. <i>mul\u0324appu</i> \u02bb completion, crowd \u02bc."
+  }
+]

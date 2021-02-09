@@ -1,0 +1,43 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "\u00e1tha,",
+    "ref": "<html><body><number>230</number> <b>\u00e1tha,</b> -- <i>\u0101</i> \u02bb then, and \u02bc RV. [<smallcaps>a</smallcaps> -- <superscript>1</superscript>]"
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "atha",
+      "ath\u014d"
+    ],
+    "ref": "Pa. <i>atha</i>, <i>ath\u014d</i>, "
+  },
+  {
+    "lang": "A\u015bokan, i.e. the language of the Inscriptions of A\u015boka",
+    "words": [
+      "atha"
+    ],
+    "ref": "man. <i>atha</i>, "
+  },
+  {
+    "lang": "Sh\u0101hb\u0101zga\u1e5bh\u012b Rock Inscription of A\u015boka",
+    "words": [
+      "atha"
+    ],
+    "ref": "man. <i>atha</i>, "
+  },
+  {
+    "lang": "M\u0101nsehr\u0101 Rock Inscription of A\u015boka",
+    "words": [
+      "atha"
+    ],
+    "ref": "man. <i>atha</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "adha."
+    ],
+    "ref": "Pk. <i>adha.</i>"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": "api ca",
+    "ref": "<html><body><number>486</number> <b>api ca</b> \u02bb also \u02bc."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "api ca"
+    ],
+    "ref": "Pa. <i>api ca</i>, "
+  },
+  {
+    "lang": "Language of `Kharo\u1e63\u1e6dh\u012b Inscriptions discovered by Sir Aurel Stein in Chinese Turkestan' edited by A. M. Boyer, E. J. Rapson, and E. Senart",
+    "words": [
+      "avi ca"
+    ],
+    "ref": "NiDoc. <i>avi ca</i>, "
+  },
+  {
+    "lang": "MIA. forms occurring in Corpus Inscriptionum Indicarum Vol. II Pt. 1",
+    "words": [
+      "avi ya"
+    ],
+    "ref": "KharI. <i>avi ya</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "avia",
+      "via"
+    ],
+    "ref": "Pk. <i>avia</i>, <i>via</i>, "
+  },
+  {
+    "lang": "Sindh\u012b",
+    "words": [
+      "a\u00ef",
+      "\u1ebd"
+    ],
+    "ref": "S. <i>a\u00ef</i>, <i>\u1ebd</i>, "
+  },
+  {
+    "lang": "Lahnd\u0101",
+    "words": [
+      "v\u012b"
+    ],
+    "ref": "L. <i>v\u012b</i>, "
+  },
+  {
+    "lang": "Aw\u0101\u1e47k\u0101r\u012b dialect of Lahnd\u0101",
+    "words": [
+      "vi"
+    ],
+    "ref": "aw\u0101\u1e47. <i>vi</i>; O"
+  },
+  {
+    "lang": "M\u0101rw\u0101\u1e5b\u012b",
+    "words": [
+      "b\u012b"
+    ],
+    "ref": "Marw. <i>b\u012b</i> emph. particle added to words; "
+  },
+  {
+    "lang": "Gujar\u0101t\u012b",
+    "words": [
+      "b\u012b",
+      "\u00e1pi"
+    ],
+    "ref": "M. <i>b\u012b</i> (Bloch LM 376 &lt; <i>\u00e1pi</i>); O"
+  },
+  {
+    "lang": "Mar\u0101\u1e6dh\u012b",
+    "words": [
+      "b\u012b",
+      "\u00e1pi"
+    ],
+    "ref": "M. <i>b\u012b</i> (Bloch LM 376 &lt; <i>\u00e1pi</i>); O"
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "ica",
+      "ij",
+      "uj",
+      "ud"
+    ],
+    "ref": "Si. 4th cent. <i>ica</i>, later -- <i>ij</i>, 10th cent. -- <i>uj</i>, -- <i>ud</i>, "
+  },
+  {
+    "lang": "Sinhalese",
+    "words": [
+      "udu"
+    ],
+    "ref": "Si. -- <i>udu</i> encl"
+  }
+]

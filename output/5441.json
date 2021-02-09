@@ -1,0 +1,31 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["\u1e6da\u1e0d\u1e0dha"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>5441</number> *<b>\u1e6da\u1e0d\u1e0dha</b> \u02bb distant \u02bc."
+  },
+  {
+    "lang": "Kumaun\u012b",
+    "words": [
+      "\u1e6d\u0101\u1e5b"
+    ],
+    "ref": "Ku. <i>\u1e6d\u0101\u1e5b</i>, "
+  },
+  {
+    "lang": "Nep\u0101li",
+    "words": [
+      "\u1e6d\u0101\u1e5bho",
+      "\u1e6d\u0101\u1e5bo."
+    ],
+    "ref": "N. <i>\u1e6d\u0101\u1e5bho</i>, <i>\u1e6d\u0101\u1e5bo.</i> -- But "
+  },
+  {
+    "lang": "Hind\u012b",
+    "words": [
+      "t\u0101r\u012b",
+      "t\u0101ra",
+      "t\u0101\u1e0da"
+    ],
+    "ref": "H. <i>t\u0101r\u012b</i> f. \u02bb distance \u02bc &lt; *<i>t\u0101ra</i> -- or *<i>t\u0101\u1e0da</i> -- ?."
+  }
+]

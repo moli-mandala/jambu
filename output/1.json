@@ -1,0 +1,46 @@
+[
+  {
+    "lang": "Indo-Aryan",
+    "words": ["a"],
+    "ref": "<div>\u00a0\u00a0\t\t\t<number>1</number> <b>a</b> pron. stem: <i>asy\u00e1</i> gen. sg. m., <i>asmai</i> dat., <i>asmin</i> loc."
+  },
+  {
+    "lang": "Pali",
+    "words": [
+      "assa",
+      "asmi\u1e41"
+    ],
+    "ref": "Pa. <i>assa, asmi\u1e41</i>, "
+  },
+  {
+    "lang": "Prakrit",
+    "words": [
+      "assa",
+      "assi\u1e41"
+    ],
+    "ref": "Pk. <i>assa, assi\u1e41</i>; "
+  },
+  {
+    "lang": "Shumashti (\u0160um\u0101\u0161t\u012b \u2014 Dard.)",
+    "words": [
+      "as",
+      "n\u0101mas",
+      "ame"
+    ],
+    "ref": "Shum. encl. 3rd sg. pron. -- <i>as</i> (e.g. <i>n\u0101mas</i> \u02bb his name \u02bc), obl. sg. <i>ame</i>; "
+  },
+  {
+    "lang": "Bashkar\u012bk (Dard.)",
+    "words": [
+      "as"
+    ],
+    "ref": "Bshk. <i>as</i> \u02bb his \u02bc; "
+  },
+  {
+    "lang": "Maiy\u00e3\u0304 (Dard.)",
+    "words": [
+      "as"
+    ],
+    "ref": "Mai. obl. sg. <i>as</i> \u02bb that \u02bc."
+  }
+]
