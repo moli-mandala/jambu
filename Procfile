@@ -1,1 +1,1 @@
-web: python main.py
+web: sh -c 'cd ./jambu/ && python3 -m pyramid.scripts.pserve development.ini --reload'
