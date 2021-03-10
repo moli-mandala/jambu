@@ -6,7 +6,7 @@ SQLAlchemy==1.3.17
 zope.interface==5.1.0
 pyramid==1.10.4
 pycldf==1.14.1
-clldutils==3.5.2
+clldutils==3.5.3
 pytest==5.4.3
 beautifulsoup4==4.9.3
 clld_cognacy_plugin==0.2.1
