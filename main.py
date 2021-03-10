@@ -3,6 +3,8 @@ import urllib.request
 import re
 from collections import defaultdict
 import json
+from enum import Enum
+import copy
 
 abbrevs = {
     "A": "Assamese",
@@ -305,27 +307,47 @@ with open("dasa_list.txt", "a") as fout:
 
                     reflexes[number].append({'lang': 'Indo-Aryan', 'words': [lemma], 'ref': data[0]})
                     if (len(data) == 1): continue
+
                     langs = []
                     matches = list(re.finditer(regex, data[1]))
                     for i in range(len(matches)):
-                        lang = abbrevs[matches[i].group(0)[:-1]]
+                        lang = matches[i].group(0)[:-1]
+                        lang_entry = {'lang': lang, 'words': []}
                         word = None
                         if i == len(matches) - 1:
                             word = data[1][matches[i].start():]
                         else:
                             word = data[1][matches[i].start():matches[i + 1].start()]
                         word = word.replace('ˊ', '́')
-                        words = BeautifulSoup(word).find_all("i")
-                        if words:
-                            langs.append(lang)
-                            words = ', '.join(map(lambda x: x.text, list(words)))
-                            words = words.split(', ')
-                            for lang in langs:
-                                reflexes[number].append({'lang': lang, 'words': words, 'ref': word})
-                            langs = []
-                        else:
-                            langs.append(lang)
+                        word = word.replace(' -- ', '–')
+                        word = word.replace('--', '–')
+                        
+                        forms = list(re.finditer(r'(<i>(.*?)</i>|ʻ(.*?)ʼ)', word))
+                        langs.append(lang)
+                        if len(forms) == 0:
+                            continue
 
-for key in reflexes:
-    with open(f'output2/{key}.json', 'w') as fout:
-        json.dump(reflexes[key], fout, indent=2)
+                        cur = None
+                        defs = []
+                        for i in forms:
+                            if i.group(0).startswith('<i>'):
+                                if cur:
+                                    for each in cur.split(','):
+                                        definition = '; '.join(defs) if defs != [] else ''
+                                        lang_entry['words'].append([each.strip(), definition])
+                                defs = []
+                                cur = i.group(2)
+                            else:
+                                defs.append(i.group(3).strip())
+                        if cur:
+                            for each in cur.split(','):
+                                definition = '; '.join(defs) if defs != [] else ''
+                                lang_entry['words'].append([each.strip(), definition])
+
+                        for l in langs:
+                            lang_entry['lang'] = l
+                            reflexes[number].append(copy.deepcopy(lang_entry))
+                        langs = []
+
+with open(f'data/all.json', 'w') as fout:
+    json.dump(reflexes, fout, indent=2)
