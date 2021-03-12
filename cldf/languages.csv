@@ -14,7 +14,7 @@ Ash,Ashkun,ashk1246,70.37,34.84
 Austro-as,Austro-asiatic,aust1305,87.5396,13.5317
 Av,Avestan,aves1237,53.63,31.54
 Aw,Awadhī,awad1243,82.47,27.59
-awan,Awāṇkārī dialect of Lahndā,west2386,75.35,30.09
+awan,Awāṇkārī dialect of Lahndā,west2386,72.17,32.91
 B,Bengali,beng1280,90.00,24.00
 Bal,Balūčī,sout2642,64,26
 bang,Bāṅgarū dialect of Western Hindī,hind1269,77.00,25.00
@@ -25,8 +25,9 @@ bhal,Bhalesī dialect of West Pahāṛī,bhad1241,75.87,33.29
 bhat,Bhaṭěālī sub-dialect of Ḍogrī dialect of Panjābī,bhat1263,76.03,32.40
 bhid,Bhiḍlàī sub-dialect of Bhadrawāhī dialect of West Pahāṛī,bhad1241,75.87,33.29
 Bhoj,Bhojpurī,bhoj1244,84.82,26.46
-BHSk,Buddhist Hybrid Sanskrit,sans1269,20.00,77.00
+BHSk,Buddhist Hybrid Sanskrit,sans1269,77.00,20.00
 Bi,Bihārī,bagh1251,87.50,24.68
+bil,Bilāspurī dialect of West Pahari,bila1253,76.67,31.38
 bir,Birir dialect of Kalasha,kala1372,71.67,35.64
 boh,Bohemian dialect of European Romani,carp1235,20.31,48.20
 Brah,Brāhūī,brah1256,66.56,29.04
@@ -107,6 +108,7 @@ Kat,Kaṭārqalā,wota1240,70.86,34.70
 kath,Kāṭhiyāvāḍi dialect of Gujarātī,guja1252,71.10,22.69
 kb,Kauśāmbī Pillar Edict of Aśoka,maha1305,81.392899,25.338984
 kc,Kocī dialect of West Pahāṛī,maha1287,77.53,31.01
+kotg,Kotgarhi dialect of West Pahāṛī,maha1287,77.53,31.01
 kcch,Kacchī dialect of Sindhī,kach1277,69.00,23.83
 kch,Kachur-i Sala dialect of Pashai,nort2665,69.99,35.17
 kgr,Kāṅgrā sub-dialect of Ḍogrī dialect of Panjābī,kang1280,76.37,31.91
@@ -129,6 +131,7 @@ Kol,Kōlāmī,nort2699,78.49,20.10
 kq,Kauśāmbī Inscription of Aśoka,maha1305,81.392899,25.338984
 Kt,Kati or Katei,kati1270,70.98,35.41
 Ku,Kumaunī,kuma1273,80.02,29.56
+kul,Kullui,kull1236,77.38,31.83
 kur,Kuṛaṅgali dialect of Pashai,nort2666,70.43,34.66
 Kur,Kuruḵẖ,kuru1302,86.47,24.46
 kurd,Kurdari dialect of Pashai,nort2666,70.43,34.66
@@ -142,7 +145,7 @@ Lat,Latin,lati1261,12.45,41.90
 laur,Lauṛowānī dialect of Pashai,nort2665,69.99,35.17
 Lith,Lithuanian,lith1251,23.96,55.14
 lrudh,Low Rudhārī sub-dialect of Khaśālī dialect of West Pahāṛī,bhad1241,75.87,33.29
-ludh,Ludhiānī dialect of Panjābī,panj1256,75.67,30.04
+ludh,Ludhiānī dialect of Panjābī,panj1256,75.8573,30.9010
 M,Marāṭhī,mara1378,76.67,17.93
 mag,Magahī dialect of Bihārī,maga1260,85.33,25.09
 Mai,Maiyã̄,indu1241,73.02,35.34
@@ -150,6 +153,7 @@ Mal,Malayāḷam,mala1464,76.77,9.59
 mald,Maldivian dialect of Sinhalese,dhiv1236,73.54,1.93
 Malw,Mālwāī,malv1243,75.56,23.49
 man,Mānsehrā Rock Inscription of Aśoka,maha1305,73.166667,34.333333
+mand,Mandeali,mand1409,77.04,31.54
 marm,Marmatī sub-dialect of Khaśālī dialect of West Pahāṛī,bhad1241,75.87,33.29
 Marw,Mārwāṛī,marw1260,75.07,27.00
 Md,Maldivian dialect of Sinhalese,dhiv1236,73.54,1.93
@@ -162,7 +166,7 @@ Mj,Munǰī,munj1244,70.94,35.93
 Mth,Maithilī,mait1250,86.22,26.38
 mth,Mathiā Inscription of Aśoka,maha1305,84.4,26.983333
 Mu,Muṇḍā,mund1335,87.18,25.04
-mult,Multānī dialect of Lahndā,west2386,75.35,30.09
+mult,Multānī dialect of Lahndā,west2386,71.5249,30.1575
 N,Nepāli,nepa1254,85.00,28.00
 New,Newārī,newa1246,85.33,27.67
 ng,Nāgārjunī Cave Inscription of Aśoka,maha1305,85.0785,25.0089
@@ -196,7 +200,8 @@ pat,Paṭṭanī dialect of Gujarātī,guja1252,71.10,22.69
 pch,Pachaghani dialect of Pashai,nort2665,69.99,35.17
 pers,Persian dialect of Asiatic Romani,loma1235,45.00,40.00
 Pers,Persian,west2369,53.30,32.90
-Phal,Phalūṛa,phal1254,71.84,35.51
+Phal,Pālūlā,phal1254,71.84,35.51
+biori,Bioro dialect of Pālūlā,nort2667,71.810718,35.464600
 Pk,Prakrit,maha1305,74.71,19.18
 pog,Pǒgulī dialect of Kashmiri,kash1277,74.33,34.17
 pol,Polish dialect of European Romani,sint1235,16.50,47.50
@@ -238,7 +243,7 @@ Si,Sinhalese,sinh1246,81.00,8.00
 Sik,Sikalgārī,guja1252,71.10,22.69
 sir,Sirājī dialect of West Pahāṛī,kull1236,77.38,31.83
 sirm,Sirmaurī dialect of West Pahāṛī,sirm1239,77.17,31.10
-Sk,Sanskrit,sans1269,20.00,77.00
+Sk,Sanskrit,sans1269,77.00,20.00
 sn,Sārnāth Inscription of Aśoka,maha1305,83.0214,25.3811
 snj,Sanjan dialect of Pashai,nort2665,69.99,35.17
 sod,Sǒdōcī dialect of West Pahāṛī,maha1287,77.53,31.01
@@ -268,3 +273,13 @@ WPah,West Pahāṛī,maha1287,77.53,31.01
 Yazgh,Yazghulami,yazg1240,71.56,38.28
 Yghn,Yaghnobi,yagn1238,69.24,39.15
 Yid,Yidgha,yidg1240,71.51,36.01
+thar,Thari or Dhatki,dhat1238,70.78,26.42
+Khol,Kholosi,khol1241,54.30,27.12
+kbh,Bhatibari dialect of Kamtapuri,rang1265,89.616265,26.431739
+kth,Thakurgaon dialect of Kamtapuri,rang1265,88.4646,26.0274
+ksh,Shalkumar dialect of Kamtapuri,rang1265,89.164801,26.703185
+krp,Rangpur dialect of Kamtapuri,rang1265,89.227026,25.7499116
+kbn,Bongaigaon dialect of Kamtapuri,rang1265,90.5007068,26.4895061
+krl,Rangeli dialect of Rajbanshi,rajb1243,87.5099,26.4568
+kmh,Mahayespur dialect of Rajbanshi,rajb1243,88.0754,26.5186
+kks,Kishanganj dialect of Surjapuri,surj1235,87.9450,26.0982

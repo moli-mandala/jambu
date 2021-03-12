@@ -6,6 +6,12 @@ import json
 from enum import Enum
 import copy
 
+def remove_text_between_parens(text): # lazy: https://stackoverflow.com/questions/37528373/how-to-remove-all-text-between-the-outer-parentheses-in-a-string
+    n = 1  # run at least once
+    while n:
+        text, n = re.subn(r'\([^()]*\)', '', text)  # remove non-nested/flat balanced parts
+    return text
+
 abbrevs = {
     "A": "Assamese",
     "al": "Alashai dialect of Pashai",
@@ -321,6 +327,8 @@ with open("dasa_list.txt", "a") as fout:
                         word = word.replace('ˊ', '́')
                         word = word.replace(' -- ', '–')
                         word = word.replace('--', '–')
+                        word = remove_text_between_parens(word)
+
                         
                         forms = list(re.finditer(r'(<i>(.*?)</i>|ʻ(.*?)ʼ)', word))
                         langs.append(lang)

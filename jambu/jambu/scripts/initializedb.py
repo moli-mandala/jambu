@@ -73,12 +73,13 @@ def main(args):
 
 
     print("Params...")
-    for param in iteritems(args.cldf, 'ParameterTable', 'id', 'concepticonReference', 'name'):
+    for param in iteritems(args.cldf, 'ParameterTable', 'ID', 'Name', 'Concepticon_ID', 'Description'):
         data.add(
             models.Concept,
-            param['id'],
-            id=param['id'],
-            name='[{}] {}'.format(param['id'], param['name']),
+            param['ID'],
+            id=param['ID'],
+            name='[{}] {}'.format(param['ID'], param['Name']),
+            description=param['Description']
         )
 
     print("Cognates...")
