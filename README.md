@@ -22,3 +22,20 @@ Other stuff:
 - `cldf.py`: Makes CLDF format data from the parsed CDIAL + manual extensions datasets.
 - `cldf/`: The data used to build `jambu/`'s SQLite database.
 - `scripts/`: Miscellaneous stuff for testing CDIAL parses before I made the CLLD app. Some of the data here is from Chundra Cathcart's parsed data.
+
+## Building the database
+
+You probably don't need to do this since I commit the SQLite database directly to the repo. These instructions are for myself.
+
+```bash
+python parse.py
+python clld.py
+cd jambu
+clld initdb development.ini --glottolog ../glottolog/ --cldf ../cldf/Wordlist-metadata.json
+```
+
+To test:
+
+```bash
+pserve --reload development.ini
+```
