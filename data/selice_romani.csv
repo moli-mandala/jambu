@@ -1,0 +1,1620 @@
+confidence,description,domainelement_pk,frequency,id,jsondata,markup_description,name,pk,valueset_pk,word_pk
+,Exact counterpart (),,,47780,{},,világo,47781,9,43132
+,Super-counterpart (),,,47781,{},,phú,47782,404,42703
+,Super-counterpart (),,,47782,{},,phú,47783,799,42703
+,Super-counterpart (),,,47783,{},,praho,47784,1194,42747
+,Exact counterpart (),,,47784,{},,čik,47785,1589,41838
+,Exact counterpart (),,,47785,{},,póši,47786,1984,42741
+,Sub-counterpart (),,,47786,{},,heďo,47787,2379,42128
+,Sub-counterpart (),,,47787,{},,dombo,47788,2379,41938
+,Super-counterpart (),,,47788,{},,igeňeššígo,47789,3169,42158
+,Exact counterpart (),,,47789,{},,sigeto,47790,3959,42161
+,Super-counterpart (),,,47790,{},,parto,47791,4749,42646
+,Exact counterpart (),,,47791,{},,barlango,47792,5144,41700
+,Super-counterpart (),,,47792,{},,páňi,47793,5539,42597
+,Exact counterpart (),,,47793,{},,tengeri,47794,5934,42999
+,Exact counterpart (),,,47794,{},,ňugotno,47795,6329,42569
+,Super-counterpart (),,,47795,{},,zavarošno,47796,6724,43156
+,Exact counterpart (),,,47796,{},,habo,47797,7119,42091
+,Exact counterpart (The word might be a nonce loanword.),,,47797,{},,lagúna,47798,8699,42374
+,Exact counterpart (),,,47798,{},,hullámo,47799,9884,42150
+,Super-counterpart (),,,47799,{},,páňi,47800,11464,42597
+,Exact counterpart (),,,47800,{},,fojó,47801,11464,42035
+,Sub-counterpart (),,,47801,{},,patako,47802,11464,42653
+,Exact counterpart (),,,47802,{},,forgó (1),47803,11859,42037
+,Sub-counterpart (),,,47803,{},,haňig,47804,12254,42114
+,Sub-counterpart (),,,47804,{},,féhaňig,47805,12254,42014
+,Exact counterpart (),,,47805,{},,močára,47806,12649,42484
+,Exact counterpart (),,,47806,{},,ešíši,47807,13044,41996
+,Exact counterpart (),,,47807,{},,véš,47808,13439,43117
+,Super-counterpart (),,,47808,{},,kašt,47809,13834,42240
+,Sub-counterpart (),,,47809,{},,bár (1),47810,14229,41695
+,Sub-counterpart (),,,47810,{},,kėvėčo,47811,14229,42282
+,Exact counterpart (),,,47811,{},,feldrengíši,47812,14624,42016
+,Super-counterpart (),,,47812,{},,nebo,47813,15019,42547
+,Exact counterpart (),,,47813,{},,kham,47814,15414,42289
+,Exact counterpart (),,,47814,{},,čhon,47815,15809,41824
+,Sub-counterpart (),,,47815,{},,hódačka,47816,15809,42140
+,Exact counterpart (),,,47816,{},,čillaga,47817,16204,41843
+,Super-counterpart (),,,47817,{},,villámo,47818,16599,43138
+,Exact counterpart (),,,47818,{},,villámláši,47819,16599,43137
+,Exact counterpart (),,,47819,{},,zengíši,47820,16994,43161
+,Super-counterpart (),,,47820,{},,villámo,47821,17389,43138
+,Exact counterpart (),,,47821,{},,zivatalo,47822,17784,43166
+,Exact counterpart (),,,47822,{},,sivárváňi,47823,18179,42907
+,Exact counterpart (),,,47823,{},,világšágo,47824,18574,43135
+,Exact counterpart (),,,47824,{},,világoššágo,47825,18574,43134
+,Exact counterpart (),,,47825,{},,šetítšígo,47826,18969,42876
+,Exact counterpart (),,,47826,{},,árňíko,47827,19364,41654
+,Super-counterpart (),,,47827,{},,dėro,47828,19759,41911
+,Exact counterpart (),,,47828,{},,"levegó, levegóva",47829,20154,42405
+,Exact counterpart (),,,47829,{},,balval,47830,20549,41685
+,Exact counterpart (),,,47834,{},,"felhó, felhóva",47835,20944,42019
+,Exact counterpart (),,,47835,{},,kedo,47836,21339,42251
+,Exact counterpart (),,,47836,{},,brišind,47837,21734,41761
+,Exact counterpart (),,,47837,{},,jiv,47838,22129,42201
+,Exact counterpart (),,,47838,{},,jego,47839,22524,42193
+,Exact counterpart (),,,47839,{},,faďinen,47840,576709,42003
+,Super-counterpart (),,,47840,{},,"díve, dí",47841,22919,41934
+,Exact counterpart (),,,47841,{},,jag,47842,23314,42186
+,Exact counterpart (),,,47842,{},,lánga,47843,23709,42380
+,Exact counterpart (),,,47843,{},,fišto,47844,24104,42030
+,Exact counterpart (),,,47844,{},,gézo,47845,564464,42067
+,Exact counterpart (),,,47845,{},,hamu,47846,24499,42107
+,Exact counterpart (),,,47846,{},,"izgó, izgóva",47847,24894,42183
+,Exact counterpart (),,,47847,{},,tháren,47848,25289,43015
+,Exact counterpart (),,,47848,{},,thabon,47849,25684,43013
+,Sub-counterpart (),,,47849,{},,dživďaren,47850,26079,41969
+,Super-counterpart (),,,47850,{},,murdaren ári,47851,26474,42514
+,Super-counterpart (),,,47851,{},,ďújtó,47852,26869,41950
+,Super-counterpart (),,,47852,{},,kašt,47853,27264,42240
+,Exact counterpart (),,,47853,{},,kaštuno angar,47854,27659,42241
+,Exact counterpart (),,,47854,{},,manuš,47855,28054,42447
+,Sub-counterpart (),,,47855,{},,manušni,47856,28054,42448
+,Sub-counterpart (),,,47856,{},,džéne,47857,28054,41968
+,Super-counterpart (),,,47857,{},,murš,47858,28449,42516
+,Super-counterpart (),,,47858,{},,džuvli,47859,28844,41974
+,Super-counterpart (),,,47859,{},,muršikáno,47860,29239,42517
+,Super-counterpart (),,,47860,{},,džuvlikáno,47861,29634,41975
+,Para-counterpart (),,,47861,{},,čhavóro,47862,30029,41816
+,Para-counterpart (),,,47862,{},,čhá,47863,30424,41810
+,Sub-counterpart (),,,47863,{},,raklo,47864,30424,42774
+,Para-counterpart (),,,47864,{},,čhajóri,47865,30819,41813
+,Para-counterpart (),,,47865,{},,čhaj,47866,31214,41811
+,Para-counterpart (),,,47866,{},,rakli,47867,31214,42773
+,Super-counterpart (),,,47867,{},,čhavóro,47868,31609,41816
+,Super-counterpart (),,,47868,{},,tiknóro,47869,32004,43025
+,Exact counterpart (),,,47869,{},,miminko,47870,32004,42452
+,Super-counterpart (),,,47870,{},,rom,47871,32399,42800
+,Super-counterpart (),,,47871,{},,romni,47872,32794,42801
+,Sub-counterpart (),,,47872,{},,džan romeste,47873,33189,41963
+,Sub-counterpart (),,,47873,{},,len romňa,47874,33189,42400
+,Sub-counterpart (),,,47874,{},,len romňake,47875,33189,42401
+,Sub-counterpart (),,,47875,{},,len romeske,47876,33189,42399
+,Para-counterpart (),,,47876,{},,sojharen,47877,33189,42927
+,Exact counterpart (),,,47877,{},,bijav,47878,33584,41729
+,Exact counterpart (),,,47878,{},,mukáši,47879,33979,42506
+,Exact counterpart (),,,47879,{},,dad,47880,34374,41883
+,Sub-counterpart (),,,47880,{},,tata,47881,34374,42986
+,Exact counterpart (),,,47881,{},,daj,47882,34769,41887
+,Sub-counterpart (),,,47882,{},,mama,47883,34769,42445
+,Exact counterpart (),,,47883,{},,daj (taj) dad,47884,35164,41888
+,Exact counterpart (),,,47884,{},,"silei, sülei",47885,35164,42891
+,Para-counterpart (),,,47885,{},,rom,47886,35559,42800
+,Para-counterpart (),,,47886,{},,romni,47887,35954,42801
+,Super-counterpart (),,,47887,{},,čhá,47888,36349,41810
+,Super-counterpart (),,,47888,{},,čhaj,47889,36744,41811
+,Super-counterpart (),,,47889,{},,čhá,47890,37534,41810
+,Exact counterpart (),,,47890,{},,pral,47891,37929,42748
+,Exact counterpart (),,,47891,{},,phen,47892,39114,42686
+,Exact counterpart (),,,47892,{},,prala pheňa,47893,40299,42749
+,Exact counterpart (),,,47893,{},,teštvírno,47894,40299,43010
+,Super-counterpart (),,,47894,{},,kettéšno,47895,40694,42281
+,Exact counterpart (),,,47895,{},,papu,47896,41089,42639
+,Exact counterpart (),,,47896,{},,phúro (2),47897,41484,42708
+,Exact counterpart (),,,47897,{},,baba,47898,41879,41674
+,Exact counterpart (),,,47898,{},,phúri,47899,42274,42706
+,Super-counterpart (),,,47899,{},,onoka (1),47900,42669,42592
+,Super-counterpart (),,,47900,{},,onoka (2),47901,43064,42593
+,Super-counterpart (),,,47901,{},,onoka (1),47902,566044,42592
+,Exact counterpart (),,,47902,{},,dakero pral,47903,43854,41890
+,Exact counterpart (),,,47903,{},,dadeskero pral,47904,44249,41885
+,Exact counterpart (),,,47904,{},,dakeri phen,47905,45039,41889
+,Exact counterpart (),,,47905,{},,dadeskeri phen,47906,45434,41884
+,Para-counterpart (),,,47910,{},,praleskero čhá,47911,45829,42751
+,Para-counterpart (),,,47911,{},,pheňakero čhá,47912,45829,42688
+,Sub-counterpart (),,,47912,{},,praleskeri čhaj,47913,46224,42750
+,Sub-counterpart (),,,47913,{},,pheňakeri čhaj,47914,46224,42687
+,Sub-counterpart (),,,47914,{},,onokateštvírno,47915,46619,42595
+,Sub-counterpart (),,,47915,{},,onokateštvíro,47916,46619,42596
+,Sub-counterpart (),,,47916,{},,onokateštvírkiňa,47917,46619,42594
+,Super-counterpart (),,,47917,{},,sástro,47918,47804,42841
+,Super-counterpart (),,,47918,{},,apóši,47919,47804,41649
+,Super-counterpart (),,,47919,{},,sástro,47920,48199,42841
+,Super-counterpart (),,,47920,{},,apóši,47921,48199,41649
+,Super-counterpart (),,,47929,{},,sasuj,47930,48594,42842
+,Super-counterpart (),,,47930,{},,aňóša,47931,48594,41647
+,Super-counterpart (),,,47931,{},,aňóškiňa,47932,48594,41648
+,Super-counterpart (),,,47932,{},,sasuj,47933,48989,42842
+,Super-counterpart (),,,47933,{},,aňóša,47934,48989,41647
+,Super-counterpart (),,,47934,{},,aňóškiňa,47935,48989,41648
+,Super-counterpart (),,,47935,{},,vėjo,47936,49384,43108
+,Super-counterpart (),,,47936,{},,vėjo,47937,49779,43108
+,Super-counterpart (),,,47937,{},,bóri,47938,50174,41756
+,Super-counterpart (),,,47938,{},,meňėčkė,47939,50174,42463
+,Super-counterpart (),,,47939,{},,bóri,47940,50569,41756
+,Super-counterpart (),,,47940,{},,meňėčkė,47941,50569,42463
+,Super-counterpart (),,,47941,{},,šógori,47942,567624,42923
+,Sub-counterpart (),,,47942,{},,šógorkiňa,47943,567624,42924
+,Exact counterpart (),,,47944,{},,moštóno dad,47945,50964,42497
+,Exact counterpart (),,,47945,{},,moštóni daj,47946,51359,42494
+,Super-counterpart (),,,47948,{},,moštóno čhá,47949,51754,42496
+,Exact counterpart (),,,47949,{},,moštóni čhaj,47950,52149,42493
+,Exact counterpart (),,,47950,{},,árvasto,47951,52544,41655
+,Exact counterpart (),,,47951,{},,phivli džuvli,47952,52939,42701
+,Exact counterpart (),,,47952,{},,özvėdni,47953,52939,42612
+,Exact counterpart (),,,47953,{},,özvėdni džuvli,47954,52939,42613
+,Exact counterpart (),,,47954,{},,özvėdno,47955,53334,42614
+,Exact counterpart (),,,47955,{},,özvėdno murš,47956,53334,42615
+,Exact counterpart (),,,47956,{},,rokoňi,47957,53729,42798
+,Super-counterpart (),,,47957,{},,rokoňšágo,47958,53729,42799
+,Super-counterpart (),,,47958,{},,čaládo,47959,54124,41784
+,Exact counterpart (),,,47959,{},,me,47960,54519,42458
+,Exact counterpart (),,,47960,{},,tu,47961,54914,43052
+,Exact counterpart (),,,47961,{},,ój (1),47962,568019,42577
+,Exact counterpart (),,,47962,{},,ój (2),47963,568414,42578
+,Super-counterpart (),,,47963,{},,odá,47964,568809,42573
+,Exact counterpart (),,,47964,{},,amen,47965,55704,41632
+,Exact counterpart (),,,47965,{},,tumen,47966,56889,43054
+,Exact counterpart (),,,47966,{},,ón,47967,57284,42588
+,Super-counterpart (),,,47967,{},,áloto,47968,57679,41631
+,Super-counterpart (),,,47968,{},,muršikáno,47969,58074,42517
+,Super-counterpart (),,,47969,{},,džuvlikáno,47970,58469,41975
+,Super-counterpart (),,,47970,{},,áloto,47971,58864,41631
+,Exact counterpart (),,,47971,{},,lėgėló,47972,59259,42393
+,Exact counterpart (),,,47972,{},,"ištálló, ištállóva, ištálla",47973,60049,42159
+,Super-counterpart (),,,47973,{},,bika,47974,60839,41731
+,Super-counterpart (),,,47974,{},,bika,47975,61234,41731
+,Exact counterpart (),,,47975,{},,gurumni,47976,61629,42088
+,Exact counterpart (),,,47976,{},,borjúko,47977,62024,41757
+,Exact counterpart (),,,47977,{},,bakro,47978,62419,41677
+,Super-counterpart (),,,47978,{},,báránka,47979,63604,41697
+,Exact counterpart (),,,47979,{},,kano,47980,63999,42228
+,Sub-counterpart (),,,47980,{},,vadno bálo,47981,63999,43088
+,Exact counterpart (),,,47981,{},,bálo,47982,64789,41682
+,Super-counterpart (),,,47982,{},,baličho,47983,64789,41681
+,Exact counterpart (),,,47983,{},,"kėčkė, kėčka",47984,65184,42246
+,Exact counterpart (),,,47984,{},,gra,47985,66369,42080
+,Exact counterpart (),,,47985,{},,čéderi,47986,66764,41795
+,Exact counterpart (),,,47986,{},,čikó,47987,67554,41840
+,Exact counterpart (),,,47987,{},,samara,47988,67949,42824
+,Exact counterpart (),,,47988,{},,kokaši,47989,69134,42335
+,Exact counterpart (),,,47990,{},,kaňhi,47991,69529,42227
+,Exact counterpart (),,,47991,{},,čibóka,47992,69924,41829
+,Exact counterpart (),,,47992,{},,papiň,47993,70319,42634
+,Exact counterpart (),,,47993,{},,káča,47994,70714,42204
+,Exact counterpart (),,,47994,{},,ficko,47995,71109,42024
+,Exact counterpart (),,,47995,{},,čirikli,47996,71504,41851
+,Exact counterpart (),,,47996,{},,bérmadara,47997,73874,41718
+,Exact counterpart (),,,47997,{},,papagáji,47998,74269,42632
+,Exact counterpart (),,,47998,{},,varjú,47999,74664,43102
+,Exact counterpart (),,,47999,{},,varjúka,48000,74664,43103
+,Super-counterpart (),,,48000,{},,galamba,48001,75059,42054
+,Exact counterpart (),,,48001,{},,čuviko,48002,75454,41882
+,Exact counterpart (),,,48002,{},,džukel,48003,75849,41971
+,Super-counterpart (),,,48003,{},,šošoj,48004,76244,42937
+,Exact counterpart (),,,48004,{},,mačka (1),48005,76639,42435
+,Sub-counterpart (),,,48005,{},,pociko,48006,77429,42730
+,Sub-counterpart (),,,48006,{},,patkáňi,48007,77429,42657
+,Exact counterpart (),,,48007,{},,máčho,48008,77824,42434
+,Exact counterpart (),,,48008,{},,haja,48009,78614,42094
+,Exact counterpart (),,,48009,{},,čiga,48010,79404,41834
+,Exact counterpart (),,,48010,{},,žraloko,48011,79799,43170
+,Sub-counterpart (),,,48011,{},,delfíno,48012,37139,41903
+,Exact counterpart (),,,48012,{},,velriba,48013,80194,43110
+,Exact counterpart (),,,48013,{},,úhori,48014,80984,43063
+,Exact counterpart (),,,48014,{},,kijócko máčho,48015,80984,42304
+,Exact counterpart (),,,48015,{},,farkaši,48016,81379,42008
+,Exact counterpart (),,,48016,{},,orosláňa,48017,81774,42601
+,Exact counterpart (),,,48019,{},,"mėdvė, mėdva",48020,82169,42459
+,Exact counterpart (),,,48020,{},,róka,48021,82564,42797
+,Exact counterpart (),,,48021,{},,sarvaši,48022,82959,42838
+,Exact counterpart (),,,48022,{},,majmo,48023,83354,42440
+,Exact counterpart (),,,48023,{},,elefanto,48024,83749,41978
+,Exact counterpart (),,,48024,{},,"púpoštėvė, púpoštėva",48025,84144,42763
+,Super-counterpart (),,,48025,{},,bugari,48026,84539,41763
+,Exact counterpart (),,,48026,{},,džuv,48027,84934,41973
+,Super-counterpart (),,,48027,{},,pišum,48028,554589,42725
+,Exact counterpart (),,,48028,{},,likh,48029,85329,42408
+,Super-counterpart (),,,48029,{},,pišum,48030,85724,42725
+,Exact counterpart (),,,48030,{},,šelprengeri patmačka,48031,86119,42855
+,Exact counterpart (),,,48031,{},,škorpióni,48032,86514,42909
+,Exact counterpart (The word may be a nonce loanword.),,,48032,{},,švábo,48033,86909,42963
+,Exact counterpart (),,,48033,{},,hanďa,48034,87304,42109
+,Exact counterpart (),,,48034,{},,póko,48035,87699,42735
+,Exact counterpart (),,,48035,{},,pókháló,48036,88094,42733
+,Exact counterpart (),,,48036,{},,"míhėčkė, míhėčka",48037,88489,42470
+,Super-counterpart (),,,48037,{},,fullánka,48038,88489,42043
+,Exact counterpart (),,,48038,{},,daráža,48039,89674,41899
+,Super-counterpart (),,,48039,{},,fullánka,48040,89674,42043
+,Exact counterpart (),,,48040,{},,"máťhi, máťha",48041,90069,42456
+,Exact counterpart (),,,48041,{},,súňoga,48042,90859,42955
+,Exact counterpart (),,,48042,{},,kullánča,48043,558539,42365
+,Exact counterpart (),,,48043,{},,ťirmo,48044,91254,43031
+,Exact counterpart (),,,48044,{},,kijó,48045,91649,42303
+,Super-counterpart (),,,48045,{},,šošoj,48046,547479,42937
+,Exact counterpart (),,,48046,{},,mókuši,48047,548664,42485
+,Exact counterpart (),,,48047,{},,kengura,48048,559329,42259
+,Exact counterpart (),,,48048,{},,jaguári,48049,560514,42187
+,Exact counterpart (),,,48049,{},,búvoli,48050,563674,41778
+,Exact counterpart (),,,48050,{},,lėpkė,48051,92439,42402
+,"Exact counterpart (The collocation also has the non-lexicalized meaning ‘small/little horse’, which can be used for ‘foal, colt’.)",,,48051,{},,tikno gra,48052,92834,43024
+,Exact counterpart (),,,48052,{},,čigabiga,48053,93229,41835
+,Exact counterpart (),,,48053,{},,bíka,48054,93624,41732
+,Exact counterpart (),,,48054,{},,ďíko,48055,94019,41924
+,Exact counterpart (),,,48055,{},,krokodíli,48056,94414,42326
+,Exact counterpart (),,,48056,{},,tėkňéšbíka,48057,94809,42993
+,Exact counterpart (),,,48057,{},,tėšto,48058,95204,43009
+,Super-counterpart (),,,48058,{},,cipa,48059,95599,41848
+,Super-counterpart (),,,48059,{},,mas,48060,95994,42453
+,Exact counterpart (),,,48060,{},,bal,48061,96389,41678
+,Exact counterpart (),,,48061,{},,hajsálo,48062,96389,42101
+,Exact counterpart (),,,48062,{},,sakálla,48063,96784,42820
+,Super-counterpart (),,,48063,{},,zár,48064,97179,43153
+,Super-counterpart (),,,48064,{},,zár,48065,97574,43153
+,Exact counterpart (),,,48065,{},,korpa,48066,97969,42354
+,Exact counterpart (),,,48066,{},,rat (1),48067,98364,42778
+,Exact counterpart (),,,48067,{},,era,48068,98759,41991
+,Super-counterpart (),,,48068,{},,žila,48069,98759,43164
+,Exact counterpart (),,,48069,{},,kokal,48070,99154,42334
+,Exact counterpart (),,,48070,{},,pašváro,48071,99549,42652
+,Exact counterpart (),,,48071,{},,ódalbordo,48072,99549,42574
+,Exact counterpart (),,,48072,{},,sarva,48073,99944,42837
+,Exact counterpart (),,,48073,{},,farka,48074,100339,41877
+,Exact counterpart (),,,48074,{},,dumo,48075,100734,41952
+,Exact counterpart (),,,48075,{},,hátgerinci,48076,101129,42121
+,Exact counterpart (),,,48076,{},,šéro,48077,101524,42869
+,Exact counterpart (),,,48077,{},,halántíko,48078,101919,42103
+,Exact counterpart (),,,48078,{},,kopoňa,48079,102314,42348
+,Super-counterpart (),,,48079,{},,gódi,48080,102709,42071
+,Super-counterpart (),,,48080,{},,muj,48081,103104,42505
+,Exact counterpart (),,,48081,{},,čekat,48082,103499,41797
+,Exact counterpart (),,,48082,{},,állarckapča,48083,103894,41627
+,Exact counterpart (),,,48083,{},,čham,48084,104289,41814
+,Exact counterpart (),,,48084,{},,álla,48085,104684,41626
+,Exact counterpart (),,,48085,{},,jakh,48086,105079,42189
+,Exact counterpart (),,,48086,{},,cimbla,48087,105474,41845
+,Super-counterpart (),,,48087,{},,semeldeko,48088,105474,42856
+,Super-counterpart (),,,48088,{},,semeldeko,48089,105869,42856
+,Exact counterpart (),,,48089,{},,sempilla,48090,106264,42860
+,Exact counterpart (),,,48090,{},,pillogatinen,48091,106659,42714
+,Para-counterpart (),,,48091,{},,kačingatinen,48092,106659,42205
+,Exact counterpart (),,,48092,{},,kan,48093,107054,42220
+,Exact counterpart (),,,48093,{},,kanengere khula,48094,107844,42224
+,Super-counterpart (),,,48094,{},,nakh,48095,108239,42529
+,Exact counterpart (),,,48095,{},,turňa,48096,108634,43055
+,Exact counterpart (),,,48096,{},,lim,48097,109029,42411
+,Super-counterpart (),,,48097,{},,muj,48098,109424,42505
+,Super-counterpart (),,,48098,{},,nakh,48099,109819,42529
+,Exact counterpart (),,,48099,{},,vošt,48100,110214,43148
+,Super-counterpart (),,,48100,{},,čhib,48101,110609,41817
+,Exact counterpart (),,,48101,{},,dand,48102,111004,41891
+,Exact counterpart (),,,48102,{},,íňa,48103,111399,42167
+,Exact counterpart (),,,48103,{},,men,48104,112189,42462
+,Super-counterpart (),,,48104,{},,"ňakačiga, ňakčiga",48105,112584,42528
+,Exact counterpart (),,,48105,{},,kello,48106,112979,42254
+,Sub-counterpart (),,,48106,{},,gerkáňi,48107,112979,42066
+,Exact counterpart (),,,48107,{},,vállo,48108,113374,43097
+,Exact counterpart (),,,48108,{},,lapocka,48109,113769,42382
+,Super-counterpart (),,,48109,{},,va,48110,114559,43083
+,Sub-counterpart (),,,48110,{},,músi,48111,114559,42518
+,Exact counterpart (),,,48111,{},,khak,48112,114954,42288
+,Exact counterpart (),,,48112,{},,keňeka,48113,115349,42258
+,Exact counterpart (),,,48113,{},,čukló,48114,115744,41875
+,Super-counterpart (),,,48114,{},,va,48115,116139,43083
+,Exact counterpart (),,,48115,{},,burňik,48116,116534,41771
+,Super-counterpart (),,,48116,{},,angušť,48117,116929,41646
+,Exact counterpart (),,,48117,{},,phuro angušť,48118,117324,42709
+,Super-counterpart (),,,48118,{},,naj,48119,117719,42527
+,Super-counterpart (),,,48119,{},,naj,48120,118114,42527
+,Super-counterpart (),,,48120,{},,pro,48121,118509,42756
+,Exact counterpart (),,,48121,{},,čang,48122,118904,41788
+,Super-counterpart (),,,48122,{},,combo,48123,118904,41859
+,Exact counterpart (),,,48123,{},,térďa,48124,119694,43003
+,Super-counterpart (),,,48124,{},,pro,48125,120089,42756
+,Exact counterpart (),,,48125,{},,boka (1),48126,120484,41750
+,Super-counterpart (),,,48126,{},,šarka,48127,120879,42835
+,Exact counterpart (),,,48127,{},,ňoma,48128,121274,42565
+,Super-counterpart (),,,48128,{},,lípíši,48129,121274,42415
+,Super-counterpart (),,,48129,{},,angušť,48130,121669,41646
+,Super-counterpart (),,,48130,{},,paprečko,48131,121669,42637
+,Exact counterpart (),,,48131,{},,sárňa,48132,122064,42836
+,Exact counterpart (),,,48132,{},,pór,48133,122459,42740
+,Exact counterpart (),,,48133,{},,kolin,48134,122854,42337
+,Exact counterpart (),,,48134,{},,mello,48135,122854,42461
+,Super-counterpart (),,,48135,{},,čúči,48136,123249,41868
+,Super-counterpart (),,,48136,{},,čúči,48137,123644,41868
+,Exact counterpart (),,,48137,{},,čuččengero semo,48138,123644,41867
+,Super-counterpart (),,,48138,{},,čúči,48139,124039,41868
+,Exact counterpart (),,,48139,{},,puppa,48140,124434,42764
+,Exact counterpart (),,,48140,{},,pér,48141,575919,42667
+,Exact counterpart (),,,48141,{},,jílo,48142,124829,42200
+,Exact counterpart (),,,48142,{},,tidó,48143,125224,43022
+,Exact counterpart (),,,48143,{},,búko,48144,125619,41766
+,Exact counterpart (),,,48144,{},,májo,48145,125619,42441
+,Exact counterpart (),,,48145,{},,vešó,48146,126014,43119
+,Sub-counterpart (),,,48146,{},,"sléžinka, slíženka",48147,126409,42911
+,Exact counterpart (),,,48147,{},,ďomra,48148,126804,41939
+,Super-counterpart (),,,48148,{},,gój,48149,127199,42072
+,Exact counterpart (),,,48149,{},,derko,48150,127594,41744
+,Sub-counterpart (),,,48150,{},,boka (2),48151,127989,41751
+,Sub-counterpart (),,,48151,{},,forgó (2),48152,127989,42038
+,Sub-counterpart (),,,48152,{},,forgókokal,48153,127989,42039
+,Super-counterpart (),,,48153,{},,bul,48154,128384,41767
+,Super-counterpart (),,,48154,{},,žila,48155,552219,43164
+,Exact counterpart (),,,48155,{},,míha,48156,128779,42469
+,Exact counterpart (),,,48156,{},,péle,48157,129174,42648
+,Exact counterpart (),,,48157,{},,kár,48158,129569,42231
+,Super-counterpart (),,,48158,{},,mindž,48159,545504,42476
+,Super-counterpart (),,,48159,{},,mindž,48160,554984,42476
+,Exact counterpart (),,,48160,{},,lílegzinen,48161,129964,42410
+,Exact counterpart (),,,48161,{},,ášítozinen,48162,130359,41660
+,Exact counterpart (),,,48162,{},,čuklinen,48163,130754,41874
+,Exact counterpart (),,,48164,{},,kėhėginen,48165,131149,42253
+,Exact counterpart (),,,48165,{},,triskinen,48166,131544,43047
+,Exact counterpart (),,,48166,{},,iddzadinen,48167,131939,42153
+,Exact counterpart (),,,48167,{},,čhungeren,48168,132334,41827
+,Exact counterpart (),,,48168,{},,čhanden,48169,132729,41815
+,Exact counterpart (),,,48169,{},,danderen,48170,133124,41892
+,Exact counterpart (),,,48170,{},,čáren,48171,133519,41790
+,Para-counterpart (),,,48171,{},,ňálozinen,48172,133519,42534
+,Exact counterpart (),,,48172,{},,ňáli čujon,48173,133914,42532
+,Super-counterpart (),,,48173,{},,soven,48174,134309,42938
+,Exact counterpart (),,,48174,{},,horšoginen,48175,134704,42147
+,Exact counterpart (),,,48175,{},,dikhen súno,48176,135099,41923
+,Super-counterpart (),,,48176,{},,ušťen,48177,135494,43077
+,Exact counterpart (),,,48177,{},,khaňaren,48178,135889,42293
+, (),,,48178,{},,khaň,48179,135889,42292
+,Exact counterpart (),,,48179,{},,mutren,48180,136284,42522
+,Exact counterpart (),,,48180,{},,hijen,48181,136679,42136
+,Exact counterpart (),,,48181,{},,kúren,48182,137074,42366
+,Super-counterpart (),,,48182,{},,soven,48183,137074,42938
+,Exact counterpart (),,,48183,{},,rezdaven pe/pumen,48184,137469,42793
+,Exact counterpart (),,,48184,{},,rezdan,48185,137469,42791
+,Exact counterpart (),,,48185,{},,tresinen pe/pumen,48186,137469,43043
+,Exact counterpart (),,,48186,{},,firdinen,48187,137864,42027
+,Exact counterpart (),,,48187,{},,firistinen,48188,137864,42029
+,Super-counterpart (),,,48188,{},,oven (1),48189,138654,42608
+,Exact counterpart (),,,48195,{},,khamno,48196,139049,42290
+,Exact counterpart (),,,48197,{},,peren khamni,48198,139444,42670
+,Exact counterpart (),,,48198,{},,dživen,48199,139839,41970
+,Exact counterpart (),,,48199,{},,íleto,48200,569204,42165
+,Exact counterpart (),,,48200,{},,meren,48201,140234,42465
+,Sub-counterpart (),,,48201,{},,murdajon,48202,140234,42511
+,Exact counterpart (),,,48202,{},,múlo (1),48203,574734,42510
+,Sub-counterpart (),,,48203,{},,murdálo,48204,574734,42512
+,Super-counterpart (),,,48204,{},,tasson,48205,140629,42985
+,Exact counterpart (),,,48205,{},,murdaren,48206,141024,42513
+,Sub-counterpart (),,,48206,{},,ďilkolinen,48207,141024,41927
+,Super-counterpart (),,,48207,{},,múlo (2),48208,141419,42491
+,Exact counterpart (),,,48208,{},,dėgo,48209,569599,41901
+,Exact counterpart (),,,48209,{},,tėmėtinen,48210,141814,42998
+,Exact counterpart (),,,48210,{},,šíra,48211,142209,42900
+,Super-counterpart (),,,48211,{},,zorálo,48212,142604,43169
+,Exact counterpart (),,,48212,{},,ďengavo,48213,142999,41909
+,Exact counterpart (),,,48213,{},,sásto,48214,143394,42840
+,Exact counterpart (),,,48214,{},,nasválo,48215,143789,42545
+,Exact counterpart (),,,48215,{},,lázo,48216,144184,42388
+,Exact counterpart (),,,48216,{},,nátha,48217,144974,42546
+,Exact counterpart (),,,48217,{},,nasvalipe,48218,569994,42544
+,Exact counterpart (),,,48218,{},,šėbo,48219,145369,42846
+,Super-counterpart (),,,48219,{},,bėlešėto,48220,145369,41714
+,Exact counterpart (),,,48220,{},,kíknipe,48221,145764,42305
+,Exact counterpart (),,,48221,{},,šulipe,48222,146159,42952
+,Exact counterpart (),,,48222,{},,handžibe,48223,146554,42110
+,Exact counterpart (),,,48223,{},,kaparinen,48224,575129,42215
+,Exact counterpart (),,,48224,{},,haruven,48225,575129,42117
+,Exact counterpart (),,,48225,{},,hólaga,48226,146949,42141
+,Super-counterpart (),,,48226,{},,himló,48227,147344,42137
+,Exact counterpart (),,,48227,{},,geňňo,48228,147739,42062
+,Super-counterpart (),,,48228,{},,jėlo,48229,148134,42197
+,Exact counterpart (),,,48229,{},,sasťaren,48230,148529,42839
+,Super-counterpart (),,,48230,{},,orvoši,48231,148924,42603
+,Exact counterpart (),,,48231,{},,orvoššágo,48232,149319,42604
+,Exact counterpart (),,,48232,{},,ďócceri,48233,149319,41936
+,Exact counterpart (),,,48233,{},,mirgo,48234,149714,42478
+,Exact counterpart (),,,48234,{},,"fárotno, fárutno",48235,150109,42009
+,Exact counterpart (),,,48235,{},,pihėlinen,48236,150504,42711
+,Exact counterpart (),,,48236,{},,luštavo,48237,150899,42430
+,Exact counterpart (),,,48237,{},,kopasno,48238,151294,42347
+,Exact counterpart (),,,48238,{},,bénavo,48239,151689,41715
+,Super-counterpart (),,,48239,{},,bango,48240,151689,41693
+,Exact counterpart (),,,48240,{},,kašuko,48241,152084,42242
+,Exact counterpart (),,,48241,{},,nímavo,48242,152479,42559
+,Exact counterpart (),,,48242,{},,koro,48243,152874,42353
+,Exact counterpart (),,,48243,{},,máto,48244,153269,42457
+,Exact counterpart (),,,48244,{},,nango,48245,153664,42535
+,Exact counterpart (),,,48245,{},,han,48246,154059,42108
+,Super-counterpart (),,,48246,{},,hábe,48247,154454,42090
+,Exact counterpart (),,,48247,{},,tádo,48248,154849,42968
+,Exact counterpart (),,,48248,{},,jálo,48249,155244,42190
+,Exact counterpart (),,,48249,{},,íretno,48250,155639,42170
+,Exact counterpart (),,,48250,{},,pošvatno,48251,156429,42744
+,Super-counterpart (),,,48251,{},,pijen,48252,156824,42713
+,Exact counterpart (),,,48252,{},,khapaven,48253,156824,42296
+,Exact counterpart (),,,48253,{},,bokhajon,48254,157219,41753
+,"Super-counterpart (The meaning of ‘famine’ would be usually specified by the modifier ‘big’ to the noun bokh ‘hunger’: bari bokh ‘big hunger, famine’.)",,,48254,{},,bokh,48255,157614,41752
+,Exact counterpart (),,,48255,{},,trušajon,48256,158009,43051
+,Exact counterpart (),,,48256,{},,oven trušálo,48257,158009,42611
+,Super-counterpart (),,,48257,{},,pijen,48258,158404,42713
+,Super-counterpart (),,,48258,{},,ciden,48259,158404,41831
+,Super-counterpart (),,,48259,{},,ráginen,48260,158799,42771
+,Sub-counterpart (),,,48260,{},,žuvačkázinen,48261,158799,43176
+,Exact counterpart (),,,48261,{},,nakhaven,48262,159194,42530
+,Super-counterpart (),,,48262,{},,tasaven,48263,159589,42983
+,Super-counterpart (),,,48263,{},,tassaren,48264,159589,42984
+,Exact counterpart (),,,48264,{},,táven,48265,159984,42989
+,Exact counterpart (),,,48265,{},,kerďol,48266,160379,42264
+,Super-counterpart (),,,48266,{},,peken,48267,160774,42659
+,Super-counterpart (),,,48267,{},,peken,48268,161169,42659
+,Exact counterpart (),,,48268,{},,péťa,48269,161564,42675
+,Exact counterpart (),,,48269,{},,kėmėncė,48270,161564,42255
+,Super-counterpart (),,,48270,{},,píri,48271,161959,42721
+,Sub-counterpart (),,,48271,{},,"šėrpėňó, šėrpėňóva",48272,161959,42870
+,Super-counterpart (),,,48272,{},,píri,48273,162354,42721
+,Sub-counterpart (),,,48273,{},,kávéfézó,48274,162354,42243
+,Exact counterpart (),,,48274,{},,palacinkašító,48275,162749,42618
+,Super-counterpart (),,,48275,{},,čáro,48276,163144,41791
+,Exact counterpart (),,,48276,{},,táňíri,48277,163539,42978
+,Super-counterpart (),,,48277,{},,čáro,48278,163934,41791
+,Exact counterpart (),,,48278,{},,koršó,48279,164329,42355
+,Exact counterpart (),,,48279,{},,kúči,48280,164724,42364
+,Exact counterpart (),,,48280,{},,roj,48281,165514,42796
+,Super-counterpart (),,,48281,{},,čhúri,48282,165909,41828
+,Super-counterpart (),,,48282,{},,vella,48283,166304,43109
+,Exact counterpart (),,,48283,{},,fogó,48284,166699,42034
+,Super-counterpart (),,,48284,{},,hábe,48285,167094,42090
+,Exact counterpart (),,,48285,{},,reggeli,48286,167489,42782
+,Exact counterpart (),,,48286,{},,ebído,48287,167884,41976
+,Exact counterpart (),,,48287,{},,vačora,48288,168674,43084
+,Exact counterpart (),,,48288,{},,šužaren,48289,169069,42960
+,Sub-counterpart (),,,48289,{},,sitálinen,48290,169464,42905
+,Sub-counterpart (),,,48290,{},,čujaren,48291,169464,41871
+,Sub-counterpart (),,,48291,{},,šužaren,48292,169859,42960
+,Exact counterpart (),,,48292,{},,pucolinen,48293,169859,42762
+,Exact counterpart (),,,48293,{},,kėvėrinen,48294,170254,42283
+,Exact counterpart (),,,48294,{},,máro,48295,170649,42432
+,Exact counterpart (The elicited meaning ‘dough’ may be due to misunderstanding; the item needs to be checked.),,,48296,{},,kovási,48297,171044,42360
+,Para-counterpart (),,,48297,{},,humer,48298,171044,42151
+,Exact counterpart (),,,48298,{},,dagastinen,48299,171439,41886
+,Para-counterpart (),,,48299,{},,ďúrinen,48300,171439,41955
+,Exact counterpart (),,,48300,{},,járo,48301,171834,42192
+,Para-counterpart (),,,48301,{},,ďúrinen,48302,172229,41955
+,Super-counterpart (),,,48302,{},,phageren,48303,172229,42680
+,Sub-counterpart (),,,48303,{},,élinen,48304,172229,41981
+,Exact counterpart (),,,48304,{},,mlíno,48305,172624,42483
+,Super-counterpart (),,,48305,{},,mas,48306,173809,42453
+,Super-counterpart (),,,48307,{},,gój,48308,174204,42072
+,Sub-counterpart (),,,48308,{},,kóbáskiňa,48309,174204,42328
+,Exact counterpart (),,,48309,{},,zumi,48310,174599,43173
+,Exact counterpart (),,,48310,{},,zéčígo,48311,174994,43157
+,Exact counterpart (),,,48311,{},,babo,48312,175389,41675
+,Exact counterpart (),,,48312,{},,krumpja,48313,175784,42343
+,Exact counterpart (),,,48313,{},,ďiméčo,48314,176179,41930
+,Super-counterpart (),,,48314,{},,čomó,48315,176574,41860
+,Exact counterpart (),,,48318,{},,figa,48319,176969,42025
+,Super-counterpart (),,,48319,{},,"sélló, séllóva",48320,177364,42854
+,Exact counterpart (),,,48320,{},,ákhor,48321,177759,41619
+,Exact counterpart (),,,48321,{},,oliva,48322,178154,42585
+,Exact counterpart (),,,48322,{},,olaji,48323,178549,42584
+,Exact counterpart (),,,48323,{},,čiken,48324,178944,41839
+,Exact counterpart (),,,48324,{},,lon,48325,179339,42417
+,Exact counterpart (),,,48325,{},,pepšo,48326,179734,42666
+,Super-counterpart (),,,48326,{},,paprika,48327,180129,42638
+,Exact counterpart (),,,48327,{},,míza,48328,180524,42482
+,Exact counterpart (),,,48328,{},,cukro,48329,180919,41796
+,Exact counterpart (),,,48329,{},,thud,48330,181314,43020
+,Exact counterpart (),,,48330,{},,pišen,48331,181709,42723
+,Exact counterpart (),,,48331,{},,šajto,48332,182104,42819
+,Sub-counterpart (),,,48332,{},,ťiral,48333,182104,43029
+,Exact counterpart (),,,48333,{},,ťhil,48334,182499,43016
+,Sub-counterpart (),,,48334,{},,italo,48335,182894,42160
+,Exact counterpart (),,,48335,{},,mol (1),48336,183684,42486
+,Exact counterpart (),,,48336,{},,šero,48337,184079,42868
+,Exact counterpart (),,,48337,{},,tojáši,48338,184869,43033
+,Exact counterpart (),,,48338,{},,kaňhajáro,48339,184869,42226
+,Exact counterpart (),,,48339,{},,žuto (2),48340,185264,43175
+,Exact counterpart (),,,48340,{},,urďen,48341,185659,43074
+,Super-counterpart (),,,48341,{},,gáda,48342,186054,42051
+,Exact counterpart (),,,48342,{},,sabó,48343,186449,42813
+,Exact counterpart (),,,48343,{},,varó,48344,186449,43104
+,Super-counterpart (),,,48344,{},,aňago,48345,186844,41634
+,Exact counterpart (),,,48345,{},,ďapjúšno aňago,48346,187239,41895
+,Exact counterpart (),,,48346,{},,ďapjúaňago,48347,187239,41894
+,Exact counterpart (),,,48347,{},,vásoňi,48348,187634,43105
+,Exact counterpart (),,,48348,{},,pamuko,48349,188029,42627
+,Exact counterpart (),,,48349,{},,šėjmo,48350,188424,42849
+,Super-counterpart (),,,48350,{},,bunda,48351,189214,41770
+,Super-counterpart (),,,48351,{},,cipa,48352,189609,41848
+,Super-counterpart (),,,48352,{},,ketinen,48353,190794,42280
+,Exact counterpart (),,,48353,{},,siven,48354,191584,42908
+,Exact counterpart (),,,48354,{},,sú,48355,191979,42947
+,Exact counterpart (),,,48355,{},,cérna,48356,192769,41808
+,Super-counterpart (),,,48356,{},,fėštinen,48357,193164,42023
+,Exact counterpart (),,,48357,{},,palášťa,48358,193559,42619
+,Para-counterpart (),,,48358,{},,keppeňi,48359,193954,42262
+,Super-counterpart (),,,48359,{},,gáda,48360,194744,42051
+,Exact counterpart (),,,48360,{},,kabáto,48361,195139,42203
+,Exact counterpart (),,,48361,{},,gad,48362,195534,42050
+,Exact counterpart (),,,48362,{},,gallíra,48363,195929,42055
+,Exact counterpart (),,,48363,{},,pasterni,48364,196324,42651
+,Exact counterpart (),,,48364,{},,holev,48365,197114,42144
+,Sub-counterpart (),,,48365,{},,zokni,48366,197509,43167
+,Sub-counterpart (),,,48366,{},,harišňa,48367,197509,42115
+,Sub-counterpart (),,,48367,{},,fusekla,48368,197509,42046
+,Exact counterpart (),,,48368,{},,topánka,48369,197904,43037
+,Super-counterpart (),,,48369,{},,čuka,48370,197904,41873
+,Exact counterpart (),,,48370,{},,ťirhaj,48371,198299,43030
+,Exact counterpart (),,,48371,{},,šusteri,48372,198694,42957
+,Sub-counterpart (),,,48372,{},,kalapa,48373,199089,42209
+,Sub-counterpart (),,,48373,{},,šipka,48374,199089,42897
+,Super-counterpart (),,,48374,{},,síja,48375,199484,42880
+,Exact counterpart (),,,48375,{},,"kesťú, kesťúva",48376,199879,42279
+,Exact counterpart (),,,48376,{},,fáťuli,48377,200274,42010
+,Exact counterpart (),,,48377,{},,posiťi,48378,200669,42742
+,Exact counterpart (),,,48378,{},,gombo,48379,201064,42073
+,Exact counterpart (),,,48379,{},,špendlíko,48380,201459,42940
+,Exact counterpart (),,,48380,{},,gembešťú,48381,201459,42060
+,Exact counterpart (),,,48381,{},,díso,48382,201854,41932
+,Exact counterpart (),,,48383,{},,šperko,48384,202249,42941
+,Exact counterpart (),,,48385,{},,angrusti,48386,202644,41645
+,Exact counterpart (),,,48386,{},,"kėrpėlėcė, kėrpėlėca",48387,203039,42278
+,Super-counterpart (),,,48387,{},,lánco,48388,203434,42379
+,Exact counterpart (),,,48388,{},,mirikli,48389,203829,42479
+,Super-counterpart (),,,48389,{},,ďenďo,48390,203829,41908
+,Exact counterpart (),,,48390,{},,"fingó, fingóva",48391,204224,42026
+,Sub-counterpart (),,,48391,{},,čelenka,48392,204619,41800
+,Exact counterpart (),,,48392,{},,tetováláši,48393,205014,43011
+,Sub-counterpart (),,,48393,{},,žepkendó,48394,205409,43162
+,Sub-counterpart (),,,48394,{},,ronďo,48395,205409,42802
+,Sub-counterpart (),,,48395,{},,patavo,48396,205409,42655
+,Exact counterpart (),,,48396,{},,teríkezó,48397,205804,43005
+,Exact counterpart (),,,48397,{},,kángli,48398,206199,42225
+,Exact counterpart (),,,48398,{},,hulaven,48399,206199,42149
+,Exact counterpart (),,,48399,{},,"kėfė, kėfa",48400,206594,42252
+,Exact counterpart (),,,48400,{},,konťo,48401,206989,42341
+,Exact counterpart (),,,48401,{},,beretva,48402,207384,41717
+,Exact counterpart (),,,48402,{},,kėnéčė,48403,207779,42257
+,Exact counterpart (),,,48403,{},,sapuňi,48404,208174,42833
+,Exact counterpart (),,,48404,{},,ďíkeri,48405,208569,41920
+,Super-counterpart (),,,48405,{},,bešen,48406,208964,41722
+,Super-counterpart (),,,48406,{},,kher,48407,209359,42298
+,Exact counterpart (),,,48407,{},,"guňhó, guňhóva",48408,209754,42085
+,Sub-counterpart (),,,48408,{},,stano,48409,210544,42945
+,Sub-counterpart (),,,48409,{},,šátori,48410,210544,42843
+,Exact counterpart (),,,48410,{},,udvara,48411,210939,43062
+,Para-counterpart (),,,48411,{},,koňha,48412,211729,42340
+,Sub-counterpart (),,,48412,{},,soba,48413,212519,42916
+,Sub-counterpart (),,,48413,{},,hejšígo,48414,212519,42129
+,Sub-counterpart (),,,48414,{},,vuder,48415,212914,43149
+,Sub-counterpart (),,,48415,{},,kaputa,48416,212914,42230
+,Exact counterpart (),,,48416,{},,futro,48417,213309,42047
+,Exact counterpart (),,,48417,{},,zárubňa,48418,213309,43155
+,Exact counterpart (),,,48418,{},,ajtóragastó,48419,213309,41613
+,Exact counterpart (),,,48419,{},,záro,48420,213704,43154
+,Exact counterpart (),,,48420,{},,reteza,48421,214099,42790
+,Super-counterpart (),,,48421,{},,"kallanťú, kallanťúva",48422,214099,42211
+,Exact counterpart (),,,48422,{},,lakato,48423,570389,42375
+,Exact counterpart (),,,48423,{},,klúčo,48424,214494,42325
+,Exact counterpart (),,,48424,{},,bloka,48425,214889,41747
+,Sub-counterpart (),,,48425,{},,paló,48426,215284,42624
+,Para-counterpart (),,,48426,{},,phú,48427,215284,42703
+,Sub-counterpart (),,,48427,{},,ėmėlėto,48428,215284,41780
+,Exact counterpart (),,,48428,{},,falo,48429,215679,42005
+,Sub-counterpart (),,,48429,{},,kandalló,48430,216074,42222
+,Exact counterpart (),,,48430,{},,kájha,48431,216469,42208
+,Sub-counterpart (),,,48431,{},,šporhelto,48432,216469,42943
+,Exact counterpart (),,,48432,{},,kímíňi,48433,216864,42307
+,Exact counterpart (),,,48433,{},,létra,48434,194349,42404
+,Exact counterpart (),,,48434,{},,vodro,48435,217259,43145
+,Super-counterpart (),,,48435,{},,than,48436,217259,43014
+,Exact counterpart (),,,48436,{},,perníca,48437,217654,42673
+,Sub-counterpart (),,,48437,{},,šerand,48438,217654,42865
+,Exact counterpart (),,,48438,{},,"pokróca, pakróca",48439,218049,42736
+,Exact counterpart (),,,48439,{},,takaró,48440,218049,42972
+,Sub-counterpart (),,,48440,{},,paplaňi,48441,218049,42636
+,Sub-counterpart (),,,48441,{},,larisa,48442,218049,42384
+,Exact counterpart (),,,48442,{},,séko,48443,218444,42850
+,Exact counterpart (),,,48443,{},,kafidi,48444,218839,42206
+,Sub-counterpart (),,,48444,{},,lampa,48445,219234,42376
+,Sub-counterpart (),,,48445,{},,lampáši,48446,219234,42378
+,Sub-counterpart (),,,48446,{},,villalampa,48447,219234,43136
+,Exact counterpart (),,,48447,{},,ďerťa,48448,219629,41912
+,Exact counterpart (),,,48448,{},,póco,48449,220024,42731
+,Sub-counterpart (),,,48449,{},,polička,48450,220024,42737
+,Sub-counterpart (),,,48450,{},,regáli,48451,220024,42781
+,Exact counterpart (),,,48451,{},,kopana,48452,220419,42346
+,Exact counterpart (),,,48452,{},,serha,48453,220814,42867
+,Exact counterpart (),,,48453,{},,gerenda,48454,222394,42065
+,Exact counterpart (),,,48454,{},,oslopo,48455,222789,42605
+,Exact counterpart (),,,48455,{},,deska,48456,223184,41914
+,Exact counterpart (),,,48456,{},,klenba,48457,223579,42322
+,Exact counterpart (),,,48458,{},,kémívėši,48459,223974,42256
+,Exact counterpart (),,,48459,{},,tégla,48460,224369,42991
+,Exact counterpart (),,,48460,{},,malta,48461,224764,42444
+,Exact counterpart (),,,48461,{},,válka,48462,225159,43096
+,Exact counterpart (),,,48462,{},,tábori,48463,556564,42967
+,Para-counterpart (),,,48463,{},,hinta,48464,561304,42138
+,Exact counterpart (),,,48464,{},,hállóhinta,48465,561304,42106
+,Super-counterpart (),,,48467,{},,gazda,48468,225554,42058
+,Sub-counterpart (),,,48468,{},,jezeďáko,48469,225554,42199
+,Super-counterpart (),,,48469,{},,phú,48470,225949,42703
+,Exact counterpart (),,,48470,{},,bár (2),48471,226344,41696
+,Exact counterpart (),,,48471,{},,kerítíši,48472,227134,42275
+,Exact counterpart (),,,48472,{},,járko,48473,227529,42191
+,Exact counterpart (),,,48473,{},,sántinen,48474,227924,42831
+,Exact counterpart (),,,48474,{},,kapálinen,48475,228714,42214
+,Exact counterpart (),,,48475,{},,ášó,48476,229109,41661
+,Exact counterpart (),,,48476,{},,lapáta,48477,229504,42381
+,Exact counterpart (),,,48477,{},,kapa,48478,229899,42213
+,Super-counterpart (),,,48478,{},,vella,48479,230294,43109
+,Exact counterpart (),,,48479,{},,gėrėblė,48480,230689,42064
+,Super-counterpart (),,,48480,{},,čhiven,48481,231084,41822
+,Super-counterpart (),,,48481,{},,mago,48482,231479,42439
+,Exact counterpart (),,,48483,{},,kasálinen,48484,231874,42239
+,Sub-counterpart (),,,48484,{},,"šalló, šallóva",48485,232269,42823
+,Sub-counterpart (),,,48485,{},,kasa,48486,232269,42238
+,Exact counterpart (),,,48486,{},,aratáši,48487,233454,41651
+,Exact counterpart (),,,48487,{},,gabona,48488,233849,42048
+,Sub-counterpart (),,,48488,{},,semo,48489,233849,42859
+,Exact counterpart (),,,48489,{},,šužo jiv,48490,234244,42962
+,Exact counterpart (),,,48490,{},,arpa,48491,234639,41620
+,Exact counterpart (),,,48491,{},,rožo,48492,235034,42805
+,Exact counterpart (),,,48492,{},,zabo,48493,235429,43150
+,Exact counterpart (),,,48493,{},,bobo,48494,235824,41748
+,Exact counterpart (),,,48494,{},,riža,48495,236219,42794
+,Exact counterpart (),,,48495,{},,"mezó, mezóva",48496,236614,42467
+,Exact counterpart (),,,48496,{},,sína,48497,237009,42894
+,Super-counterpart (),,,48499,{},,zelenipe,48500,237404,43158
+,Exact counterpart (),,,48500,{},,ítėtinen,48501,237799,42180
+,Super-counterpart (),,,48501,{},,tėvo,48502,238194,43012
+,Exact counterpart (),,,48502,{},,ága,48503,238589,41612
+,Sub-counterpart (),,,48503,{},,"fentó, fentóva",48504,238589,42021
+,Exact counterpart (),,,48504,{},,"lėvėlė, lėvėla",48505,238984,42406
+,Exact counterpart (),,,48505,{},,virága,48506,239379,43140
+,Exact counterpart (),,,48506,{},,luluďi,48507,239379,42429
+,Super-counterpart (),,,48507,{},,kašt,48508,239774,42240
+,Exact counterpart (The word may be a nonce loanword.),,,48508,{},,telďo,48509,240169,42994
+,Exact counterpart (),,,48510,{},,biko,48511,240564,41735
+,Exact counterpart (),,,48513,{},,makko,48514,242144,42443
+,Super-counterpart (),,,48514,{},,"sélló, séllóva",48515,242539,42854
+,Exact counterpart (),,,48515,{},,duhano,48516,242934,41946
+,Sub-counterpart (),,,48516,{},,cigarettázinen,48517,243329,41837
+,Super-counterpart (),,,48517,{},,pijen,48518,243329,42713
+,Exact counterpart (),,,48518,{},,pípa,48519,243724,42718
+,Exact counterpart (),,,48519,{},,"tékó, tékóva",48520,244119,42663
+,Exact counterpart (),,,48525,{},,terčo,48526,244514,43002
+,Super-counterpart (),,,48526,{},,cipa,48527,245304,41848
+,Exact counterpart (),,,48527,{},,eňva,48528,245699,41989
+,Exact counterpart (),,,48528,{},,palma,48529,246094,42623
+,Exact counterpart (),,,48530,{},,kokosi,48531,246489,42336
+,Sub-counterpart (),,,48531,{},,citroňi,48532,246884,41854
+,Sub-counterpart (),,,48532,{},,naranči,48533,246884,42537
+,Exact counterpart (),,,48533,{},,banáno,48534,247279,41689
+,Super-counterpart (),,,48534,{},,dudum,48535,249254,41944
+,Super-counterpart (),,,48535,{},,dudum,48536,249649,41944
+,Exact counterpart (),,,48536,{},,bambusi,48537,250044,41687
+,Exact counterpart (),,,48537,{},,cukornádo,48538,250439,41876
+,Exact counterpart (),,,48538,{},,čóváňi,48539,251229,41866
+,Exact counterpart (),,,48539,{},,"huhur, huhura",48540,251624,42148
+,Exact counterpart (),,,48540,{},,šiška,48541,554194,42903
+,Super-counterpart (),,,48541,{},,keren,48542,252019,42266
+,Super-counterpart (),,,48542,{},,keren,48543,575524,42266
+,Super-counterpart (),,,48543,{},,búti,48544,252414,41776
+,Exact counterpart (),,,48544,{},,dógozinen,48545,252414,41937
+,Exact counterpart (),,,48545,{},,banďaren,48546,252809,41690
+,Exact counterpart (),,,48546,{},,hajtinen,48547,253204,42102
+,Exact counterpart (),,,48547,{},,phanden,48548,253599,42682
+,Exact counterpart (),,,48548,{},,phanden ári,48549,253994,42683
+,Super-counterpart (),,,48549,{},,lánco,48550,254389,42379
+,Exact counterpart (),,,48550,{},,"šéllo, šélló",48551,254784,42853
+,Super-counterpart (),,,48551,{},,čomó,48552,255179,41860
+,Para-counterpart (),,,48552,{},,máren,48553,255574,42451
+,Super-counterpart (),,,48553,{},,čalaven,48554,255574,41785
+,Super-counterpart (),,,48554,{},,peken,48555,255574,42659
+,Super-counterpart (),,,48555,{},,čalaven,48556,255969,41785
+,Sub-counterpart (),,,48556,{},,čhinen,48557,256364,41819
+,Sub-counterpart (),,,48557,{},,ňírinen,48558,256364,42563
+,Sub-counterpart (),,,48558,{},,čúren,48559,256364,41881
+,Exact counterpart (),,,48559,{},,čhoren téle,48560,256759,41826
+,Super-counterpart (),,,48560,{},,čhingeren,48561,257154,41821
+,Sub-counterpart (),,,48561,{},,saňaren,48562,257154,42827
+,Super-counterpart (),,,48562,{},,phosaven,48563,257549,42702
+,Super-counterpart (),,,48563,{},,čhúri,48564,257944,41828
+,Exact counterpart (),,,48564,{},,"alló, allóva",48565,258339,41628
+,Exact counterpart (),,,48565,{},,tover,48566,258734,43039
+,Exact counterpart (),,,48566,{},,phagen,48567,259524,42679
+,Super-counterpart (),,,48567,{},,rumime,48568,259919,42806
+,Sub-counterpart (),,,48568,{},,phágo,48569,259919,42681
+,Exact counterpart (),,,48569,{},,čhinen sít,48570,260314,41820
+,Exact counterpart (),,,48570,{},,pharaven,48571,260709,42684
+,Exact counterpart (),,,48571,{},,kušen,48572,261499,42368
+,Exact counterpart (),,,48572,{},,dergelinen,48573,261894,41705
+,Exact counterpart (),,,48573,{},,khosen,48574,576314,42299
+,Para-counterpart (),,,48574,{},,ciden ári,48575,262289,41832
+,Para-counterpart (),,,48575,{},,ciden sít,48576,262289,41833
+,Super-counterpart (),,,48576,{},,ciden,48577,262684,41831
+,Super-counterpart (),,,48577,{},,ciden ári,48578,263079,41832
+,Exact counterpart (),,,48578,{},,akastinen,48579,263474,41617
+,Super-counterpart (),,,48579,{},,"ňominen, ňuminen",48580,263869,42566
+,Para-counterpart (),,,48580,{},,ňúzinen,48581,264264,42571
+,Super-counterpart (),,,48581,{},,"ňominen, ňuminen",48582,264264,42566
+,Exact counterpart (),,,48582,{},,ňomkodinen,48583,264264,42567
+,Super-counterpart (),,,48583,{},,čhoren,48584,264659,41825
+,Exact counterpart (),,,48584,{},,thoven (1),48585,265054,43017
+,Exact counterpart (),,,48585,{},,šeprinen,48586,265449,42863
+,Exact counterpart (),,,48586,{},,"šeprú, šeprúva",48587,265844,42864
+,Exact counterpart (),,,48587,{},,sersámo,48588,266239,42871
+,Exact counterpart (),,,48588,{},,áčo,48589,266634,41607
+,Exact counterpart (),,,48589,{},,ípítinen,48590,267029,42169
+,Exact counterpart (),,,48590,{},,fúrinen,48591,267424,42044
+,Exact counterpart (),,,48591,{},,víšinen,48592,267819,43141
+,Exact counterpart (),,,48592,{},,fírísi,48593,268214,42028
+,Exact counterpart (),,,48593,{},,kalapáči,48594,268609,42210
+,Exact counterpart (),,,48594,{},,klinco,48595,269004,42323
+,Exact counterpart (),,,48595,{},,ragastó,48596,269399,41948
+,Exact counterpart (),,,48596,{},,kováči,48597,269794,42359
+,Exact counterpart (),,,48597,{},,ílló,48598,270584,42166
+,Exact counterpart (),,,48598,{},,amoňi,48599,270584,41633
+,Super-counterpart (),,,48599,{},,čhoren,48600,270979,41825
+,Exact counterpart (),,,48600,{},,somnakaj,48601,271374,42932
+,Exact counterpart (),,,48601,{},,araňo,48602,271374,41650
+,Exact counterpart (),,,48602,{},,ėzišto,48603,271769,42002
+,Super-counterpart (),,,48603,{},,trast,48604,272559,43041
+,Exact counterpart (),,,48604,{},,ólmo,48605,272954,42586
+,Sub-counterpart (),,,48606,{},,cíno,48607,273349,41847
+,Sub-counterpart (),,,48607,{},,plého,48608,273349,42727
+,Super-counterpart (),,,48612,{},,phú,48613,274534,42703
+,Exact counterpart (),,,48613,{},,aďago,48614,274534,41610
+,Super-counterpart (),,,48615,{},,caklo,48616,274929,41783
+,Exact counterpart (),,,48616,{},,khuven,48617,275324,42300
+,Exact counterpart (),,,48617,{},,košara,48618,275719,42356
+,Super-counterpart (),,,48618,{},,séňėgo,48619,276114,42861
+,Super-counterpart (),,,48619,{},,séňėgo,48620,276509,42861
+,Exact counterpart (),,,48620,{},,cekkeri,48621,276904,41799
+,Exact counterpart (),,,48621,{},,lėďezó,48622,277299,42391
+,Exact counterpart (),,,48622,{},,lėďezinen,48623,277694,42390
+,Exact counterpart (),,,48623,{},,balvajáren,48624,277694,41684
+,Exact counterpart (),,,48624,{},,faraginen,48625,278089,42006
+,Exact counterpart (),,,48625,{},,sobrási,48626,278484,42918
+,Exact counterpart (),,,48626,{},,sobro,48627,261104,42919
+,Exact counterpart (),,,48627,{},,víšó,48628,279274,43142
+,Exact counterpart (),,,48628,{},,bumerango,48629,558934,41769
+,Super-counterpart (),,,48629,{},,fėštíko,48630,279669,42022
+,Super-counterpart (),,,48630,{},,fėštinen,48631,280064,42023
+,Exact counterpart (),,,48631,{},,cidaven páňi,48632,562489,41830
+,Super-counterpart (),,,48632,{},,íko,48633,562884,42163
+,Sub-counterpart (),,,48633,{},,čipesi,48634,562884,41849
+,Super-counterpart (),,,48634,{},,éllešító,48635,555774,41965
+,Sub-counterpart (),,,48635,{},,mozginen,48636,280459,42503
+,Sub-counterpart (),,,48636,{},,mozgatinel,48637,280459,42502
+,Exact counterpart (),,,48637,{},,mozdítinen,48638,280459,42500
+,Exact counterpart (),,,48638,{},,irinen,48639,280854,42174
+,Exact counterpart (),,,48639,{},,irinďon,48640,281249,42173
+,Exact counterpart (),,,48640,{},,irinen pe/pumen,48641,281249,42176
+,Exact counterpart (),,,48641,{},,čomagolinen,48642,281644,41858
+,Sub-counterpart (),,,48642,{},,ušinen,48643,282039,43075
+,Para-counterpart (),,,48643,{},,šodrinen,48644,282039,42921
+,Para-counterpart (),,,48644,{},,ďúrinen,48645,282039,41955
+,Exact counterpart (),,,48645,{},,gurítinen,48646,282039,42087
+,Super-counterpart (),,,48646,{},,muken,48647,282434,42507
+,Super-counterpart (),,,48647,{},,čavarinen,48648,282829,41793
+,Super-counterpart (),,,48648,{},,šodrinen,48649,282829,42921
+,Super-counterpart (),,,48649,{},,ušťen,48650,283224,43077
+,Super-counterpart (),,,48650,{},,džan upre,48651,283224,41966
+,Para-counterpart (),,,48651,{},,ėmėlinen,48652,283619,41985
+,Sub-counterpart (),,,48652,{},,vazden,48653,283619,43106
+,Exact counterpart (),,,48653,{},,peren,48654,284014,42669
+,Exact counterpart (),,,48654,{},,čepeginen,48655,284409,41804
+,Exact counterpart (),,,48655,{},,čhiden,48656,284804,41818
+,Super-counterpart (),,,48656,{},,astaren,48657,285199,41663
+,Super-counterpart (),,,48657,{},,uštiden,48658,285199,43078
+,Exact counterpart (),,,48658,{},,rezdaven,48659,285594,42792
+,Exact counterpart (),,,48659,{},,tresinen,48660,285594,43042
+,Exact counterpart (),,,48660,{},,čujon,48661,285989,41872
+,Super-counterpart (),,,48661,{},,bukinen,48662,286384,41765
+,Super-counterpart (),,,48662,{},,džan,48663,286779,41958
+,Exact counterpart (),,,48663,{},,úsinen,48664,287174,43076
+,Super-counterpart (),,,48664,{},,bukinen,48665,287569,41765
+,Exact counterpart (),,,48665,{},,freččelinen,48666,287964,42042
+,Exact counterpart (),,,48666,{},,"repilinen, repelinen",48667,288754,42785
+,Exact counterpart (),,,48667,{},,phuden,48668,289149,42705
+,Super-counterpart (),,,48668,{},,ťúsinen,48669,289544,43056
+,Super-counterpart (),,,48669,{},,másinen,48670,289544,42455
+,Exact counterpart (),,,48670,{},,terbėkelinen,48671,289939,43001
+,Exact counterpart (),,,48671,{},,gugolinen,48672,290334,42081
+,Super-counterpart (),,,48672,{},,ťúsinen,48673,290729,43056
+,Super-counterpart (),,,48673,{},,ušťen,48674,291124,43077
+,Exact counterpart (),,,48674,{},,pruťinen,48675,291519,42761
+,Super-counterpart (),,,48675,{},,khelen,48676,291914,42297
+,Exact counterpart (),,,48676,{},,phíren,48677,292309,42700
+,Sub-counterpart (),,,48677,{},,šétálinen,48678,292309,42874
+,Super-counterpart (),,,48678,{},,banďon,48679,292704,41691
+,Super-counterpart (),,,48679,{},,nášen,48680,293099,42540
+,Super-counterpart (),,,48680,{},,džan,48681,293494,41958
+,Para-counterpart (),,,48681,{},,phíren,48682,293494,42700
+,Super-counterpart (),,,48682,{},,džan upre,48683,293889,41966
+,Super-counterpart (),,,48683,{},,másinen,48684,294284,42455
+,Exact counterpart (),,,48684,{},,džan téle,48685,294679,41964
+,Exact counterpart (),,,48685,{},,džan ári,48686,295074,41960
+,Exact counterpart (),,,48686,{},,aven,48687,295469,41668
+,Exact counterpart (),,,48687,{},,aven pále,48688,295864,41636
+,Super-counterpart (),,,48688,{},,džan,48689,296259,41958
+,Super-counterpart (),,,48689,{},,džan peske/pumenge,48690,296259,41962
+,Super-counterpart (),,,48690,{},,naššon,48691,296654,42543
+,Exact counterpart (),,,48691,{},,tílinen,48692,296654,43026
+,Exact counterpart (),,,48692,{},,čhiven pe/pumen,48693,297049,41823
+,Super-counterpart (),,,48693,{},,ňomozinen,48694,297839,42568
+,Para-counterpart (),,,48694,{},,lešinen,48695,297839,42403
+,Super-counterpart (),,,48695,{},,resen,48696,298234,42789
+,Exact counterpart (),,,48696,{},,resaďon,48697,298629,42788
+,Sub-counterpart (),,,48697,{},,aven ánde,48698,299024,41669
+,Sub-counterpart (),,,48698,{},,džan ánde,48699,299024,41959
+,Exact counterpart (),,,48699,{},,džan khére,48700,563279,41961
+,Sub-counterpart (),,,48700,{},,phíraven,48701,299419,42699
+,Super-counterpart (),,,48701,{},,ledžen,48702,299419,42392
+,Exact counterpart (),,,48702,{},,anen,48703,301394,41641
+,Exact counterpart (),,,48703,{},,bičhaven,48704,301789,41726
+,Super-counterpart (),,,48704,{},,ledžen,48705,302184,42392
+,Super-counterpart (),,,48705,{},,vėzėtinen,48706,302579,43121
+,Sub-counterpart (),,,48706,{},,tráden,48707,302579,43040
+,Super-counterpart (),,,48707,{},,phíren,48708,302974,42700
+,Super-counterpart (),,,48708,{},,"ňominen, ňuminen",48709,303369,42566
+,Super-counterpart (),,,48709,{},,definen,48710,303369,41900
+, (),,,48710,{},,tolinen,48711,303369,43034
+,Super-counterpart (),,,48712,{},,drom,48713,303764,41943
+,Exact counterpart (),,,48713,{},,orságúto,48714,303764,42602
+,Super-counterpart (),,,48714,{},,drom,48715,304159,41943
+,Exact counterpart (),,,48718,{},,hída,48719,304554,42135
+,Exact counterpart (),,,48719,{},,koči,48720,304949,42329
+,Super-counterpart (),,,48720,{},,verda,48721,304949,43115
+,Exact counterpart (),,,48721,{},,kereko,48722,305344,42265
+,Para-counterpart (),,,48722,{},,kórmáňi,48723,305344,42352
+,Exact counterpart (),,,48723,{},,"tengó, tengóva",48724,305739,43000
+,Exact counterpart (),,,48724,{},,"sánkó, sánkóva",48725,550244,42829
+,Exact counterpart (),,,48725,{},,"hajó, hajóva",48726,306529,42097
+,Exact counterpart (),,,48726,{},,čónako,48727,306924,41861
+,Exact counterpart (),,,48727,{},,ladiko,48728,306924,42371
+,Super-counterpart (),,,48728,{},,kompo,48729,308109,42339
+,Super-counterpart (),,,48729,{},,"ėvėdzó, ėvėzó",48730,308504,42000
+,Super-counterpart (),,,48730,{},,"ėvėdzó, ėvėzó",48731,308899,42000
+,Super-counterpart (),,,48731,{},,ėvėdzinen,48732,309294,41999
+,Exact counterpart (),,,48732,{},,hajókórmáňi,48733,309689,42098
+,Exact counterpart (),,,48733,{},,hajóskero kórmáňi,48734,309689,42100
+,Super-counterpart (),,,48734,{},,kórmáňi,48735,309689,42352
+,Super-counterpart (),,,48735,{},,plasta,48736,310479,42726
+,Exact counterpart (),,,48736,{},,mačka (2),48737,310874,42436
+,Super-counterpart (),,,48737,{},,terďon,48738,311664,43004
+,Exact counterpart (),,,48738,{},,len,48739,312849,42397
+,Super-counterpart (),,,48739,{},,astaren,48740,313244,41663
+,Sub-counterpart (),,,48740,{},,ispiden,48741,313244,42142
+,Para-counterpart (),,,48741,{},,uštiden,48742,313244,43078
+,Super-counterpart (),,,48742,{},,ikren,48743,313639,42164
+,Exact counterpart (),,,48743,{},,uštiden,48744,314034,43078
+,Super-counterpart (),,,48744,{},,muken,48745,314429,42507
+,Para-counterpart (),,,48745,{},,ikren,48746,314429,42164
+,Super-counterpart (),,,48746,{},,búti,48747,314824,41776
+,Exact counterpart (),,,48747,{},,den,48748,315219,41904
+,Exact counterpart (),,,48748,{},,den pále,48749,315614,41907
+,Super-counterpart (),,,48749,{},,ikren,48750,316009,42164
+,Exact counterpart (),,,48750,{},,mentinen,48751,316799,42464
+,Exact counterpart (),,,48751,{},,šemmiššítinen,48752,317194,42858
+,Exact counterpart (),,,48752,{},,thoven tėnkrė,48753,317194,43019
+,Super-counterpart (The more explicit keren bėlėšėto lit. ‘make injury’ is uncommon.),,,48753,{},,máren,48754,317589,42451
+,Super-counterpart (),,,48754,{},,ruminen,48755,571179,42807
+,Super-counterpart (),,,48755,{},,"zijand, zijėnd",48756,571179,43163
+,Super-counterpart (),,,48756,{},,roden,48757,317984,42795
+,Exact counterpart (),,,48757,{},,alakhen,48758,318379,41623
+,Exact counterpart (),,,48758,{},,našaven,48759,318774,42539
+,Super-counterpart (),,,48759,{},,muken,48760,319169,42507
+,Super-counterpart (),,,48760,{},,lóvo,48761,319564,42422
+,Super-counterpart (),,,48761,{},,lóvo,48762,319959,42422
+,Exact counterpart (),,,48762,{},,barválo,48763,320354,41703
+,Super-counterpart (),,,48763,{},,čoro,48764,320749,41865
+,Exact counterpart (),,,48764,{},,kódúši,48765,321144,42331
+,Super-counterpart (),,,48765,{},,žugorotno,48766,321539,43172
+,Exact counterpart (),,,48766,{},,žuvárno,48767,321539,43177
+,Exact counterpart (),,,48767,{},,den kéčen,48768,321934,41906
+,Exact counterpart (),,,48768,{},,len kéčen,48769,322329,42398
+,Super-counterpart (),,,48769,{},,kamen,48770,322724,42217
+,Super-counterpart (),,,48770,{},,kéčeno,48771,323119,42245
+,Exact counterpart (),,,48771,{},,poťinen,48772,323514,42745
+,Exact counterpart (),,,48772,{},,sámla,48773,323909,42825
+,Exact counterpart (),,,48773,{},,účeto,48774,323909,43058
+,Super-counterpart (),,,48774,{},,sázollíko,48775,324304,42845
+,Exact counterpart (),,,48775,{},,daňe,48776,324304,41893
+,Super-counterpart (),,,48778,{},,poťinibe,48779,325094,42746
+,Super-counterpart (),,,48779,{},,fizėtíši,48780,325094,42032
+,Sub-counterpart (),,,48780,{},,órabíro,48781,325094,42599
+,Super-counterpart (),,,48781,{},,roden,48782,325489,42795
+,Exact counterpart (),,,48782,{},,ťinen,48783,325884,43028
+,Exact counterpart (),,,48783,{},,biknen,48784,326279,41734
+,Para-counterpart (),,,48784,{},,paruven,48785,326674,42647
+,Para-counterpart (),,,48785,{},,kereškedinen,48786,326674,42271
+,Para-counterpart (),,,48786,{},,kofázinen,48787,326674,42333
+,Sub-counterpart (),,,48787,{},,šeftelinen,48788,326674,42847
+,Exact counterpart (),,,48788,{},,kereškedó,48789,327069,42272
+,Sub-counterpart (),,,48789,{},,kofa,48790,327069,42332
+,Exact counterpart (),,,48790,{},,pijarci,48791,327464,42712
+,Exact counterpart (),,,48791,{},,bóta,48792,327859,41759
+,Exact counterpart (),,,48792,{},,izleto,48793,327859,42184
+,Super-counterpart (),,,48793,{},,írtíko,48794,328254,42177
+,Exact counterpart (),,,48794,{},,kuč,48795,328649,42363
+,Exact counterpart (),,,48795,{},,óčóno,48796,329044,42572
+,Super-counterpart (),,,48796,{},,ulaven,48797,329439,43067
+,Super-counterpart (),,,48797,{},,pal,48798,330229,42617
+,Super-counterpart (),,,48798,{},,pal,48799,330624,42617
+,Super-counterpart (),,,48799,{},,andi,48800,577499,41640
+,Super-counterpart (),,,48800,{},,ki,48801,500079,42301
+,Exact counterpart (),,,48801,{},,paš,48802,331019,42649
+,Exact counterpart (),,,48802,{},,uze,48803,331019,43082
+,Sub-counterpart (),,,48803,{},,téle,48804,331414,42995
+,Sub-counterpart (),,,48804,{},,télal,48805,331414,42973
+,Super-counterpart (),,,48805,{},,angli,48806,331809,41644
+,Super-counterpart (),,,48806,{},,angli,48807,332204,41644
+,Sub-counterpart (),,,48807,{},,andi,48808,332599,41640
+,Sub-counterpart (),,,48808,{},,onďánde,48809,332599,42590
+,Sub-counterpart (),,,48809,{},,ánde,48810,332599,41638
+,Sub-counterpart (),,,48810,{},,onďári,48811,332994,42591
+,Sub-counterpart (),,,48811,{},,ári,48812,332994,41652
+,Super-counterpart (),,,48812,{},,tal,48813,333389,42974
+,Sub-counterpart (),,,48813,{},,"upre, uppe",48814,333784,43070
+,Sub-counterpart (),,,48814,{},,upral,48815,333784,43069
+,Super-counterpart (),,,48815,{},,perdal,48816,571574,42668
+,Super-counterpart (),,,48816,{},,than,48817,334179,43014
+,Exact counterpart (),,,48817,{},,thoven (2),48818,334969,43018
+,Super-counterpart (),,,48818,{},,bešen,48819,335364,41722
+,Exact counterpart (),,,48819,{},,paššon,48820,335759,42650
+,Super-counterpart (),,,48820,{},,terďon,48821,336154,43004
+,Super-counterpart (),,,48821,{},,"áčhon, áčhen",48822,336549,41606
+,Exact counterpart (),,,48822,{},,maradíko,48823,336944,42449
+,Super-counterpart (),,,48823,{},,keden,48824,337339,42248
+,Super-counterpart (),,,48824,{},,ėmėlinen,48825,337734,41985
+,Super-counterpart (),,,48825,{},,keden eketháne,48826,338129,42249
+,Exact counterpart (),,,48826,{},,keren sít,48827,338919,42269
+,Super-counterpart (),,,48827,{},,ostinen,48828,338919,42607
+,Super-counterpart (),,,48828,{},,ulaven,48829,339314,43067
+,Para-counterpart (),,,48829,{},,ostinen,48830,339314,42607
+,Exact counterpart (),,,48830,{},,praven,48831,339709,42752
+,Exact counterpart (),,,48831,{},,keren ári,48832,339709,42268
+,Exact counterpart (),,,48832,{},,keren ánde,48833,340104,42267
+,Exact counterpart (),,,48833,{},,učharen,48834,340499,43059
+,Exact counterpart (),,,48834,{},,garuven,48835,340894,42056
+,Super-counterpart (),,,48835,{},,účo,48836,341289,43060
+,Exact counterpart (),,,48836,{},,alačonno,48837,341684,41622
+,Para-counterpart (),,,48837,{},,špicco,48838,342079,42942
+,Super-counterpart (),,,48838,{},,upruno,48839,342079,43072
+,Exact counterpart (),,,48839,{},,"fėnėkė, fėnėka",48840,342474,42020
+,Super-counterpart (),,,48840,{},,vígo,48841,342869,43127
+,Super-counterpart (),,,48841,{},,heďešno,48842,343264,42127
+,Exact counterpart (),,,48842,{},,sílo,48843,343659,42892
+,Super-counterpart (),,,48843,{},,šarka,48844,343659,42835
+,Super-counterpart (),,,48844,{},,epaš,48845,344054,41990
+,Exact counterpart (),,,48845,{},,kėzėpo,48846,344449,42287
+,Exact counterpart (),,,48846,{},,jobno,48847,344844,42202
+,Exact counterpart (),,,48847,{},,balogno,48848,345239,41683
+,Sub-counterpart (),,,48848,{},,balgačno,48849,345239,41680
+,Exact counterpart (),,,48849,{},,kėzé,48850,345634,42286
+,Exact counterpart (),,,48850,{},,dúr,48851,346029,41954
+,"Sub-counterpart (The word may be used in the sense of the cardinal direction ‘east’, though its major use is in the non-relative meaning ‘eastern Slovakia’.)",,,48851,{},,"víkhodo, víxodo",48852,346424,43129
+,"Sub-counterpart (The word may be used in the sense of the cardinal direction ‘west’, though its major use is in the non-relative meaning ‘western Slovakia’.)",,,48852,{},,západo,48853,346819,43152
+,Exact counterpart (),,,48853,{},,bárďon,48854,348004,41699
+,Super-counterpart (),,,48854,{},,mírinen,48855,348399,42480
+,Super-counterpart (),,,48855,{},,báro,48856,349189,41702
+,Exact counterpart (),,,48856,{},,tikno,48857,349584,43023
+,Sub-counterpart (),,,48857,{},,hurdo,48858,349584,42152
+,Exact counterpart (),,,48858,{},,dugo,48859,349979,41945
+,Super-counterpart (),,,48859,{},,účo,48860,350374,43060
+,Exact counterpart (),,,48860,{},,harno,48861,350769,42116
+,Super-counterpart (),,,48861,{},,bulho,48862,351164,41768
+,Exact counterpart (),,,48863,{},,síkno,48864,351559,42886
+,Super-counterpart (),,,48864,{},,bulho,48865,351954,41768
+,Super-counterpart (),,,48865,{},,thúlo,48866,351954,43021
+,Exact counterpart (),,,48866,{},,sáno,48867,352349,42830
+,Sub-counterpart (),,,48867,{},,čišlo,48868,352349,41852
+,Exact counterpart (),,,48868,{},,mílno,48869,352744,42472
+,Exact counterpart (),,,48869,{},,čekílno,48870,353139,41798
+,Exact counterpart (),,,48870,{},,lapošno,48871,353534,42383
+,Exact counterpart (),,,48871,{},,igeňešno,48872,353929,42157
+,Super-counterpart (),,,48873,{},,bango,48874,354324,41693
+,Super-counterpart (The meaning ‘hook’ is rare.),,,48874,{},,horga,48875,354719,42146
+,Super-counterpart (),,,48875,{},,šarka,48876,355114,42835
+,Exact counterpart (),,,48876,{},,keresto,48877,355509,42274
+,Super-counterpart (),,,48877,{},,kocka,48878,355904,42330
+,Exact counterpart (),,,48878,{},,gembelígno,48879,356299,42059
+,Exact counterpart (),,,48879,{},,kero,48880,356694,42277
+,Exact counterpart (),,,48880,{},,guló,48881,357089,42084
+,Super-counterpart (),,,48881,{},,číko,48882,357484,41841
+,Super-counterpart (),,,48882,{},,hév,48883,357879,42132
+,Sub-counterpart (),,,48883,{},,luka,48884,357879,42426
+,Para-counterpart (),,,48884,{},,asso féliko,48885,358274,41662
+,Exact counterpart (),,,48885,{},,hašollóno,48886,358274,42118
+,Super-counterpart (This verbs’ meanings include that of ‘be similar’.),,,48886,{},,čalaven,48887,358274,41785
+,Exact counterpart (),,,48887,{},,váltostatinen,48888,358669,43100
+,Sub-counterpart (),,,48888,{},,változinen,48889,358669,43101
+,Exact counterpart (),,,48889,{},,nulla,48890,359064,42570
+,Exact counterpart (),,,48890,{},,jékh,48891,359459,42194
+,Exact counterpart (),,,48891,{},,dúj,48892,359854,41947
+,Exact counterpart (),,,48892,{},,trín,48893,360249,43045
+,Exact counterpart (),,,48893,{},,štár,48894,360644,42946
+,Exact counterpart (),,,48894,{},,pándž,48895,361039,42629
+,Exact counterpart (),,,48895,{},,šó,48896,361434,42915
+,Exact counterpart (),,,48896,{},,efta,48897,361829,41977
+,Exact counterpart (),,,48897,{},,ofto,48898,362224,42576
+,Exact counterpart (),,,48898,{},,eňňa,48899,362619,41988
+,Exact counterpart (),,,48899,{},,deš,48900,363014,41913
+,Exact counterpart (),,,48900,{},,dešujékh,48901,363409,41916
+,Exact counterpart (),,,48901,{},,dešudúj,48902,363804,41915
+,Exact counterpart (),,,48902,{},,dešupándž,48903,364199,41917
+,Exact counterpart (),,,48903,{},,biš,48904,364594,41742
+,Exact counterpart (),,,48904,{},,šel,48905,364989,42851
+,Exact counterpart (),,,48905,{},,ezeri,48906,365384,42001
+,Super-counterpart (),,,48906,{},,genen,48907,365779,42061
+,Exact counterpart (),,,48907,{},,sogodi,48908,366174,42922
+,Super-counterpart (),,,48908,{},,cilo,48909,366174,41844
+,Exact counterpart (),,,48909,{},,sa,48910,366174,42810
+,Super-counterpart (),,,48910,{},,but,48911,366569,41773
+,Super-counterpart (),,,48911,{},,buter,48912,366964,41775
+,Super-counterpart (),,,48912,{},,čulo,48913,367359,41878
+,Super-counterpart (),,,48913,{},,čepo,48914,367359,41805
+,Exact counterpart (),,,48914,{},,"dosta, dost",48915,367754,41942
+,Exact counterpart (),,,48915,{},,valakiťi,48916,368149,43094
+,Super-counterpart (),,,48916,{},,šoro,48917,368544,42935
+,Super-counterpart (),,,48917,{},,pherdo (2),48918,368544,42696
+,Super-counterpart (),,,48918,{},,pherdo (1),48919,368939,42695
+,Exact counterpart (),,,48919,{},,čúčo,48920,369334,41869
+,Super-counterpart (),,,48920,{},,epaš,48921,369729,41990
+,Exact counterpart (),,,48921,{},,kotor,48922,571969,42358
+,Super-counterpart (),,,48922,{},,epaš,48923,370124,41990
+,Exact counterpart (),,,48923,{},,čak,48924,370519,41782
+,Super-counterpart (),,,48924,{},,korkóro,48925,572364,42351
+,Exact counterpart (),,,48925,{},,éšéno,48926,370914,41995
+,Exact counterpart (),,,48926,{},,utóšóno,48927,371309,43080
+,Exact counterpart (),,,48927,{},,dújto,48928,371704,41949
+,Super-counterpart (),,,48928,{},,páro,48929,372099,42645
+,Exact counterpart (),,,48929,{},,dúvar,48930,372494,41957
+,Exact counterpart (),,,48930,{},,trito,48931,372889,43048
+,Exact counterpart (),,,48931,{},,trínval,48932,373284,43046
+,Super-counterpart (),,,48939,{},,"díve, dí",48940,373679,41934
+,Exact counterpart (),,,48940,{},,névo,48941,374469,42555
+,Exact counterpart (),,,48941,{},,térno,48942,374864,43007
+,Exact counterpart (),,,48942,{},,phúro (1),48943,375259,42707
+,Sub-counterpart (),,,48943,{},,puráno,48944,375259,42765
+,Super-counterpart (),,,48944,{},,sig,48945,375654,42878
+,Sub-counterpart (),,,48945,{},,"korán, korá",48946,375654,42349
+,Sub-counterpart (),,,48946,{},,hajnábo,48947,375654,42095
+,Exact counterpart (),,,48947,{},,kíšén,48948,376049,42314
+,Exact counterpart (),,,48948,{},,akán,48949,376444,41616
+,Exact counterpart (),,,48949,{},,minďár,48950,376839,42474
+,Exact counterpart (),,,48950,{},,folva,48951,376839,42036
+,Exact counterpart (),,,48951,{},,rekten,48952,376839,42783
+,Exact counterpart (),,,48952,{},,ďoršan,48953,377234,41941
+,Exact counterpart (),,,48953,{},,polóke,48954,377629,42739
+,Exact counterpart (),,,48954,{},,siďanen,48955,378024,42877
+,Exact counterpart (),,,48955,{},,šijėtinen,48956,378024,42881
+,Exact counterpart (),,,48956,{},,kíšlinen,48957,378419,42317
+,Exact counterpart (),,,48957,{},,kėzdinen,48958,378814,42284
+,Exact counterpart (),,,48958,{},,kezdíši,48959,572759,42285
+,Super-counterpart (),,,48959,{},,ikren,48960,379209,42164
+,Super-counterpart (),,,48960,{},,vígo,48961,379604,43127
+,Exact counterpart (),,,48961,{},,vígzinen,48962,379999,43128
+,Exact counterpart (),,,48962,{},,muken abba,48963,380394,42508
+,Exact counterpart (),,,48963,{},,kísno,48964,380789,42318
+,Sub-counterpart (),,,48964,{},,kísítime,48965,380789,42315
+,Exact counterpart (),,,48965,{},,"mindig, mindíg",48966,381184,42475
+,Sub-counterpart (),,,48966,{},,"furt, fur",48967,381184,42045
+,Sub-counterpart (),,,48967,{},,álondóvan,48968,381184,41630
+,Exact counterpart (),,,48968,{},,ďakran,48969,381579,41812
+,Super-counterpart (),,,48969,{},,butvar,48970,381579,41777
+,Exact counterpart (),,,48970,{},,valakana,48971,381974,43093
+,Super-counterpart (),,,48971,{},,valamikor,48972,381974,43095
+,Sub-counterpart (),,,48972,{},,níha,48973,381974,42557
+,Super-counterpart (),,,48973,{},,sig,48974,382369,42878
+,Exact counterpart (),,,48974,{},,šoká,48975,382764,42929
+,Super-counterpart (),,,48975,{},,but,48976,382764,41773
+,Exact counterpart (),,,48976,{},,šoha,48977,383159,42925
+,Exact counterpart (),,,48977,{},,papaleg,48978,383554,42633
+,Exact counterpart (),,,48978,{},,újra,48979,383554,43065
+,Exact counterpart (),,,48979,{},,újbú,48980,383554,43064
+,Super-counterpart (),,,48980,{},,"díve, dí",48981,383949,41934
+,Super-counterpart (),,,48981,{},,"díve, dí",48982,573154,41934
+,Exact counterpart (),,,48982,{},,rat (2),48983,384344,42779
+,Exact counterpart (),,,48983,{},,veradáši,48984,384739,43114
+,Exact counterpart (),,,48984,{},,hajnalo,48985,384739,42096
+,Exact counterpart (),,,48985,{},,raťaha,48986,385134,42780
+,Exact counterpart (),,,48986,{},,dílo,48987,385529,41929
+,Exact counterpart (),,,48987,{},,palodílo,48988,385924,42625
+,Exact counterpart (),,,48988,{},,kéráti,48989,386319,42263
+,Exact counterpart (),,,48989,{},,adádí,48990,386714,41609
+,Exact counterpart (),,,48990,{},,táha,48991,387109,42970
+,Exact counterpart (),,,48991,{},,palotáha,48992,387504,42626
+,Exact counterpart (),,,48992,{},,ídž,48993,387899,42156
+,Exact counterpart (),,,48993,{},,prekuídž,48994,388294,42755
+,Super-counterpart (),,,48994,{},,óra,48995,388689,42598
+,Super-counterpart (),,,48995,{},,óra,48996,389084,42598
+,Super-counterpart (),,,48996,{},,kurko,48997,389479,42367
+,Super-counterpart (),,,48998,{},,kurko,48999,389874,42367
+,Exact counterpart (),,,48999,{},,hėtfeno,49000,390269,42131
+,Exact counterpart (),,,49000,{},,kėddo,49001,390664,42247
+,Exact counterpart (),,,49001,{},,serda,49002,391059,42866
+,Exact counterpart (),,,49002,{},,čiterteko,49003,391454,41853
+,Exact counterpart (),,,49003,{},,pinteko,49004,391849,42717
+,Exact counterpart (),,,49004,{},,parašťú,49005,391849,42642
+,Exact counterpart (),,,49005,{},,sobota,49006,392244,42917
+,Exact counterpart (),,,49006,{},,masek,49007,392639,42454
+,Exact counterpart (),,,49007,{},,berš,49008,393034,41719
+,Exact counterpart (),,,49008,{},,jevend,49009,393429,42198
+,Exact counterpart (),,,49009,{},,tavasi,49010,393824,42988
+,Exact counterpart (),,,49010,{},,linaj,49011,394219,42412
+,Exact counterpart (),,,49011,{},,éso,49012,394614,41998
+,Exact counterpart (),,,49012,{},,oven sagošno,49013,395404,42610
+,Exact counterpart (),,,49013,{},,sagulinen,49014,396194,42815
+,Super-counterpart (),,,49014,{},,hajon,49015,396589,42099
+,Super-counterpart (),,,49015,{},,sagošno,49016,396984,42814
+,"Exact counterpart (There is no adjective or adjectival meaning ‘stinking’: the adjective khand-in-o, which is derived from the verb khanden ‘to stink, to smell foul’ given here, means ‘bloody, fucking’ rather than ‘stinking’.)",,,49016,{},,khanden,49017,397379,42294
+,Exact counterpart (),,,49017,{},,izlinen,49018,397774,42185
+,Exact counterpart (),,,49018,{},,gullo,49019,398169,42083
+,Exact counterpart (),,,49019,{},,londo,49020,398564,42420
+,Exact counterpart (),,,49020,{},,kerko,49021,398959,42276
+,Exact counterpart (),,,49021,{},,šutlo,49022,399354,42959
+,Super-counterpart (),,,49022,{},,londasto,49023,399749,42419
+,Super-counterpart (),,,49023,{},,šunen,49024,400144,42954
+,Super-counterpart (),,,49024,{},,šunen,49025,400539,42954
+,Para-counterpart (),,,49025,{},,hango,49026,400934,42112
+,Para-counterpart (),,,49026,{},,lárma,49027,400934,42385
+,Super-counterpart (),,,49027,{},,hangošno,49028,401329,42113
+,Exact counterpart (),,,49028,{},,čendešno,49029,401724,41803
+,Super-counterpart (),,,49029,{},,dikhen,49030,402119,41921
+,Super-counterpart (),,,49030,{},,dikhen,49031,402514,41921
+,Para-counterpart (),,,49031,{},,bámulinen,49032,402514,41688
+,Super-counterpart (),,,49032,{},,sikaven,49033,402909,42882
+,Super-counterpart (),,,49033,{},,világítinen,49034,403304,43131
+,Super-counterpart (),,,49034,{},,raďoginen,49035,403304,42770
+,Super-counterpart (),,,49035,{},,šúžo,49036,403699,42961
+,Exact counterpart (),,,49036,{},,síňo,49037,404094,42895
+,Super-counterpart (),,,49037,{},,világošno,49038,404489,43133
+,Exact counterpart (),,,49038,{},,šetítno,49039,404884,42875
+,Exact counterpart (),,,49039,{},,párno,49040,405279,42644
+,Exact counterpart (),,,49040,{},,kálo,49041,405674,42212
+,Exact counterpart (),,,49041,{},,lólo,49042,406069,42416
+,Exact counterpart (),,,49042,{},,kíkno,49043,406464,42306
+,Exact counterpart (),,,49043,{},,zeleno,49044,406859,43159
+,Exact counterpart (),,,49050,{},,žuto (1),49051,407254,43174
+,Super-counterpart (),,,49051,{},,astaren,49052,407649,41663
+,Super-counterpart (),,,49052,{},,čípinen,49053,408044,41850
+,Super-counterpart (),,,49053,{},,hajon,49054,408439,42099
+,Super-counterpart (),,,49054,{},,zorálo,49055,408834,43169
+,Exact counterpart (),,,49055,{},,kólo,49056,409229,42338
+,Super-counterpart (),,,49056,{},,durvavo,49057,409624,41956
+,Exact counterpart (),,,49057,{},,šímavo,49058,410019,42893
+,Exact counterpart (),,,49058,{},,élešno,49059,410414,41980
+,Exact counterpart (),,,49059,{},,tompavo,49060,410809,43036
+,Super-counterpart (),,,49060,{},,pháro,49061,411204,42685
+,Super-counterpart (),,,49061,{},,keňňíno,49062,411599,42260
+,Exact counterpart (),,,49062,{},,sapáno,49063,411994,42832
+,Exact counterpart (),,,49063,{},,nedvešno,49064,411994,42548
+,Super-counterpart (),,,49064,{},,šúko,49065,412389,42951
+,Exact counterpart (),,,49065,{},,foróno,49066,412784,42041
+,Super-counterpart (),,,49066,{},,táto,49067,412784,42987
+,Super-counterpart (),,,49067,{},,táto,49068,413179,42987
+,Sub-counterpart (),,,49068,{},,šilálo,49069,413574,42890
+,Sub-counterpart (),,,49069,{},,šudro,49070,413574,42949
+,Super-counterpart (),,,49070,{},,šúžo,49071,413969,42961
+,Exact counterpart (),,,49071,{},,melálo,49072,414364,42460
+,Exact counterpart (),,,49072,{},,ráncošno,49073,395799,42775
+,Exact counterpart (),,,49073,{},,lėlko,49074,414759,42396
+,"Exact counterpart (There is no adjective meaning ‘surprised/astonished’, only verbs and verbal expressions meaning ‘to be surprised/astonished’ or ‘to wonder, to marvel’.)",,,49074,{},,dikhen báro,49075,415154,41922
+,"Super-counterpart (There is no adjective meaning ‘surprised/astonished’, only verbs and verbal expressions meaning ‘to be surprised/astonished’ or ‘to wonder, to marvel’.)",,,49075,{},,čudákozinen,49076,415154,41870
+,"Super-counterpart (There is no adjective meaning ‘surprised/astonished’, only verbs and verbal expressions meaning ‘to be surprised/astonished’ or ‘to wonder, to marvel’.)",,,49076,{},,bámulinen,49077,415154,41688
+,Exact counterpart (),,,49077,{},,bast,49078,415549,41707
+,Exact counterpart (),,,49078,{},,nabast,49079,415944,42525
+,Super-counterpart (),,,49079,{},,bastálo,49080,416339,41708
+,Super-counterpart (),,,49080,{},,asan,49081,416734,41656
+,Super-counterpart (),,,49081,{},,asan,49082,417129,41656
+,Super-counterpart (),,,49082,{},,khelen,49083,417524,42297
+,Sub-counterpart (),,,49083,{},,bašaven,49084,417524,41706
+,Super-counterpart (),,,49084,{},,kamen,49085,417919,42217
+,Exact counterpart (),,,49085,{},,čumiden,49086,418314,41879
+,Exact counterpart (),,,49086,{},,ňalábolinen,49087,418709,42531
+,Exact counterpart (),,,49087,{},,astaren préku,49088,418709,41664
+,Exact counterpart (),,,49088,{},,"elelinen, ölelinen",49089,418709,41979
+,Exact counterpart (),,,49089,{},,dukh,49090,419104,41951
+,Exact counterpart (),,,49090,{},,somorúšágo,49091,419499,42933
+,Exact counterpart (),,,49091,{},,gondo,49092,419894,42074
+,Super-counterpart (),,,49092,{},,šajnálinen,49093,420289,42818
+,Exact counterpart (),,,49093,{},,šajnálato,49094,420684,42817
+,Super-counterpart (),,,49094,{},,roven,49095,421079,42803
+,Exact counterpart (),,,49095,{},,ásva,49096,421474,41666
+,Super-counterpart (),,,49096,{},,jajgatinen,49097,421869,42188
+,Exact counterpart (),,,49097,{},,hóli,49098,422659,42145
+,Super-counterpart (),,,49098,{},,idegeššígo,49099,422659,42155
+,Sub-counterpart (),,,49099,{},,rušen,49100,422659,42808
+,Sub-counterpart (),,,49100,{},,íriččígo,49101,423054,42172
+,Para-counterpart (),,,49101,{},,darajibe,49102,423054,41897
+,Exact counterpart (),,,49102,{},,ladžavo,49103,423449,42373
+,Super-counterpart (),,,49103,{},,gizdavo,49104,423844,42069
+,Super-counterpart (),,,49104,{},,kíňešno,49105,423844,42308
+,Super-counterpart (),,,49105,{},,troman,49106,424239,43049
+,Super-counterpart (),,,49106,{},,bátorno,49107,424634,41711
+,Exact counterpart (),,,49107,{},,dár,49108,425029,41896
+,Super-counterpart (),,,49112,{},,kamen,49113,425819,42217
+,Super-counterpart (),,,49113,{},,válostinen,49114,426214,43099
+,Super-counterpart (),,,49114,{},,paťan,49115,426609,42654
+,Exact counterpart (),,,49115,{},,čáčo,49116,427399,41671
+,Super-counterpart (),,,49116,{},,čačukáno,49117,427399,41692
+,Exact counterpart (),,,49117,{},,hazudinen,49118,427794,42125
+,Exact counterpart (),,,49118,{},,bečapáši,49119,428189,41713
+,Exact counterpart (),,,49119,{},,ándepekibe,49120,428189,41639
+,Exact counterpart (),,,49120,{},,bočájtinen,49121,428584,41749
+,Super-counterpart (),,,49122,{},,láčho,49123,428979,42370
+,Super-counterpart (),,,49123,{},,erďavo,49124,429374,41992
+,Super-counterpart (),,,49130,{},,láčho,49131,429769,42370
+,Super-counterpart (),,,49131,{},,erďavo,49132,430164,41992
+,Super-counterpart (cf. also bínešno oven ‘to be faulty’),,,49132,{},,hiba,49133,430559,42133
+,Super-counterpart (),,,49133,{},,hiba,49134,430954,42133
+,Sub-counterpart (),,,49134,{},,uprečhidkeribe,49135,431349,43071
+,Super-counterpart (),,,49135,{},,hiba,49136,431349,42133
+,Exact counterpart (),,,49136,{},,ašaribe,49137,431744,41659
+,Exact counterpart (),,,49137,{},,šukár,49138,432139,42950
+,Exact counterpart (),,,49138,{},,džungálo,49139,432534,41972
+,Super-counterpart (),,,49139,{},,žugorotno,49140,432929,43172
+,Sub-counterpart (),,,49140,{},,íhéhótlanno,49141,432929,42162
+,Super-counterpart (),,,49141,{},,goďaver,49142,433324,42070
+,Sub-counterpart (),,,49142,{},,budžando,49143,433324,41724
+,Super-counterpart (),,,49143,{},,gódi,49144,433719,42071
+,Exact counterpart (),,,49144,{},,gondúkozinen,49145,434114,42076
+,Exact counterpart (),,,49145,{},,"gondolinen, gondulinen",49146,434509,42075
+,Para-counterpart (),,,49146,{},,džanen,49147,434509,41967
+,Super-counterpart (),,,49147,{},,paťan,49148,434904,42654
+,Super-counterpart (),,,49148,{},,hajon,49149,435299,42099
+,Para-counterpart (),,,49149,{},,džanen,49150,435694,41967
+,Para-counterpart (),,,49151,{},,pindžaren,49152,435694,42715
+,Super-counterpart (),,,49152,{},,találinen,49153,436089,42976
+,Exact counterpart (),,,49153,{},,utánozinen,49154,436484,43079
+,Exact counterpart (),,,49154,{},,diťhol,49155,436879,41933
+,Super-counterpart (),,,49155,{},,gondulato,49156,437274,42077
+,Exact counterpart (),,,49156,{},,okošno,49157,437669,42583
+,Super-counterpart (),,,49157,{},,goďaver,49158,437669,42070
+,Super-counterpart (),,,49158,{},,dilino,49159,438064,41926
+,Exact counterpart (),,,49159,{},,butavo,49160,438064,41774
+,Sub-counterpart (),,,49160,{},,bambavo,49161,438064,41686
+,Super-counterpart (),,,49161,{},,dilino,49162,438459,41926
+,Super-counterpart (),,,49162,{},,zavarošno,49163,438459,43156
+,Super-counterpart (),,,49163,{},,sikjon,49164,438854,42885
+,Super-counterpart (),,,49164,{},,sikjon,49165,439249,42885
+,Super-counterpart (),,,49165,{},,sikaven,49166,439644,42882
+,Super-counterpart (),,,49166,{},,sikjaren,49167,439644,42884
+,Exact counterpart (),,,49167,{},,iškoláši,49168,440039,42179
+,Exact counterpart (),,,49168,{},,tanuló,49169,440039,42982
+,Exact counterpart (),,,49169,{},,dijáko,49170,440039,41918
+,Exact counterpart (),,,49170,{},,"tanító, tėnító",49171,440434,42979
+,Sub-counterpart (),,,49171,{},,"tanítókiňa, tėnítókiňa",49172,440434,42980
+,Exact counterpart (),,,49172,{},,iškola,49173,440829,42178
+,Sub-counterpart (),,,49173,{},,"emlékezinen, emléksinen",49174,441224,41986
+,Sub-counterpart (),,,49174,{},,aven andi gódi,49175,441224,41670
+,Exact counterpart (),,,49175,{},,pobiskeren,49176,441619,42729
+,Super-counterpart (),,,49176,{},,világošno,49177,442014,43133
+,Super-counterpart (),,,49177,{},,šúžo,49178,442014,42961
+,Exact counterpart (),,,49178,{},,titkošno,49179,442804,43032
+,Exact counterpart (),,,49179,{},,bistošno,49180,443199,41746
+,Exact counterpart (),,,49180,{},,maďarázinen,49181,443594,42437
+,Exact counterpart (),,,49181,{},,sándíko,49182,443989,42828
+,Super-counterpart (),,,49182,{},,kítelkedíši,49183,444779,42320
+,Super-counterpart (),,,49183,{},,kítelkedinen,49184,445174,42319
+,Exact counterpart (),,,49184,{},,peken ánde,49185,445569,42660
+,Sub-counterpart (),,,49185,{},,site,49186,445964,42906
+,Sub-counterpart (),,,49186,{},,kampe,49187,445964,42218
+,Sub-counterpart (),,,49187,{},,kampon,49188,445964,42219
+,Sub-counterpart (),,,49188,{},,sikšígo,49189,445964,42888
+,Super-counterpart (),,,49189,{},,keňňíno,49190,446359,42260
+,Super-counterpart (),,,49190,{},,pháro,49191,446754,42685
+,Super-counterpart (),,,49191,{},,próbinen,49192,447149,42758
+,Super-counterpart (),,,49192,{},,próbálinen,49193,447149,42757
+,Exact counterpart (),,,49193,{},,taj,49194,447939,42971
+,Exact counterpart (),,,49194,{},,"mėrt, mėr",49195,448334,42466
+,Exact counterpart (),,,49195,{},,mivėl,49196,448334,42481
+,Super-counterpart (),,,49196,{},,te,49197,448729,42990
+,Exact counterpart (),,,49197,{},,vaď,49198,449124,43085
+,Super-counterpart (),,,49198,{},,"hát, há",49199,449519,42119
+,Super-counterpart (),,,49199,{},,na,49200,449914,42523
+,Exact counterpart (),,,49200,{},,sar,49201,450309,42834
+,Super-counterpart (),,,49201,{},,kiťi,49202,450704,42321
+,Super-counterpart (),,,49202,{},,kiťi,49203,451099,42321
+,Super-counterpart (),,,49203,{},,so,49204,451494,42914
+,Exact counterpart (),,,49204,{},,kana,49205,451889,42221
+,Sub-counterpart (),,,49205,{},,káj,49206,452284,42207
+,Sub-counterpart (),,,49206,{},,kija,49207,452284,42302
+,Super-counterpart (),,,49207,{},,savo,49208,452679,42844
+,Exact counterpart (),,,49208,{},,ko,49209,453074,42327
+,Exact counterpart (),,,49209,{},,soske,49210,453469,42936
+,Super-counterpart (),,,49210,{},,so,49211,453469,42914
+,Super-counterpart (),,,49214,{},,hango,49215,453864,42112
+,Exact counterpart (),,,49215,{},,ďijázinen,49216,454259,41919
+,Exact counterpart (),,,49216,{},,vičinen,49217,454654,43124
+,Exact counterpart (),,,49217,{},,šušoginen,49218,455049,42956
+,Exact counterpart (Cf. also tal pro nakh vakeren ‘to speak under one’s nose’.),,,49218,{},,morginen,49219,455444,42490
+,Exact counterpart (),,,49219,{},,fiťelinen,49220,455839,42031
+,Super-counterpart (),,,49220,{},,ordítinen,49221,456234,42600
+,Super-counterpart (),,,49221,{},,ňerítinen,49222,456234,42553
+,Super-counterpart (),,,49222,{},,šikójtinen,49223,456234,42887
+,Super-counterpart (),,,49223,{},,roven,49224,456629,42803
+,Super-counterpart (),,,49224,{},,vakeren,49225,457024,43090
+,Exact counterpart (),,,49225,{},,hėbėginen,49226,457419,42126
+,Exact counterpart (),,,49226,{},,phenen,49227,457814,42691
+,Super-counterpart (),,,49227,{},,vakeren,49228,458209,43090
+,Super-counterpart (),,,49228,{},,vakeribe,49229,458604,43092
+,Exact counterpart (),,,49229,{},,halgatinen,49230,458999,42105
+,Super-counterpart (),,,49230,{},,čhib,49231,459394,41817
+,Exact counterpart (),,,49231,{},,álav,49232,459789,41624
+,Exact counterpart (),,,49232,{},,ánav,49233,460184,41635
+,Exact counterpart (),,,49233,{},,phučen,49234,460579,42689
+,Exact counterpart (),,,49234,{},,fėlėlinen,49235,460974,42017
+,Exact counterpart (),,,49235,{},,pindžaren ánde,49236,461369,42716
+,Exact counterpart (),,,49236,{},,tagadinen,49237,461764,42969
+,Exact counterpart (),,,49237,{},,mangen,49238,462159,42446
+,Exact counterpart (),,,49238,{},,priminen,49239,462554,42738
+,Exact counterpart (),,,49239,{},,phenen pále,49240,462949,42692
+,Exact counterpart (),,,49240,{},,tiltinen,49241,463344,43027
+,Super-counterpart (),,,49241,{},,phenen téle,49242,463739,42693
+,Super-counterpart (),,,49242,{},,akharen,49243,464134,41618
+,Super-counterpart (),,,49243,{},,akharen,49244,464529,41618
+,Super-counterpart (),,,49244,{},,nevezinen,49245,464529,42554
+,Super-counterpart (),,,49245,{},,jėlentinen,49246,464924,42195
+,Super-counterpart (),,,49246,{},,daraven,49247,465319,41898
+,Exact counterpart (),,,49247,{},,ašaren pe/pumen,49248,465714,41658
+,Exact counterpart (),,,49248,{},,írinen,49249,466109,42175
+,Super-counterpart (),,,49249,{},,genen,49250,466504,42061
+,Super-counterpart (),,,49251,{},,papíri,49252,466899,42635
+,Exact counterpart (),,,49252,{},,tollo,49253,467294,43035
+,Exact counterpart (),,,49253,{},,keňvo,49254,467689,42261
+,Exact counterpart (),,,49254,{},,veršíró,49255,468084,43116
+,Super-counterpart (),,,49255,{},,šípa,49256,468479,42896
+,Exact counterpart (),,,49256,{},,dobo,49257,468874,41935
+,Sub-counterpart (),,,49261,{},,trombita,49262,469269,43050
+,Exact counterpart (),,,49262,{},,čerginen,49263,469664,41806
+,Exact counterpart (),,,49263,{},,"čergó, čergóva",49264,469664,41807
+,Para-counterpart (),,,49266,{},,álmo,49267,470059,41629
+,Super-counterpart (),,,49267,{},,phú,49268,470059,42703
+,Exact counterpart (),,,49268,{},,hazájo,49269,470454,42124
+,Exact counterpart (),,,49269,{},,fóro,49270,470849,42040
+,Exact counterpart (),,,49270,{},,gav,49271,471244,42057
+,Super-counterpart (),,,49271,{},,határi,49272,471639,42120
+,Super-counterpart (),,,49272,{},,nípo,49273,472034,42561
+,Exact counterpart (),,,49273,{},,fajta,49274,472429,42004
+,Sub-counterpart (),,,49274,{},,vajda,49275,472824,43089
+,Para-counterpart (),,,49275,{},,vėzėtó,49276,472824,43122
+,Para-counterpart (),,,49276,{},,fé,49277,472824,42011
+,Super-counterpart (),,,49277,{},,kopaj,49278,473219,42345
+,Exact counterpart (),,,49278,{},,bota,49279,473219,41758
+,Super-counterpart (),,,49279,{},,vėzėtinen,49280,473614,43121
+,Exact counterpart (),,,49280,{},,királi,49281,474009,42311
+,Super-counterpart (),,,49281,{},,kiráckiňa,49282,474404,42310
+,Para-counterpart (),,,49282,{},,raj,49283,474799,42772
+,Para-counterpart (),,,49283,{},,ráni,49284,474799,42776
+,Para-counterpart (),,,49284,{},,raj,49285,475589,42772
+,Para-counterpart (),,,49285,{},,ráni,49286,475589,42776
+,Exact counterpart (),,,49286,{},,rabo,49287,475984,42768
+,Exact counterpart (),,,49287,{},,solga,49288,476379,42931
+,Exact counterpart (),,,49288,{},,sabadítinen,49289,539579,42811
+,Exact counterpart (),,,49289,{},,parančolinen,49290,477169,42641
+,Exact counterpart (),,,49290,{},,kanden,49291,477564,42223
+,Super-counterpart (),,,49291,{},,muken,49292,477959,42507
+,Super-counterpart (),,,49292,{},,engedinen,49293,477959,41987
+,Exact counterpart (),,,49293,{},,baráto,49294,478354,41698
+,Sub-counterpart (),,,49294,{},,haveri,49295,478354,42122
+,Sub-counterpart (),,,49295,{},,pajtáši,49296,478354,42616
+,Exact counterpart (),,,49296,{},,ellėnšígo,49297,478749,41983
+,Exact counterpart (),,,49297,{},,somsído,49298,479144,42934
+,Super-counterpart (),,,49298,{},,idegenno,49299,479539,42154
+,Exact counterpart (),,,49299,{},,vėndígo,49300,479934,43091
+,Super-counterpart (),,,49300,{},,akharen,49301,539974,41618
+,Exact counterpart (There is no noun meaning ‘host’ in SR (cf. Hungarian vendéglátó ‘host’).),,,49301,{},,vėndígelinav,49302,480329,43111
+,Exact counterpart (),,,49302,{},,šegítinen,49303,480724,42848
+,Super-counterpart (),,,49303,{},,vídinen,49304,481119,43126
+,Exact counterpart (),,,49304,{},,sokáši,49305,481514,42930
+,Exact counterpart (),,,49306,{},,feleškedíši,49307,481909,42018
+,Exact counterpart (),,,49307,{},,pellíši,49308,481909,42665
+,Exact counterpart (),,,49308,{},,pelinibe,49309,481909,42664
+,Exact counterpart (),,,49309,{},,talákozinen,49310,482699,42975
+,Exact counterpart (),,,49310,{},,lubni,49311,483094,42425
+,Para-counterpart (),,,49312,{},,marakodinen,49313,483489,42450
+,Sub-counterpart (),,,49313,{},,háborúzinen,49314,483489,42093
+,Exact counterpart (),,,49314,{},,háború,49315,483884,42092
+,Super-counterpart (),,,49315,{},,bíkeššígo,49316,484279,41733
+,Para-counterpart (),,,49316,{},,smírom,49317,484279,42913
+,Exact counterpart (),,,49317,{},,lukestašágo,49318,484674,42427
+,Exact counterpart (),,,49318,{},,lukesto,49319,485069,42428
+,Exact counterpart (),,,49319,{},,itlėko,49320,485464,42182
+,Exact counterpart (),,,49320,{},,feďveri,49321,485464,42013
+,Super-counterpart (),,,49321,{},,kopaj,49322,485859,42345
+,Exact counterpart (),,,49322,{},,pariťťa,49323,486649,42643
+,Super-counterpart (),,,49323,{},,ňila,49324,487044,42558
+,Exact counterpart (),,,49324,{},,šípo,49325,487439,42898
+,Exact counterpart (),,,49325,{},,ošťepo,49326,487834,42606
+,Super-counterpart (),,,49326,{},,kardo,49327,488229,42235
+,Exact counterpart (),,,49327,{},,puška,49328,488624,42767
+,Exact counterpart (),,,49328,{},,páncílke gáda,49329,489019,42628
+,Exact counterpart (),,,49329,{},,šišako,49330,489414,42902
+,Exact counterpart (),,,49330,{},,helma,49331,489414,42130
+,Exact counterpart (),,,49331,{},,torňo,49332,490599,43038
+,Super-counterpart (),,,49332,{},,ňeríši,49333,490994,42552
+,Exact counterpart (),,,49333,{},,ňerinibe,49334,490994,42551
+,Para-counterpart (),,,49334,{},,vestíši,49335,491389,43120
+,Exact counterpart (),,,49335,{},,támodáši,49336,491784,42977
+,Super-counterpart (),,,49336,{},,vídinen,49337,492179,43126
+,Super-counterpart (),,,49337,{},,lípinen pále,49338,492574,42414
+,Super-counterpart (),,,49338,{},,phenen upre,49339,492969,42694
+,Exact counterpart (),,,49339,{},,fogla,49340,493364,42033
+,Sub-counterpart (),,,49340,{},,bertenéreši,49341,493364,41720
+,Para-counterpart (),,,49341,{},,rabo,49342,493364,42768
+,Para-counterpart (),,,49342,{},,viďázó,49343,493759,43125
+,Exact counterpart (),,,49343,{},,éršígo,49344,493759,41994
+,Sub-counterpart (),,,49344,{},,baxo,49345,493759,41712
+,Exact counterpart (),,,49345,{},,halási,49346,494944,42104
+,Super-counterpart (),,,49346,{},,horga,49347,495339,42146
+,Super-counterpart (),,,49347,{},,žinego,49348,495734,43165
+,Exact counterpart (),,,49348,{},,hálló,49349,496129,41910
+,Exact counterpart (),,,49349,{},,"čaló, čálló",49350,496919,41787
+,Exact counterpart (),,,49350,{},,vadásinen,49351,497314,43086
+,Exact counterpart (),,,49351,{},,levinen,49352,497709,42407
+,Sub-counterpart (),,,49352,{},,lédezinen,49353,497709,42389
+,Sub-counterpart (),,,49353,{},,kárjázinen,49354,497709,42236
+,Exact counterpart (),,,49354,{},,den kárja,49355,497709,41905
+,Super-counterpart (),,,49355,{},,múlinen,49356,498104,42509
+,Super-counterpart (),,,49356,{},,čabda,49357,498499,41779
+,Exact counterpart (),,,49359,{},,tervíňa,49360,499289,43008
+,Super-counterpart (),,,49360,{},,bíróšágo,49361,499684,41741
+,Exact counterpart (),,,49361,{},,súdo,49362,499684,42948
+,Exact counterpart (),,,49362,{},,"kríza, krísa",49363,499684,42361
+,Super-counterpart (),,,49363,{},,čhoren,49364,500474,41825
+,Super-counterpart (),,,49364,{},,bíróšágo,49365,500869,41741
+,Exact counterpart (),,,49365,{},,bíró,49366,501264,41740
+,Exact counterpart (),,,49366,{},,tanú,49367,502449,42981
+,Exact counterpart (),,,49367,{},,sojharen,49368,502844,42927
+,Exact counterpart (),,,49368,{},,sojharibe,49369,503239,42928
+,Sub-counterpart (),,,49369,{},,sojhar,49370,503239,42926
+,Exact counterpart (),,,49370,{},,ítílinen,49371,504029,42181
+,Exact counterpart (),,,49371,{},,sikaven ánde,49372,504424,42883
+,Exact counterpart (),,,49372,{},,bínešno,49373,505214,41737
+,Exact counterpart (),,,49373,{},,hibášno,49374,505214,42134
+,Exact counterpart (),,,49374,{},,bíntelėnno,49375,505609,41738
+,Exact counterpart (),,,49375,{},,bíntetíši,49376,506004,41739
+,Exact counterpart (),,,49376,{},,berteno,49377,506794,41721
+,Super-counterpart (),,,49377,{},,murdaribe,49378,507189,42515
+,Exact counterpart (),,,49378,{},,ďilkoššágo,49379,507189,41928
+,Super-counterpart (),,,49379,{},,lubipe,49380,507584,42424
+,Exact counterpart (),,,49380,{},,erésakolláši,49381,507979,41993
+,Exact counterpart (),,,49381,{},,čóren,49382,509164,41863
+,Exact counterpart (),,,49382,{},,čór,49383,509559,41862
+,Sub-counterpart (),,,49383,{},,čórkiňa,49384,509559,41864
+,Super-counterpart (),,,49384,{},,hito,49385,509954,42139
+,Exact counterpart (),,,49385,{},,dél,49386,510349,41902
+,Super-counterpart (),,,49386,{},,khangéri,49387,510744,42295
+,Super-counterpart (),,,49387,{},,khangéri,49388,573549,42295
+,Exact counterpart (),,,49388,{},,muslimki khangéri,49389,573944,42520
+,Exact counterpart (),,,49389,{},,muslimkhangéri,49390,573944,42519
+,Exact counterpart (),,,49390,{},,oltári,49391,511139,42587
+,Exact counterpart (),,,49391,{},,molinen,49392,512324,42488
+,Exact counterpart (),,,49392,{},,rašaj,49393,512719,42777
+,Exact counterpart (),,,49393,{},,sentno,49394,513114,42862
+,Exact counterpart (),,,49394,{},,prédikálinen,49395,513509,42753
+,Exact counterpart (),,,49395,{},,áldinen,49396,513904,41625
+,Exact counterpart (),,,49396,{},,átkozinen,49397,514299,41667
+,Para-counterpart (),,,49397,{},,košen,49398,514299,42357
+,Exact counterpart (),,,49398,{},,bétlinen,49399,514694,41723
+,Super-counterpart (),,,49399,{},,nebo,49400,515089,42547
+,Exact counterpart (),,,49400,{},,poklo,49401,515484,42734
+,Sub-counterpart (),,,49401,{},,béng,49402,515879,41716
+,Super-counterpart (),,,49402,{},,čohanipe,49403,516669,41856
+,Sub-counterpart (),,,49403,{},,čoháni,49404,517064,41855
+,Sub-counterpart (),,,49404,{},,čoháno,49405,517064,41857
+,Sub-counterpart (),,,49405,{},,víla,49406,517459,43130
+,Sub-counterpart (),,,49406,{},,véšeskeri džuvli,49407,517459,43118
+,Sub-counterpart (),,,49407,{},,páňiskeri džuvli,49408,517459,42631
+,Sub-counterpart (),,,49408,{},,škráteko,49409,517459,42910
+,Exact counterpart (),,,49409,{},,sėllėmo,49410,517854,42852
+,Super-counterpart (),,,49410,{},,múlo (2),49411,517854,42491
+,Super-counterpart (),,,49411,{},,jelentíši,49412,518249,42196
+,Exact counterpart (),,,49415,{},,rádió,49416,518644,42769
+,Exact counterpart (),,,49416,{},,televízijó,49417,519039,42997
+,Exact counterpart (),,,49417,{},,telefono,49418,519434,42996
+,Exact counterpart (),,,49418,{},,bicigli,49419,538789,41727
+,Exact counterpart (),,,49419,{},,motorka,49420,519829,42499
+,Exact counterpart (),,,49420,{},,avutó,49421,520224,41673
+,Exact counterpart (),,,49421,{},,busi,49422,520619,41772
+,Exact counterpart (),,,49422,{},,vonato,49423,536419,43147
+,Exact counterpart (),,,49423,{},,repilló,49424,521014,42786
+,Exact counterpart (),,,49424,{},,villaňi,49425,521409,43139
+,Exact counterpart (),,,49425,{},,ėllemo,49426,521804,41982
+,Exact counterpart (),,,49426,{},,baterka,49427,521804,41709
+,Exact counterpart (),,,49427,{},,fékezinen,49428,537209,42015
+,Exact counterpart (),,,49428,{},,motori,49429,537999,42498
+,Exact counterpart (),,,49429,{},,gípo,49430,538394,42068
+,Sub-counterpart (),,,49430,{},,nafta,49431,537604,42526
+,Sub-counterpart (),,,49431,{},,petrolímo,49432,537604,42676
+,Exact counterpart (),,,49432,{},,korházo,49433,522199,42350
+,Exact counterpart (),,,49433,{},,sestrička,49434,522594,42873
+,Exact counterpart (),,,49434,{},,tabletta,49435,522989,42966
+,Exact counterpart (),,,49435,{},,inekció,49436,523384,42168
+,Exact counterpart (),,,49436,{},,sėmivėgo,49437,531679,42857
+,Exact counterpart (),,,49437,{},,vláda,49438,525359,43143
+,Exact counterpart (),,,49438,{},,prezidento,49439,525754,42704
+,Exact counterpart (),,,49439,{},,ministeri,49440,526149,42477
+,Exact counterpart (),,,49440,{},,čendéri,49441,526544,41801
+,Exact counterpart (),,,49441,{},,čendéršígo,49442,526544,41802
+,Super-counterpart (),,,49442,{},,čačuno,49443,526544,41781
+,Exact counterpart (),,,49443,{},,voďičáko,49444,526939,43144
+,Super-counterpart (),,,49444,{},,papíri,49445,526939,42635
+,Super-counterpart (),,,49445,{},,tábla,49446,540369,42965
+,Exact counterpart (),,,49446,{},,kerestlėvėlo,49447,536814,42273
+,Super-counterpart (),,,49447,{},,válostáši,49448,527729,43098
+,Exact counterpart (),,,49448,{},,címo,49449,535629,41846
+,Exact counterpart (),,,49449,{},,sámo,49450,536024,42826
+,Exact counterpart (),,,49450,{},,ucca,49451,539184,43057
+,Super-counterpart (),,,49451,{},,póšta,49452,528124,42743
+,Super-counterpart (),,,49452,{},,billego,49453,528519,41736
+,Super-counterpart (),,,49453,{},,kárťa,49454,528914,42237
+,Exact counterpart (),,,49454,{},,kípešlapo,49455,540764,42309
+,Exact counterpart (),,,49455,{},,banka,49456,529309,41694
+,Exact counterpart (),,,49456,{},,čapo,49457,523779,41789
+,Super-counterpart (),,,49457,{},,moždó,49458,524174,42501
+,Exact counterpart (),,,49458,{},,"vécė, véca",49459,524569,43107
+,Exact counterpart (),,,49459,{},,klozeto,49460,524569,42324
+,Exact counterpart (),,,49460,{},,madraci,49461,524964,42438
+,Exact counterpart (),,,49461,{},,bátogó,49462,529704,41710
+,Sub-counterpart (),,,49462,{},,konzerva,49463,529704,42342
+,Exact counterpart (),,,49463,{},,čavaró,49464,530099,41794
+,Exact counterpart (),,,49464,{},,šrófo,49465,530099,42944
+,Exact counterpart (),,,49465,{},,čavarhúzó,49466,530494,41792
+,Super-counterpart (),,,49466,{},,caklo,49467,530889,41783
+,Sub-counterpart (),,,49467,{},,gullipe,49468,531284,42082
+,Para-counterpart (),,,49468,{},,pekibe,49469,531284,42662
+,Exact counterpart (),,,49469,{},,míaňago,49470,532074,42468
+,Exact counterpart (),,,49470,{},,bomba,49471,532469,41755
+,Exact counterpart (),,,49471,{},,míhėlė,49472,532864,42471
+,Exact counterpart (),,,49472,{},,cigaretta,49473,533259,41836
+,Exact counterpart (),,,49473,{},,újšágo,49474,535234,43066
+,Exact counterpart (),,,49474,{},,naptári,49475,533654,42536
+,Super-counterpart (),,,49475,{},,mozi,49476,534049,42504
+,Exact counterpart (),,,49476,{},,zėnė,49477,534444,43160
+,Sub-counterpart (),,,49477,{},,bašajibe,49478,534444,41704
+,Exact counterpart (),,,49478,{},,ďíli,49479,534839,41925
+,Exact counterpart (),,,49479,{},,teja,49480,545899,42992
+,Exact counterpart (),,,49480,{},,kávéja,49481,546294,42244
+,Exact counterpart (),,,49481,{},,oven (2),49482,541159,42609
+,Super-counterpart (),,,49482,{},,oven (1),49483,541554,42608
+,Super-counterpart (),,,49483,{},,bi,49484,541949,41725
+,Super-counterpart (),,,49484,{},,bisti,49485,541949,41745
+,Super-counterpart (),,,49485,{},,bistal,49486,541949,41743
+,Exact counterpart (),,,49486,{},,-ha ~ -hė ~ -ca,49487,577104,42089
+,Super-counterpart (),,,49487,{},,perdal,49488,542344,42668
+,Exact counterpart (),,,49488,{},,préku,49489,542344,42754
+,Super-counterpart (),,,49489,{},,na,49490,543134,42523
+,Sub-counterpart (),,,49490,{},,ma,49491,543134,42431
+,Sub-counterpart (),,,49491,{},,adá,49492,543529,41608
+,Sub-counterpart (),,,49492,{},,aká,49493,543529,41614
+,Para-counterpart (),,,49493,{},,odá,49494,543924,42573
+,Sub-counterpart (),,,49494,{},,oká,49495,543924,42579
+,Sub-counterpart (),,,49495,{},,adaj,49496,544319,41611
+,Sub-counterpart (),,,49496,{},,anďa,49497,544319,41637
+,Sub-counterpart (),,,49497,{},,ákaj,49498,544319,41615
+,Sub-counterpart (),,,49498,{},,akija,49499,544319,41621
+,Sub-counterpart (),,,49499,{},,odoj,49500,544714,42575
+,Sub-counterpart (),,,49500,{},,onďa,49501,544714,42589
+,Sub-counterpart (),,,49501,{},,okoj,49502,544714,42581
+,Sub-counterpart (),,,49502,{},,okija,49503,544714,42580
+,Super-counterpart (),,,49503,{},,áver,49504,545109,41672
+,Super-counterpart (),,,49504,{},,buter,49505,545109,41775
+,Super-counterpart (),,,49505,{},,áver,49506,546689,41672
+,Exact counterpart (),,,49506,{},,uďanodá,49507,542739,43061
+,Exact counterpart (),,,49507,{},,"ništa, ništ",49508,574339,42564
