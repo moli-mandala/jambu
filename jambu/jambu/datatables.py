@@ -1,9 +1,10 @@
 from sqlalchemy.orm import joinedload
 from clld.web import datatables
-from clld.web.datatables.base import LinkCol, Col, LinkToMapCol
+from clld.web.datatables.base import LinkCol, Col, LinkToMapCol, IdCol
 
 from clld_glottologfamily_plugin.models import Family
 from clld_glottologfamily_plugin.datatables import FamilyCol
+from clld.web.util.helpers import linked_references
 
 
 from jambu import models
@@ -62,14 +63,30 @@ class Values(datatables.Values):
                 Col(self, 'gloss'),
                 Col(self, 'native'),
                 Col(self, 'phonemic'),
-                Col(self, 'description'),
-                Col(
-                    self,
-                    'name',
-                    model_col=models.Cognate_.name,
-                    get_object=f,
-                    sTitle='Cognate')
+                Col(self, 'description')
             ]
+        return [
+            LinkCol(
+                    self,
+                    'language',
+                    model_col=models.Variety.name,
+                    get_object=lambda i: i.valueset.language,
+                    sTitle='Language'
+                ),
+            LinkCol(
+                    self,
+                    'parameter',
+                    model_col=models.Concept.name,
+                    get_object=lambda i: i.valueset.parameter,
+                    sTitle='Meaning'
+                ),
+            LinkCol(self, 'name', sTitle='Form'),
+            Col(self, 'gloss'),
+            Col(self, 'native'),
+            Col(self, 'phonemic'),
+            Col(self, 'description')
+        ]
+
 
 
 def includeme(config):

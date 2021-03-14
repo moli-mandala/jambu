@@ -108,7 +108,7 @@ Kat,Kaṭārqalā,wota1240,70.86,34.70
 kath,Kāṭhiyāvāḍi dialect of Gujarātī,guja1252,71.10,22.69
 kb,Kauśāmbī Pillar Edict of Aśoka,maha1305,81.392899,25.338984
 kc,Kocī dialect of West Pahāṛī,maha1287,77.53,31.01
-kotg,Kotgarhi dialect of West Pahāṛī,maha1287,77.53,31.01
+ktg,Kotgarhi dialect of West Pahāṛī,maha1287,77.53,31.01
 kcch,Kacchī dialect of Sindhī,kach1277,69.00,23.83
 kch,Kachur-i Sala dialect of Pashai,nort2665,69.99,35.17
 kgr,Kāṅgrā sub-dialect of Ḍogrī dialect of Panjābī,kang1280,76.37,31.91
@@ -283,3 +283,6 @@ kbn,Bongaigaon dialect of Kamtapuri,rang1265,90.5007068,26.4895061
 krl,Rangeli dialect of Rajbanshi,rajb1243,87.5099,26.4568
 kmh,Mahayespur dialect of Rajbanshi,rajb1243,88.0754,26.5186
 kks,Kishanganj dialect of Surjapuri,surj1235,87.9450,26.0982
+vrac,Vrācaḍa dialect of Apabhraṁśa,maha1305,79.0,27.0
+OHG,Old High German,oldh1241,10,52
+Toch,Tocharian,tokh1241,89.18,42.98

@@ -71,17 +71,6 @@ def main(args):
 
     refs = collections.defaultdict(list)
 
-
-    print("Params...")
-    for param in iteritems(args.cldf, 'ParameterTable', 'ID', 'Name', 'Concepticon_ID', 'Description'):
-        data.add(
-            models.Concept,
-            param['ID'],
-            id=param['ID'],
-            name='[{}] {}'.format(param['ID'], param['Name']),
-            description=param['Description']
-        )
-
     print("Cognates...")
     for cognate in iteritems(args.cldf, 'CognateTable'):
         # print(cognate)
@@ -91,6 +80,25 @@ def main(args):
             name=cognate['Form'],
             language=cognate['Language_ID'],
             description=cognate['Description']
+        )
+
+    counts = collections.defaultdict(set)
+    print("Forms...")
+    i = 0
+    for form in iteritems(args.cldf, 'FormTable', 'id', 'form', 'languageReference', 'parameterReference', 'source'):
+        if i % 1000 == 0: print(i)
+        i += 1
+        counts[form['parameterReference']].add(form['languageReference'])
+
+    print("Params...")
+    for param in iteritems(args.cldf, 'ParameterTable', 'ID', 'Name', 'Concepticon_ID', 'Description'):
+        data.add(
+            models.Concept,
+            param['ID'],
+            id=param['ID'],
+            name='{} [{}]'.format(param['Name'], param['ID']),
+            description=param['Description'],
+            count=len(counts[param['ID']])
         )
 
     print("Forms...")

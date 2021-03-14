@@ -142,6 +142,7 @@ abbrevs = {
     "kōl": "Kōlā dialect of Shina",
     "kq": "Kauśāmbī (Queen's Edict) Inscription of Aśoka",
     "Kt": "Kati or Katei (Kaf.)",
+    "kṭg": "Kotgarhi dialect of West Pahāṛī",
     "Ku": "Kumaunī",
     "Kur": "Kuruḵẖ (Dravidian)",
     "kuṛ": "Kuṛaṅgali dialect of Pashai",
@@ -315,6 +316,7 @@ with open("dasa_list.txt", "a") as fout:
                     if (len(data) == 1): continue
 
                     langs = []
+                    data[1] = ', '.join(data[1:])
                     matches = list(re.finditer(regex, data[1]))
                     for i in range(len(matches)):
                         lang = matches[i].group(0)[:-1]
@@ -324,11 +326,11 @@ with open("dasa_list.txt", "a") as fout:
                             word = data[1][matches[i].start():]
                         else:
                             word = data[1][matches[i].start():matches[i + 1].start()]
+                        
                         word = word.replace('ˊ', '́')
                         word = word.replace(' -- ', '–')
                         word = word.replace('--', '–')
                         word = remove_text_between_parens(word)
-
                         
                         forms = list(re.finditer(r'(<i>(.*?)</i>|ʻ(.*?)ʼ)', word))
                         langs.append(lang)
