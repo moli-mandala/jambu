@@ -46,8 +46,7 @@ You probably don't need to do this since I commit the SQLite database directly t
 ```bash
 python parse.py
 python clld.py
-cd jambu
-clld initdb development.ini --glottolog ../glottolog/ --cldf ../cldf/Wordlist-metadata.json
+clld initdb development.ini --glottolog glottolog --cldf cldf/Wordlist-metadata.json
 ```
 
 To test:
