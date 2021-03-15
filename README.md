@@ -6,8 +6,7 @@ You need Python 3.x and `pip`; to run Jambu (CLLD app for CDIAL) do this:
 
 ```bash
 pip install -r requirements.txt
-cd jambu
-python main.py
+./run
 ```
 
 You can edit `main.py` to change the port and IP for hosting Jambu.
