@@ -1,8 +1,9 @@
 import itertools
 import collections
 
+from nameparser import HumanName
 from pycldf import Sources
-from clldutils.misc import nfilter
+from clldutils.misc import nfilter, slug
 from clldutils.color import qualitative_colors
 from clld.cliutil import Data, bibtex2source
 from clld.db.meta import DBSession
@@ -29,21 +30,28 @@ def main(args):
     assert args.glottolog, 'The --glottolog option is required!'
 
     data = Data()
-    data.add(
+    ds = data.add(
         common.Dataset,
         jambu.__name__,
         id=jambu.__name__,
-        domain='',
-
-        publisher_name="Max Planck Institute for the Science of Human History",
-        publisher_place="Jena",
-        publisher_url="http://www.shh.mpg.de",
+        name='Jambu',
+        domain='jambu-clld.herokuapp.com',
+        publisher_name="Georgetown University",
+        publisher_place="Washington",
+        publisher_url="http://gucl.georgetown.edu/",
         license="http://creativecommons.org/licenses/by/4.0/",
         jsondata={
             'license_icon': 'cc-by.png',
             'license_name': 'Creative Commons Attribution 4.0 International License'},
 
     )
+
+    for i, name in enumerate(['Aryaman Arora']):
+        common.Editor(
+            dataset=ds,
+            ord=i,
+            contributor=common.Contributor(id=slug(HumanName(name).last), name=name)
+        )
 
 
     contrib = data.add(
