@@ -45,7 +45,7 @@ class Values(datatables.Values):
                     sTitle='Meaning'
                 ),
                 LinkCol(self, 'name', sTitle='Form'),
-                Col(self, 'gloss'),
+                Col(self, 'gloss', model_col=models.Lexeme.gloss),
                 Col(self, 'native'),
                 Col(self, 'phonemic'),
                 Col(self, 'cognateset')
@@ -60,28 +60,28 @@ class Values(datatables.Values):
                     sTitle='Language'
                 ),
                 LinkCol(self, 'name', sTitle='Form'),
-                Col(self, 'gloss'),
+                Col(self, 'gloss', model_col=models.Lexeme.gloss),
                 Col(self, 'native'),
                 Col(self, 'phonemic'),
                 Col(self, 'description')
             ]
         return [
             LinkCol(
-                    self,
-                    'language',
-                    model_col=models.Variety.name,
-                    get_object=lambda i: i.valueset.language,
-                    sTitle='Language'
-                ),
-            LinkCol(
-                    self,
-                    'parameter',
-                    model_col=models.Concept.name,
-                    get_object=lambda i: i.valueset.parameter,
-                    sTitle='Meaning'
-                ),
+                self,
+                'language',
+                model_col=models.Variety.name,
+                get_object=lambda i: i.valueset.language,
+                sTitle='Language'
+            ),
             LinkCol(self, 'name', sTitle='Form'),
-            Col(self, 'gloss'),
+            LinkCol(
+                self,
+                'parameter',
+                model_col=models.Concept.name,
+                get_object=lambda i: i.valueset.parameter,
+                sTitle='Meaning'
+            ),
+            Col(self, 'gloss', model_col=models.Lexeme.gloss),
             Col(self, 'native'),
             Col(self, 'phonemic'),
             Col(self, 'description')
