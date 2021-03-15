@@ -37,9 +37,6 @@ def main(global_config, **settings):
     config = Configurator(settings=settings)
     config.include('clld.web.app')
 
-    config.include('clldmpg')
-
-
     config.registry.registerUtility(LanguageByFamilyMapMarker(), IMapMarker)
 
     return config.make_wsgi_app()
