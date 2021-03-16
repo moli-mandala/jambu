@@ -14,26 +14,35 @@
         <th>Entry</th>
         <td>${h.link(request, ctx.valueset.parameter)}</td>
     </tr>
-        % if ctx.phonemic:
-            <tr>
-                <td>${ctx.phonemic}</td>
-            </tr>
-        % endif
-    <tr>
-        <th>Meaning</th>
-        <td>${ctx.gloss}</td>
-    </tr>
-        % if ctx.description:
-            <tr>
-                <th>Comment</th>
-                <td>${ctx.description}</td>
-            </tr>
-        % endif
-        % if ctx.valueset.references:
-            <tr>
-                <th>Sources</th>
-                <td>${h.linked_references(request, ctx.valueset)|n}</td>
-            </tr>
-        % endif
+    % if ctx.phonemic:
+        <tr>
+            <th>Phonemic</th>
+            <td>${ctx.phonemic}</td>
+        </tr>
+    % endif
+    % if ctx.native:
+        <tr>
+            <th>Native</th>
+            <td>${ctx.native}</td>
+        </tr>
+    % endif
+    % if ctx.gloss:
+        <tr>
+            <th>Gloss</th>
+            <td>${ctx.gloss}</td>
+        </tr>
+    % endif
+    % if ctx.description:
+        <tr>
+            <th>Comment</th>
+            <td>${ctx.description}</td>
+        </tr>
+    % endif
+    % if ctx.valueset.references:
+        <tr>
+            <th>Sources</th>
+            <td>${h.linked_references(request, ctx.valueset)|n}</td>
+        </tr>
+    % endif
     </tbody>
 </table>
