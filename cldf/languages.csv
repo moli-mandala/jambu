@@ -17,14 +17,14 @@ Aw,Awadhi,awad1243,82.47,27.59
 awan,Hindko: Awankari,west2386,72.17,32.91
 B,Bengali,beng1280,90.00,24.00
 Bal,Balochi,sout2642,64,26
-bang,Bangru,hind1269,77.00,25.00
+bang,Bangru,hary1238,76.04,29.02
 Bashg,Bashgali,kati1279,70.98,35.41
 bh,Ashokan Prakrit: Bairat Bhabhru,maha1305,76.18,27.45
 bhad,Bhadrawahi,bhad1241,75.87,33.29
 bhal,Bhalesi,bhad1241,75.87,33.29
 bhat,Bhateali,bhat1263,76.03,32.40
 bhid,Bhadrawahi: Bhidlai,bhad1241,75.87,33.29
-Bhoj,Bhojpurī,bhoj1244,84.82,26.46
+Bhoj,Bhojpuri,bhoj1244,84.82,26.46
 BHSk,Buddhist Hybrid Sanskrit,sans1269,77.00,20.00
 Bi,Bihari,bagh1251,87.50,24.68
 bil,Bilaspuri,bila1253,76.67,31.38
@@ -48,7 +48,7 @@ Dhp,Gandhari,maha1305,72.8291,33.756
 Dm,Dameli,dame1241,71.68,35.30
 dod,Dodi,kash1277,74.33,34.17
 dog,Dogri,dogr1250,75.71,32.55
-dr,Shina: Dras,shin1264,75.29,34.65
+dr,Shina: Dras,shin1264,75.751684,34.430718
 Drav,Dravidian,drav1251,78.83,10.52
 eng,European Romani: English,wels1246,-3.79,52.12
 Eng,English,stan1293,-1,53
@@ -62,7 +62,7 @@ gav,Ashokan Prakrit: Gavimath,maha1305,76.1621377,15.3372926
 Gaw,Gawarbati,gawa1247,71.54,35.20
 germ,Romani: German,sint1235,9.40,48.70
 ghis,Ghisadi,guja1252,71.10,22.69
-gil,Shina: Gilgiti,shin1264,75.29,34.65
+gil,Shina: Gilgiti,shin1264,74.3019138,35.910131
 gir,Ashokan Prakrit: Girnar,maha1305,70.505556,21.494722
 Gk,Greek,anci1242,21.91,39.82
 Gmb,Gambiri,treg1243,70.96,34.75
@@ -70,11 +70,11 @@ gng,Kumaoni: Gangoi,kuma1273,80.02,29.56
 Goth,Gothic,goth1244,29.98,46.93
 gr,European Romani: Greek,balk1252,21.17,42.67
 gul,Pashai: Gulbahari,nort2665,69.99,35.17
-gur,Shina: Guresi,shin1264,75.29,34.65
+gur,Shina: Guresi,shin1264,74.6350532,34.6477333
 Gy,Romani,vlax1238,14.85,46.82
-H,Hindi,hind1269,77.00,25.00
+H,Hindi,hind1269,77.1025,28.7041
 hal,Halbi,halb1244,81.37,20.31
-haz,Hindko: Hazara,west2386,75.35,30.09
+haz,Hindko: Hazara,west2386,72.3,34.8
 hrudh,Khashali: High Rudhari,bhad1241,75.87,33.29
 hung,European Romani: Hungarian,carp1235,20.31,48.20
 IA,Old Indo-Aryan,indo1321,72.36,34.04
@@ -92,7 +92,7 @@ jaun,Jaunsri,jaun1243,77.91,30.56
 jij,Shina: Jijelut,shin1264,75.29,34.65
 jmag,Jaina Magadhi Prakrit,maha1305,87.8550,22.9868
 jmh,Jaina Maharastri Prakrit,maha1305,87.8550,22.9868
-jt,Bangru: Jatu,hind1269,77.00,25.00
+jt,Bangru: Jatu,hary1238,76.04,29.02
 jub,North Jubbali,maha1287,77.53,31.01
 K,Kashmiri,kash1277,74.33,34.17
 kach,Lahnda: Kachri,west2386,75.35,30.09
@@ -138,7 +138,7 @@ kurd,Pashai: Kurdari,nort2666,70.43,34.66
 Kurd,Kurdish,kurd1259,45.81,35.65
 ky,Maiya: Kanyawali,indu1241,73.02,35.34
 L,Lahnda,west2386,75.35,30.09
-la,Sindhi: Lari,sind1272,69.00,26.00
+la,Sindhi: Lari,lari1254,67.8884947,24.1955515
 lagh,Pashai: Laghmani,sout2672,70.30,34.43
 lakh,Awadhi: Lakhimpuri,awad1243,82.47,27.59
 Lat,Latin,lati1261,12.45,41.90
@@ -206,7 +206,7 @@ Pk,Prakrit,maha1305,74.71,19.18
 pog,Poguli,kash1277,74.33,34.17
 pol,European Romani: Polish,sint1235,16.50,47.50
 poth,Pahari-Pothwari,paha1251,73.81,33.64
-pow,Punjabi: Powadhi,panj1256,75.67,30.04
+pow,Punjabi: Powadhi,panj1256,76.38,30.34
 Pr,Prasun,pras1239,70.80,35.17
 Prj,Parji,parj1243,82.76,18.60
 Psht,Pashto,cent1973,69.45,31.92
