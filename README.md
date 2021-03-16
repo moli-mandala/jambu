@@ -2,12 +2,11 @@
 
 Various scripts and programs dealing with the *Comparative Dictionary of the Indo-Aryan Languages* by Ralph Lilley Turner (hosted on [SOAS by UChicago](https://dsal.uchicago.edu/dictionaries/soas/)).
 
-You need Python 3.x; to run Jambu (CLLD app for CDIAL) do this:
+You need Python 3.x and `pip`; to run Jambu (CLLD app for CDIAL) do this:
 
 ```bash
 pip install -r requirements.txt
-cd jambu
-python main.py
+./run
 ```
 
 You can edit `main.py` to change the port and IP for hosting Jambu.
@@ -46,7 +45,8 @@ You probably don't need to do this since I commit the SQLite database directly t
 ```bash
 python parse.py
 python clld.py
-clld initdb development.ini --glottolog glottolog --cldf cldf/Wordlist-metadata.json
+cd jambu
+clld initdb development.ini --glottolog ../glottolog --cldf ../cldf/Wordlist-metadata.json
 ```
 
 To test:
