@@ -5,11 +5,10 @@ from clld.web.datatables.base import LinkCol, Col, LinkToMapCol, IdCol
 from clld_glottologfamily_plugin.models import Family
 from clld_glottologfamily_plugin.datatables import FamilyCol
 from clld.web.util.helpers import linked_references
+from clld.db.models.common import Value, ValueSet
 
 
 from jambu import models
-
-
 
 
 class Languages(datatables.Languages):
@@ -34,6 +33,17 @@ def f(x):
     return x.cognateset
 
 class Values(datatables.Values):
+    def base_query(self, query):
+        if not any([self.language, self.parameter, self.contribution]):
+            return query.join(ValueSet)\
+                .join(ValueSet.language)\
+                .join(ValueSet.parameter)\
+                .options(
+                    joinedload(Value.valueset).joinedload(ValueSet.language),
+                    joinedload(Value.valueset).joinedload(ValueSet.parameter),
+                )
+        return datatables.Values.base_query(self, query)
+        
     def col_defs(self):
         if self.language:
             return [
