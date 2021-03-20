@@ -7,7 +7,10 @@
             Arora, Aryaman. 2021. <em>Jambu</em>. Washington: Georgetown University.
         <h3>Compilers</h3>
         <p>
-            Aryaman Arora
+            <ul>
+                <li>Aryaman Arora</li>
+                <li>Adam Farris</li>
+            </ul>
         </p>
     </div>
 </%def>
