@@ -55,7 +55,7 @@ eng,European Romani: English,wels1246,-3.79,52.12
 Eng,English,stan1293,-1,53
 eur,European Romani,vlax1238,14.85,46.82
 Fr,French,stan1290,2,48
-fuv,Dhivehi: Fuvahmulah,dhiv1235,0.2984,73.4269
+fuv,Dhivehi: Fuvahmulah,dhiv1235,73.4269,0.2984
 G,Gujarati,guja1252,71.10,22.69
 Ga,Gadba,mudh1235,83.38,18.28
 Garh,Garhwali,garh1243,78.72,30.51
@@ -166,7 +166,7 @@ mi,Ashokan Prakrit: Delhi Meerut,maha1305,77.7,28.99
 MIA,Middle Indo-Aryan,maha1305,84.5,25.4
 midrudh,Khashali: Middle Rudhari,bhad1241,75.87,33.29
 Mj,Munji,munj1244,70.94,35.93
-Mth,Maithilī,mait1250,86.22,26.38
+Mth,Maithili,mait1250,86.22,26.38
 mth,Ashokan Prakrit: Mathia,maha1305,84.4,26.983333
 Mu,Munda,mund1335,87.18,25.04
 mult,Saraiki: Multan,west2386,71.5249,30.1575
