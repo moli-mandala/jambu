@@ -301,7 +301,7 @@ total_pages = 836
 with open("dasa_list.txt", "a") as fout:
     for page in range(1, total_pages + 1):
         print(page)
-        link = "https://dsalsrv04.uchicago.edu/cgi-bin/app/soas_query.py?page=" + str(page)
+        link = "https://dsal.uchicago.edu/cgi-bin/app/soas_query.py?page=" + str(page)
         with urllib.request.urlopen(link) as resp:
             soup = BeautifulSoup(resp, 'html.parser')
             soup = str(soup).split('<number>')
@@ -317,6 +317,7 @@ with open("dasa_list.txt", "a") as fout:
 
                     langs = []
                     data[1] = ', '.join(data[1:])
+                    data[1] = remove_text_between_parens(data[1])
                     matches = list(re.finditer(regex, data[1]))
                     for i in range(len(matches)):
                         lang = matches[i].group(0)[:-1]
@@ -330,7 +331,6 @@ with open("dasa_list.txt", "a") as fout:
                         word = word.replace('ˊ', '́')
                         word = word.replace(' -- ', '–')
                         word = word.replace('--', '–')
-                        word = remove_text_between_parens(word)
                         
                         forms = list(re.finditer(r'(<i>(.*?)</i>|ʻ(.*?)ʼ)', word))
                         langs.append(lang)
