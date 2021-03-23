@@ -1,6 +1,6 @@
 from sqlalchemy.orm import joinedload
 from clld.web import datatables
-from clld.web.datatables.base import LinkCol, Col, LinkToMapCol, IdCol, DetailsRowLinkCol, IntegerIdCol
+from clld.web.datatables.base import LinkCol, Col, LinkToMapCol, IdCol, DetailsRowLinkCol, IntegerIdCol, RefsCol
 
 from clld_glottologfamily_plugin.models import Family
 from clld_glottologfamily_plugin.datatables import FamilyCol
@@ -80,7 +80,8 @@ class Values(datatables.Values):
                 Col(self, 'gloss', model_col=models.Lexeme.gloss),
                 Col(self, 'native'),
                 Col(self, 'phonemic'),
-                Col(self, 'description')
+                Col(self, 'description'),
+                RefsCol(self, 'references', get_object=lambda i: i.valueset)
             ]
         return [
             LinkCol(
