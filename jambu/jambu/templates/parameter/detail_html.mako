@@ -24,13 +24,8 @@
 
 <div style="clear: both; "/>
 
-<div style="display: flex;">
-<div style="flex: 1; margin-right: 20px;">
-${request.get_datatable('values', h.models.Value, parameter=ctx).render()}
-</div>
-<div style="flex: 1;">
 % if map_ or request.map:
 ${(map_ or request.map).render()}
 % endif
-</div>
-</div>
+
+${request.get_datatable('values', h.models.Value, parameter=ctx).render()}
