@@ -12,19 +12,7 @@ pip install -r requirements.txt
 You can edit `main.py` to change the port and IP for hosting Jambu.
 
 ## Data sources
-- Ralph Lilley Turner. 1962–1966. A comparative dictionary of the Indo-Aryan languages. Oxford University Press.
-- Liljegren, Henrik. 2019. Palula dictionary. Dictionaria. 1-2700. Jena: Max Planck Institute for the Science of Human History.
-- Aryaman Arora. 2020–2021. Kholosi Dictionary.
-- Hukam Chand Patyal. 1982. Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies II). Indo-Iranian Journal 24. 289–294. Brill.
-- Hukam Chand Patyal. 1991. Etymological notes on some Ḍogri words (Indo-Aryan Studies III). Indo-Iranian Journal 34. 123–124. Brill.
-- Hukam Chand Patyal. 1983. Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies IV). Indo-Iranian Journal 25. 41–49. Brill.
-- Hukam Chand Patyal. 1984. Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies V). Indo-Iranian Journal 27. 121–132. Brill.
-
-### To add
-- Toulmin, Matthew William Stirling. 2006. Reconstructing linguistic history in a dialect continuum: The Kamta, Rajbanshi, and Northern Deshi Bangla subgroup of Indo-Aryan. (Doctoral dissertation, Faculty of Arts. School of Language Studies and The Australian National University).
-- Claus Peter Zoller's Indus Kohistani
-- Kalasha Dictionary
-- Bhawnani, Murli D. 1979. Descriptive analysis of Thari: A dialect of Sindhi language. (Doctoral dissertation, Deccan College Post Graduate and Research Institute Pune).
+Check the dataset front page.
 
 ## Files
 
@@ -46,6 +34,7 @@ You probably don't need to do this since I commit the SQLite database directly t
 python parse.py
 python cldf.py
 cd jambu
+pip install -e .
 clld initdb development.ini --glottolog ../glottolog --cldf ../cldf/Wordlist-metadata.json
 ```
 

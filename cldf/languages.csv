@@ -1,6 +1,6 @@
 ID,Name,Glottocode,Longitude,Latitude
 A,Assamese,assa1263,91.29,26.09
-add,Dhivehi: Addu,dhiv1236,0.6333,73.1667
+add,Dhivehi: Addu,dhiv1236,73.1667,0.6333
 al,Pashai: Alashai,nort2665,69.99,35.17
 amg,Prakrit: Ardhamagadhi,maha1305,84.5,25.4
 Ap,Apabhramsha,maha1305,79.0,27.0
@@ -79,7 +79,7 @@ hal,Halbi,halb1244,81.37,20.31
 haz,Hindko: Hazara,west2386,72.3,34.8
 hrudh,Khashali: High Rudhari,bhad1241,75.87,33.29
 hung,European Romani: Hungarian,carp1235,20.31,48.20
-huv,Dhivehi: Huvadhu,dhiv1236,0.5000,73.3000
+huv,Dhivehi: Huvadhu,dhiv1236,73.3000,0.5000
 IA,Old Indo-Aryan,indo1321,72.36,34.04
 IE,Indo-European,indo1319,41,47
 Ind,Indo-Aryan Proper,indo1321,72.36,34.04
@@ -289,3 +289,6 @@ kks,Surjapuri: Kishanganj,surj1235,87.9450,26.0982
 vrac,Apabhramsha: Vrachada,maha1305,79.0,27.0
 OHG,Old High German,oldh1241,10,52
 Toch,Tocharian,tokh1241,89.18,42.98
+deg,Pashai: Gorayk (Degano),sout2672,70.9008,34.6458
+Kam,Kamviri,kamv1242,71.34,35.41
+Kata,Katavari,kati1279,70.773611,35.301667
