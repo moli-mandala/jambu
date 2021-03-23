@@ -7,7 +7,10 @@
             Arora, Aryaman. 2021. <em>Jambu</em>. Washington: Georgetown University.
         <h3>Compilers</h3>
         <p>
-            Aryaman Arora
+            <ul>
+                <li>Aryaman Arora</li>
+                <li>Adam Farris</li>
+            </ul>
         </p>
     </div>
 </%def>
@@ -45,6 +48,8 @@ A brief overview:
     <li>Hukam Chand Patyal. 1991. Etymological notes on some Ḍogri words (Indo-Aryan Studies III). Indo-Iranian Journal 34. 123–124. Brill.</li>
     <li>Hukam Chand Patyal. 1983. Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies IV). Indo-Iranian Journal 25. 41–49. Brill.</li>
     <li>Hukam Chand Patyal. 1984. Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies V). Indo-Iranian Journal 27. 121–132. Brill.</li>
+    <li>Hukam Chand Patyal. 1984. Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies V). Indo-Iranian Journal 27. 121–132. Brill.</li>
+    <li>Strand, Richard F. 1997–2021. Nuristân: Hidden Land of the Hindu-Kush.</lo>
 </ul>
 
 <b>Partial</b>
