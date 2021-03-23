@@ -1,14 +1,21 @@
 from sqlalchemy.orm import joinedload
 from clld.web import datatables
-from clld.web.datatables.base import LinkCol, Col, LinkToMapCol, IdCol
+from clld.web.datatables.base import LinkCol, Col, LinkToMapCol, IdCol, DetailsRowLinkCol, IntegerIdCol
 
 from clld_glottologfamily_plugin.models import Family
 from clld_glottologfamily_plugin.datatables import FamilyCol
 from clld.web.util.helpers import linked_references
 from clld.db.models.common import Value, ValueSet
 
-
 from jambu import models
+
+class Parameters(datatables.Parameters):
+    def col_defs(self):
+        return [
+            IntegerIdCol(self, 'count'),
+            LinkCol(self, 'name'),
+            Col(self, 'count', model_col=models.Concept.count)
+        ]
 
 
 class Languages(datatables.Languages):
@@ -104,3 +111,4 @@ def includeme(config):
 
     config.register_datatable('languages', Languages)
     config.register_datatable('values', Values)
+    config.register_datatable('parameters', Parameters)
