@@ -96,7 +96,8 @@ def main(args):
     for form in iteritems(args.cldf, 'FormTable', 'id', 'form', 'languageReference', 'parameterReference', 'source'):
         if i % 1000 == 0: print(i)
         i += 1
-        counts[form['parameterReference']].add(form['languageReference'])
+        for j in form['parameterReference'].split('+'):
+            counts[j].add(form['languageReference'])
 
     print("Params...")
     for param in iteritems(args.cldf, 'ParameterTable', 'ID', 'Name', 'Concepticon_ID', 'Description'):
