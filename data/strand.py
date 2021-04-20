@@ -5,7 +5,7 @@ import csv
 import re
 from segments.tokenizer import Tokenizer, Profile
 
-t = Tokenizer('strand_profile.txt')
+t = Tokenizer('ipa/strand.txt')
 
 chars = ['p', 'b', 'bAsp', 'f', 'v', 'w', 'm', 'uFrn', 'u', 'o', 'oFrn', 'uTns', 'oTns',
          'cDen', 'zDen', 't', 'd', 'dAsp', 's', 'z', 'l', 'lVls', 'n', 'cRet', 'jRet',
@@ -24,6 +24,7 @@ languages = ['IndoAryan/Pashai/Degan/DeganLanguage',
              'IndoAryan/Indus/Atsaret/AtsaretLanguage']
 
 codes = ['deg', 'Kam', 'Kata', 'Ash', 'Wg', 'Kho', 'Phal']
+CHECK = '�'
 
 with open('strand2.csv', 'w') as fout:
     writer = csv.writer(fout)
@@ -37,6 +38,8 @@ with open('strand2.csv', 'w') as fout:
                     print(word)
                     word = word.find(text=True, recursive=False)
                     word2 = re.sub(r'ʹ(.)', r'\1ʹ', word)
+                    word2 = re.sub(r'`(.)', r'\1`', word2)
+                    word2 = re.sub(r'´(.)', r'\1´', word2)
                     data = str(data).replace('\n', ' ')
                     l = re.search(r'<b>]</b>\xa0 (.*?)\.\xa0 (.*?)\.', data)
                     if not l:
