@@ -2,6 +2,9 @@ import json
 import csv
 import unidecode
 import re
+import glob
+from segments.tokenizer import Tokenizer, Profile
+import unicodedata
 
 superscript = {
     'a': 'ᵃ', 'e': 'ᵉ', 'i': 'ᶦ',
@@ -10,6 +13,12 @@ superscript = {
     'z': 'ᶻ', 'gy': 'ᵍʸ', 'h': 'ʰ',
     'ŕ': 'ʳ́', 'ĕ': 'ᵉ̆', 'n': 'ⁿ'
 }
+
+tokenizers = {}
+
+for file in glob.glob("data/ipa/cdial/*.txt"):
+    lang = file.split('/')[-1].split('.')[0]
+    tokenizers[lang] = Tokenizer(file)
 
 with open('data/all.json', 'r') as fin:
     data = json.load(fin)
@@ -29,7 +38,7 @@ with open('cldf/cognates.csv', 'w') as fout, open('cldf/parameters.csv', 'w') as
         write2.writerow([row[0], row[2], row[3], row[4]])
 
 a = set()
-with open('cldf/forms.csv', 'w') as fout, open('data/extensions.csv', 'r') as fin:
+with open('cldf/forms.csv', 'w') as fout, open('errors.txt', 'w') as errors:
     num = 0
     write = csv.writer(fout)
     write.writerow(['ID', 'Language_ID', 'Parameter_ID', 'Form', 'Gloss', 'Native', 'Phonemic', 'Cognateset', 'Description', 'Source'])
@@ -42,7 +51,8 @@ with open('cldf/forms.csv', 'w') as fout, open('data/extensions.csv', 'r') as fi
 
             lang = unidecode.unidecode(lang)
             a.add(lang)
-            for word in form['words']:
+            reference = ''
+            for i, word in enumerate(form['words']):
                 num += 1
                 if lang == 'Indo-Aryan':
                     if word == '': continue
@@ -54,15 +64,50 @@ with open('cldf/forms.csv', 'w') as fout, open('data/extensions.csv', 'r') as fi
                     write.writerow([num, lang, entry, word, desc, '', '', entry, '', 'CDIAL'])
                 else:
                     if word[0] == '': continue
+                    word[0] = word[0].strip('.,')
+                    word[0] = word[0].lower()
+
+                    oldest = unicodedata.normalize('NFD', word[0])
+                    oldest = oldest.replace('̄˘', '̄̆')
+                    oldest = oldest.replace('̆̄', '̄̆')
+                    oldest = oldest.replace('̄̆', '̄̆')
+                    if '̄̆' in oldest:
+                        form['words'].append([oldest.replace('̄̆', '̄'), word[1]])
+                        word[0] = word[0].replace('̄̆', '')
+                    word[0] = unicodedata.normalize('NFC', word[0])
+
                     for i in superscript:
                         word[0] = word[0].replace('ˊ', '́').replace(' --', '-').replace('-- ', '-')
                         word[0] = word[0].replace(f'<superscript>{i}</superscript>', superscript[i])
-                    write.writerow([num, lang, entry, word[0], word[1], '', '', entry, '', 'CDIAL'])
+
+                    if '˚' not in word[0]: reference = word[0]
+                    else:
+                        old = word[0]
+                        if word[0] != '˚':
+                            if word[0][-1] == '˚':
+                                word[0] = re.sub(r'^.*?' + word[0][-2], word[0][:-1], reference)
+                            elif word[0][0] == '˚':
+                                word[0] = re.sub(word[0][1] + r'[^' + word[0][1] + r']*?$', word[0][1:], reference)
+                            if reference == word[0]:
+                                word[0] = old
+
+                    ipa = ''
+                    if lang in tokenizers and '˚' not in word[0]:
+                        ipa = tokenizers[lang](word[0], column='IPA').replace(' ', '').replace('#', ' ')
+                        if '�' in ipa:
+                            if lang == 'S': errors.write(f'{lang} {oldest} {word[0]} {ipa}\n')
+                            ipa = ''
+
+                    write.writerow([num, lang, entry, word[0], word[1], '', ipa, entry, '', 'CDIAL'])
     
-    read = csv.reader(fin)
-    for i, row in enumerate(read):
-        if i == 0: continue
-        write.writerow([f'e{i}', row[0], row[1], row[2], row[3], row[4], row[5], row[1], row[6], row[7]])
+    i = 0
+    for file in glob.glob("data/words/*.csv"):
+        with open(file, 'r') as fin:
+            read = csv.reader(fin)
+            for row in read:
+                if row[1]:
+                    write.writerow([f'e{i}', row[0], row[1], row[2], row[3], row[4], row[5], row[1], row[6], row[7]])
+                    i += 1
 
 print(sorted(list(a)))
 b = set()

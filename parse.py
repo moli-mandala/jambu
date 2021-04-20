@@ -288,11 +288,22 @@ abbrevs = {
     "Yazgh": "Yazghulami (Iranian)",
     "Yghn": "Yaghnobi (Iranian)",
     "Yid": "Yidgha (Iranian)",
+    "OA": "Old Assamese",
+    "OP": "Old Punjabi",
+    "OH": "Old Hindi",
+    "OMarw": "Old Marwari",
+    "OB": "Old Bengali",
+    "OG": "Old Gujarati",
+    "OSi": "Old Sinhala",
+    "OM": "Old Marathi",
+    "OK": "Old Kashmiri",
+    "OMth": "Old Maithili",
+    "OOr": "Old Oriya",
 }
 
 reflexes = defaultdict(list)
 
-regex = r'(' + f'{"|".join(list(abbrevs.keys()))}' + r')\.'
+regex = r'\W(' + f'{"|".join(list(abbrevs.keys()))}' + r')\.'
 
 
 # this is such a big brain regex
@@ -320,7 +331,7 @@ with open("dasa_list.txt", "a") as fout:
                     data[1] = remove_text_between_parens(data[1])
                     matches = list(re.finditer(regex, data[1]))
                     for i in range(len(matches)):
-                        lang = matches[i].group(0)[:-1]
+                        lang = matches[i].group(1)
                         lang_entry = {'lang': lang, 'words': []}
                         word = None
                         if i == len(matches) - 1:
