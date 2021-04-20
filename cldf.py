@@ -35,7 +35,7 @@ with open('cldf/cognates.csv', 'w') as fout, open('cldf/parameters.csv', 'w') as
         write2.writerow([entry, headword, '', data[entry][0]['ref']])
     for row in read:
         write.writerow(row)
-        write2.writerow([row[0], row[2], row[3], row[4]])
+        write2.writerow([row[0], row[2], '', row[3]])
 
 a = set()
 with open('cldf/forms.csv', 'w') as fout, open('errors.txt', 'w') as errors:
@@ -64,8 +64,13 @@ with open('cldf/forms.csv', 'w') as fout, open('errors.txt', 'w') as errors:
                     write.writerow([num, lang, entry, word, desc, '', '', entry, '', 'CDIAL'])
                 else:
                     if word[0] == '': continue
-                    word[0] = word[0].strip('.,')
+                    word[0] = word[0].strip('.,;- ')
+                    word[0] = word[0].replace('<? >', '')
                     word[0] = word[0].lower()
+
+                    for i in superscript:
+                        word[0] = word[0].replace('ˊ', '́').replace(' --', '-').replace('-- ', '-')
+                        word[0] = word[0].replace(f'<superscript>{i}</superscript>', superscript[i])
 
                     oldest = unicodedata.normalize('NFD', word[0])
                     oldest = oldest.replace('̄˘', '̄̆')
@@ -73,12 +78,9 @@ with open('cldf/forms.csv', 'w') as fout, open('errors.txt', 'w') as errors:
                     oldest = oldest.replace('̄̆', '̄̆')
                     if '̄̆' in oldest:
                         form['words'].append([oldest.replace('̄̆', '̄'), word[1]])
-                        word[0] = word[0].replace('̄̆', '')
+                        oldest = oldest.replace('̄̆', '')
+                        word[0] = oldest
                     word[0] = unicodedata.normalize('NFC', word[0])
-
-                    for i in superscript:
-                        word[0] = word[0].replace('ˊ', '́').replace(' --', '-').replace('-- ', '-')
-                        word[0] = word[0].replace(f'<superscript>{i}</superscript>', superscript[i])
 
                     if '˚' not in word[0]: reference = word[0]
                     else:
@@ -95,7 +97,7 @@ with open('cldf/forms.csv', 'w') as fout, open('errors.txt', 'w') as errors:
                     if lang in tokenizers and '˚' not in word[0]:
                         ipa = tokenizers[lang](word[0], column='IPA').replace(' ', '').replace('#', ' ')
                         if '�' in ipa:
-                            if lang == 'S': errors.write(f'{lang} {oldest} {word[0]} {ipa}\n')
+                            if lang == 'M': errors.write(f'{lang} {oldest} {word[0]} {ipa}\n')
                             ipa = ''
 
                     write.writerow([num, lang, entry, word[0], word[1], '', ipa, entry, '', 'CDIAL'])
