@@ -299,11 +299,12 @@ abbrevs = {
     "OK": "Old Kashmiri",
     "OMth": "Old Maithili",
     "OOr": "Old Oriya",
+    "OAw": "Old Awadhi"
 }
 
 reflexes = defaultdict(list)
 
-regex = r'\W(' + f'{"|".join(list(abbrevs.keys()))}' + r')\.'
+regex = r'(?<=[\W\.])(' + f'{"|".join(list(abbrevs.keys()))}' + r')\.'
 
 
 # this is such a big brain regex
@@ -344,6 +345,11 @@ with open("dasa_list.txt", "a") as fout:
                         word = word.replace('--', '–')
                         
                         forms = list(re.finditer(r'(<i>(.*?)</i>|ʻ(.*?)ʼ)', word))
+                        if lang == 'kcch':
+                            if langs:
+                                if langs[-1] == 'S':
+                                    langs.pop()
+
                         langs.append(lang)
                         if len(forms) == 0:
                             continue

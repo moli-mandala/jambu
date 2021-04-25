@@ -54,53 +54,52 @@ with open('cldf/forms.csv', 'w') as fout, open('errors.txt', 'w') as errors:
             reference = ''
             for i, word in enumerate(form['words']):
                 num += 1
+                if word[0] == '': continue
                 if lang == 'Indo-Aryan':
-                    if word == '': continue
                     diffs = re.search(r'ʻ(.*?)ʼ', form['ref'])
                     desc = ''
                     if diffs != None:
                         desc = diffs.groups(2)[0].strip()
-                    word = word.replace('ˊ', '́').replace(' --', '-').replace('-- ', '-')
-                    write.writerow([num, lang, entry, word, desc, '', '', entry, '', 'CDIAL'])
+                    if isinstance(word, str):
+                        word = [word, desc]
+
+                word[0] = word[0].strip('.,;-: ')
+                word[0] = word[0].replace('<? >', '')
+                word[0] = word[0].lower()
+
+                for i in superscript:
+                    word[0] = word[0].replace('ˊ', '́').replace('ˋ', '̀').replace(' -- ', '-')
+                    word[0] = word[0].replace(f'<superscript>{i}</superscript>', superscript[i])
+
+                oldest = unicodedata.normalize('NFD', word[0])
+                oldest = oldest.replace('̄˘', '̄̆')
+                oldest = oldest.replace('̆̄', '̄̆')
+                oldest = oldest.replace('̄̆', '̄̆')
+                if '̄̆' in oldest:
+                    form['words'].append([oldest.replace('̄̆', '̄'), word[1]])
+                    oldest = oldest.replace('̄̆', '')
+                    word[0] = oldest
+                word[0] = unicodedata.normalize('NFC', word[0])
+
+                if '˚' not in word[0]: reference = word[0]
                 else:
-                    if word[0] == '': continue
-                    word[0] = word[0].strip('.,;- ')
-                    word[0] = word[0].replace('<? >', '')
-                    word[0] = word[0].lower()
+                    old = word[0]
+                    if word[0] != '˚':
+                        if word[0][-1] == '˚':
+                            word[0] = re.sub(r'^.*?' + word[0][-2], word[0][:-1], reference)
+                        elif word[0][0] == '˚':
+                            word[0] = re.sub(word[0][1] + r'[^' + word[0][1] + r']*?$', word[0][1:], reference)
+                        if reference == word[0]:
+                            word[0] = old
 
-                    for i in superscript:
-                        word[0] = word[0].replace('ˊ', '́').replace(' --', '-').replace('-- ', '-')
-                        word[0] = word[0].replace(f'<superscript>{i}</superscript>', superscript[i])
+                ipa = ''
+                if lang in tokenizers and '˚' not in word[0]:
+                    ipa = tokenizers[lang](word[0], column='IPA').replace(' ', '').replace('#', ' ')
+                    if '�' in ipa:
+                        if lang in ['A']: errors.write(f'{lang} {oldest} {word[0]} {ipa}\n')
+                        ipa = ''
 
-                    oldest = unicodedata.normalize('NFD', word[0])
-                    oldest = oldest.replace('̄˘', '̄̆')
-                    oldest = oldest.replace('̆̄', '̄̆')
-                    oldest = oldest.replace('̄̆', '̄̆')
-                    if '̄̆' in oldest:
-                        form['words'].append([oldest.replace('̄̆', '̄'), word[1]])
-                        oldest = oldest.replace('̄̆', '')
-                        word[0] = oldest
-                    word[0] = unicodedata.normalize('NFC', word[0])
-
-                    if '˚' not in word[0]: reference = word[0]
-                    else:
-                        old = word[0]
-                        if word[0] != '˚':
-                            if word[0][-1] == '˚':
-                                word[0] = re.sub(r'^.*?' + word[0][-2], word[0][:-1], reference)
-                            elif word[0][0] == '˚':
-                                word[0] = re.sub(word[0][1] + r'[^' + word[0][1] + r']*?$', word[0][1:], reference)
-                            if reference == word[0]:
-                                word[0] = old
-
-                    ipa = ''
-                    if lang in tokenizers and '˚' not in word[0]:
-                        ipa = tokenizers[lang](word[0], column='IPA').replace(' ', '').replace('#', ' ')
-                        if '�' in ipa:
-                            if lang == 'M': errors.write(f'{lang} {oldest} {word[0]} {ipa}\n')
-                            ipa = ''
-
-                    write.writerow([num, lang, entry, word[0], word[1], '', ipa, entry, '', 'CDIAL'])
+                write.writerow([num, lang, entry, word[0], word[1], '', ipa, entry, '', 'CDIAL'])
     
     i = 0
     for file in glob.glob("data/words/*.csv"):
