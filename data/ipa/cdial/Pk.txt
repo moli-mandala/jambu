@@ -1,6 +1,6 @@
 Grapheme	IPA
-ṁ	̃
-ṃ	
+ṁ	ɴ
+ṃ	ɴ
 a	ə
 ā	aː
 i	ɪ
