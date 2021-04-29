@@ -28,6 +28,7 @@ from clld_cognacy_plugin.models import Cognate
 class Variety(CustomModelMixin, common.Language, HasFamilyMixin):
     pk = Column(Integer, ForeignKey('language.pk'), primary_key=True)
     glottocode = Column(Unicode)
+    clade = Column(Unicode)
 
 @implementer(interfaces.IParameter)
 class Concept(CustomModelMixin, common.Parameter):
