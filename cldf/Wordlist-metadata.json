@@ -129,6 +129,15 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
                         "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": ".*?"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "required": false,
+                        "name": "Clade"
                     }
                 ],
                 "primaryKey": [

@@ -63,7 +63,7 @@ def main(args):
     )
 
     print("Languages...")
-    for lang in iteritems(args.cldf, 'LanguageTable', 'id', 'name', 'glottocode', 'longitude', 'latitude'):
+    for lang in iteritems(args.cldf, 'LanguageTable', 'id', 'name', 'glottocode', 'longitude', 'latitude', 'Clade'):
         data.add(
             models.Variety,
             lang['id'],
@@ -72,6 +72,7 @@ def main(args):
             latitude=lang['latitude'],
             longitude=lang['longitude'],
             glottocode=lang['glottocode'],
+            clade=lang['Clade'],
         )
 
     for rec in bibtex.Database.from_file(args.cldf.bibpath, lowercase=True):
