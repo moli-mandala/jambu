@@ -12,10 +12,11 @@ from clld.lib import bibtex
 
 from clld_glottologfamily_plugin.util import load_families
 
+from tqdm import tqdm
 
 import jambu
 from jambu import models
-
+import re
 
 def iteritems(cldf, t, *cols):
     cmap = {cldf[t, col].name: col for col in cols}
@@ -72,7 +73,7 @@ def main(args):
             latitude=lang['latitude'],
             longitude=lang['longitude'],
             glottocode=lang['glottocode'],
-            clade=lang['Clade'],
+            family=lang['Clade'],
         )
 
     for rec in bibtex.Database.from_file(args.cldf.bibpath, lowercase=True):
@@ -93,14 +94,11 @@ def main(args):
 
     counts = collections.defaultdict(set)
     print("Forms...")
-    i = 0
-    for form in iteritems(args.cldf, 'FormTable', 'id', 'form', 'languageReference', 'parameterReference', 'source'):
-        if i % 1000 == 0: print(i)
-        i += 1
+    for form in tqdm(iteritems(args.cldf, 'FormTable', 'id', 'form', 'languageReference', 'parameterReference', 'source')):
         counts[form['parameterReference']].add(form['languageReference'])
 
     print("Params...")
-    for param in iteritems(args.cldf, 'ParameterTable', 'ID', 'Name', 'Concepticon_ID', 'Description'):
+    for param in tqdm(iteritems(args.cldf, 'ParameterTable', 'ID', 'Name', 'Concepticon_ID', 'Description')):
         data.add(
             models.Concept,
             param['ID'],
@@ -111,55 +109,55 @@ def main(args):
         )
 
     print("Forms...")
-    i = 0
-    for form in iteritems(args.cldf, 'FormTable', 'id', 'form', 'languageReference', 'parameterReference', 'source'):
-        if i % 1000 == 0: print(i)
-        i += 1
-        vsid = (form['languageReference'], form['parameterReference'])
-        vs = data['ValueSet'].get(vsid)
-        if not vs:
-            vs = data.add(
-                common.ValueSet,
-                vsid,
-                id='-'.join(vsid),
-                language=data['Variety'][form['languageReference']],
-                parameter=data['Concept'][form['parameterReference']],
-                contribution=contrib,
+    for form in tqdm(iteritems(args.cldf, 'FormTable', 'id', 'form', 'languageReference', 'parameterReference', 'source')):
+        l = re.split(r";|\+", form['parameterReference'])
+        for i, paramref in enumerate(l):
+            if paramref == '?': continue
+            vsid = (form['languageReference'], paramref)
+            vs = data['ValueSet'].get(vsid)
+            if not vs:
+                vs = data.add(
+                    common.ValueSet,
+                    vsid,
+                    id='-'.join(vsid),
+                    language=data['Variety'][form['languageReference']],
+                    parameter=data['Concept'][paramref],
+                    contribution=contrib,
+                )
+                
+            for ref in form.get('source', []):
+                sid, pages = Sources.parse(ref)
+                refs[(vsid, sid)].append(pages)
+                
+            data.add(
+                models.Lexeme,
+                form['id'] + '-' + str(i) if len(l) > 1 else form['id'],
+                id=form['id'] + '-' + str(i) if len(l) > 1 else form['id'],
+                name=form['form'],
+                gloss=form['Gloss'],
+                native=form['Native'],
+                phonemic='/' + form['Phonemic'] + '/' if form['Phonemic'] else None,
+                description=form['Description'],
+                cognateset=form['Cognateset'],
+                valueset=vs,
             )
-            
-        for ref in form.get('source', []):
-            sid, pages = Sources.parse(ref)
-            refs[(vsid, sid)].append(pages)
-            
-        data.add(
-            models.Lexeme,
-            form['id'],
-            id=form['id'],
-            name=form['form'],
-            gloss=form['Gloss'],
-            native=form['Native'],
-            phonemic='/' + form['Phonemic'] + '/' if form['Phonemic'] else None,
-            description=form['Description'],
-            cognateset=form['Cognateset'],
-            valueset=vs,
-        )
 
     print("Refs...")
-    for (vsid, sid), pages in refs.items():
+    for (vsid, sid), pages in tqdm(refs.items()):
         DBSession.add(common.ValueSetReference(
             valueset=data['ValueSet'][vsid],
             source=data['Source'][sid],
             description='; '.join(nfilter(pages))
         ))
 
-    print("Glottolog families...")
-    load_families(
-        Data(),
-        [(l.glottocode, l) for l in data['Variety'].values()],
-        glottolog_repos=args.glottolog,
-        isolates_icon='tcccccc',
-        strict=False,
-    )
+    # print("Glottolog families...")
+    # load_families(
+    #     Data(),
+    #     [(l.glottocode, l) for l in data['Variety'].values()],
+    #     glottolog_repos=args.glottolog,
+    #     isolates_icon='tcccccc',
+    #     strict=False,
+    # )
 
 
 

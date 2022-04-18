@@ -3,7 +3,7 @@ from clld.web import datatables
 from clld.web.datatables.base import LinkCol, Col, LinkToMapCol, IdCol, DetailsRowLinkCol, IntegerIdCol, RefsCol
 
 from clld_glottologfamily_plugin.models import Family
-from clld_glottologfamily_plugin.datatables import FamilyCol
+from clld.web.util.htmllib import HTML
 from clld.web.util.helpers import linked_references
 from clld.db.models.common import Value, ValueSet
 
@@ -19,13 +19,11 @@ class Parameters(datatables.Parameters):
 
 
 class Languages(datatables.Languages):
-    def base_query(self, query):
-        return query.join(Family).options(joinedload(models.Variety.family)).distinct()
 
     def col_defs(self):
         return [
             LinkCol(self, 'name'),
-            FamilyCol(self, 'Family', models.Variety),
+            Col(self, 'family'),
             Col(self,
                 'latitude',
                 sDescription='<small>The geographic latitude</small>'),

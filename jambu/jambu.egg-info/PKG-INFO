@@ -6,7 +6,6 @@ Home-page: UNKNOWN
 Author: 
 Author-email: 
 License: UNKNOWN
-Description: UNKNOWN
 Keywords: web pyramid pylons
 Platform: UNKNOWN
 Classifier: Programming Language :: Python
@@ -15,3 +14,6 @@ Classifier: Topic :: Internet :: WWW/HTTP
 Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
 Provides-Extra: dev
 Provides-Extra: test
+
+UNKNOWN
+

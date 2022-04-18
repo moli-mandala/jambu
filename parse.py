@@ -322,7 +322,10 @@ with open("dasa_list.txt", "a") as fout:
                 if entry.find('b'):
                     lemma = entry.find('b').text
                     number = entry.find('number').text
-                    data = str(entry).replace('\n', '').split('<br/>')
+                    data = str(entry).replace('\n', '')
+                    data = data.replace('</i><at>', '').replace('</at><i>', '').replace('<at>', '<i>').replace('</at>', '</i>')
+                    data = data.replace('</i>(<i>', '').replace('</i>)<i>', '')
+                    data = data.split('<br/>')
 
                     reflexes[number].append({'lang': 'Indo-Aryan', 'words': [lemma], 'ref': data[0]})
                     if (len(data) == 1): continue

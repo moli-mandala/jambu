@@ -34,7 +34,14 @@ colors = {
     "OIA": "E2DFD2",
     "non-IA": "FAF9F6",
     "Nuristani": "FF10F0",
-    "Bhil": "93C572"
+    "Bhil": "93C572",
+    "Halbic": "FF568E",
+    "Brahui": "49796B",
+    "South Dravidian I": "74C365",
+    "South Dravidian II": "98FB98",
+    "Central Dravidian": "29AB87",
+    "North Dravidian": "4B6F44",
+    "Old Dravidian": "#679267"
 }
 
 cognates = []
@@ -70,14 +77,14 @@ class LanguageByFamilyMapMarker(util.LanguageByFamilyMapMarker):
         count = -1
         shape = 'c'
         if IValueSet.providedBy(ctx):
-            c = colors[ctx.language.clade]
-            if ctx.language.clade in ['MIA', 'OIA'] or 'Old' in ctx.language.name:
+            c = colors[ctx.language.family]
+            if ctx.language.family in ['MIA', 'OIA'] or 'Old' in ctx.language.name:
                 shape = 'd'
             return data_url(icon(shape + c))
 
         if ILanguage.providedBy(ctx):
-            c = colors[ctx.clade]
-            if ctx.clade in ['MIA', 'OIA'] or 'Old' in ctx.name:
+            c = colors[ctx.family]
+            if ctx.family in ['MIA', 'OIA'] or 'Old' in ctx.name:
                 shape = 'd'
             return data_url(icon(shape + c))
     

@@ -35,7 +35,7 @@ python parse.py
 python cldf.py
 cd jambu
 pip install -e .
-clld initdb development.ini --glottolog ../glottolog --cldf ../cldf/Wordlist-metadata.json
+clld initdb development.ini --glottolog ~/Downloads/glottolog-glottolog-cldf-6f1558e --cldf ~/Documents/computerscience/jambu-data/cldf/Wordlist-metadata.json
 ```
 
 To test:
