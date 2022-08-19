@@ -1,2 +1,2 @@
-    [paste.app_factory]
-    main = jambu:main
+[paste.app_factory]
+main = jambu:main
