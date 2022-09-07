@@ -44,8 +44,9 @@ A brief overview:
 <p>(<span style="color: red;">▲</span> = partial.)
 <ul>
     <li>Ralph Lilley Turner (1962–1966). <em><a href="https://dsal.uchicago.edu/dictionaries/soas/">A comparative dictionary of the Indo-Aryan languages</a></em>. Oxford University Press.</li>
-    <li>T. Burrow and M. B. Emeneau (1984). <em><a href="https://dsal.uchicago.edu/dictionaries/burrow/">A Dravidian etymological dictionary</a></em>. 2nd ed. Oxford: Clarendon Press.</li>
+    <li>Thomas Burrow and M. B. Emeneau (1984). <em><a href="https://dsal.uchicago.edu/dictionaries/burrow/">A Dravidian etymological dictionary</a></em>. 2nd ed. Oxford: Clarendon Press.</li>
     <li>Liljegren, Henrik (2019). <em><a href="https://dictionaria.clld.org/contributions/palula">Palula dictionary</a></em>. Dictionaria. 1-2700. Jena: Max Planck Institute for the Science of Human History.</li>
+    <li><span style="color: red;">▲</span> Matthew Toulmin (2006). <em>Reconstructing linguistic history in a dialect continuum: The Kamta, Rajbanshi, and Northern Deshi Bangla subgroup of Indo-Aryan</em> (PhD thesis). Australian National University.</li>
     <li>Hukam Chand Patyal (1982). Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies II). <em>Indo-Iranian Journal</em> 24. 289–294. Brill.</li>
     <li>Hukam Chand Patyal (1991). Etymological notes on some Ḍogri words (Indo-Aryan Studies III). <em>Indo-Iranian Journal</em> 34. 123–124. Brill.</li>
     <li>Hukam Chand Patyal (1983). Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies IV). <em>Indo-Iranian Journal</em> 25. 41–49. Brill.</li>
@@ -53,12 +54,12 @@ A brief overview:
     <li>Hukam Chand Patyal (1984). Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies V). <em>Indo-Iranian Journal</em> 27. 121–132. Brill.</li>
     <li>Richard F. Strand (1997–2021). <em><a href="http://nuristan.info/">Nuristân: Hidden Land of the Hindu-Kush</a></em>.</li>
     <li>Sonja Fritz (2002). <em>The Dhivehi language: a descriptive and historical grammar of Maldivian and its dialects</em>.</li>
-    <li><span style="color: red;">▲</span> Matthew Toulmin (2006). <em>Reconstructing linguistic history in a dialect continuum: The Kamta, Rajbanshi, and Northern Deshi Bangla subgroup of Indo-Aryan</em> (PhD thesis). Australian National University.</li>
 </ul>
 
 <b>Etymologised by us</b>
 <ul>
     <li>Aryaman Arora (2020–2021). <a href="https://aryamanarora.github.io/kholosi/Kholosi_Dictionary.pdf"><em>Kholosi Dictionary</em></a>.</li>
     <li><span style="color: red;">▲</span> Murli D. Bhawnani (1979). <a href="https://shodhganga.inflibnet.ac.in/handle/10603/169640"><em>Descriptive analysis of Thari: A dialect of Sindhi language</em></a> (PhD thesis). Deccan College Post Graduate and Research Institute Pune).</li>
+    <li><span style="color: red;">▲</span> Said Al Jahdhami. 2017. Zadjali: The Dying Language. <em>International Journal of Language and Linguistics</em> 4.</li>
     <li>Thomas Jouanne (2014). <em><a href="https://www.duo.uio.no/bitstream/handle/10852/43094/Masteroppgave-Sr-Adia-studier.pdf?sequence=1">A preliminary analysis of the phonological system of the Western Pahārī language of Kvār</a></em> (PhD thesis). University of Oslo.</li>
 </ul>
