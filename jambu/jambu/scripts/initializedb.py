@@ -18,6 +18,40 @@ import jambu
 from jambu import models
 import re
 
+families = [
+    "OIA",
+    "MIA",
+    "Nuristani",
+    "Dardic",
+    "Western Pahari",
+    "Central Pahari",
+    "Eastern Pahari",
+    "Lahndic",
+    "Punjabic",
+    "Sindhic",
+    "Gujaratic",
+    "Bhil",
+    "Rajasthanic",
+    "Marathi-Konkani",
+    "Insular",
+    "Halbic",
+    "Eastern",
+    "Bihari",
+    "Eastern Hindi",
+    "Western Hindi",
+    "Migratory",
+    "Old Dravidian",
+    "South Dravidian I",
+    "South Dravidian II",
+    "Central Dravidian",
+    "North Dravidian",
+    "Brahui",
+    "non-IA",
+]
+order = {x: chr(i + 65) for i, x in enumerate(families)}
+print(order)
+
+
 def iteritems(cldf, t, *cols):
     cmap = {cldf[t, col].name: col for col in cols}
     for item in cldf[t]:
@@ -74,6 +108,7 @@ def main(args):
             longitude=lang['longitude'],
             glottocode=lang['glottocode'],
             family=lang['Clade'],
+            order=order[lang['Clade']] + '_' + lang['name']
         )
 
     for rec in bibtex.Database.from_file(args.cldf.bibpath, lowercase=True):

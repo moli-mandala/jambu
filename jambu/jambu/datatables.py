@@ -4,10 +4,23 @@ from clld.web.datatables.base import LinkCol, Col, LinkToMapCol, IdCol, DetailsR
 
 from clld_glottologfamily_plugin.models import Family
 from clld.web.util.htmllib import HTML
-from clld.web.util.helpers import linked_references
+from clld.web.util.helpers import linked_references, map_marker_img
 from clld.db.models.common import Value, ValueSet
 
 from jambu import models
+
+class FormCol(LinkCol):
+    def order(self):
+        return models.Lexeme.cognateset
+
+class LanguageCol(LinkCol):
+    def order(self):
+        return models.Variety.order
+
+    def format(self, item):
+        return HTML.span(
+            map_marker_img(self.dt.req, self.get_obj(item)),
+            LinkCol.format(self, item))
 
 class Parameters(datatables.Parameters):
     def col_defs(self):
@@ -19,10 +32,9 @@ class Parameters(datatables.Parameters):
 
 
 class Languages(datatables.Languages):
-
     def col_defs(self):
         return [
-            LinkCol(self, 'name'),
+            LanguageCol(self, 'name'),
             Col(self, 'family'),
             Col(self,
                 'latitude',
@@ -52,12 +64,12 @@ class Values(datatables.Values):
     def col_defs(self):
         if self.language:
             return [
-                LinkCol(
+                FormCol(
                     self,
                     'parameter',
                     model_col=models.Concept.name,
                     get_object=lambda i: i.valueset.parameter,
-                    sTitle='Meaning'
+                    sTitle='Etymon'
                 ),
                 LinkCol(self, 'name', sTitle='Form'),
                 Col(self, 'gloss', model_col=models.Lexeme.gloss),
@@ -67,22 +79,20 @@ class Values(datatables.Values):
             ]
         if self.parameter:
             return [
-                LinkCol(
-                    self,
-                    'language',
+                LanguageCol(
+                    self, 'name',
                     model_col=models.Variety.name,
                     get_object=lambda i: i.valueset.language,
                     sTitle='Language'
                 ),
                 LinkCol(self, 'name', sTitle='Form'),
                 Col(self, 'gloss', model_col=models.Lexeme.gloss),
-                Col(self, 'native'),
                 Col(self, 'phonemic'),
                 Col(self, 'description'),
                 RefsCol(self, 'references', get_object=lambda i: i.valueset)
             ]
         return [
-            LinkCol(
+            LanguageCol(
                 self,
                 'language',
                 model_col=models.Variety.name,
@@ -95,10 +105,9 @@ class Values(datatables.Values):
                 'parameter',
                 model_col=models.Concept.name,
                 get_object=lambda i: i.valueset.parameter,
-                sTitle='Meaning'
+                sTitle='Etymon'
             ),
             Col(self, 'gloss', model_col=models.Lexeme.gloss),
-            Col(self, 'native'),
             Col(self, 'phonemic'),
             Col(self, 'description')
         ]
