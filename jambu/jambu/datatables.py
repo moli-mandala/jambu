@@ -75,7 +75,7 @@ class Values(datatables.Values):
                 Col(self, 'gloss', model_col=models.Lexeme.gloss),
                 Col(self, 'native'),
                 Col(self, 'phonemic'),
-                Col(self, 'cognateset')
+                Col(self, 'description')
             ]
         if self.parameter:
             return [

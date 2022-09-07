@@ -16,14 +16,14 @@
     </div>
 </%def>
 
-<h2>Welcome to <i>Jambu</i></h2>
+<h2>Jambu</h2>
 
 <p class="lead">
-    <i>Jambu</i> [i.e. the Indian blackberry, jāmun, <em>Syzygium cumini</em>] is an online etymological dictionary of Indo-Aryan languages, meant to be a modern continuation of Ralph Lilley Turner's <em>Comparative Dictionary of the Indo-Aryan Languages</em> augmented with new data.
+    <i>Jambu</i> [i.e. the Indian blackberry, jāmun, <em>Syzygium cumini</em>] is an online etymological dictionary of South Asian languages, meant to be a modern compilation of Turner's CDIAL and the DED(R), augmented with new data.
 </p>
 
 <p>
-The app is currently in development mode (it's a bit rough around the edges!) but should be fully functional, and the entire CDIAL is incorprated (albeit with some issues due to transcription errors in its parsing at the University of Chicago).
+The dictionary will always be a work-in-progress but is fully functional, and the entire CDIAL and DEDR are incorprated with relatively minor data issues. A few other sources documenting individual languages with reference to those dictionaries have been included, as well as some completely new etymologies posited by us.
 </p>
 
 <p>
@@ -45,7 +45,6 @@ A brief overview:
     <li>Ralph Lilley Turner (1962–1966). <em><a href="https://dsal.uchicago.edu/dictionaries/soas/">A comparative dictionary of the Indo-Aryan languages</a></em>. Oxford University Press.</li>
     <li>Burrow, T., and M. B. Emeneau (1984). <em><a href="https://dsal.uchicago.edu/dictionaries/burrow/">A Dravidian etymological dictionary</a></em>. 2nd ed. Oxford: Clarendon Press.</li>
     <li>Liljegren, Henrik (2019). <em><a href="https://dictionaria.clld.org/contributions/palula">Palula dictionary</a></em>. Dictionaria. 1-2700. Jena: Max Planck Institute for the Science of Human History.</li>
-    <li>Aryaman Arora (2020–2021). <a href="https://aryamanarora.github.io/kholosi/Kholosi_Dictionary.pdf"><em>Kholosi Dictionary</em></a>.</li>
     <li>Hukam Chand Patyal (1982). Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies II). <em>Indo-Iranian Journal</em> 24. 289–294. Brill.</li>
     <li>Hukam Chand Patyal (1991). Etymological notes on some Ḍogri words (Indo-Aryan Studies III). <em>Indo-Iranian Journal</em> 34. 123–124. Brill.</li>
     <li>Hukam Chand Patyal (1983). Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies IV). <em>Indo-Iranian Journal</em> 25. 41–49. Brill.</li>
@@ -53,10 +52,12 @@ A brief overview:
     <li>Hukam Chand Patyal (1984). Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies V). <em>Indo-Iranian Journal</em> 27. 121–132. Brill.</li>
     <li>Richard F. Strand (1997–2021). <em><a href="http://nuristan.info/">Nuristân: Hidden Land of the Hindu-Kush</a></em>.</li>
     <li>Sonja Fritz (2002). <em>The Dhivehi language: a descriptive and historical grammar of Maldivian and its dialects</em>.</li>
-    <li>Thomas Jouanne (2014). <em><a href="https://www.duo.uio.no/bitstream/handle/10852/43094/Masteroppgave-Sr-Adia-studier.pdf?sequence=1">A preliminary analysis of the phonological system of the Western Pahārī language of Kvār</a></em> (PhD thesis). University of Oslo.</li>
 </ul>
 
-<b>Partial</b>
+<b>Etymologised by us</b>
+<p>(<span style="color: red;">▲</span> = partial.)
 <ul>
-    <li>Bhawnani, Murli D. 1979. Descriptive analysis of Thari: A dialect of Sindhi language. (Doctoral dissertation, Deccan College Post Graduate and Research Institute Pune).</li>
+    <li>Aryaman Arora (2020–2021). <a href="https://aryamanarora.github.io/kholosi/Kholosi_Dictionary.pdf"><em>Kholosi Dictionary</em></a>.</li>
+    <li><span style="color: red;">▲</span> Murli D. Bhawnani (1979). <a href="https://shodhganga.inflibnet.ac.in/handle/10603/169640">Descriptive analysis of Thari: A dialect of Sindhi language</a>. (Doctoral dissertation, Deccan College Post Graduate and Research Institute Pune).</li>
+    <li>Thomas Jouanne (2014). <em><a href="https://www.duo.uio.no/bitstream/handle/10852/43094/Masteroppgave-Sr-Adia-studier.pdf?sequence=1">A preliminary analysis of the phonological system of the Western Pahārī language of Kvār</a></em> (PhD thesis). University of Oslo.</li>
 </ul>

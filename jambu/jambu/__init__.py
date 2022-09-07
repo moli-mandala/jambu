@@ -78,13 +78,13 @@ class LanguageByFamilyMapMarker(util.LanguageByFamilyMapMarker):
         shape = 'c'
         if IValueSet.providedBy(ctx):
             c = colors[ctx.language.family]
-            if ctx.language.family in ['MIA', 'OIA'] or 'Old' in ctx.language.name:
+            if ctx.language.family in ['MIA', 'OIA'] or 'Old' in ctx.language.name or 'Proto' in ctx.language.name:
                 shape = 'd'
             return data_url(icon(shape + c))
 
         if ILanguage.providedBy(ctx):
             c = colors[ctx.family]
-            if ctx.family in ['MIA', 'OIA'] or 'Old' in ctx.name:
+            if ctx.family in ['MIA', 'OIA'] or 'Old' in ctx.name or 'Proto' in ctx.name:
                 shape = 'd'
             return data_url(icon(shape + c))
     
