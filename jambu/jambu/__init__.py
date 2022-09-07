@@ -32,7 +32,7 @@ colors = {
     "Migratory": "722F37",
     "MIA": "FFDEAD",
     "OIA": "E2DFD2",
-    "non-IA": "FAF9F6",
+    "Other": "FAF9F6",
     "Nuristani": "FF10F0",
     "Bhil": "93C572",
     "Halbic": "FF568E",
