@@ -5,9 +5,11 @@
 
 <div style="margin-top: 30px;">
     <h2>${ctx.name}</h2>
+    % if ctx.description:
     <p>
         ${ctx.description | n}
     </p>
+    % endif
     % if ctx.etyma:
     <h4>Etymological notes</h4>
     <p>${u.markdown_handle_links(request, ctx.etyma)|n}</p>
