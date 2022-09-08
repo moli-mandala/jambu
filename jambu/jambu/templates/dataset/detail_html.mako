@@ -54,12 +54,14 @@ A brief overview:
     <li>Hukam Chand Patyal (1984). Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies V). <em>Indo-Iranian Journal</em> 27. 121–132. Brill.</li>
     <li>Richard F. Strand (1997–2021). <em><a href="http://nuristan.info/">Nuristân: Hidden Land of the Hindu-Kush</a></em>.</li>
     <li>Sonja Fritz (2002). <em>The Dhivehi language: a descriptive and historical grammar of Maldivian and its dialects</em>.</li>
+    <li><span style="color: red;">▲</span> Srinivasa Varma, Govindaswamy (1970). Vaagri boli, an Indo-Aryan language (PhD thesis). Annamalai University.</li>
 </ul>
 
 <b>Etymologised by us</b>
 <ul>
     <li>Aryaman Arora (2020–2021). <a href="https://aryamanarora.github.io/kholosi/Kholosi_Dictionary.pdf"><em>Kholosi Dictionary</em></a>.</li>
+    <li>Henrik Liljegren (2013). Notes on Kalkoti: A Shina Language with Strong Kohistani Influences. <em>Linguistic Discovery</em> 11. 129-160.</li>
     <li><span style="color: red;">▲</span> Murli D. Bhawnani (1979). <a href="https://shodhganga.inflibnet.ac.in/handle/10603/169640"><em>Descriptive analysis of Thari: A dialect of Sindhi language</em></a> (PhD thesis). Deccan College Post Graduate and Research Institute Pune).</li>
-    <li><span style="color: red;">▲</span> Said Al Jahdhami. 2017. Zadjali: The Dying Language. <em>International Journal of Language and Linguistics</em> 4.</li>
+    <li>Said Al Jahdhami (2017). Zadjali: The Dying Language. <em>International Journal of Language and Linguistics</em> 4.</li>
     <li>Thomas Jouanne (2014). <em><a href="https://www.duo.uio.no/bitstream/handle/10852/43094/Masteroppgave-Sr-Adia-studier.pdf?sequence=1">A preliminary analysis of the phonological system of the Western Pahārī language of Kvār</a></em> (PhD thesis). University of Oslo.</li>
 </ul>
