@@ -140,6 +140,7 @@ def main(args):
             id=param['ID'],
             name='{} [{}]'.format(param['Name'], param['ID']),
             description=param['Description'],
+            etyma=param['Etyma'],
             count=len(counts[param['ID']])
         )
 
