@@ -73,9 +73,9 @@ class Values(datatables.Values):
                 ),
                 LinkCol(self, 'name', sTitle='Form'),
                 Col(self, 'gloss', model_col=models.Lexeme.gloss),
-                Col(self, 'native'),
                 Col(self, 'phonemic'),
-                Col(self, 'description')
+                Col(self, 'description'),
+                RefsCol(self, 'references', get_object=lambda i: i.valueset)
             ]
         if self.parameter:
             return [

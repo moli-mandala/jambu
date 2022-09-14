@@ -10,6 +10,7 @@ jambu/datatables.py
 jambu/interfaces.py
 jambu/maps.py
 jambu/models.py
+jambu/util.py
 jambu/views.py
 jambu.egg-info/PKG-INFO
 jambu.egg-info/SOURCES.txt
