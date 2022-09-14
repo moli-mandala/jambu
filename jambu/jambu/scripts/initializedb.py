@@ -10,8 +10,6 @@ from clld.db.meta import DBSession
 from clld.db.models import common
 from clld.lib import bibtex
 
-from clld_glottologfamily_plugin.util import load_families
-
 from tqdm import tqdm
 
 import jambu
