@@ -1,3 +1,4 @@
 jambu/db.sqlite filter=lfs diff=lfs merge=lfs -text
+db.sqlite !text !filter !merge !diff
 *.sqlite filter=lfs diff=lfs merge=lfs -text
 jambu/db.sqlite !text !filter !merge !diff
