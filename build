@@ -1,0 +1,4 @@
+#!/bin/bash
+cd jambu
+pip install -e .
+clld initdb development.ini --glottolog . --cldf ../../data/cldf/Wordlist-metadata.json
