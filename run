@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone -–depth 1 https://github.com/moli-mandala/data.git
+git clone --depth 1 https://github.com/moli-mandala/data.git
 cd jambu
 pip install -e .
 clld initdb development.ini --glottolog . --cldf ../data/cldf/Wordlist-metadata.json
