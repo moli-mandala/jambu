@@ -24,8 +24,6 @@ Check the dataset front page.
 You probably don't need to do this since I commit the SQLite database directly to the repo. These instructions are for myself.
 
 ```bash
-python parse.py
-python cldf.py
 cd jambu
 pip install -e .
 clld initdb development.ini --glottolog . --cldf ../../data/cldf/Wordlist-metadata.json
