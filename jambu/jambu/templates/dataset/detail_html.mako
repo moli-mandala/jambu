@@ -45,7 +45,7 @@ A brief overview:
 <ul>
     <li>Ralph Lilley Turner (1962–1966). <em><a href="https://dsal.uchicago.edu/dictionaries/soas/">A comparative dictionary of the Indo-Aryan languages</a></em>. Oxford University Press.</li>
     <li>Thomas Burrow and M. B. Emeneau (1984). <em><a href="https://dsal.uchicago.edu/dictionaries/burrow/">A Dravidian etymological dictionary</a></em>. 2nd ed. Oxford: Clarendon Press.</li>
-    <li>Liljegren, Henrik (2019). <em><a href="https://dictionaria.clld.org/contributions/palula">Palula dictionary</a></em>. Dictionaria. 1-2700. Jena: Max Planck Institute for the Science of Human History.</li>
+    <li>Henrik Liljegren (2019). <em><a href="https://dictionaria.clld.org/contributions/palula">Palula dictionary</a></em>. Dictionaria. 1-2700. Jena: Max Planck Institute for the Science of Human History.</li>
     <li><span style="color: red;">▲</span> Matthew Toulmin (2006). <em>Reconstructing linguistic history in a dialect continuum: The Kamta, Rajbanshi, and Northern Deshi Bangla subgroup of Indo-Aryan</em> (PhD thesis). Australian National University.</li>
     <li>Hukam Chand Patyal (1982). Etymological notes on some Maṇḍyāḷī words (Indo-Aryan Studies II). <em>Indo-Iranian Journal</em> 24. 289–294. Brill.</li>
     <li>Hukam Chand Patyal (1991). Etymological notes on some Ḍogri words (Indo-Aryan Studies III). <em>Indo-Iranian Journal</em> 34. 123–124. Brill.</li>
@@ -55,6 +55,7 @@ A brief overview:
     <li>Richard F. Strand (1997–2021). <em><a href="http://nuristan.info/">Nuristân: Hidden Land of the Hindu-Kush</a></em>.</li>
     <li>Sonja Fritz (2002). <em>The Dhivehi language: a descriptive and historical grammar of Maldivian and its dialects</em>.</li>
     <li><span style="color: red;">▲</span> Srinivasa Varma, Govindaswamy (1970). Vaagri boli, an Indo-Aryan language (PhD thesis). Annamalai University.</li>
+    <li>Felix Rau (2019). Munda cognate set with proto-Munda reconstructions.</li>
 </ul>
 
 <b>Etymologised by us</b>
