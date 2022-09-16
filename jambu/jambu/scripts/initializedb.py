@@ -49,6 +49,7 @@ families = [
     "Central Dravidian",
     "North Dravidian",
     "Brahui",
+    "Munda",
     "Other",
 ]
 order = {x: chr(i + 65) for i, x in enumerate(families)}
@@ -183,11 +184,14 @@ def main(args):
 
     print("Refs...")
     for (vsid, sid), pages in tqdm(refs.items()):
-        DBSession.add(common.ValueSetReference(
-            valueset=data['ValueSet'][vsid],
-            source=data['Source'][sid],
-            description='; '.join(nfilter(pages))
-        ))
+        if sid not in data['Source']:
+            print(sid)
+        else:
+            DBSession.add(common.ValueSetReference(
+                valueset=data['ValueSet'][vsid],
+                source=data['Source'][sid],
+                description='; '.join(nfilter(pages))
+            ))
 
     # print("Glottolog families...")
     # load_families(
