@@ -1,3 +1,4 @@
 glottolog
 __pycache__
 .DS_Store
+jambu/db.sqlite
