@@ -1,4 +1,4 @@
 #!/bin/bash
 cd jambu
-curl -L https://github.com/moli-mandala/data/releases/download/v1.2/db.sqlite -o db.sqlite
+curl -L https://github.com/moli-mandala/data/releases/latest/download/db.sqlite -o db.sqlite
 python main.py
