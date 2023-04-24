@@ -77,6 +77,13 @@ class Values(datatables.Values):
                     get_object=lambda i: i.valueset.parameter,
                     sTitle='Etymon'
                 ),
+                LanguageCol(
+                    self,
+                    'language',
+                    model_col=Concept.name,
+                    get_object=lambda i: i.valueset.parameter.language,
+                    sTitle='Source'
+                ),
                 LinkCol(self, 'name', sTitle='Form'),
                 Col(self, 'gloss', model_col=Lexeme.gloss),
                 Col(self, 'phonemic'),
@@ -106,6 +113,13 @@ class Values(datatables.Values):
                 sTitle='Language'
             ),
             LinkCol(self, 'name', sTitle='Form'),
+            LanguageCol(
+                self,
+                'language',
+                model_col=Concept.name,
+                get_object=lambda i: i.valueset.parameter.language,
+                sTitle='Source'
+            ),
             LinkCol(
                 self,
                 'parameter',
