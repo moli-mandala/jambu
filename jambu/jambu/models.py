@@ -34,7 +34,8 @@ class Variety(CustomModelMixin, common.Language, HasFamilyMixin):
 @implementer(interfaces.IParameter)
 class Concept(CustomModelMixin, common.Parameter):
     pk = Column(Integer, ForeignKey('parameter.pk'), primary_key=True)
-    language = Column(Integer)
+    language_pk = Column(Integer, ForeignKey('language.pk'))
+    language = relationship(Variety, backref=backref('concept'))
     description = Column(Unicode)
     etyma = Column(Unicode)
     count = Column(Integer)

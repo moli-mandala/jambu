@@ -26,6 +26,12 @@ class Parameters(datatables.Parameters):
     def col_defs(self):
         return [
             IntegerIdCol(self, 'count'),
+            LanguageCol(
+                self, 'name',
+                model_col=models.Variety.name,
+                get_object=lambda i: i.language,
+                sTitle='Language'
+            ),
             LinkCol(self, 'name'),
             Col(self, 'count', model_col=models.Concept.count)
         ]

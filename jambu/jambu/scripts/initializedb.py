@@ -133,7 +133,7 @@ def main(args):
             param['ID'],
             id=param['ID'],
             name='{} [{}]'.format(param['Name'], param['ID']),
-            language=param['Language_ID'],
+            language=data['Variety'][param['Language_ID']],
             description=param['Description'],
             etyma=param['Etyma'],
             count=len(counts[param['ID']])
