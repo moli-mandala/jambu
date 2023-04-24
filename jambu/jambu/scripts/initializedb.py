@@ -121,29 +121,19 @@ def main(args):
 
     refs = collections.defaultdict(list)
 
-    print("Cognates...")
-    for cognate in iteritems(args.cldf, 'CognateTable'):
-        # print(cognate)
-        data.add(
-            models.Cognate_,
-            cognate['Cognateset_ID'],
-            name=cognate['Form'],
-            language=cognate['Language_ID'],
-            description=cognate['Description']
-        )
-
     counts = collections.defaultdict(set)
     print("Forms...")
     for form in tqdm(iteritems(args.cldf, 'FormTable', 'id', 'form', 'languageReference', 'parameterReference', 'source')):
         counts[form['parameterReference']].add(form['languageReference'])
 
     print("Params...")
-    for param in tqdm(iteritems(args.cldf, 'ParameterTable', 'ID', 'Name', 'Concepticon_ID', 'Description')):
+    for param in tqdm(iteritems(args.cldf, 'ParameterTable', 'ID', 'Name', 'Language_ID', 'Description')):
         data.add(
             models.Concept,
             param['ID'],
             id=param['ID'],
             name='{} [{}]'.format(param['Name'], param['ID']),
+            language=param['Language_ID'],
             description=param['Description'],
             etyma=param['Etyma'],
             count=len(counts[param['ID']])

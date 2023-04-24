@@ -34,7 +34,7 @@ class Variety(CustomModelMixin, common.Language, HasFamilyMixin):
 @implementer(interfaces.IParameter)
 class Concept(CustomModelMixin, common.Parameter):
     pk = Column(Integer, ForeignKey('parameter.pk'), primary_key=True)
-    concepticon_id = Column(Unicode)
+    language = Column(Integer)
     description = Column(Unicode)
     etyma = Column(Unicode)
     count = Column(Integer)
@@ -46,9 +46,3 @@ class Lexeme(CustomModelMixin, common.Value):
     phonemic = Column(Unicode)
     description = Column(Unicode)
     cognateset = Column(Integer)
-
-class Cognate_(CustomModelMixin, Cognate):
-    pk = Column(Integer, ForeignKey('cognate.pk'), primary_key=True)
-    name = Column(Unicode)
-    language = Column(Integer)
-    description = Column(Unicode)
