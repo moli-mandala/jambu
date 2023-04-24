@@ -4,7 +4,7 @@
 <%block name="title">${_('Parameter')} ${ctx.name}</%block>
 
 <div style="margin-top: 30px;">
-    <h2>${ctx.name}</h2>
+    <h2><span>${h.map_marker_img(request, ctx.language)} ${h.link(request, ctx.language)}</span> ${ctx.name}</h2>
     % if ctx.description:
     <p>
         ${ctx.description | n}
