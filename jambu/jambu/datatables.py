@@ -1,21 +1,21 @@
 from sqlalchemy.orm import joinedload
 from clld.web import datatables
-from clld.web.datatables.base import LinkCol, Col, LinkToMapCol, IdCol, DetailsRowLinkCol, IntegerIdCol, RefsCol
+from clld.web.datatables.base import LinkCol, Col, LinkToMapCol, IdCol, DetailsRowLinkCol, IntegerIdCol, RefsCol, DataTable
 
 from clld_glottologfamily_plugin.models import Family
 from clld.web.util.htmllib import HTML
 from clld.web.util.helpers import linked_references, map_marker_img
 from clld.db.models.common import Value, ValueSet
 
-from jambu import models
+from jambu.models import Variety, Concept, Lexeme
 
 class FormCol(LinkCol):
     def order(self):
-        return models.Lexeme.cognateset
+        return Lexeme.cognateset
 
 class LanguageCol(LinkCol):
     def order(self):
-        return models.Variety.order
+        return Variety.order
 
     def format(self, item):
         return HTML.span(
@@ -28,12 +28,12 @@ class Parameters(datatables.Parameters):
             IntegerIdCol(self, 'count'),
             LanguageCol(
                 self, 'name',
-                model_col=models.Variety.name,
+                model_col=Variety.name,
                 get_object=lambda i: i.language,
                 sTitle='Language'
             ),
             LinkCol(self, 'name'),
-            Col(self, 'count', model_col=models.Concept.count)
+            Col(self, 'count', model_col=Concept.count)
         ]
 
 
@@ -73,12 +73,12 @@ class Values(datatables.Values):
                 FormCol(
                     self,
                     'parameter',
-                    model_col=models.Concept.name,
+                    model_col=Concept.name,
                     get_object=lambda i: i.valueset.parameter,
                     sTitle='Etymon'
                 ),
                 LinkCol(self, 'name', sTitle='Form'),
-                Col(self, 'gloss', model_col=models.Lexeme.gloss),
+                Col(self, 'gloss', model_col=Lexeme.gloss),
                 Col(self, 'phonemic'),
                 Col(self, 'description'),
                 RefsCol(self, 'references', get_object=lambda i: i.valueset)
@@ -87,12 +87,12 @@ class Values(datatables.Values):
             return [
                 LanguageCol(
                     self, 'name',
-                    model_col=models.Variety.name,
+                    model_col=Variety.name,
                     get_object=lambda i: i.valueset.language,
                     sTitle='Language'
                 ),
                 LinkCol(self, 'name', sTitle='Form'),
-                Col(self, 'gloss', model_col=models.Lexeme.gloss),
+                Col(self, 'gloss', model_col=Lexeme.gloss),
                 Col(self, 'phonemic'),
                 Col(self, 'description'),
                 RefsCol(self, 'references', get_object=lambda i: i.valueset)
@@ -101,7 +101,7 @@ class Values(datatables.Values):
             LanguageCol(
                 self,
                 'language',
-                model_col=models.Variety.name,
+                model_col=Variety.name,
                 get_object=lambda i: i.valueset.language,
                 sTitle='Language'
             ),
@@ -109,11 +109,11 @@ class Values(datatables.Values):
             LinkCol(
                 self,
                 'parameter',
-                model_col=models.Concept.name,
+                model_col=Concept.name,
                 get_object=lambda i: i.valueset.parameter,
                 sTitle='Etymon'
             ),
-            Col(self, 'gloss', model_col=models.Lexeme.gloss),
+            Col(self, 'gloss', model_col=Lexeme.gloss),
             Col(self, 'phonemic'),
             Col(self, 'description')
         ]

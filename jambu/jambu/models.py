@@ -8,13 +8,13 @@ from sqlalchemy import (
     ForeignKey,
     UniqueConstraint,
 )
-from sqlalchemy.orm import relationship, backref
+from sqlalchemy.orm import relationship, backref, joinedload
 from sqlalchemy.ext.declarative import declared_attr
 from sqlalchemy.ext.hybrid import hybrid_property
 
 from clld import interfaces
 from clld.db.meta import Base, CustomModelMixin
-from clld.db.models import common
+from clld.db.models import common, HasSourceNotNullMixin, PolymorphicBaseMixin, IdNameDescriptionMixin, HasDataMixin, HasFilesMixin, HasSourceMixin
 
 from clld_glottologfamily_plugin.models import HasFamilyMixin
 from clld_cognacy_plugin.models import Cognate
@@ -40,6 +40,7 @@ class Concept(CustomModelMixin, common.Parameter):
     etyma = Column(Unicode)
     count = Column(Integer)
 
+@implementer(interfaces.IValue)
 class Lexeme(CustomModelMixin, common.Value):
     pk = Column(Integer, ForeignKey('value.pk'), primary_key=True)
     gloss = Column(Unicode)

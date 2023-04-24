@@ -140,11 +140,15 @@ def main(args):
         )
 
     print("Forms...")
+    contrib_id = 1
     for form in tqdm(iteritems(args.cldf, 'FormTable', 'id', 'form', 'languageReference', 'parameterReference', 'source')):
         l = re.split(r";|\+", form['parameterReference'])
         for i, paramref in enumerate(l):
+            contrib = data.add(
+                common.Contribution, contrib_id, id=str(contrib_id), name=str(contrib_id))
+            contrib_id += 1
             if paramref == '?': continue
-            vsid = (form['languageReference'], paramref)
+            vsid = (form['languageReference'], paramref, form['id'])
             vs = data['ValueSet'].get(vsid)
             if not vs:
                 vs = data.add(
