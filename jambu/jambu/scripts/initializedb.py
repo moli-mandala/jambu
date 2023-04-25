@@ -188,15 +188,6 @@ def main(args):
                 description='; '.join(nfilter(pages))
             ))
 
-    # print("Glottolog families...")
-    # load_families(
-    #     Data(),
-    #     [(l.glottocode, l) for l in data['Variety'].values()],
-    #     glottolog_repos=args.glottolog,
-    #     isolates_icon='tcccccc',
-    #     strict=False,
-    # )
-
 
 
 def prime_cache(args):
