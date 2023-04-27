@@ -80,7 +80,7 @@ class Values(datatables.Values):
                 LanguageCol(
                     self,
                     'language',
-                    model_col=Concept.name,
+                    model_col=Variety.name,
                     get_object=lambda i: i.valueset.parameter.language,
                     sTitle='Source'
                 ),
@@ -116,7 +116,7 @@ class Values(datatables.Values):
             LanguageCol(
                 self,
                 'language',
-                model_col=Concept.name,
+                model_col=Variety.name,
                 get_object=lambda i: i.valueset.parameter.language,
                 sTitle='Source'
             ),
