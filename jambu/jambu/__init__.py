@@ -49,7 +49,8 @@ colors = {
     "North Dravidian": "4B6F44",
     "Old Dravidian": "679267",
     "Munda": "00ffd0",
-    "Burushaski": "f3ff05"
+    "Burushaski": "f3ff05",
+    "Nihali": "ff9a00"
 }
 
 cognates = []

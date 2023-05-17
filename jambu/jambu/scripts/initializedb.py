@@ -51,6 +51,7 @@ families = [
     "Brahui",
     "Munda",
     "Burushaski",
+    "Nihali",
     "Other",
 ]
 order = {x: chr(i + 65) for i, x in enumerate(families)}

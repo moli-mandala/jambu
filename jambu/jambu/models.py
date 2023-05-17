@@ -19,7 +19,6 @@ from clld.db.models import common, HasSourceNotNullMixin, PolymorphicBaseMixin, 
 from clld_glottologfamily_plugin.models import HasFamilyMixin
 from clld_cognacy_plugin.models import Cognate
 
-
 #-----------------------------------------------------------------------------
 # specialized common mapper classes
 #-----------------------------------------------------------------------------
